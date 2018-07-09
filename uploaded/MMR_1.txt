@@ -1,0 +1,532 @@
+Model                 : LEF-12
+Version               : 2.20
+Serial No.            : ZBE1107
+Date                  : 2015/02/03 05:21
+IP Address            : 192.168.000.006
+Subnet Mask           : 255.255.255.000
+Gateway Address       : 000.000.000.000
+MAC Address           : 00:40:AB:01:0B:83
+Ink type              : ECO-UV CMYKGlW
+Ink remain(1-6)       :  40/  2/ 19/ 52/ 51/ 51
+Head Temperature      : 29C /  84.2F
+Ambience Temperature  : 29C /  84.2F
+Empty mode            : Stop
+Clearance Mode        : RE-ADJUST
+Full width S          : FULL
+Print continue        : Enable
+Length unit           : mm
+Temperature unit      : C
+Menu language         : English
+Mist fan power (F/R)  : LOW/ HIGH
+Sleep                 : Enable
+Sleep interval        :  30 min
+Periodic cleaning     :  NONE  
+Preset name           : PIC0LE         
+Set Position Type     : LOWER RIGHT
+Full width S          : FULL
+Print continue        : Enable
+Height                :  96.9 mm
+Start Position (Scan) :   0.0 mm
+               (Feed) :   0.0 mm
+Print Area (Width)    : 301.3 mm
+           (Length)   : 280.0 mm
+Preset name           : CD             
+Set Position Type     : LOWER RIGHT
+Full width S          : FULL
+Print continue        : Enable
+Height                :  96.5 mm
+Start Position (Scan) :   0.0 mm
+               (Feed) :   0.0 mm
+Print Area (Width)    : 301.3 mm
+           (Length)   : 280.0 mm
+Preset name           : CANETA         
+Set Position Type     : LOWER RIGHT
+Full width S          : FULL
+Print continue        : Enable
+Height                :  88.2 mm
+Start Position (Scan) :   0.0 mm
+               (Feed) :   0.0 mm
+Print Area (Width)    : 300.0 mm
+           (Length)   : 280.0 mm
+Preset name           : PRESETTING4
+Set Position Type     : LOWER RIGHT
+Full width S          : FULL
+Print continue        : Disable
+Height                :   0.0 mm
+Start Position (Scan) :   0.0 mm
+               (Feed) :   0.0 mm
+Print Area (Width)    : 305.0 mm
+           (Length)   : 280.0 mm
+Preset name           : PRESETTING5
+Set Position Type     : LOWER RIGHT
+Full width S          : FULL
+Print continue        : Disable
+Height                :   0.0 mm
+Start Position (Scan) :   0.0 mm
+               (Feed) :   0.0 mm
+Print Area (Width)    : 305.0 mm
+           (Length)   : 280.0 mm
+Preset name           : PRESETTING6
+Set Position Type     : LOWER RIGHT
+Full width S          : FULL
+Print continue        : Disable
+Height                :   0.0 mm
+Start Position (Scan) :   0.0 mm
+               (Feed) :   0.0 mm
+Print Area (Width)    : 305.0 mm
+           (Length)   : 280.0 mm
+Preset name           : PRESETTING7
+Set Position Type     : LOWER RIGHT
+Full width S          : FULL
+Print continue        : Disable
+Height                :   0.0 mm
+Start Position (Scan) :   0.0 mm
+               (Feed) :   0.0 mm
+Print Area (Width)    : 305.0 mm
+           (Length)   : 280.0 mm
+Preset name           : PRESETTING8
+Set Position Type     : LOWER RIGHT
+Full width S          : FULL
+Print continue        : Disable
+Height                :   0.0 mm
+Start Position (Scan) :   0.0 mm
+               (Feed) :   0.0 mm
+Print Area (Width)    : 305.0 mm
+           (Length)   : 280.0 mm
+Head rank H1          : 72X3B40RWTXWWUU ............ 00E..E
+          H2          : 70T3735SSTVWWTU ............ 00M..E
+          H3          : 74U3C3ARSRXWXQV ............ 30D..E
+                      :  H1     H2     H3   
+Head hori.(DT1)       :  -4.5          +3   
+          (DT3)       :  -4            +2   
+          (DT6)       :  -4.5          +3   
+          (DT8)       :  -4            +2   
+Dip SW                : 1000
+System SW page( 1- 4) : 00000000 00000000 00000010 00000000 
+System SW page( 5- 8) : 00000000 00000000 00000000 00000000 
+System SW page( 9-12) : 00000000 00000000 00000000 00000000 
+System SW page(13-16) : 00000000 00000000 00000000 00000001 
+Limit position        :      16.5 mm
+Maximum position      :     635.6 mm
+Calibration default   :      0.00 %
+Encoder position(L)   :     457.5 mm
+Encoder position(R)   :     152.5 mm
+Maintenance request   : NONE
+Booter version        : 1.20
+Battery               :   Charged
+Periodic CL. degree   : LIGHT
+Drain liquid volume   : 371.6 cc
+Standard head         : 2
+Flushing pos adjust   : -1.90 mm
+Marker pos adjust S   : +0.4 mm
+Marker pos adjust F   : +0.7 mm
+Print Area adjust S   : -0.3 mm
+Print Area adjust F   : -0.9 mm
+Model                  : LEF-12
+Version                : 2.20
+Serial No.             : ZBE1107
+Date                   : 2015/02/03 05:21
+==== Motor group ====
+Motor scan   (trip/total [clear]):        215/        215 hours [0]
+Motor feed   (trip/total [clear]):        145/        145 hours [0]
+Motor height (trip/total [clear]):          5/          5 hours [0]
+Pump Times A (trip/total [clear]):     56,049/     56,049 times [0]
+Pump Times B (trip/total [clear]):     51,723/     51,723 times [0]
+Pump TimesCIR(trip/total [clear]):      2,469/      2,469 times [0]
+==== Head group ====
+Shot Cnt.  1 (trip/total [clear]):    157,835/    157,835 K times/nozzle [0]
+Shot Cnt.  2 (trip/total [clear]):    131,712/    131,712 K times/nozzle [0]
+Shot Cnt.  3 (trip/total [clear]):     96,303/    362,328 K times/nozzle [1]
+Shot Cnt.  4 (trip/total [clear]):    249,660/    793,910 K times/nozzle [1]
+Shot Cnt.  5 (trip/total [clear]):    271,245/    852,322 K times/nozzle [1]
+Shot Cnt.  6 (trip/total [clear]):    134,194/    476,673 K times/nozzle [1]
+                       :     H1     H2     H3
+Wiping count for head  :    914    440    440 times
+Rubbing count for head :     25     31     31 times
+Headrank set count     :      0      2      1 times
+Auto cleaning count    :    590    166    166 times
+Normal cleaning count  :      4      6      6 times
+Medium cleaning count  :      2      6      6 times
+Powerful cleaning count:      4      6      6 times
+Ink renewal            :      0      0      0 times
+==== Maintenance group ====
+Maintenance Count      :     30 times
+Total time             :    437 hours
+Printing time          :     20 hours
+==== Wiper group ====
+Wiping count           :      0 times
+Rubbing count          :     87 times
+Wiper replace count    :      0 times
+==== Print group ====
+Printing time          :         589 hours
+Print pages            :       7,036 pages
+==== Ink group ====
+Cartridge change(1-6)  :      4      4      4      4      2      3 times
+Change ink type        :           0 times
+Ink Discharge 1        :     17 times
+Ink Discharge 2        :      6 times
+Ink Discharge 3        :     10 times
+==== Error group ====
+Service call count     :      3 times
+Service call history   : 0230 0231 0230 **** ****
+Motor error  (scan)    :     21 times
+Low temperature error  :      0 times
+High temperature error :      2 times
+Emergency capping      :      1 times
+Start uncapped         :     10 times
+==== System group ====
+Power on count         :  1,706 times
+Power on time          :  1,019 hours
+Sleep time             :    318 hours
+Peck used count        :      0 times
+Net fault count(pon)   :      0 times
+Net fault count(cfg)   :      0 times
+==== UV Lamp group ====
+UV Lamp On Time        :      13,993 min  
+UV Lamp On count       :   1,393,055 times
+==== Fan group ====
+Mist Fan Front time    :      0 hours
+Mist Fan Rear time     :      0 hours
+Filter replace count   :      1 times
+
+Model                  : LEF-12
+Version                : 2.20
+Serial No.             : ZBE1107
+No:          SERIAL/  INK TYPE/  CAP./LOT No/   CONSUM./           TIME/INS./    FLAG
+ 1:14c1ce67060000e0/     EUV-C/ 200cc/4701B / 119.032cc/0y069d05h59m06s/   2/00000000
+ 2:144c34690600004e/     EUV-M/ 200cc/4528B / 196.984cc/0y069d05h58m32s/   2/00000000
+ 3:14433b76060000a7/     EUV-Y/ 200cc/4527B / 162.176cc/0y069d05h57m20s/   2/00000000
+ 4:14e524760600005a/     EUV-K/ 200cc/4529B /  95.224cc/0y069d05h57m18s/   3/00000000
+ 5:145698760600006a/    EUV-Gl/ 200cc/4526B /  97.591cc/0y069d05h57m14s/   2/00000000
+ 6:14c42a6a06000053/     EUV-W/ 200cc/4704B /  97.785cc/0y069d05h57m09s/   2/00000000
+Model                  : LEF-12
+Version                : 2.20
+Serial No.             : ZBE1107
+Date                   : 2015/02/03 05:21
+Last event             : 50107
++--------+-----+----------------+------------------------------------+
+ Date     Time  Event            Information
++--------+-----+----------------+------------------------------------+
+ 15/02/03 05:20 Temperature      29 C
+ 15/02/03 05:20 Sub power off    
+ 15/02/03 05:19 Sub power on     Service mode
+ 15/02/03 05:19 Temperature      29 C
+ 15/02/03 05:19 Sub power off    
+ 15/02/03 05:12 Cancel done      
+ 15/02/03 05:12 Cancel start     User cancel
+ 15/02/03 05:02 Job done         
+ 15/02/03 05:02 Print done       
+ 15/02/03 04:52 Print start      
+ 15/02/03 04:52 Job start        31 C 
+ 15/02/03 04:47 Setup done       W:186.6mm L:128.8mm H:98.1mm
+ 15/02/03 04:35 Sub power on     Normal
+ 15/02/03 04:35 Temperature      28 C
+ 15/02/03 04:35 Sub power off    
+ 15/02/03 04:14 Sub power on     Service mode
+ 15/02/03 04:14 Main power on    Normal
+ 15/02/03 04:14 Temperature      26 C
+ 15/02/03 03:38 Temperature      27 C
+ 15/02/03 03:38 Sub power off    
+ 15/02/03 03:35 Job done         
+ 15/02/03 03:35 Print done       
+ 15/02/03 03:33 Print start      
+ 15/02/03 03:33 Job start        30 C Testpattern
+ 15/02/03 03:30 Cleaning         Medium cleaning
+ 15/02/03 03:29 Setup done       W:280.4mm L:193.5mm H:96.3mm
+ 15/02/03 03:25 Sub power on     Service mode
+ 15/02/03 03:25 Main power on    Normal
+ 15/02/03 03:25 Temperature      25 C
+ 15/02/03 02:21 Temperature      28 C
+ 15/02/03 02:21 Sub power off    
+ 15/02/03 02:10 User setting     
+ 15/02/03 02:02 Cartridge change No.2
+ 15/02/03 02:02 Cartridge change No.3
+ 15/02/03 02:02 Cartridge change No.4
+ 15/02/03 02:02 Cartridge change No.5
+ 15/02/03 02:01 Cartridge change No.6
+ 15/02/03 02:01 Cartridge change No.1
+ 15/02/03 01:58 Sub power on     Normal
+ 15/02/03 01:58 Temperature      27 C
+ 15/02/03 01:58 Sub power off    
+ 15/02/03 01:51 Sub power on     Service mode
+ 15/02/03 01:51 Main power on    Normal
+ 15/02/03 01:51 Temperature      25 C
+ 15/02/02 21:13 Temperature      30 C
+ 15/02/02 21:13 Sub power off    
+ 15/02/02 21:12 Sub power on     Service mode
+ 15/02/02 21:11 Temperature      30 C
+ 15/02/02 21:11 Sub power off    
+ 15/02/02 21:11 User setting     
+ 15/02/02 21:00 Sub power on     Service mode
+ 15/02/02 20:54 Temperature      30 C
+ 15/02/02 20:54 Sub power off    
+ 15/02/02 20:48 Job done         
+ 15/02/02 20:48 Print done       
+ 15/02/02 20:48 Print start      
+ 15/02/02 20:48 Job start        33 C Testpattern
+ 15/02/02 20:47 Setup done       W:280.4mm L:193.5mm H:96.3mm
+ 15/02/02 20:39 Job done         
+ 15/02/02 20:39 Print done       
+ 15/02/02 20:37 Temperature      33 C
+ 15/02/02 20:34 Print start      
+ 15/02/02 20:34 Job start        33 C 
+ 15/02/02 20:34 Setup done       W:305.0mm L:280.0mm H:96.3mm
+ 15/02/02 20:33 Cancel done      
+ 15/02/02 20:32 Cancel start     Crash avoidance
+ 15/02/02 20:32 Job done         
+ 15/02/02 20:32 Print done       
+ 15/02/02 20:29 Print start      
+ 15/02/02 20:29 Job start        32 C 
+ 15/02/02 20:29 Setup done       W:305.0mm L:280.0mm H:96.3mm
+ 15/02/02 20:27 Cancel done      
+ 15/02/02 20:25 Cancel start     Crash avoidance
+ 15/02/02 20:25 Job done         
+ 15/02/02 20:25 Print done       
+ 15/02/02 20:20 Print start      
+ 15/02/02 20:20 Job start        32 C 
+ 15/02/02 20:20 Setup done       W:305.0mm L:280.0mm H:96.3mm
+ 15/02/02 20:18 Cancel done      
+ 15/02/02 20:17 Job done         
+ 15/02/02 20:17 Cancel start     Crash avoidance
+ 15/02/02 20:17 Print start      
+ 15/02/02 20:17 Job start        32 C 
+ 15/02/02 20:17 Setup done       W:305.0mm L:280.0mm H:96.3mm
+ 15/02/02 20:12 Cleaning         Power on cleaning
+ 15/02/02 20:11 Sub power on     Normal
+ 15/02/02 19:37 Temperature      29 C
+ 15/02/02 18:37 Temperature      29 C
+ 15/02/02 17:37 Temperature      29 C
+ 15/02/02 16:37 Temperature      29 C
+ 15/02/02 16:37 Sub power off    
+ 15/02/02 16:37 Cleaning         Self flushing
+ 15/02/02 16:36 Temperature      29 C
+ 15/02/02 16:36 Sub power on     Normal
+ 15/02/02 15:36 Temperature      29 C
+ 15/02/02 14:36 Temperature      29 C
+ 15/02/02 13:36 Temperature      29 C
+ 15/02/02 12:36 Temperature      29 C
+ 15/02/02 11:36 Temperature      29 C
+ 15/02/02 10:36 Temperature      29 C
+ 15/02/02 09:36 Temperature      29 C
+ 15/02/02 08:36 Temperature      29 C
+ 15/02/02 08:36 Sub power off    
+ 15/02/02 08:36 Cleaning         Self flushing
+ 15/02/02 08:36 Temperature      29 C
+ 15/02/02 08:36 Sub power on     Normal
+ 15/02/02 07:36 Temperature      29 C
+ 15/02/02 06:36 Temperature      29 C
+ 15/02/02 05:36 Temperature      29 C
+ 15/02/02 04:36 Temperature      29 C
+ 15/02/02 03:36 Temperature      29 C
+ 15/02/02 02:36 Temperature      29 C
+ 15/02/02 01:36 Temperature      29 C
+ 15/02/02 00:36 Temperature      29 C
+ 15/02/02 00:36 Sub power off    
+ 15/02/02 00:35 Cleaning         Self flushing
+ 15/02/02 00:35 Temperature      29 C
+ 15/02/02 00:35 Sub power on     Normal
+ 15/02/01 23:35 Temperature      29 C
+ 15/02/01 22:35 Temperature      29 C
+ 15/02/01 21:35 Temperature      29 C
+ 15/02/01 20:35 Temperature      29 C
+ 15/02/01 19:35 Temperature      29 C
+ 15/02/01 18:35 Temperature      29 C
+ 15/02/01 17:35 Temperature      29 C
+ 15/02/01 16:35 Temperature      29 C
+ 15/02/01 16:35 Sub power off    
+ 15/02/01 16:35 Cleaning         Self flushing
+ 15/02/01 16:34 Temperature      29 C
+ 15/02/01 16:34 Sub power on     Normal
+ 15/02/01 15:34 Temperature      29 C
+ 15/02/01 14:34 Temperature      29 C
+ 15/02/01 13:34 Temperature      29 C
+ 15/02/01 12:34 Temperature      29 C
+ 15/02/01 11:34 Temperature      29 C
+ 15/02/01 10:34 Temperature      29 C
+ 15/02/01 09:34 Temperature      29 C
+ 15/02/01 08:34 Temperature      29 C
+ 15/02/01 08:34 Sub power off    
+ 15/02/01 08:34 Cleaning         Self flushing
+ 15/02/01 08:34 Temperature      26 C
+ 15/02/01 08:34 Sub power on     Normal
+ 15/02/01 07:34 Temperature      26 C
+ 15/02/01 06:34 Temperature      26 C
+ 15/02/01 05:34 Temperature      26 C
+ 15/02/01 04:34 Temperature      26 C
+ 15/02/01 03:34 Temperature      26 C
+ 15/02/01 02:34 Temperature      26 C
+ 15/02/01 01:34 Temperature      26 C
+ 15/02/01 00:34 Main power on    Normal
+ 15/02/01 00:34 Temperature      26 C
+ 15/01/31 23:23 Temperature      29 C
+ 15/01/31 23:23 Sub power off    
+ 15/01/31 23:23 Cleaning         Self flushing
+ 15/01/31 23:22 Temperature      29 C
+ 15/01/31 23:22 Sub power on     Normal
+ 15/01/31 22:22 Temperature      29 C
+ 15/01/31 21:22 Temperature      29 C
+ 15/01/31 20:22 Temperature      29 C
+ 15/01/31 19:22 Temperature      29 C
+ 15/01/31 18:22 Temperature      29 C
+ 15/01/31 17:22 Temperature      29 C
+ 15/01/31 16:22 Temperature      29 C
+ 15/01/31 15:22 Temperature      29 C
+ 15/01/31 15:22 Sub power off    
+ 15/01/31 15:22 Cleaning         Self flushing
+ 15/01/31 15:22 Temperature      33 C
+ 15/01/31 15:22 Sub power on     Normal
+ 15/01/31 14:22 Temperature      33 C
+ 15/01/31 13:22 Temperature      33 C
+ 15/01/31 12:22 Temperature      33 C
+ 15/01/31 11:22 Temperature      33 C
+ 15/01/31 10:22 Temperature      33 C
+ 15/01/31 09:22 Temperature      33 C
+ 15/01/31 08:22 Temperature      33 C
+ 15/01/31 07:22 Temperature      33 C
+ 15/01/31 07:22 Sub power off    
+ 15/01/31 07:04 Job done         
+ 15/01/31 07:04 Print done       
+ 15/01/31 07:00 Print start      
+ 15/01/31 06:59 Job start        36 C 
+ 15/01/31 06:59 Job done         
+ 15/01/31 06:59 Print done       
+ 15/01/31 06:54 Print start      
+ 15/01/31 06:54 Job start        36 C 
+ 15/01/31 06:53 Job done         
+ 15/01/31 06:53 Print done       
+ 15/01/31 06:49 Print start      
+ 15/01/31 06:49 Job start        36 C 
+ 15/01/31 06:48 Job done         
+ 15/01/31 06:48 Print done       
+ 15/01/31 06:43 Print start      
+ 15/01/31 06:43 Job start        36 C 
+ 15/01/31 06:43 Job done         
+ 15/01/31 06:43 Print done       
+ 15/01/31 06:38 Print start      
+ 15/01/31 06:38 Job start        36 C 
+ 15/01/31 06:37 Temperature      36 C
+ 15/01/31 06:37 Job done         
+ 15/01/31 06:37 Print done       
+ 15/01/31 06:33 Print start      
+ 15/01/31 06:32 Job start        36 C 
+ 15/01/31 06:32 Job done         
+ 15/01/31 06:32 Print done       
+ 15/01/31 06:27 Print start      
+ 15/01/31 06:27 Job start        36 C 
+ 15/01/31 06:27 Setup done       W:305.0mm L:280.0mm H:96.3mm
+ 15/01/31 06:26 Cancel done      
+ 15/01/31 06:25 Cancel start     Crash avoidance
+ 15/01/31 06:25 Job done         
+ 15/01/31 06:25 Print done       
+ 15/01/31 06:20 Print start      
+ 15/01/31 06:20 Job start        36 C 
+ 15/01/31 06:20 Job done         
+ 15/01/31 06:20 Print done       
+ 15/01/31 06:15 Print start      
+ 15/01/31 06:15 Job start        36 C 
+ 15/01/31 06:15 Setup done       W:305.0mm L:280.0mm H:96.3mm
+ 15/01/31 06:14 Cancel done      
+ 15/01/31 06:14 Cancel start     Crash avoidance
+ 15/01/31 06:14 Job done         
+ 15/01/31 06:14 Print done       
+ 15/01/31 06:09 Print start      
+ 15/01/31 06:09 Job start        36 C 
+ 15/01/31 06:08 Job done         
+ 15/01/31 06:08 Print done       
+ 15/01/31 06:03 Print start      
+ 15/01/31 06:03 Job start        36 C 
+ 15/01/31 06:02 Job done         
+ 15/01/31 06:02 Print done       
+ 15/01/31 05:58 Print start      
+ 15/01/31 05:58 Job start        36 C 
+ 15/01/31 05:57 Job done         
+ 15/01/31 05:57 Print done       
+ 15/01/31 05:52 Print start      
+ 15/01/31 05:52 Job start        36 C 
+ 15/01/31 05:52 Job done         
+ 15/01/31 05:52 Print done       
+ 15/01/31 05:47 Print start      
+ 15/01/31 05:47 Job start        36 C 
+ 15/01/31 05:46 Job done         
+ 15/01/31 05:46 Print done       
+ 15/01/31 05:41 Print start      
+ 15/01/31 05:41 Job start        36 C 
+ 15/01/31 05:41 Job done         
+ 15/01/31 05:41 Print done       
+ 15/01/31 05:37 Temperature      36 C
+ 15/01/31 05:36 Print start      
+ 15/01/31 05:36 Job start        36 C 
+ 15/01/31 05:35 Job done         
+ 15/01/31 05:35 Print done       
+ 15/01/31 05:30 Print start      
+ 15/01/31 05:30 Job start        36 C 
+ 15/01/31 05:30 Job done         
+ 15/01/31 05:30 Print done       
+ 15/01/31 05:25 Print start      
+ 15/01/31 05:25 Job start        36 C 
+ 15/01/31 05:25 Setup done       W:305.0mm L:280.0mm H:96.3mm
+ 15/01/31 05:23 Cancel done      
+ 15/01/31 05:22 Cancel start     Crash avoidance
+ 15/01/31 05:22 Job done         
+ 15/01/31 05:22 Print done       
+ 15/01/31 05:17 Print start      
+ 15/01/31 05:17 Job start        36 C 
+ 15/01/31 05:17 Job done         
+ 15/01/31 05:17 Print done       
+ 15/01/31 05:12 Print start      
+ 15/01/31 05:12 Job start        36 C 
+ 15/01/31 05:11 Job done         
+ 15/01/31 05:11 Print done       
+ 15/01/31 05:06 Print start      
+ 15/01/31 05:06 Job start        36 C 
+ 15/01/31 05:06 Job done         
+ 15/01/31 05:06 Print done       
+ 15/01/31 05:01 Print start      
+ 15/01/31 05:01 Job start        36 C 
+ 15/01/31 05:00 Job done         
+ 15/01/31 05:00 Print done       
+ 15/01/31 04:55 Print start      
+ 15/01/31 04:55 Job start        36 C 
+ 15/01/31 04:55 Job done         
+ 15/01/31 04:55 Print done       
+ 15/01/31 04:50 Print start      
+ 15/01/31 04:50 Job start        36 C 
+ 15/01/31 04:50 Job done         
+ 15/01/31 04:50 Print done       
+ 15/01/31 04:45 Print start      
+ 15/01/31 04:45 Job start        36 C 
+ 15/01/31 04:44 Job done         
+ 15/01/31 04:44 Print done       
+ 15/01/31 04:39 Print start      
+ 15/01/31 04:39 Job start        36 C 
+ 15/01/31 04:39 Setup done       W:305.0mm L:280.0mm H:96.3mm
+ 15/01/31 04:37 Sub power on     Normal
+ 15/01/31 04:37 Main power on    Normal
+ 15/01/31 04:37 Temperature      33 C
+ 15/01/31 04:37 Temperature      33 C
+ 15/01/31 04:37 Sub power off    
+ 15/01/31 04:36 Temperature      37 C
+ 15/01/31 04:32 Print start      
+ 15/01/31 04:32 Job start        36 C 
+ 15/01/31 04:31 Job done         
+ 15/01/31 04:31 Print done       
+ 15/01/31 04:26 Print start      
+ 15/01/31 04:26 Job start        37 C 
+ 15/01/31 04:26 Job done         
+ 15/01/31 04:26 Print done       
+ 15/01/31 04:21 Print start      
+ 15/01/31 04:21 Job start        37 C 
+ 15/01/31 04:20 Job done         
+ 15/01/31 04:20 Print done       
+ 15/01/31 04:16 Print start      
+ 15/01/31 04:16 Job start        37 C 
+ 15/01/31 04:15 Job done         
+ 15/01/31 04:15 Print done       
+ 15/01/31 04:10 Print start      
+ 15/01/31 04:10 Job start        37 C 
+ 15/01/31 04:09 Job done         
+ 15/01/31 04:09 Print done       
+ 15/01/31 04:04 Print start      
+ 15/01/31 04:04 Job start        37 C 
+
+@DONE@

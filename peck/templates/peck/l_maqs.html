@@ -1,0 +1,32 @@
+{% extends 'peck/base.html' %}
+
+{% block corpo %}
+
+    <div id="frame_top">
+        <h2>Lista de Maquinas e Clientes</h2>
+        <p><a href="{% url 'home' %}"> volta pra home</a></p>
+        <table>
+                <tr>
+                        <th>Numero</th>
+                        <th>Cliente</th>
+                        <th>Serial</th>
+                        <th>ID da Maquina</th>
+                </tr>
+            {% for m in maq %}
+                <tr>
+                        <td>{{ m.pk }}</td>
+                        <td>{{ m.client }}</td>
+                        <td>{{ m.serial }}</td>
+                        <td>{{ m.machine }}</td>
+                </tr>
+            {% empty %}
+                <tr>
+                        <td> Base de dados VAZIA!!</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                </tr>
+            {% endfor %}
+        </table>
+    </div>
+{% endblock %}

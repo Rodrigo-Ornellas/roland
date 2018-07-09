@@ -1,0 +1,745 @@
+Model                 : VP-300i
+Version               : 4.70
+Serial No.            : ZY30414
+Date                  : 2015/02/12 17:24
+IP Address            : 192.168.001.171
+Subnet Mask           : 255.255.255.000
+Gateway Address       : 000.000.000.000
+MAC Address           : 00:40:AB:00:6B:4D
+Ink type              : E-SOL Max 4Color
+Ink remain(1-4)       :   0/  0/  0/  0
+Head Temperature      : 35C /  95.0F
+Heater temp.(PRINT)   : 39C / 102F
+Heater temp.(DRYER)   : 39C / 102F
+Edge detection        : Enable
+Empty mode            : Stop
+Calibration           :  0.00 %
+Media clamp           : SHORT
+Full width scanning   : FULL
+Scan interval         :  0.0 sec
+Length unit           : mm
+Temperature unit      : C
+Menu language         : English
+Sleep interval        :  30 min
+Sheet remain          : 0.0m
+Periodic cleaning     : 770min 
+Vacuum power          : Auto
+Heater setting(PRINT) : 35C /  94F
+Heater setting(DRYER) : 40C / 104F
+Feed for dry          : Disable
+Preheating            : PREHEAT
+Set remain at loading : Disable
+Bi-dir. simple        :  -1.5
+                      :  H1    H2    H3    H4  
+Bi-dir. adjust No.1   :  +1    +1.5  +2.5  -3  
+               No.2   :   0    +2    +1    +1  
+                      :  H1    H2    H3    H4  
+               No.3   :  -1    -1    -3     0  
+               No.4   :  -2    -1    -2     0  
+Tool parameter        : 
+  Force               :  70 gf
+  Velocity            :  30 cm/s
+  Offset              : 0.250 mm
+  Up velocity         :  30 cm/s
+Cutting calib. (F/S)  :   0.00/  0.00 %
+Print-cut adjust (F/S):   0.00/  0.00 mm
+Crop-cut adjust (F/S) :   0.00/  0.00 mm
+Cutting priority      : Command
+Prefeed               : Disable
+Auto Env Match        : Enable
+Preset name           : DARK FILM      
+Calibration           :  0.00 %
+Heater setting(PRINT) : 35C /  94F
+Heater setting(DRYER) : 40C / 104F
+Feed for dry          : Disable
+Bi-dir. simple        :   0  
+Scan interval   :  0.0 sec
+Edge detection  : Enable
+Full width S    : FULL
+Preheating      : Preheat
+Vacuum power    : Auto
+Force         :  50 gf
+Velocity      :  30 cm/s
+Offset        : 0.250 mm
+Up velocity   :  30 cm/s
+Cutting calib. (F/S)  :   0.00/  0.00 %
+Print-cut adjust (F/S):   0.00/  0.00 mm
+Crop-cut adjust (F/S) :   0.00/  0.00 mm
+Bi-dir. Adjust No.1   :   0  /   0  /   0  /   0   
+               No.2   :   0  /   0  /   0  /   0   
+               No.3   :   0  /   0  /   0  /   0   
+               No.4   :   0  /   0  /   0  /   0   
+Preset name           : NAME2
+Calibration           :  0.00 %
+Heater setting(PRINT) : 35C /  94F
+Heater setting(DRYER) : 40C / 104F
+Feed for dry          : Disable
+Bi-dir. simple        :   0  
+Scan interval   :  0.0 sec
+Edge detection  : Enable
+Full width S    : FULL
+Preheating      : Preheat
+Vacuum power    : Auto
+Force         :  50 gf
+Velocity      :  30 cm/s
+Offset        : 0.250 mm
+Up velocity   :  30 cm/s
+Cutting calib. (F/S)  :   0.00/  0.00 %
+Print-cut adjust (F/S):   0.00/  0.00 mm
+Crop-cut adjust (F/S) :   0.00/  0.00 mm
+Bi-dir. Adjust No.1   :   0  /   0  /   0  /   0   
+               No.2   :   0  /   0  /   0  /   0   
+               No.3   :   0  /   0  /   0  /   0   
+               No.4   :   0  /   0  /   0  /   0   
+Preset name           : NAME3
+Calibration           :  0.00 %
+Heater setting(PRINT) : 35C /  94F
+Heater setting(DRYER) : 40C / 104F
+Feed for dry          : Disable
+Bi-dir. simple        :   0  
+Scan interval   :  0.0 sec
+Edge detection  : Enable
+Full width S    : FULL
+Preheating      : Preheat
+Vacuum power    : Auto
+Force         :  50 gf
+Velocity      :  30 cm/s
+Offset        : 0.250 mm
+Up velocity   :  30 cm/s
+Cutting calib. (F/S)  :   0.00/  0.00 %
+Print-cut adjust (F/S):   0.00/  0.00 mm
+Crop-cut adjust (F/S) :   0.00/  0.00 mm
+Bi-dir. Adjust No.1   :   0  /   0  /   0  /   0   
+               No.2   :   0  /   0  /   0  /   0   
+               No.3   :   0  /   0  /   0  /   0   
+               No.4   :   0  /   0  /   0  /   0   
+Preset name           : NAME4
+Calibration           :  0.00 %
+Heater setting(PRINT) : 35C /  94F
+Heater setting(DRYER) : 40C / 104F
+Feed for dry          : Disable
+Bi-dir. simple        :   0  
+Scan interval   :  0.0 sec
+Edge detection  : Enable
+Full width S    : FULL
+Preheating      : Preheat
+Vacuum power    : Auto
+Force         :  50 gf
+Velocity      :  30 cm/s
+Offset        : 0.250 mm
+Up velocity   :  30 cm/s
+Cutting calib. (F/S)  :   0.00/  0.00 %
+Print-cut adjust (F/S):   0.00/  0.00 mm
+Crop-cut adjust (F/S) :   0.00/  0.00 mm
+Bi-dir. Adjust No.1   :   0  /   0  /   0  /   0   
+               No.2   :   0  /   0  /   0  /   0   
+               No.3   :   0  /   0  /   0  /   0   
+               No.4   :   0  /   0  /   0  /   0   
+Preset name           : NAME5
+Calibration           :  0.00 %
+Heater setting(PRINT) : 35C /  94F
+Heater setting(DRYER) : 40C / 104F
+Feed for dry          : Disable
+Bi-dir. simple        :   0  
+Scan interval   :  0.0 sec
+Edge detection  : Enable
+Full width S    : FULL
+Preheating      : Preheat
+Vacuum power    : Auto
+Force         :  50 gf
+Velocity      :  30 cm/s
+Offset        : 0.250 mm
+Up velocity   :  30 cm/s
+Cutting calib. (F/S)  :   0.00/  0.00 %
+Print-cut adjust (F/S):   0.00/  0.00 mm
+Crop-cut adjust (F/S) :   0.00/  0.00 mm
+Bi-dir. Adjust No.1   :   0  /   0  /   0  /   0   
+               No.2   :   0  /   0  /   0  /   0   
+               No.3   :   0  /   0  /   0  /   0   
+               No.4   :   0  /   0  /   0  /   0   
+Preset name           : NAME6
+Calibration           :  0.00 %
+Heater setting(PRINT) : 35C /  94F
+Heater setting(DRYER) : 40C / 104F
+Feed for dry          : Disable
+Bi-dir. simple        :   0  
+Scan interval   :  0.0 sec
+Edge detection  : Enable
+Full width S    : FULL
+Preheating      : Preheat
+Vacuum power    : Auto
+Force         :  50 gf
+Velocity      :  30 cm/s
+Offset        : 0.250 mm
+Up velocity   :  30 cm/s
+Cutting calib. (F/S)  :   0.00/  0.00 %
+Print-cut adjust (F/S):   0.00/  0.00 mm
+Crop-cut adjust (F/S) :   0.00/  0.00 mm
+Bi-dir. Adjust No.1   :   0  /   0  /   0  /   0   
+               No.2   :   0  /   0  /   0  /   0   
+               No.3   :   0  /   0  /   0  /   0   
+               No.4   :   0  /   0  /   0  /   0   
+Preset name           : NAME7
+Calibration           :  0.00 %
+Heater setting(PRINT) : 35C /  94F
+Heater setting(DRYER) : 40C / 104F
+Feed for dry          : Disable
+Bi-dir. simple        :   0  
+Scan interval   :  0.0 sec
+Edge detection  : Enable
+Full width S    : FULL
+Preheating      : Preheat
+Vacuum power    : Auto
+Force         :  50 gf
+Velocity      :  30 cm/s
+Offset        : 0.250 mm
+Up velocity   :  30 cm/s
+Cutting calib. (F/S)  :   0.00/  0.00 %
+Print-cut adjust (F/S):   0.00/  0.00 mm
+Crop-cut adjust (F/S) :   0.00/  0.00 mm
+Bi-dir. Adjust No.1   :   0  /   0  /   0  /   0   
+               No.2   :   0  /   0  /   0  /   0   
+               No.3   :   0  /   0  /   0  /   0   
+               No.4   :   0  /   0  /   0  /   0   
+Preset name           : NAME8
+Calibration           :  0.00 %
+Heater setting(PRINT) : 35C /  94F
+Heater setting(DRYER) : 40C / 104F
+Feed for dry          : Disable
+Bi-dir. simple        :   0  
+Scan interval   :  0.0 sec
+Edge detection  : Enable
+Full width S    : FULL
+Preheating      : Preheat
+Vacuum power    : Auto
+Force         :  50 gf
+Velocity      :  30 cm/s
+Offset        : 0.250 mm
+Up velocity   :  30 cm/s
+Cutting calib. (F/S)  :   0.00/  0.00 %
+Print-cut adjust (F/S):   0.00/  0.00 mm
+Crop-cut adjust (F/S) :   0.00/  0.00 mm
+Bi-dir. Adjust No.1   :   0  /   0  /   0  /   0   
+               No.2   :   0  /   0  /   0  /   0   
+               No.3   :   0  /   0  /   0  /   0   
+               No.4   :   0  /   0  /   0  /   0   
+Head rank H1          : 82W4340QWQXWXSU ............ 00E..E
+          H2          : 6CU332FUUUWUTPR ............ 103..E
+          H3          : 81V3D3EKWPWYYUU ............ 00M..E
+          H4          : 70U3330UUVVSTQR ............ 00X..E
+                      :  H1     H2     H3     H4   
+Head hori.(DT1.Low)   :         -4      0     -7.5 
+          (DT3.Low)   :         -4     +1     -7   
+                       
+                       
+Head bi   (DT1.Low)   : +11.5  +13    +10    +14   
+          (DT3.Low)   : +12    +13    +11.5  +15   
+                       
+                       
+Dip SW                : 00000000
+System SW page( 1- 4) : 00000000 00000000 00000000 00000000 
+System SW page( 5- 8) : 00000000 00000000 00000001 00000000 
+System SW page( 9-12) : 00000000 00000000 00000000 00000000 
+System SW page(13-16) : 00000000 00000000 00000000 00000001 
+Network I/F  version  : Print Server 1.1 (Tue May 30 14:46:26 JST 2006)
+Limit position        :      25.6 mm
+Cutter down position  :    1113.3 mm
+Calibration default   :     -0.31 %
+Encoder position(L)   :     906.7 mm
+Encoder position(R)   :     144.7 mm
+Maintenance request   : NONE
+Booter version        : 1.00
+Battery               :   Charged
+Periodic CL. degree   : NORMAL
+Drain liquid volume   : 2983.2 cc
+Standard head         : 1
+Flushing pos adjust   :  2.20 mm
+Heater adjust(PRINT)  :   0C
+Heater adjust(DRYER)  :   0C
+Preheat temperature   : 30C
+Heating timeout       : 20 min
+Environment match     :    +0.105 %
+Encoder calibration   :    +0.099 %
+Force adjust 30gf     : 23
+Force adjust 200gf    : 63
+Crop-tool adjust (F/S):  -0.45/  -0.45 mm
+Print-cut adjust (F/S):  -0.20/  -0.70 mm
+Crop sensor adjust    :   0
+Model                  : VP-300i
+Version                : 4.70
+Serial No.             : ZY30414
+Date                   : 2015/02/12 17:24
+==== Motor group ====
+Motor feed   (trip/total [clear]):        221/        221 hours [0]
+Motor scan   (trip/total [clear]):        413/        413 hours [0]
+Pump Times   (trip/total [clear]):     41,646/     41,646 times [0]
+==== Head group ====
+Shot Cnt.  1 (trip/total [clear]):     52,813/    213,579 K times/nozzle [1]
+Shot Cnt.  2 (trip/total [clear]):     52,507/    211,996 K times/nozzle [1]
+Shot Cnt.  3 (trip/total [clear]):    372,090/    372,090 K times/nozzle [0]
+Shot Cnt.  4 (trip/total [clear]):    373,255/    373,255 K times/nozzle [0]
+Shot Cnt.  5 (trip/total [clear]):    173,883/    733,581 K times/nozzle [1]
+Shot Cnt.  6 (trip/total [clear]):    172,632/    728,113 K times/nozzle [1]
+Shot Cnt.  7 (trip/total [clear]):    605,865/    605,865 K times/nozzle [0]
+Shot Cnt.  8 (trip/total [clear]):    607,716/    607,716 K times/nozzle [0]
+                       :     H1     H2     H3     H4
+Wiping count for head  :  1,316  1,316  1,316  1,316 times
+Rubbing count for head :    129    129    129    129 times
+Headrank set count     :      1      1      1      1 times
+Auto cleaning count    :  3,366  3,366  3,366  3,366 times
+Normal cleaning count  :     67     67     67     67 times
+Medium cleaning count  :     39     39     39     39 times
+Powerful cleaning count:     39     39     39     39 times
+Protect Head           :     40     40     40     40 times
+==== Maintenance group ====
+Maintenance Count      :    115 times
+Total time             :  1,346 hours
+Printing time          :      0 hours
+==== Wiper group ====
+Wiping count           :    682 times
+Rubbing count          :     64 times
+Wiper replace count    :      3 times
+==== Print group ====
+Printing time          :         486 hours
+Print pages            :       5,293 pages
+==== Ink group ====
+Cartridge change(1-4)  :      4     10      4      7 times
+Change ink type        :           0 times
+==== Error group ====
+Service call count     :     13 times
+Service call history   : 0109 0109 0110 0110 0110
+Motor error  (feed)    :      5 times
+Motor error  (scan)    :     58 times
+Low temperature error  :      0 times
+High temperature error :      0 times
+Emergency capping      :      2 times
+Start uncapped         :     45 times
+==== System group ====
+Power on count         :  2,608 times
+Power on time          :  4,499 hours
+Sleep time             : 23,353 hours
+Sheet cut count        :  5,588 times
+Peck used count        :      0 times
+==== Heater group ====        PRINT      DRYER
+Heater used time       :      1,430      1,430 hours
+==== Cutting group ====
+Cutting time           :         569 hours
+Disconnect carr. count :       6,363 times
+
+Model                  : VP-300i
+Version                : 4.70
+Serial No.             : ZY30414
+No:          SERIAL/  INK TYPE/  CAP./LOT No/   CONSUM./           TIME/INS./    FLAG
+ 1:    NO CARTRIDGE/          /      /      /          /               /    /        
+ 2:    NO CARTRIDGE/          /      /      /          /               /    /        
+ 3:    NO CARTRIDGE/          /      /      /          /               /    /        
+ 4:    NO CARTRIDGE/          /      /      /          /               /    /        
+Model                  : VP-300i
+Version                : 4.70
+Serial No.             : ZY30414
+Date                   : 2015/02/12 17:24
+ Date     Time  Temp. Event            Information
++--------+-----+-----+----------------+------------------------------+
+ Date     Time  Temp. Event            Information
++--------+-----+-----+----------------+------------------------------+
+ 15/02/12 17:23 35    Firmware update  4.60->4.70
+ 15/02/12 17:23 35    Main power on    Normal 
+ 15/02/12 17:22 35    Sub power off   
+ 15/02/12 17:12 34    Setup done       Width:614mm Env.: 0.105
+ 15/02/12 17:11 34    Sub power on     Normal 
+ 15/02/12 17:11 34    Sub power off   
+ 15/02/12 17:05 34    Print done        
+ 15/02/12 17:01 34    Print start       
+ 15/02/12 16:54 34    Print done       Testpattern 
+ 15/02/12 16:53 34    Print start      Testpattern 
+ 15/02/12 16:53 34    Print done       Testpattern 
+ 15/02/12 16:53 34    Print start      Testpattern 
+ 15/02/12 16:49 33    Cleaning         Powerful cleaning 
+ 15/02/12 16:48 33    Setup done       Width:614mm Env.: 0.105
+ 15/02/12 16:47 33    Sub power on     Service mode 
+ 15/02/12 16:47 33    Main power on    Normal 
+ 15/02/12 16:32 35    Sub power off   
+ 15/02/12 16:32 35    Sleep out       
+ 15/02/12 14:47 34    Sleep in        
+ 15/02/12 14:17 33    Sleep out       
+ 15/02/12 12:59 33    Sleep in        
+ 15/02/12 12:59 33    Sleep out       
+ 15/02/12 12:59 33    Cleaning         Self flushing 
+ 15/02/12 04:59 32    Sleep in        
+ 15/02/12 04:59 32    Sleep out       
+ 15/02/12 04:58 32    Cleaning         Self flushing 
+ 15/02/11 20:58 33    Sleep in        
+ 15/02/11 20:20 30    Setup done       Width:614mm Env.: 0.115
+ 15/02/11 20:19 30    Sub power on     Normal 
+ 15/02/11 20:18 30    Main power on    Normal 
+ 15/02/10 14:43 32    Sub power off   
+ 15/02/10 14:38 31    Print start       
+ 15/02/10 14:35 31    Cleaning         Normal cleaning 
+ 15/02/10 14:35 31    Setup done       Width:614mm Env.: 0.124
+ 15/02/10 14:34 31    Sub power on     Service mode 
+ 15/02/10 14:34 31    Sub power off   
+ 15/02/10 14:32 31    Print start       
+ 15/02/10 14:28 31    Print done       Testpattern 
+ 15/02/10 14:27 31    Print start      Testpattern 
+ 15/02/10 14:27 31    Print done       Testpattern 
+ 15/02/10 14:26 31    Print start      Testpattern 
+ 15/02/10 14:23 31    Cleaning         Medium cleaning 
+ 15/02/10 14:15 31    Print done       Testpattern 
+ 15/02/10 14:15 31    Print start      Testpattern 
+ 15/02/10 14:13 30    Cleaning         Normal cleaning 
+ 15/02/10 14:13 30    Setup done       Width:614mm Env.: 0.125
+ 15/02/10 14:12 30    Sub power on     Service mode 
+ 15/02/10 14:12 30    Main power on    Normal 
+ 15/02/10 14:06 31    Sub power off   
+ 15/02/10 13:57 30    Print done       Testpattern 
+ 15/02/10 13:56 30    Print start      Testpattern 
+ 15/02/10 13:54 30    Cleaning         Medium cleaning 
+ 15/02/10 13:54 30    Setup done       Width:614mm Env.: 0.125
+ 15/02/10 13:53 29    Sub power on     Service mode 
+ 15/02/10 13:53 29    Main power on    Normal 
+ 15/02/10 11:20 30    Sub power off   
+ 15/02/10 11:19 30    Print done       Testpattern 
+ 15/02/10 11:18 30    Print start      Testpattern 
+ 15/02/10 11:18 30    Print done       Testpattern 
+ 15/02/10 11:17 30    Print start      Testpattern 
+ 15/02/10 11:17 30    Setup done       Width:614mm Env.: 0.126
+ 15/02/10 11:15 30    Cleaning         Power on cleaning 
+ 15/02/10 11:15 30    Sub power on     Service mode 
+ 15/02/10 10:03 30    Sub power off   
+ 15/02/10 10:02 30    Cleaning         Self flushing 
+ 15/02/10 10:02 30    Sub power on     Normal 
+ 15/02/10 02:02 30    Sub power off   
+ 15/02/10 02:02 30    Cleaning         Self flushing 
+ 15/02/10 02:02 30    Sub power on     Normal 
+ 15/02/09 18:01 32    Sub power off   
+ 15/02/09 18:01 32    Cleaning         Self flushing 
+ 15/02/09 18:01 32    Sub power on     Normal 
+ 15/02/09 10:01 29    Sub power off   
+ 15/02/09 10:01 29    Cleaning         Self flushing 
+ 15/02/09 10:00 29    Sub power on     Normal 
+ 15/02/09 02:00 29    Sub power off   
+ 15/02/09 02:00 29    Cleaning         Self flushing 
+ 15/02/09 02:00 29    Sub power on     Normal 
+ 15/02/08 18:00 30    Sub power off   
+ 15/02/08 18:00 30    Cleaning         Self flushing 
+ 15/02/08 17:59 30    Sub power on     Normal 
+ 15/02/08 09:59 29    Sub power off   
+ 15/02/08 09:59 29    Cleaning         Self flushing 
+ 15/02/08 09:59 29    Sub power on     Normal 
+ 15/02/08 01:59 29    Sub power off   
+ 15/02/08 01:59 29    Cleaning         Self flushing 
+ 15/02/08 01:58 29    Sub power on     Normal 
+ 15/02/07 17:58 30    Sub power off   
+ 15/02/07 17:58 30    Cleaning         Self flushing 
+ 15/02/07 17:57 30    Sub power on     Normal 
+ 15/02/07 09:57 28    Sub power off   
+ 15/02/07 09:57 28    Cleaning         Self flushing 
+ 15/02/07 09:57 28    Sub power on     Normal 
+ 15/02/07 01:57 29    Sub power off   
+ 15/02/07 01:57 29    Cleaning         Self flushing 
+ 15/02/07 01:56 29    Sub power on     Normal 
+ 15/02/06 17:56 28    Sub power off   
+ 15/02/06 17:56 28    Cleaning         Self flushing 
+ 15/02/06 17:56 28    Sub power on     Normal 
+ 15/02/06 09:56 28    Sub power off   
+ 15/02/06 09:56 28    Cleaning         Self flushing 
+ 15/02/06 09:55 28    Sub power on     Normal 
+ 15/02/06 01:55 29    Sub power off   
+ 15/02/06 01:55 29    Cleaning         Self flushing 
+ 15/02/06 01:55 29    Sub power on     Normal 
+ 15/02/05 17:55 30    Sub power off   
+ 15/02/05 17:48 30    Sleep out       
+ 15/02/05 16:08 29    Sleep in        
+ 15/02/05 15:38 28    Setup done       Width:614mm Env.: 0.124
+ 15/02/05 15:37 28    Sub power on     Normal 
+ 15/02/05 09:36 29    Sub power off   
+ 15/02/05 09:36 29    Cleaning         Self flushing 
+ 15/02/05 09:36 29    Sub power on     Normal 
+ 15/02/05 01:36 30    Sub power off   
+ 15/02/05 01:36 30    Cleaning         Self flushing 
+ 15/02/05 01:35 30    Sub power on     Normal 
+ 15/02/04 17:35 31    Sub power off   
+ 15/02/04 17:35 31    Sleep out       
+ 15/02/04 17:06 31    Sleep in        
+ 15/02/04 17:06 31    Sleep out       
+ 15/02/04 17:06 31    Cleaning         Self flushing 
+ 15/02/04 09:05 30    Sleep in        
+ 15/02/04 08:35 30    Setup done       Width:614mm Env.: 0.115
+ 15/02/04 08:33 30    Cleaning         Power on cleaning 
+ 15/02/04 08:33 30    Sub power on     Normal 
+ 15/02/04 00:39 31    Sub power off   
+ 15/02/04 00:39 31    Cleaning         Self flushing 
+ 15/02/04 00:38 31    Sub power on     Normal 
+ 15/02/03 16:38 33    Sub power off   
+ 15/02/03 16:38 33    Cleaning         Self flushing 
+ 15/02/03 16:38 33    Sub power on     Normal 
+ 15/02/03 08:38 29    Sub power off   
+ 15/02/03 08:38 29    Cleaning         Self flushing 
+ 15/02/03 08:37 29    Sub power on     Normal 
+ 15/02/03 00:37 31    Sub power off   
+ 15/02/03 00:37 31    Cleaning         Self flushing 
+ 15/02/03 00:37 31    Sub power on     Normal 
+ 15/02/02 16:37 32    Sub power off   
+ 15/02/02 16:37 32    Cleaning         Self flushing 
+ 15/02/02 16:36 32    Sub power on     Normal 
+ 15/02/02 08:36 30    Sub power off   
+ 15/02/02 08:36 30    Sleep out       
+ 15/02/02 01:11 31    Sleep in        
+ 15/02/02 01:11 31    Sleep out       
+ 15/02/02 01:10 31    Cleaning         Self flushing 
+ 15/02/01 17:10 31    Sleep in        
+ 15/02/01 17:10 31    Sleep out       
+ 15/02/01 17:10 31    Cleaning         Self flushing 
+ 15/02/01 09:10 31    Sleep in        
+ 15/02/01 09:10 31    Sleep out       
+ 15/02/01 09:10 31    Cleaning         Self flushing 
+ 15/02/01 01:10 31    Sleep in        
+ 15/02/01 01:10 31    Sleep out       
+ 15/02/01 01:10 31    Cleaning         Self flushing 
+ 15/01/31 17:09 32    Sleep in        
+ 15/01/31 17:09 32    Sleep out       
+ 15/01/31 17:09 32    Cleaning         Self flushing 
+ 15/01/31 09:09 30    Sleep in        
+ 15/01/31 09:09 30    Sleep out       
+ 15/01/31 09:09 30    Cleaning         Self flushing 
+ 15/01/31 01:09 31    Sleep in        
+ 15/01/31 01:09 31    Sleep out       
+ 15/01/31 01:09 31    Cleaning         Self flushing 
+ 15/01/30 17:09 32    Sleep in        
+ 15/01/30 17:08 32    Sleep out       
+ 15/01/30 17:08 32    Cleaning         Self flushing 
+ 15/01/30 09:08 31    Sleep in        
+ 15/01/30 09:08 31    Sleep out       
+ 15/01/30 09:08 31    Cleaning         Self flushing 
+ 15/01/30 01:08 32    Sleep in        
+ 15/01/30 01:08 32    Sleep out       
+ 15/01/30 01:08 32    Cleaning         Self flushing 
+ 15/01/29 17:08 34    Sleep in        
+ 15/01/29 17:08 34    Sleep out       
+ 15/01/29 17:07 34    Cleaning         Self flushing 
+ 15/01/29 09:07 31    Sleep in        
+ 15/01/29 09:07 31    Sleep out       
+ 15/01/29 09:07 31    Cleaning         Self flushing 
+ 15/01/29 01:07 32    Sleep in        
+ 15/01/29 01:07 32    Sleep out       
+ 15/01/29 01:07 32    Cleaning         Self flushing 
+ 15/01/28 17:07 35    Sleep in        
+ 15/01/28 16:35 34    Cutting done      
+ 15/01/28 16:32 34    Cutting start     
+ 15/01/28 16:32 34    Print done        
+ 15/01/28 16:30 34    Print start       
+ 15/01/28 16:28 34    Sleep out       
+ 15/01/28 12:01 32    Sleep in        
+ 15/01/28 11:31 32    Setup done       Width:614mm Env.: 0.110
+ 15/01/28 11:30 32    Sub power on     Normal 
+ 15/01/28 09:36 31    Sub power off   
+ 15/01/28 09:36 31    Cleaning         Self flushing 
+ 15/01/28 09:35 31    Sub power on     Normal 
+ 15/01/28 01:35 32    Sub power off   
+ 15/01/28 01:35 32    Cleaning         Self flushing 
+ 15/01/28 01:35 32    Sub power on     Normal 
+ 15/01/27 17:35 33    Sub power off   
+ 15/01/27 17:35 33    Cleaning         Self flushing 
+ 15/01/27 17:34 33    Sub power on     Normal 
+ 15/01/27 09:34 30    Sub power off   
+ 15/01/27 09:34 30    Cleaning         Self flushing 
+ 15/01/27 09:34 30    Sub power on     Normal 
+ 15/01/27 01:34 31    Sub power off   
+ 15/01/27 01:34 31    Cleaning         Self flushing 
+ 15/01/27 01:33 31    Sub power on     Normal 
+ 15/01/26 17:33 34    Sub power off   
+ 15/01/26 17:29 34    Sleep out       
+ 15/01/26 16:04 35    Sleep in        
+ 15/01/26 15:08 34    Cutting done      
+ 15/01/26 15:07 34    Cutting start     
+ 15/01/26 15:07 34    Print done        
+ 15/01/26 15:05 34    Print start       
+ 15/01/26 14:46 34    Sleep out       
+ 15/01/26 14:06 33    Sleep in        
+ 15/01/26 13:35 32    Setup done       Width:614mm Env.: 0.113
+ 15/01/26 13:33 32    Cleaning         Power on cleaning 
+ 15/01/26 13:32 32    Sub power on     Normal 
+ 15/01/26 06:17 30    Sub power off   
+ 15/01/26 06:17 30    Cleaning         Self flushing 
+ 15/01/26 06:16 30    Sub power on     Normal 
+ 15/01/25 22:16 32    Sub power off   
+ 15/01/25 22:16 32    Cleaning         Self flushing 
+ 15/01/25 22:16 32    Sub power on     Normal 
+ 15/01/25 14:16 31    Sub power off   
+ 15/01/25 14:16 31    Cleaning         Self flushing 
+ 15/01/25 14:15 31    Sub power on     Normal 
+ 15/01/25 06:15 30    Sub power off   
+ 15/01/25 06:15 30    Cleaning         Self flushing 
+ 15/01/25 06:15 30    Sub power on     Normal 
+ 15/01/24 22:14 31    Sub power off   
+ 15/01/24 22:14 31    Cleaning         Self flushing 
+ 15/01/24 22:14 31    Sub power on     Normal 
+ 15/01/24 14:14 32    Sub power off   
+ 15/01/24 14:14 32    Cleaning         Self flushing 
+ 15/01/24 14:13 32    Sub power on     Normal 
+ 15/01/24 06:13 30    Sub power off   
+ 15/01/24 06:13 30    Cleaning         Self flushing 
+ 15/01/24 06:13 30    Sub power on     Normal 
+ 15/01/23 22:13 31    Sub power off   
+ 15/01/23 22:13 31    Cleaning         Self flushing 
+ 15/01/23 22:12 31    Sub power on     Normal 
+ 15/01/23 14:12 32    Sub power off   
+ 15/01/23 14:12 32    Cleaning         Power on cleaning 
+ 15/01/23 14:11 32    Protect Head    
+ 15/01/23 14:11 32    Sub power on     Normal 
+ 15/01/23 09:37 30    Sub power off   
+ 15/01/23 09:37 30    Cleaning         Self flushing 
+ 15/01/23 09:37 30    Sub power on     Normal 
+ 15/01/23 01:37 31    Sub power off   
+ 15/01/23 01:37 31    Cleaning         Self flushing 
+ 15/01/23 01:36 31    Sub power on     Normal 
+ 15/01/22 17:36 33    Sub power off   
+ 15/01/22 17:36 33    Cleaning         Self flushing 
+ 15/01/22 17:36 33    Sub power on     Normal 
+ 15/01/22 09:36 31    Sub power off   
+ 15/01/22 09:36 31    Cleaning         Self flushing 
+ 15/01/22 09:35 31    Sub power on     Normal 
+ 15/01/22 01:35 32    Sub power off   
+ 15/01/22 01:35 32    Cleaning         Self flushing 
+ 15/01/22 01:35 32    Sub power on     Normal 
+ 15/01/21 17:35 34    Sub power off   
+ 15/01/21 17:34 34    Cleaning         Self flushing 
+ 15/01/21 17:34 34    Sub power on     Normal 
+ 15/01/21 09:34 32    Sub power off   
+ 15/01/21 09:34 32    Cleaning         Self flushing 
+ 15/01/21 09:34 32    Sub power on     Normal 
+ 15/01/21 01:33 33    Sub power off   
+ 15/01/21 01:33 33    Cleaning         Self flushing 
+ 15/01/21 01:33 33    Sub power on     Normal 
+ 15/01/20 17:33 36    Sub power off   
+ 15/01/20 17:33 36    Sleep out       
+ 15/01/20 17:00 36    Sleep in        
+ 15/01/20 17:00 36    Sleep out       
+ 15/01/20 17:00 36    Cleaning         Self flushing 
+ 15/01/20 09:00 32    Sleep in        
+ 15/01/20 09:00 32    Sleep out       
+ 15/01/20 09:00 32    Cleaning         Self flushing 
+ 15/01/20 01:00 33    Sleep in        
+ 15/01/20 01:00 33    Sleep out       
+ 15/01/20 01:00 33    Cleaning         Self flushing 
+ 15/01/19 17:00 36    Sleep in        
+ 15/01/19 17:00 36    Sleep out       
+ 15/01/19 16:59 36    Cleaning         Self flushing 
+ 15/01/19 08:59 32    Sleep in        
+ 15/01/19 08:59 32    Sleep out       
+ 15/01/19 08:59 32    Cleaning         Self flushing 
+ 15/01/19 00:59 33    Sleep in        
+ 15/01/19 00:59 33    Sleep out       
+ 15/01/19 00:59 33    Cleaning         Self flushing 
+ 15/01/18 16:59 33    Sleep in        
+ 15/01/18 16:59 33    Sleep out       
+ 15/01/18 16:59 33    Cleaning         Self flushing 
+ 15/01/18 08:58 32    Sleep in        
+ 15/01/18 08:58 32    Sleep out       
+ 15/01/18 08:58 32    Cleaning         Self flushing 
+ 15/01/18 00:58 33    Sleep in        
+ 15/01/18 00:58 33    Sleep out       
+ 15/01/18 00:58 33    Cleaning         Self flushing 
+ 15/01/17 16:58 33    Sleep in        
+ 15/01/17 16:58 33    Sleep out       
+ 15/01/17 16:58 33    Cleaning         Self flushing 
+ 15/01/17 08:57 32    Sleep in        
+ 15/01/17 08:57 32    Sleep out       
+ 15/01/17 08:57 32    Cleaning         Self flushing 
+ 15/01/17 00:57 32    Sleep in        
+ 15/01/17 00:57 32    Sleep out       
+ 15/01/17 00:57 32    Cleaning         Self flushing 
+ 15/01/16 16:57 34    Sleep in        
+ 15/01/16 16:57 34    Sleep out       
+ 15/01/16 16:57 34    Cleaning         Self flushing 
+ 15/01/16 08:57 32    Sleep in        
+ 15/01/16 08:57 32    Sleep out       
+ 15/01/16 08:57 32    Cleaning         Self flushing 
+ 15/01/16 00:56 32    Sleep in        
+ 15/01/16 00:56 32    Sleep out       
+ 15/01/16 00:56 32    Cleaning         Self flushing 
+ 15/01/15 16:56 36    Sleep in        
+ 15/01/15 16:25 36    Sleep out       
+ 15/01/15 15:20 36    Sleep in        
+ 15/01/15 14:50 35    Cutting done      
+ 15/01/15 14:48 35    Cutting start     
+ 15/01/15 14:48 35    Print done        
+ 15/01/15 14:44 35    Print start       
+ 15/01/15 14:19 34    Sleep out       
+ 15/01/15 10:41 32    Sleep in        
+ 15/01/15 10:11 32    Sleep out       
+ 15/01/15 06:33 32    Sleep in        
+ 15/01/15 06:33 32    Sleep out       
+ 15/01/15 06:33 32    Cleaning         Self flushing 
+ 15/01/14 22:33 32    Sleep in        
+ 15/01/14 22:33 32    Sleep out       
+ 15/01/14 22:33 32    Cleaning         Self flushing 
+ 15/01/14 14:33 36    Sleep in        
+ 15/01/14 13:45 35    Cutting done      
+ 15/01/14 13:41 34    Cutting start     
+ 15/01/14 13:41 34    Print done        
+ 15/01/14 13:35 35    Print start       
+ 15/01/14 13:35 35    Sleep out       
+ 15/01/14 13:06 34    Sleep in        
+ 15/01/14 12:35 33    Sleep out       
+ 15/01/14 10:44 32    Sleep in        
+ 15/01/14 10:14 31    Sleep out       
+ 15/01/14 08:18 32    Sleep in        
+ 15/01/14 08:18 32    Sleep out       
+ 15/01/14 08:18 32    Cleaning         Self flushing 
+ 15/01/14 00:18 32    Sleep in        
+ 15/01/14 00:18 32    Sleep out       
+ 15/01/14 00:17 32    Cleaning         Self flushing 
+ 15/01/13 16:17 36    Sleep in        
+ 15/01/13 15:47 35    Sleep out       
+ 15/01/13 14:41 34    Sleep in        
+ 15/01/13 14:11 33    Setup done       Width:614mm Env.: 0.100
+ 15/01/13 14:09 33    Cleaning         Power on cleaning 
+ 15/01/13 14:09 33    Sub power on     Normal 
+ 15/01/12 00:28 32    Sub power off   
+ 15/01/12 00:28 32    Cleaning         Self flushing 
+ 15/01/12 00:28 32    Sub power on     Normal 
+ 15/01/11 16:28 33    Sub power off   
+ 15/01/11 16:28 32    Cleaning         Self flushing 
+ 15/01/11 16:27 32    Sub power on     Normal 
+ 15/01/11 08:27 32    Sub power off   
+ 15/01/11 08:27 32    Cleaning         Power on cleaning 
+ 15/01/11 08:26 32    Protect Head    
+ 15/01/11 08:25 32    Sub power on     Normal 
+ 15/01/11 00:42 32    Sub power off   
+ 15/01/11 00:42 32    Cleaning         Self flushing 
+ 15/01/11 00:42 32    Sub power on     Normal 
+ 15/01/10 16:42 32    Sub power off   
+ 15/01/10 16:42 32    Cleaning         Self flushing 
+ 15/01/10 16:41 32    Sub power on     Normal 
+ 15/01/10 08:41 32    Sub power off   
+ 15/01/10 08:41 32    Cleaning         Self flushing 
+ 15/01/10 08:41 32    Sub power on     Normal 
+ 15/01/10 00:41 32    Sub power off   
+ 15/01/10 00:41 32    Cleaning         Self flushing 
+ 15/01/10 00:40 32    Sub power on     Normal 
+ 15/01/09 16:40 32    Sub power off   
+ 15/01/09 16:40 32    Cleaning         Self flushing 
+ 15/01/09 16:40 32    Sub power on     Normal 
+ 15/01/09 08:40 30    Sub power off   
+ 15/01/09 08:39 30    Cleaning         Self flushing 
+ 15/01/09 08:39 30    Sub power on     Normal 
+ 15/01/09 00:39 31    Sub power off   
+ 15/01/09 00:39 31    Cleaning         Self flushing 
+ 15/01/09 00:39 31    Sub power on     Normal 
+ 15/01/08 16:39 31    Sub power off   
+ 15/01/08 16:38 31    Cleaning         Self flushing 
+ 15/01/08 16:38 31    Sub power on     Normal 
+ 15/01/08 08:38 29    Sub power off   
+ 15/01/08 08:38 29    Cleaning         Self flushing 
+ 15/01/08 08:37 29    Sub power on     Normal 
+ 15/01/08 00:37 30    Sub power off   
+ 15/01/08 00:37 30    Cleaning         Self flushing 
+ 15/01/08 00:37 30    Sub power on     Normal 
+ 15/01/07 16:37 32    Sub power off   
+ 15/01/07 16:37 32    Cleaning         Self flushing 
+ 15/01/07 16:36 32    Sub power on     Normal 
+ 15/01/07 08:36 30    Sub power off   
+ 15/01/07 08:36 30    Cleaning         Self flushing 
+ 15/01/07 08:36 30    Sub power on     Normal 
+@DONE@

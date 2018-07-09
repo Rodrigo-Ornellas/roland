@@ -1,0 +1,709 @@
+Model                 : RE-640
+Version               : 1.90
+Serial No.            : ZAU0792
+Date                  : 2015/05/27 14:25
+IP Address            : 192.168.001.064
+Subnet Mask           : 255.255.255.000
+Gateway Address       : 192.168.001.003
+MAC Address           : 00:40:AB:00:E8:50
+Ink type              : E-SOL Max 4Color
+Ink remain(1-4)       :   0/  0/  0/  0
+Ink remain(5-8)       :   0/  0/  0/  0
+Head height           : Low
+Head Temperature      : 26C /  78.8F
+Heater temp.(PRINT)   : 26C /  78F
+Heater temp.(DRYER)   : 23C /  72F
+Sheet type            : Opaque
+Empty mode            : Continue 
+Calibration           : +0.40 %
+Full width scanning   : OFF
+Scan interval         :  0.0 sec
+Length unit           : mm
+Temperature unit      : C
+Menu language         : English
+Sleep interval        :  15 min
+Sheet remain          : 0.0m
+Periodic cleaning     :  NONE  
+Vacuum power          : Auto
+Heater setting(PRINT) : 42C / 106F
+Heater setting(DRYER) : 42C / 106F
+Feed for dry          : Enable
+Preheating            : PREHEAT
+Drying Time           :   0 min
+Set remain at loading : Disable
+Bi-dir. simple        :  -8  
+Bi-dir. adjust No.1   :  +1  
+        No.2   :  +4  
+        No.3   :  -1  
+        No.4   :  +1  
+        No.5   :  -1  
+               No.6   :  +1  
+        No.7   :  +4  
+        No.8   :   0  
+        No.9   :  +1  
+        No.10  :   0  
+               No.11  :  +7  
+        No.12  :  +6  
+Media Release         : Disable
+Sheet Width           : 1625.0 mm
+Side Margin           : 10mm
+Sheet Pos(R)          :    0.0 mm
+Sheet Pos(L)          : 1625.6 mm
+Preset name           : VINIL TZ PROMO 
+Calibration           : -0.20 %
+Heater setting(PRINT) : 35C /  94F
+Heater setting(DRYER) : 43C / 108F
+Feed for dry          : Enable
+Bi-dir. simple        :  -1  
+Scan interval   :  0.0 sec
+Sheet type      : Opaque
+Full width S    : OFF
+Preheating      : Preheat
+Vacuum power    : Auto
+Media Release : Disable
+Side Margin   : 10mm
+Drying Time   :   0 min
+Sheet Width   :    1625.0 mm
+Sheet Pos(R)  :       0.0 mm
+Sheet Pos(L)  :    1625.6 mm
+Bi-dir. Adjust No.1   :  +4   
+        No.2   :  +7   
+        No.3   : +10   
+        No.4   :  +9   
+        No.5   : +11   
+               No.6   :  +1   
+        No.7   :  +4   
+        No.8   :  +7   
+        No.9   :  +3   
+        No.10  :  +5   
+               No.11  : +11   
+        No.12  :  +8   
+Preset name           : LONAA BRILHO   
+Calibration           : +0.25 %
+Heater setting(PRINT) : 45C / 112F
+Heater setting(DRYER) : 46C / 114F
+Feed for dry          : Enable
+Bi-dir. simple        :   0  
+Scan interval   :  0.0 sec
+Sheet type      : Opaque
+Full width S    : OFF
+Preheating      : Preheat
+Vacuum power    : Auto
+Media Release : Disable
+Side Margin   : 10mm
+Drying Time   :   0 min
+Sheet Width   :    1625.0 mm
+Sheet Pos(R)  :       0.0 mm
+Sheet Pos(L)  :    1625.6 mm
+Bi-dir. Adjust No.1   :  -1   
+        No.2   :   0   
+        No.3   :  -2   
+        No.4   :  +2   
+        No.5   :  -1   
+               No.6   :  -0.5 
+        No.7   :   0   
+        No.8   :  -2   
+        No.9   :   0   
+        No.10  :  -1   
+               No.11  :  +2   
+        No.12  :  +1   
+Preset name           : LNA FOSCA      
+Calibration           : +0.35 %
+Heater setting(PRINT) : 35C /  94F
+Heater setting(DRYER) : 43C / 108F
+Feed for dry          : Enable
+Bi-dir. simple        :   0  
+Scan interval   :  0.0 sec
+Sheet type      : Opaque
+Full width S    : OFF
+Preheating      : Preheat
+Vacuum power    : Auto
+Media Release : Disable
+Side Margin   : 10mm
+Drying Time   :   0 min
+Sheet Width   :    1625.0 mm
+Sheet Pos(R)  :       0.0 mm
+Sheet Pos(L)  :    1625.6 mm
+Bi-dir. Adjust No.1   :  -1   
+        No.2   :   0   
+        No.3   :  -2   
+        No.4   :  +2   
+        No.5   :  -1   
+               No.6   :  -0.5 
+        No.7   :   0   
+        No.8   :  -2   
+        No.9   :   0   
+        No.10  :  -1   
+               No.11  :  +2   
+        No.12  :  +1   
+Preset name           : LONA FINA      
+Calibration           : +0.85 %
+Heater setting(PRINT) : 35C /  94F
+Heater setting(DRYER) : 43C / 108F
+Feed for dry          : Enable
+Bi-dir. simple        :   0  
+Scan interval   :  0.0 sec
+Sheet type      : Opaque
+Full width S    : OFF
+Preheating      : Preheat
+Vacuum power    : Auto
+Media Release : Disable
+Side Margin   : 10mm
+Drying Time   :   0 min
+Sheet Width   :    1625.0 mm
+Sheet Pos(R)  :       0.0 mm
+Sheet Pos(L)  :    1625.6 mm
+Bi-dir. Adjust No.1   :  -1   
+        No.2   :   0   
+        No.3   :  -2   
+        No.4   :  +2   
+        No.5   :  -1   
+               No.6   :  -0.5 
+        No.7   :   0   
+        No.8   :  -2   
+        No.9   :   0   
+        No.10  :  -1   
+               No.11  :  +2   
+        No.12  :  +1   
+Preset name           : ADESIVO TRANSP 
+Calibration           : -0.15 %
+Heater setting(PRINT) : 35C /  94F
+Heater setting(DRYER) : 43C / 108F
+Feed for dry          : Enable
+Bi-dir. simple        :   0  
+Scan interval   :  0.0 sec
+Sheet type      : Opaque
+Full width S    : OFF
+Preheating      : Preheat
+Vacuum power    : Auto
+Media Release : Disable
+Side Margin   : 10mm
+Drying Time   :   0 min
+Sheet Width   :    1625.0 mm
+Sheet Pos(R)  :       0.0 mm
+Sheet Pos(L)  :    1625.6 mm
+Bi-dir. Adjust No.1   :  -1   
+        No.2   :   0   
+        No.3   :  -2   
+        No.4   :  +2   
+        No.5   :  -1   
+               No.6   :  -0.5 
+        No.7   :   0   
+        No.8   :  -2   
+        No.9   :   0   
+        No.10  :  -1   
+               No.11  :  +2   
+        No.12  :  +1   
+Preset name           : ADES FOSCO     
+Calibration           : -0.40 %
+Heater setting(PRINT) : 35C /  94F
+Heater setting(DRYER) : 40C / 104F
+Feed for dry          : Disable
+Bi-dir. simple        :   0  
+Scan interval   :  0.0 sec
+Sheet type      : Opaque
+Full width S    : FULL
+Preheating      : Preheat
+Vacuum power    : Auto
+Media Release : Disable
+Side Margin   : 10mm
+Drying Time   :   0 min
+Sheet Width   :    1625.0 mm
+Sheet Pos(R)  :       0.0 mm
+Sheet Pos(L)  :    1625.6 mm
+Bi-dir. Adjust No.1   :   0   
+        No.2   :   0   
+        No.3   :   0   
+        No.4   :   0   
+        No.5   :   0   
+               No.6   :   0   
+        No.7   :   0   
+        No.8   :   0   
+        No.9   :   0   
+        No.10  :   0   
+               No.11  :   0   
+        No.12  :   0   
+Preset name           : NAME7
+Calibration           :  0.00 %
+Heater setting(PRINT) : 35C /  94F
+Heater setting(DRYER) : 40C / 104F
+Feed for dry          : Disable
+Bi-dir. simple        :   0  
+Scan interval   :  0.0 sec
+Sheet type      : Opaque
+Full width S    : FULL
+Preheating      : Preheat
+Vacuum power    : Auto
+Media Release : Disable
+Side Margin   : 10mm
+Drying Time   :   0 min
+Sheet Width   :    1625.0 mm
+Sheet Pos(R)  :       0.0 mm
+Sheet Pos(L)  :    1625.6 mm
+Bi-dir. Adjust No.1   :   0   
+        No.2   :   0   
+        No.3   :   0   
+        No.4   :   0   
+        No.5   :   0   
+               No.6   :   0   
+        No.7   :   0   
+        No.8   :   0   
+        No.9   :   0   
+        No.10  :   0   
+               No.11  :   0   
+        No.12  :   0   
+Preset name           : LONA TRANSLUCID
+Calibration           : +0.25 %
+Heater setting(PRINT) : 35C /  94F
+Heater setting(DRYER) : 43C / 108F
+Feed for dry          : Enable
+Bi-dir. simple        :   0  
+Scan interval   :  0.0 sec
+Sheet type      : Opaque
+Full width S    : OFF
+Preheating      : Preheat
+Vacuum power    : Auto
+Media Release : Disable
+Side Margin   : 10mm
+Drying Time   :   0 min
+Sheet Width   :    1625.0 mm
+Sheet Pos(R)  :       0.0 mm
+Sheet Pos(L)  :    1625.6 mm
+Bi-dir. Adjust No.1   :  -1   
+        No.2   :   0   
+        No.3   :  -2   
+        No.4   :  +2   
+        No.5   :  -1   
+               No.6   :  -0.5 
+        No.7   :   0   
+        No.8   :  -2   
+        No.9   :   0   
+        No.10  :  -1   
+               No.11  :  +2   
+        No.12  :  +1   
+Head rank             : 185876C6D7F837C828C8FS0C
+Head bi
+ Pigment Factory:
+  No.1  : +21.5 
+  No.2  :  +8   
+  No.3  : +30.5 
+  No.4  : +13.5 
+ Pigment:
+  No.1  : +14.5 
+  No.2  : +16   
+  No.3  :  +5.5 
+  No.4  :  +4   
+  No.5  : +23   
+  No.6  : +25   
+  No.7  : +10   
+  No.8  :  +7.5 
+ Max    :
+  No.1  : +25   
+  No.2  : +21   
+  No.3  : +26   
+  No.4  : +26   
+  No.5  : +26   
+  No.6  : +10   
+  No.7  : +15   
+  No.8  : +11   
+  No.9  : +11   
+  No.10 : +11   
+  No.11 : +34   
+  No.12 : +30   
+  No.13 : +38   
+  No.14 : +40   
+  No.15 : +39   
+  No.16 : +16   
+  No.17 : +22   
+  No.18 : +21   
+  No.19 : +19   
+  No.20 : +21   
+Dip SW                : 0110
+System SW page( 1- 4) : 00000000 00000000 00000000 00000000 
+System SW page( 5- 8) : 00000000 00000000 00000000 00000000 
+System SW page( 9-12) : 00000000 00000000 00000000 00000000 
+System SW page(13-16) : 00000000 00000000 00000000 00000000 
+Ink Mode              : E-SOL Max4COLOR
+Limit position        :      22.0 mm
+Cutter down position  :    2016.0 mm
+Calibration default   :     -0.31 %
+Encoder position(L)   :    1804.9 mm
+Encoder position(R)   :     179.3 mm
+Maintenance request   : NONE
+Booter version        : 1.20
+Battery               :   Charged
+Periodic CL. degree   : LIGHT
+Pre-Print CL.         : Enable
+CL Flushing           : Default
+Periodic FL.          : Enable
+Set sheet position    : 0 - 1625
+Drain liquid volume   : 2568.0 cc
+Standard head         : 1
+Flushing pos adjust   : -0.20 mm
+Heater adjust(PRINT)  :   0C
+Heater adjust(DRYER)  :   0C
+Preheat temperature   : 30C
+Heating timeout       : 20 min
+Model                  : RE-640
+Version                : 1.90
+Serial No.             : ZAU0792
+Date                   : 2015/05/27 14:25
+==== Motor group ====
+Motor feed   (trip/total [clear]):         44/         44 hours [0]
+Motor scan   (trip/total [clear]):        987/        987 hours [0]
+Pump Times   (trip/total [clear]):    135,905/    135,905 times [0]
+==== Head group ====
+Shot Cnt.  1 (trip/total [clear]):  7,601,941/  7,601,941 K times/nozzle [0]
+Shot Cnt.  2 (trip/total [clear]):  6,562,872/  6,562,872 K times/nozzle [0]
+Shot Cnt.  3 (trip/total [clear]):  4,355,153/  4,355,153 K times/nozzle [0]
+Shot Cnt.  4 (trip/total [clear]):  4,399,274/  4,399,274 K times/nozzle [0]
+Shot Cnt.  5 (trip/total [clear]):  4,394,898/  4,394,898 K times/nozzle [0]
+Shot Cnt.  6 (trip/total [clear]):  4,359,421/  4,359,421 K times/nozzle [0]
+Shot Cnt.  7 (trip/total [clear]):  6,556,789/  6,556,789 K times/nozzle [0]
+Shot Cnt.  8 (trip/total [clear]):  7,608,534/  7,608,534 K times/nozzle [0]
+                       :     H1
+Wiping count for head  :  1,788 times
+Headrank set count     :      0 times
+Auto cleaning count    :  2,058 times
+Normal cleaning count  :     48 times
+Medium cleaning count  :     66 times
+Powerful cleaning count:     84 times
+Super cleaning count   :      0 times
+Ink renewal            :      0 times
+==== Maintenance group ====
+Maintenance Count      :     86 times
+Total time             :      4 hours
+Printing time          :      0 hours
+==== Wiper group ====
+Wiping count           :      6 times
+Wiper replace count    :      3 times
+Felt Wiping count      :      4 times
+Felt Wipe replace count:      3 times
+==== Print group ====
+Printing time          :       1,311 hours
+Print pages            :       7,428 pages
+==== Ink group ====
+Cartridge change(1-4)  :      2      2      1      1 times
+Cartridge change(5-8)  :      1      1      3      3 times
+Change ink type        :           0 times
+==== Error group ====
+Service call count     :      2 times
+Service call history   : 0109 0109 **** **** ****
+Motor error  (feed)    :     26 times
+Motor error  (scan)    :     36 times
+Low temperature error  :      0 times
+High temperature error :      0 times
+Emergency capping      :     14 times
+Start uncapped         :     52 times
+==== System group ====
+Power on count         :  2,468 times
+Power on time          :  4,648 hours
+Sleep time             :  1,961 hours
+Sheet cut count        :  3,028 times
+Peck used count        :      0 times
+Net fault count(pon)   :      0 times
+Net fault count(cfg)   :      0 times
+==== Heater group ====        PRINT      DRYER
+Heater used time       :      2,406      2,406 hours
+
+Model                  : RE-640
+Version                : 1.90
+Serial No.             : ZAU0792
+No:          SERIAL/  INK TYPE/  CAP./LOT No/   CONSUM./           TIME/INS./    FLAG
+ 1:1410e0a60500001b/     Max Y/ 400cc/ 2714A/8320.943cc/2y078d01h41m25s/  21/00000000
+ 2:1486d9a60500006f/     Max Y/ 400cc/ 2714A/8372.261cc/2y084d01h03m09s/  21/00000000
+ 3:146ebe4e050000f2/     Max C/ 400cc/ 2320A/6166.933cc/2y112d21h02m02s/  22/00000000
+ 4:1498c14d050000b8/     Max C/ 400cc/ 2320A/6160.562cc/2y112d21h06m56s/  22/00000000
+ 5:1449a04405000004/     Max K/ 400cc/ 2305A/7039.353cc/2y106d22h46m21s/  24/00000000
+ 6:141f5c440500001f/     Max K/ 400cc/ 2214A/7053.689cc/2y108d21h00m29s/  22/00000000
+ 7:149ace93050000ad/     Max M/ 400cc/ 2725B/10586.355cc/2y086d16h57m52s/  22/00000000
+ 8:149bce930500009a/     Max M/ 400cc/ 2725B/10593.527cc/2y086d17h05m12s/  23/00000000
+Model                  : RE-640
+Version                : 1.90
+Serial No.             : ZAU0792
+Date                   : 2015/05/27 14:25
+Last event             : 79672
++--------+-----+----------------+------------------------------------+
+ Date     Time  Event            Information
++--------+-----+----------------+------------------------------------+
+ 15/05/27 14:23 Sub power on     Service mode
+ 15/05/27 14:22 Firmware update  1.80->1.90
+ 15/05/27 14:22 Main power on    Normal
+ 15/05/27 14:22 Temperature      25 C
+ 15/05/27 13:55 Temperature      25 C
+ 15/05/27 13:55 Sub power off    
+ 15/05/27 13:52 Cleaning         Normal cleaning
+ 15/05/27 13:52 Sub power on     Service mode
+ 15/05/27 13:52 Temperature      25 C
+ 15/05/27 13:52 Sub power off    
+ 15/05/27 13:46 Sub power on     Service mode
+ 15/05/27 13:46 Temperature      25 C
+ 15/05/27 13:46 Sub power off    
+ 15/05/27 13:44 Sub power on     Service mode
+ 15/05/27 13:44 Main power on    Normal
+ 15/05/27 13:44 Temperature      25 C
+ 15/05/27 12:02 Temperature      33 C
+ 15/05/27 12:01 Sub power off    
+ 15/05/27 12:01 Print done       
+ 15/05/27 12:01 Print start      
+ 15/05/27 12:01 Job start        33 C Testpattern
+ 15/05/27 12:01 Print done       
+ 15/05/27 12:01 Print start      
+ 15/05/27 12:01 Job start        33 C Testpattern
+ 15/05/27 12:01 Print done       
+ 15/05/27 12:00 Print start      
+ 15/05/27 12:00 Job start        33 C Testpattern
+ 15/05/27 12:00 Print done       
+ 15/05/27 12:00 Print start      
+ 15/05/27 12:00 Job start        33 C Testpattern
+ 15/05/27 12:00 Print done       
+ 15/05/27 12:00 Print start      
+ 15/05/27 12:00 Job start        33 C Testpattern
+ 15/05/27 12:00 Print done       
+ 15/05/27 12:00 Print start      
+ 15/05/27 12:00 Job start        33 C Testpattern
+ 15/05/27 12:00 Print done       
+ 15/05/27 11:59 Print start      
+ 15/05/27 11:59 Job start        33 C Testpattern
+ 15/05/27 11:59 Print done       
+ 15/05/27 11:59 Print start      
+ 15/05/27 11:59 Job start        33 C Testpattern
+ 15/05/27 11:59 Print done       
+ 15/05/27 11:59 Print start      
+ 15/05/27 11:59 Job start        33 C Testpattern
+ 15/05/27 11:59 Print done       
+ 15/05/27 11:58 Print start      
+ 15/05/27 11:58 Job start        33 C Testpattern
+ 15/05/27 11:58 Print done       
+ 15/05/27 11:58 Print start      
+ 15/05/27 11:58 Job start        33 C Testpattern
+ 15/05/27 11:58 Print done       
+ 15/05/27 11:58 Print start      
+ 15/05/27 11:58 Job start        33 C Testpattern
+ 15/05/27 11:58 Print done       
+ 15/05/27 11:57 Print start      
+ 15/05/27 11:57 Job start        33 C Testpattern
+ 15/05/27 11:57 Print done       
+ 15/05/27 11:57 Print start      
+ 15/05/27 11:57 Job start        33 C Testpattern
+ 15/05/27 11:57 Print done       
+ 15/05/27 11:57 Print start      
+ 15/05/27 11:57 Job start        33 C Testpattern
+ 15/05/27 11:57 Print done       
+ 15/05/27 11:57 Print start      
+ 15/05/27 11:57 Job start        33 C Testpattern
+ 15/05/27 11:56 Print done       
+ 15/05/27 11:56 Print start      
+ 15/05/27 11:56 Job start        33 C Testpattern
+ 15/05/27 11:56 Print done       
+ 15/05/27 11:56 Print start      
+ 15/05/27 11:56 Job start        33 C Testpattern
+ 15/05/27 11:56 Print done       
+ 15/05/27 11:56 Print start      
+ 15/05/27 11:56 Job start        33 C Testpattern
+ 15/05/27 11:56 Print done       
+ 15/05/27 11:55 Print start      
+ 15/05/27 11:55 Job start        33 C Testpattern
+ 15/05/27 11:53 Print done       
+ 15/05/27 11:52 Print start      
+ 15/05/27 11:52 Job start        33 C Testpattern
+ 15/05/27 11:52 Print done       
+ 15/05/27 11:52 Print start      
+ 15/05/27 11:52 Job start        33 C Testpattern
+ 15/05/27 11:50 Sub power on     Service mode
+ 15/05/27 11:50 Temperature      33 C
+ 15/05/27 11:50 Sub power off    
+ 15/05/27 11:36 Print done       
+ 15/05/27 11:33 Temperature      35 C
+ 15/05/27 11:33 Print start      
+ 15/05/27 11:33 Job start        35 C 
+ 15/05/27 11:33 Print done       
+ 15/05/27 11:26 Print start      
+ 15/05/27 11:26 Job start        33 C 
+ 15/05/27 11:26 Print done       
+ 15/05/27 11:26 Print start      
+ 15/05/27 11:26 Job start        33 C 
+ 15/05/27 11:07 Print done       
+ 15/05/27 10:50 Print start      
+ 15/05/27 10:50 Job start        32 C 
+ 15/05/27 10:39 Cancel done      
+ 15/05/27 10:39 Cancel start     User cancel
+ 15/05/27 10:35 Print start      
+ 15/05/27 10:35 Job start        31 C 
+ 15/05/27 10:33 Temperature      31 C
+ 15/05/27 10:24 Cleaning         Powerful cleaning
+ 15/05/27 10:24 Print done       
+ 15/05/27 10:23 Print start      
+ 15/05/27 10:23 Job start        31 C Testpattern
+ 15/05/27 10:23 Print done       
+ 15/05/27 10:22 Print start      
+ 15/05/27 10:22 Job start        31 C Testpattern
+ 15/05/27 10:22 Sleep out        
+ 15/05/27 10:20 Sleep in         
+ 15/05/27 09:33 Temperature      29 C
+ 15/05/27 09:31 Cancel done      
+ 15/05/27 09:31 Cancel start     Pinch lever up
+ 15/05/27 09:31 Sleep out        
+ 15/05/27 08:42 Sleep in         
+ 15/05/27 08:33 Temperature      28 C
+ 15/05/27 08:27 Sub power on     Normal
+ 15/05/27 07:33 Temperature      28 C
+ 15/05/27 06:33 Temperature      28 C
+ 15/05/27 05:33 Temperature      28 C
+ 15/05/27 04:33 Temperature      28 C
+ 15/05/27 03:33 Temperature      28 C
+ 15/05/27 02:33 Temperature      28 C
+ 15/05/27 01:33 Temperature      28 C
+ 15/05/27 00:33 Temperature      28 C
+ 15/05/27 00:33 Sub power off    
+ 15/05/27 00:33 Cleaning         Self flushing
+ 15/05/27 00:33 Sub power on     Normal
+ 15/05/27 00:05 Temperature      28 C
+ 15/05/26 23:05 Temperature      28 C
+ 15/05/26 22:05 Temperature      28 C
+ 15/05/26 21:05 Temperature      28 C
+ 15/05/26 20:05 Temperature      28 C
+ 15/05/26 19:05 Temperature      29 C
+ 15/05/26 18:05 Temperature      30 C
+ 15/05/26 18:05 Sub power off    
+ 15/05/26 18:05 Sleep out        
+ 15/05/26 17:56 Temperature      30 C
+ 15/05/26 17:28 Sleep in         
+ 15/05/26 17:14 Sleep out        
+ 15/05/26 16:56 Temperature      32 C
+ 15/05/26 16:47 Sleep in         
+ 15/05/26 16:33 Print done       
+ 15/05/26 16:24 Print start      
+ 15/05/26 16:24 Job start        33 C 
+ 15/05/26 16:24 Sleep out        
+ 15/05/26 16:18 Sleep in         
+ 15/05/26 16:02 Cancel done      
+ 15/05/26 16:02 Cancel start     Pinch lever up
+ 15/05/26 15:56 Temperature      33 C
+ 15/05/26 15:48 Cleaning         Medium cleaning
+ 15/05/26 15:47 Cancel done      
+ 15/05/26 15:47 Cancel start     Pinch lever up
+ 15/05/26 15:40 Print done       
+ 15/05/26 15:32 Print start      
+ 15/05/26 15:32 Job start        34 C 
+ 15/05/26 15:32 Print done       
+ 15/05/26 15:13 Cleaning         Pre-print cleaning
+ 15/05/26 15:13 Print start      
+ 15/05/26 15:13 Job start        32 C 
+ 15/05/26 15:09 Cancel done      
+ 15/05/26 15:09 Cancel start     Pinch lever up
+ 15/05/26 15:00 Print done       
+ 15/05/26 14:56 Temperature      33 C
+ 15/05/26 14:38 Print start      
+ 15/05/26 14:38 Job start        30 C 
+ 15/05/26 14:24 Cancel done      
+ 15/05/26 14:24 Cancel start     Pinch lever up
+ 15/05/26 14:15 Sleep out        
+ 15/05/26 13:56 Temperature      31 C
+ 15/05/26 13:31 Sleep in         
+ 15/05/26 13:16 Print done       
+ 15/05/26 12:56 Temperature      33 C
+ 15/05/26 12:55 Print start      
+ 15/05/26 12:55 Job start        33 C 
+ 15/05/26 12:52 Cancel done      
+ 15/05/26 12:52 Cancel start     User cancel
+ 15/05/26 12:45 Print start      
+ 15/05/26 12:45 Job start        32 C 
+ 15/05/26 12:34 Cancel done      
+ 15/05/26 12:34 Cancel start     Pinch lever up
+ 15/05/26 12:29 Print done       
+ 15/05/26 12:07 Print start      
+ 15/05/26 12:07 Job start        33 C 
+ 15/05/26 12:03 Cancel done      
+ 15/05/26 12:03 Cancel start     Pinch lever up
+ 15/05/26 11:56 Temperature      33 C
+ 15/05/26 11:50 Cancel done      
+ 15/05/26 11:49 Cancel start     User cancel
+ 15/05/26 11:39 Print start      
+ 15/05/26 11:39 Job start        32 C 
+ 15/05/26 11:39 Sleep out        
+ 15/05/26 11:35 Sleep in         
+ 15/05/26 11:19 Cancel done      
+ 15/05/26 11:19 Cancel start     Pinch lever up
+ 15/05/26 11:17 Sleep out        
+ 15/05/26 10:57 Sleep in         
+ 15/05/26 10:56 Temperature      33 C
+ 15/05/26 10:43 Print done       
+ 15/05/26 10:37 Print start      
+ 15/05/26 10:37 Job start        33 C 
+ 15/05/26 10:30 Sleep out        
+ 15/05/26 10:20 Sleep in         
+ 15/05/26 10:05 Print done       
+ 15/05/26 09:56 Temperature      34 C
+ 15/05/26 09:54 Print start      
+ 15/05/26 09:54 Job start        33 C 
+ 15/05/26 09:43 Cancel done      
+ 15/05/26 09:43 Cancel start     Pinch lever up
+ 15/05/26 09:39 Print done       
+ 15/05/26 09:33 Print start      
+ 15/05/26 09:33 Job start        33 C 
+ 15/05/26 09:20 Print done       
+ 15/05/26 09:13 Print start      
+ 15/05/26 09:13 Job start        32 C 
+ 15/05/26 08:56 Temperature      32 C
+ 15/05/26 08:54 Cancel done      
+ 15/05/26 08:54 Cancel start     Pinch lever up
+ 15/05/26 08:52 Print done       
+ 15/05/26 08:51 Print start      
+ 15/05/26 08:51 Job start        31 C 
+ 15/05/26 08:48 Sleep out        
+ 15/05/26 08:42 Sleep in         
+ 15/05/26 08:28 Print done       
+ 15/05/26 08:25 Print start      
+ 15/05/26 08:25 Job start        29 C 
+ 15/05/26 08:22 Cancel done      
+ 15/05/26 08:22 Cancel start     Pinch lever up
+ 15/05/26 08:22 Print done       
+ 15/05/26 08:20 Print start      
+ 15/05/26 08:20 Job start        29 C 
+ 15/05/26 08:14 Cancel done      
+ 15/05/26 08:14 Cancel start     Pinch lever up
+ 15/05/26 07:57 Sub power on     Normal
+ 15/05/26 07:56 Temperature      28 C
+ 15/05/26 06:56 Temperature      28 C
+ 15/05/26 05:56 Temperature      28 C
+ 15/05/26 04:56 Temperature      28 C
+ 15/05/26 03:56 Temperature      28 C
+ 15/05/26 02:56 Temperature      28 C
+ 15/05/26 01:56 Temperature      28 C
+ 15/05/26 00:56 Temperature      28 C
+ 15/05/26 00:55 Sub power off    
+ 15/05/26 00:55 Cleaning         Self flushing
+ 15/05/26 00:55 Sub power on     Normal
+ 15/05/26 00:01 Temperature      28 C
+ 15/05/25 23:01 Temperature      28 C
+ 15/05/25 22:01 Temperature      28 C
+ 15/05/25 21:01 Temperature      28 C
+ 15/05/25 20:01 Temperature      28 C
+ 15/05/25 19:01 Temperature      29 C
+ 15/05/25 18:01 Temperature      30 C
+ 15/05/25 18:01 Sub power off    
+ 15/05/25 18:01 Sleep out        
+ 15/05/25 17:29 Temperature      31 C
+ 15/05/25 17:09 Sleep in         
+ 15/05/25 16:55 Print done       
+ 15/05/25 16:50 Print start      
+ 15/05/25 16:50 Job start        32 C 
+ 15/05/25 16:42 Cancel done      
+ 15/05/25 16:42 Cancel start     Pinch lever up
+ 15/05/25 16:39 Print done       
+ 15/05/25 16:29 Cleaning         Pre-print cleaning
+ 15/05/25 16:29 Print start      
+ 15/05/25 16:29 Job start        33 C 
+ 15/05/25 16:29 Temperature      33 C
+ 15/05/25 16:27 Print done       
+ 15/05/25 15:52 Print start      
+ 15/05/25 15:52 Job start        30 C 
+ 15/05/25 15:44 Cancel done      
+ 15/05/25 15:44 Cancel start     Pinch lever up
+ 15/05/25 15:44 Sleep out        
+ 15/05/25 15:29 Temperature      31 C
+ 15/05/25 14:46 Sleep in         
+ 15/05/25 14:29 Temperature      32 C
+
+@DONE@

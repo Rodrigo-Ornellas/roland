@@ -1,0 +1,714 @@
+Model                 : RS-640
+Version               : 4.70
+Serial No.            : ZAO6155
+Date                  : 2015/04/30 18:28
+IP Address            : 200.202.110.002
+Subnet Mask           : 255.255.255.010
+Gateway Address       : 200.200.200.001
+MAC Address           : 00:40:AB:00:CF:73
+Ink type              : E-SOL Max 4Color
+Ink remain(1-4)       :   0/  0/  0/  0
+Head height           : Low
+Head Temperature      : 28C /  82.4F
+Heater temp.(PRINT)   : 32C /  88F
+Heater temp.(DRYER)   : 29C /  84F
+Sheet type            : Opaque
+Empty mode            : Continue 
+Calibration           :  0.00 %
+Full width scanning   : OFF
+Scan interval         :  0.0 sec
+Length unit           : mm
+Temperature unit      : C
+Menu language         : English
+Sleep interval        :  30 min
+Sheet remain          : 0.0m
+Periodic cleaning     :  NONE  
+Vacuum power          : Auto
+Heater setting(PRINT) : 40C / 104F
+Heater setting(DRYER) : 42C / 106F
+Feed for dry          : Disable
+Preheating            : PREHEAT
+Set remain at loading : Disable
+Bi-dir. simple        :  -1.5
+                      :  H1    H2    H3    H4  
+Bi-dir. adjust No.1   :  -1    -1    -1    +0.5
+               No.2   :  +1    +1     0     0  
+                      :  H1    H2    H3    H4  
+               No.3   :  -1    -1    -2    -1  
+               No.4   :   0     0    -1    -0.5
+Media Release         : Disable
+Sheet Width           : 1625.0 mm
+Side Margin           : 10mm
+Sheet Pos(R)          :    0.0 mm
+Sheet Pos(L)          : 1625.6 mm
+Preset name           : LONA FAIXA     
+Calibration           : +0.20 %
+Heater setting(PRINT) : 40C / 104F
+Heater setting(DRYER) : 42C / 106F
+Feed for dry          : Disable
+Bi-dir. simple        :  -1.5
+Scan interval   :  0.0 sec
+Sheet type      : Opaque
+Full width S    : FULL
+Preheating      : Preheat
+Vacuum power    : Auto
+Media Release : Disable
+Side Margin   : 10mm
+Sheet Width   :    1625.0 mm
+Sheet Pos(R)  :       0.0 mm
+Sheet Pos(L)  :    1625.6 mm
+Bi-dir. Adjust No.1   :  -1  /  -1  /  -1  /  +0.5 
+               No.2   :  +1  /  +1  /   0  /   0   
+               No.3   :  -1  /  -1  /  -2  /  -1   
+               No.4   :   0  /   0  /  -1  /  -0.5 
+Preset name           : VINIL PLACAS   
+Calibration           :  0.00 %
+Heater setting(PRINT) : 35C /  94F
+Heater setting(DRYER) : 40C / 104F
+Feed for dry          : Disable
+Bi-dir. simple        :   0  
+Scan interval   :  0.0 sec
+Sheet type      : Opaque
+Full width S    : FULL
+Preheating      : Preheat
+Vacuum power    : Auto
+Media Release : Disable
+Side Margin   : 10mm
+Sheet Width   :    1625.0 mm
+Sheet Pos(R)  :       0.0 mm
+Sheet Pos(L)  :    1625.6 mm
+Bi-dir. Adjust No.1   :   0  /   0  /   0  /   0   
+               No.2   :   0  /   0  /   0  /   0   
+               No.3   :   0  /   0  /   0  /   0   
+               No.4   :   0  /   0  /   0  /   0   
+Preset name           : NAME3
+Calibration           :  0.00 %
+Heater setting(PRINT) : 35C /  94F
+Heater setting(DRYER) : 40C / 104F
+Feed for dry          : Disable
+Bi-dir. simple        :   0  
+Scan interval   :  0.0 sec
+Sheet type      : Opaque
+Full width S    : FULL
+Preheating      : Preheat
+Vacuum power    : Auto
+Media Release : Disable
+Side Margin   : 10mm
+Sheet Width   :    1625.0 mm
+Sheet Pos(R)  :       0.0 mm
+Sheet Pos(L)  :    1625.6 mm
+Bi-dir. Adjust No.1   :   0  /   0  /   0  /   0   
+               No.2   :   0  /   0  /   0  /   0   
+               No.3   :   0  /   0  /   0  /   0   
+               No.4   :   0  /   0  /   0  /   0   
+Preset name           : NAME4
+Calibration           :  0.00 %
+Heater setting(PRINT) : 35C /  94F
+Heater setting(DRYER) : 40C / 104F
+Feed for dry          : Disable
+Bi-dir. simple        :   0  
+Scan interval   :  0.0 sec
+Sheet type      : Opaque
+Full width S    : FULL
+Preheating      : Preheat
+Vacuum power    : Auto
+Media Release : Disable
+Side Margin   : 10mm
+Sheet Width   :    1625.0 mm
+Sheet Pos(R)  :       0.0 mm
+Sheet Pos(L)  :    1625.6 mm
+Bi-dir. Adjust No.1   :   0  /   0  /   0  /   0   
+               No.2   :   0  /   0  /   0  /   0   
+               No.3   :   0  /   0  /   0  /   0   
+               No.4   :   0  /   0  /   0  /   0   
+Preset name           : NAME5
+Calibration           :  0.00 %
+Heater setting(PRINT) : 35C /  94F
+Heater setting(DRYER) : 40C / 104F
+Feed for dry          : Disable
+Bi-dir. simple        :   0  
+Scan interval   :  0.0 sec
+Sheet type      : Opaque
+Full width S    : FULL
+Preheating      : Preheat
+Vacuum power    : Auto
+Media Release : Disable
+Side Margin   : 10mm
+Sheet Width   :    1625.0 mm
+Sheet Pos(R)  :       0.0 mm
+Sheet Pos(L)  :    1625.6 mm
+Bi-dir. Adjust No.1   :   0  /   0  /   0  /   0   
+               No.2   :   0  /   0  /   0  /   0   
+               No.3   :   0  /   0  /   0  /   0   
+               No.4   :   0  /   0  /   0  /   0   
+Preset name           : NAME6
+Calibration           :  0.00 %
+Heater setting(PRINT) : 35C /  94F
+Heater setting(DRYER) : 40C / 104F
+Feed for dry          : Disable
+Bi-dir. simple        :   0  
+Scan interval   :  0.0 sec
+Sheet type      : Opaque
+Full width S    : FULL
+Preheating      : Preheat
+Vacuum power    : Auto
+Media Release : Disable
+Side Margin   : 10mm
+Sheet Width   :    1625.0 mm
+Sheet Pos(R)  :       0.0 mm
+Sheet Pos(L)  :    1625.6 mm
+Bi-dir. Adjust No.1   :   0  /   0  /   0  /   0   
+               No.2   :   0  /   0  /   0  /   0   
+               No.3   :   0  /   0  /   0  /   0   
+               No.4   :   0  /   0  /   0  /   0   
+Preset name           : NAME7
+Calibration           :  0.00 %
+Heater setting(PRINT) : 35C /  94F
+Heater setting(DRYER) : 40C / 104F
+Feed for dry          : Disable
+Bi-dir. simple        :   0  
+Scan interval   :  0.0 sec
+Sheet type      : Opaque
+Full width S    : FULL
+Preheating      : Preheat
+Vacuum power    : Auto
+Media Release : Disable
+Side Margin   : 10mm
+Sheet Width   :    1625.0 mm
+Sheet Pos(R)  :       0.0 mm
+Sheet Pos(L)  :    1625.6 mm
+Bi-dir. Adjust No.1   :   0  /   0  /   0  /   0   
+               No.2   :   0  /   0  /   0  /   0   
+               No.3   :   0  /   0  /   0  /   0   
+               No.4   :   0  /   0  /   0  /   0   
+Preset name           : NAME8
+Calibration           :  0.00 %
+Heater setting(PRINT) : 35C /  94F
+Heater setting(DRYER) : 40C / 104F
+Feed for dry          : Disable
+Bi-dir. simple        :   0  
+Scan interval   :  0.0 sec
+Sheet type      : Opaque
+Full width S    : FULL
+Preheating      : Preheat
+Vacuum power    : Auto
+Media Release : Disable
+Side Margin   : 10mm
+Sheet Width   :    1625.0 mm
+Sheet Pos(R)  :       0.0 mm
+Sheet Pos(L)  :    1625.6 mm
+Bi-dir. Adjust No.1   :   0  /   0  /   0  /   0   
+               No.2   :   0  /   0  /   0  /   0   
+               No.3   :   0  /   0  /   0  /   0   
+               No.4   :   0  /   0  /   0  /   0   
+Head rank H1          : 7BY3E43UXSYVVRR ............ 00L..E
+          H2          : 7DU4441RURVXXRS ............ 007..E
+          H3          : 83W4647TWSXUUQR ............ 00W..E
+          H4          : 7DW4444SWSXWWRS ............ 00U..E
+                      :  H1     H2     H3     H4   
+Head hori.(DT1.Low)   :         +8    +14.5  +17   
+          (DT3.Low)   :         +8.5  +14    +16   
+          (DT1.High)  :         +8    +15    +17   
+          (DT3.High)  :         +9    +14    +17   
+Head bi   (DT1.Low)   : +13    +13    +17.5  +11   
+          (DT3.Low)   : +11    +13    +14.5  +13   
+          (DT1.High)  : +20    +19    +24.5  +17.5 
+          (DT3.High)  : +18    +17    +21    +17   
+Dip SW                : 00000000
+System SW page( 1- 4) : 00000000 00000000 00000000 00000000 
+System SW page( 5- 8) : 00000000 00000000 00000001 00000000 
+System SW page( 9-12) : 00000000 00000000 00000000 00000000 
+System SW page(13-16) : 00000000 00000000 00000000 00000011 
+Network I/F  version  : Print Server 1.1 (Tue May 30 14:46:26 JST 2006)
+Limit position        :      40.5 mm
+Cutter down position  :    2012.1 mm
+Calibration default   :     -0.34 %
+Encoder position(L)   :    1772.5 mm
+Encoder position(R)   :     146.9 mm
+Maintenance request   : NONE
+Booter version        : 1.10
+Battery               :   Charged
+Periodic CL. degree   : NORMAL
+Set sheet position    : 0 - 1625
+Drain liquid volume   : 1948.4 cc
+Standard head         : 1
+Flushing pos adjust   :  0.44 mm
+Heater adjust(PRINT)  :   0C
+Heater adjust(DRYER)  :   0C
+Preheat temperature   : 30C
+Heating timeout       : 20 min
+Model                  : RS-640
+Version                : 4.70
+Serial No.             : ZAO6155
+Date                   : 2015/04/30 18:28
+==== Motor group ====
+Motor feed   (trip/total [clear]):         36/         36 hours [0]
+Motor scan   (trip/total [clear]):      1,235/      1,235 hours [0]
+Pump Times   (trip/total [clear]):     78,513/     78,513 times [0]
+==== Head group ====
+Shot Cnt.  1 (trip/total [clear]):  1,812,226/  1,812,226 K times/nozzle [0]
+Shot Cnt.  2 (trip/total [clear]):  1,819,034/  1,819,034 K times/nozzle [0]
+Shot Cnt.  3 (trip/total [clear]):  2,391,687/  2,391,687 K times/nozzle [0]
+Shot Cnt.  4 (trip/total [clear]):  2,371,536/  2,371,536 K times/nozzle [0]
+Shot Cnt.  5 (trip/total [clear]):         75/  6,853,432 K times/nozzle [1]
+Shot Cnt.  6 (trip/total [clear]):         76/  6,862,005 K times/nozzle [1]
+Shot Cnt.  7 (trip/total [clear]):  6,700,354/  6,700,354 K times/nozzle [0]
+Shot Cnt.  8 (trip/total [clear]):  6,723,710/  6,723,710 K times/nozzle [0]
+                       :     H1     H2     H3     H4
+Wiping count for head  :  2,694  2,694  2,694  2,694 times
+Rubbing count for head :     37     37     37     37 times
+Headrank set count     :      0      0      1      0 times
+Auto cleaning count    :    444    444    444    444 times
+Normal cleaning count  :    162    162    162    162 times
+Medium cleaning count  :     18     18     18     18 times
+Powerful cleaning count:      6      6      6      6 times
+Protect Head           :      0      0      0      0 times
+==== Maintenance group ====
+Maintenance Count      :    716 times
+Total time             :     78 hours
+Printing time          :      0 hours
+==== Wiper group ====
+Wiping count           :      4 times
+Rubbing count          :      0 times
+Wiper replace count    :      3 times
+==== Print group ====
+Printing time          :         935 hours
+Print pages            :       4,165 pages
+==== Ink group ====
+Cartridge change(1-4)  :      0      0      1      0 times
+Change ink type        :           0 times
+==== Error group ====
+Service call count     :     18 times
+Service call history   : 0112 0112 0112 0109 0109
+Motor error  (feed)    :     19 times
+Motor error  (scan)    :     60 times
+Low temperature error  :      0 times
+High temperature error :      0 times
+Emergency capping      :      1 times
+Start uncapped         :     43 times
+==== System group ====
+Power on count         :  2,991 times
+Power on time          :  3,264 hours
+Sleep time             :  2,480 hours
+Sheet cut count        :  1,999 times
+Peck used count        :      0 times
+==== Heater group ====        PRINT      DRYER
+Heater used time       :      1,039      1,039 hours
+
+Model                  : RS-640
+Version                : 4.70
+Serial No.             : ZAO6155
+No:          SERIAL/  INK TYPE/  CAP./LOT No/   CONSUM./           TIME/INS./    FLAG
+ 1:145f5e24040000d2/     Max K/ 400cc/ 9A26A/5181.008cc/1y301d05h43m16s/ 353/00000001
+ 2:1431742404000047/     Max C/ 400cc/ 9A22A/2256.331cc/0y211d22h44m03s/ 106/00000001
+ 3:149c0fc904000098/     Max M/ 400cc/ 1406A/31495.487cc/2y240d22h50m49s/ 773/00000001
+ 4:14d40dc1040000d3/     Max Y/ 200cc/ 0C03A/30259.035cc/2y224d04h51m59s/   9/00000000
+Model                  : RS-640
+Version                : 4.70
+Serial No.             : ZAO6155
+Date                   : 2015/04/30 18:28
+ Date     Time  Temp. Event            Information
++--------+-----+-----+----------------+------------------------------+
+ Date     Time  Temp. Event            Information
++--------+-----+-----+----------------+------------------------------+
+ 15/04/30 18:28 27    Sub power on     Normal 
+ 15/04/30 18:28 27    Firmware update  4.60->4.70
+ 15/04/30 18:28 27    Main power on    Normal 
+ 15/04/30 18:27 27    Sub power on     Version-up mode 
+ 15/04/30 18:27 27    Main power on    Normal 
+ 15/04/30 18:00 29    Sub power off   
+ 15/04/30 17:59 28    Setup done       Width:978mm Env.: 0.000
+ 15/04/30 17:59 28    Cancel done     
+ 15/04/30 17:59 28    Cancel start     Pinch lever up 
+ 15/04/30 17:56 28    Print done       Testpattern 
+ 15/04/30 17:55 28    Print start      Testpattern 
+ 15/04/30 17:55 28    Print done       Testpattern 
+ 15/04/30 17:55 28    Print start      Testpattern 
+ 15/04/30 17:54 28    Print done       Testpattern 
+ 15/04/30 17:53 28    Print start      Testpattern 
+ 15/04/30 17:46 27    Print done        
+ 15/04/30 17:44 27    Print start       
+ 15/04/30 17:39 27    Print done       Testpattern 
+ 15/04/30 17:39 27    Print start      Testpattern 
+ 15/04/30 17:39 27    Print done       Testpattern 
+ 15/04/30 17:38 27    Print start      Testpattern 
+ 15/04/30 17:38 27    Print done       Testpattern 
+ 15/04/30 17:38 27    Print start      Testpattern 
+ 15/04/30 17:38 27    Print done       Testpattern 
+ 15/04/30 17:37 27    Print start      Testpattern 
+ 15/04/30 17:32 27    Print done       Testpattern 
+ 15/04/30 17:32 27    Print start      Testpattern 
+ 15/04/30 17:32 27    Print done       Testpattern 
+ 15/04/30 17:31 27    Print start      Testpattern 
+ 15/04/30 17:31 27    Print done       Testpattern 
+ 15/04/30 17:30 27    Print start      Testpattern 
+ 15/04/30 17:30 27    Print done       Testpattern 
+ 15/04/30 17:30 27    Print start      Testpattern 
+ 15/04/30 17:24 27    Print done       Testpattern 
+ 15/04/30 17:24 27    Print start      Testpattern 
+ 15/04/30 17:22 27    Print done       Testpattern 
+ 15/04/30 17:22 27    Print start      Testpattern 
+ 15/04/30 17:22 27    Print done       Testpattern 
+ 15/04/30 17:21 27    Print start      Testpattern 
+ 15/04/30 17:21 27    Print done       Testpattern 
+ 15/04/30 17:20 27    Print start      Testpattern 
+ 15/04/30 17:20 27    Print done       Testpattern 
+ 15/04/30 17:19 27    Print start      Testpattern 
+ 15/04/30 17:17 27    Print done       Testpattern 
+ 15/04/30 17:17 27    Print start      Testpattern 
+ 15/04/30 17:13 26    Print done       Testpattern 
+ 15/04/30 17:12 27    Print start      Testpattern 
+ 15/04/30 17:10 26    Cleaning         Normal cleaning 
+ 15/04/30 17:10 26    Setup done       Width:1605mm Env.: 0.000
+ 15/04/30 17:08 26    Sub power on     Service mode 
+ 15/04/30 17:08 26    Main power on    Normal 
+ 15/04/30 15:38 29    Sub power off   
+ 15/04/30 15:34 29    Print done       Testpattern 
+ 15/04/30 15:33 29    Print start      Testpattern 
+ 15/04/30 15:33 29    Print done       Testpattern 
+ 15/04/30 15:32 29    Print start      Testpattern 
+ 15/04/30 15:31 29    Setup done       Width:1605mm Env.: 0.000
+ 15/04/30 15:29 29    Cleaning         Power on cleaning 
+ 15/04/30 15:28 29    Sub power on     Service mode 
+ 15/04/30 08:49 29    Sub power off   
+ 15/04/30 08:49 29    Cleaning         Self flushing 
+ 15/04/30 08:48 29    Sub power on     Normal 
+ 15/04/30 00:48 29    Sub power off   
+ 15/04/30 00:48 30    Cleaning         Self flushing 
+ 15/04/30 00:48 29    Sub power on     Normal 
+ 15/04/29 16:48 30    Sub power off   
+ 15/04/29 16:48 30    Cleaning         Self flushing 
+ 15/04/29 16:47 30    Sub power on     Normal 
+ 15/04/29 08:47 29    Sub power off   
+ 15/04/29 08:47 29    Cleaning         Self flushing 
+ 15/04/29 08:46 29    Sub power on     Normal 
+ 15/04/29 00:46 29    Sub power off   
+ 15/04/29 00:46 29    Cleaning         Self flushing 
+ 15/04/29 00:46 29    Sub power on     Normal 
+ 15/04/28 16:46 30    Sub power off   
+ 15/04/28 16:46 30    Cleaning         Self flushing 
+ 15/04/28 16:45 30    Sub power on     Normal 
+ 15/04/28 08:45 30    Sub power off   
+ 15/04/28 08:45 30    Cleaning         Self flushing 
+ 15/04/28 08:45 30    Sub power on     Normal 
+ 15/04/28 00:44 31    Sub power off   
+ 15/04/28 00:44 31    Cleaning         Self flushing 
+ 15/04/28 00:44 31    Sub power on     Normal 
+ 15/04/27 16:44 29    Sub power off   
+ 15/04/27 16:42 29    Cleaning         Normal cleaning 
+ 15/04/27 16:41 29    Sub power on     Normal 
+ 15/04/27 14:22 30    Sub power off   
+ 15/04/27 14:22 30    Sleep out       
+ 15/04/27 12:31 33    Sleep in        
+ 15/04/27 12:01 33    Cancel done     
+ 15/04/27 12:01 33    Cancel start     Pinch lever up 
+ 15/04/27 11:42 32    Print done       Testpattern 
+ 15/04/27 11:42 32    Print start      Testpattern 
+ 15/04/27 11:42 32    Setup done       Width:1605mm Env.: 0.000
+ 15/04/27 11:34 32    Cancel done     
+ 15/04/27 11:34 32    Cancel start     Pinch lever up 
+ 15/04/27 11:34 32    Print done       Testpattern 
+ 15/04/27 11:33 32    Print start      Testpattern 
+ 15/04/27 11:29 32    Cleaning         Powerful cleaning 
+ 15/04/27 11:29 32    Print done       Testpattern 
+ 15/04/27 11:28 32    Print start      Testpattern 
+ 15/04/27 11:26 32    Setup done       Width:1605mm Env.: 0.000
+ 15/04/27 11:26 32    Cancel done     
+ 15/04/27 11:26 32    Cancel start     User cancel 
+ 15/04/27 11:22 32    Print start       
+ 15/04/27 11:22 32    Setup done       Width:1605mm Env.: 0.000
+ 15/04/27 11:17 32    Cleaning         Normal cleaning 
+ 15/04/27 11:17 32    Cancel done     
+ 15/04/27 11:17 32    Cancel start     Pinch lever up 
+ 15/04/27 11:17 32    Setup done       Width:1605mm Env.: 0.000
+ 15/04/27 11:16 32    Cancel done     
+ 15/04/27 11:16 32    Cancel start     User cancel 
+ 15/04/27 11:16 32    Print start       
+ 15/04/27 11:14 31    Print done        
+ 15/04/27 11:00 32    Print start       
+ 15/04/27 10:57 31    Print done        
+ 15/04/27 10:43 31    Print start       
+ 15/04/27 10:40 31    Print done        
+ 15/04/27 10:26 31    Print start       
+ 15/04/27 10:20 31    Setup done       Width:1605mm Env.: 0.000
+ 15/04/27 10:13 31    Cancel done     
+ 15/04/27 10:13 31    Cancel start     Pinch lever up 
+ 15/04/27 10:12 31    Setup done       Width:1605mm Env.: 0.000
+ 15/04/27 10:11 31    Sleep out       
+ 15/04/27 08:46 32    Sleep in        
+ 15/04/27 08:15 31    Cancel done     
+ 15/04/27 08:15 31    Cancel start     Pinch lever up 
+ 15/04/27 08:04 30    Print done        
+ 15/04/27 07:57 29    Print start       
+ 15/04/27 07:54 29    Setup done       Width:1605mm Env.: 0.000
+ 15/04/27 07:52 29    Sub power on     Normal 
+ 15/04/27 03:59 29    Sub power off   
+ 15/04/27 03:58 29    Cleaning         Self flushing 
+ 15/04/27 03:58 29    Sub power on     Normal 
+ 15/04/26 19:58 30    Sub power off   
+ 15/04/26 19:58 30    Cleaning         Self flushing 
+ 15/04/26 19:57 30    Sub power on     Normal 
+ 15/04/26 11:57 30    Sub power off   
+ 15/04/26 11:57 30    Cleaning         Self flushing 
+ 15/04/26 11:57 30    Sub power on     Normal 
+ 15/04/26 03:57 30    Sub power off   
+ 15/04/26 03:57 30    Cleaning         Self flushing 
+ 15/04/26 03:56 30    Sub power on     Normal 
+ 15/04/25 19:56 31    Sub power off   
+ 15/04/25 19:56 31    Cleaning         Self flushing 
+ 15/04/25 19:55 31    Sub power on     Normal 
+ 15/04/25 11:55 33    Sub power off   
+ 15/04/25 11:53 33    Cleaning         Normal cleaning 
+ 15/04/25 11:48 33    Sub power on     Normal 
+ 15/04/25 11:47 33    Sub power off   
+ 15/04/25 11:47 33    Print start      Testpattern 
+ 15/04/25 11:25 32    Print done        
+ 15/04/25 11:13 32    Print start       
+ 15/04/25 11:07 32    Setup done       Width:1605mm Env.: 0.000
+ 15/04/25 11:07 32    Sub power on     Normal 
+ 15/04/25 11:06 32    Sub power off   
+ 15/04/25 10:43 31    Print done        
+ 15/04/25 10:22 30    Print start       
+ 15/04/25 10:20 30    Setup done       Width:1605mm Env.: 0.000
+ 15/04/25 10:19 30    Sub power on     Normal 
+ 15/04/25 08:50 30    Sub power off   
+ 15/04/25 08:50 30    Cleaning         Self flushing 
+ 15/04/25 08:49 30    Sub power on     Normal 
+ 15/04/25 00:49 32    Sub power off   
+ 15/04/25 00:49 32    Cleaning         Self flushing 
+ 15/04/25 00:49 32    Sub power on     Normal 
+ 15/04/24 16:49 33    Sub power off   
+ 15/04/24 16:43 33    Sleep out       
+ 15/04/24 16:23 33    Sleep in        
+ 15/04/24 15:53 33    Cancel done     
+ 15/04/24 15:53 33    Cancel start     Pinch lever up 
+ 15/04/24 15:53 33    Print done        
+ 15/04/24 15:51 33    Print start       
+ 15/04/24 15:51 33    Setup done       Width:1605mm Env.: 0.000
+ 15/04/24 15:48 33    Cleaning         Power on cleaning 
+ 15/04/24 15:47 33    Sub power on     Normal 
+ 15/04/24 15:47 33    Main power on    Normal 
+ 15/04/24 15:47 33    Sub power off   
+ 15/04/24 15:47 32    Error            Scan motor 00100010 442mm
+ 15/04/24 15:46 33    Print start       
+ 15/04/24 15:45 33    Setup done       Width:1605mm Env.: 0.000
+ 15/04/24 15:44 33    Sleep out       
+ 15/04/24 15:37 33    Sleep in        
+ 15/04/24 15:07 33    Cancel done     
+ 15/04/24 15:07 33    Cancel start     Pinch lever up 
+ 15/04/24 15:06 33    Print done        
+ 15/04/24 15:06 33    Print start       
+ 15/04/24 15:05 33    Setup done       Width:1605mm Env.: 0.000
+ 15/04/24 14:39 32    Cancel done     
+ 15/04/24 14:39 32    Cancel start     Pinch lever up 
+ 15/04/24 14:39 32    Print done        
+ 15/04/24 14:31 33    Print start       
+ 15/04/24 14:30 32    Setup done       Width:1605mm Env.: 0.000
+ 15/04/24 14:27 33    Sleep out       
+ 15/04/24 13:22 34    Sleep in        
+ 15/04/24 12:52 34    Cancel done     
+ 15/04/24 12:52 34    Cancel start     Pinch lever up 
+ 15/04/24 12:48 33    Print done        
+ 15/04/24 12:42 34    Print start       
+ 15/04/24 12:42 34    Setup done       Width:1605mm Env.: 0.000
+ 15/04/24 12:41 34    Cancel done     
+ 15/04/24 12:41 34    Cancel start     User cancel 
+ 15/04/24 12:41 34    Print start       
+ 15/04/24 12:38 34    Setup done       Width:1605mm Env.: 0.000
+ 15/04/24 12:37 34    Cancel done     
+ 15/04/24 12:37 34    Cancel start     User cancel 
+ 15/04/24 12:32 34    Print start       
+ 15/04/24 12:31 34    Setup done       Width:1605mm Env.: 0.000
+ 15/04/24 12:05 34    Cancel done     
+ 15/04/24 12:05 34    Cancel start     Pinch lever up 
+ 15/04/24 11:30 32    Print done        
+ 15/04/24 11:14 34    Print start       
+ 15/04/24 11:13 34    Setup done       Width:1605mm Env.: 0.000
+ 15/04/24 11:13 34    Cancel done     
+ 15/04/24 11:13 34    Cancel start     Pinch lever up 
+ 15/04/24 11:13 34    Sleep out       
+ 15/04/24 10:37 34    Sleep in        
+ 15/04/24 10:07 32    Print done        
+ 15/04/24 09:50 32    Print start       
+ 15/04/24 09:31 32    Print done        
+ 15/04/24 09:16 31    Print start       
+ 15/04/24 09:14 31    Setup done       Width:1605mm Env.: 0.000
+ 15/04/24 09:14 31    Sleep out       
+ 15/04/24 07:36 32    Sleep in        
+ 15/04/24 07:06 30    Cancel done     
+ 15/04/24 07:06 30    Cancel start     Pinch lever up 
+ 15/04/24 07:06 30    Print done        
+ 15/04/24 07:05 30    Print start       
+ 15/04/24 07:03 30    Setup done       Width:1605mm Env.: 0.000
+ 15/04/24 06:50 30    Sub power on     Normal 
+ 15/04/24 01:45 30    Sub power off   
+ 15/04/24 01:45 31    Cleaning         Self flushing 
+ 15/04/24 01:44 31    Sub power on     Normal 
+ 15/04/23 17:44 31    Sub power off   
+ 15/04/23 17:42 31    Cleaning         Normal cleaning 
+ 15/04/23 17:41 31    Sleep out       
+ 15/04/23 10:00 32    Sleep in        
+ 15/04/23 09:30 32    Sleep out       
+ 15/04/23 09:07 32    Sleep in        
+ 15/04/23 08:37 31    Cancel done     
+ 15/04/23 08:37 31    Cancel start     Pinch lever up 
+ 15/04/23 08:36 31    Print done        
+ 15/04/23 08:30 30    Print start       
+ 15/04/23 08:27 30    Setup done       Width:1605mm Env.: 0.000
+ 15/04/23 07:59 30    Sub power on     Normal 
+ 15/04/23 00:07 31    Sub power off   
+ 15/04/23 00:06 31    Cleaning         Self flushing 
+ 15/04/23 00:06 31    Sub power on     Normal 
+ 15/04/22 16:06 36    Sub power off   
+ 15/04/22 15:55 36    Cancel done     
+ 15/04/22 15:55 36    Cancel start     Pinch lever up 
+ 15/04/22 15:28 35    Print done        
+ 15/04/22 14:57 35    Print start       
+ 15/04/22 14:52 35    Setup done       Width:1605mm Env.: 0.000
+ 15/04/22 14:49 35    Cancel done     
+ 15/04/22 14:49 35    Cancel start     Pinch lever up 
+ 15/04/22 14:44 34    Print done        
+ 15/04/22 14:27 35    Print start       
+ 15/04/22 14:26 35    Setup done       Width:1605mm Env.: 0.000
+ 15/04/22 14:22 35    Cancel done     
+ 15/04/22 14:22 35    Cancel start     Pinch lever up 
+ 15/04/22 14:21 35    Print done        
+ 15/04/22 13:58 34    Print start       
+ 15/04/22 13:34 34    Setup done       Width:1605mm Env.: 0.000
+ 15/04/22 13:33 34    Cancel done     
+ 15/04/22 13:33 34    Cancel start     Pinch lever up 
+ 15/04/22 13:33 34    Setup done       Width:1605mm Env.: 0.000
+ 15/04/22 13:31 34    Sleep out       
+ 15/04/22 13:06 35    Sleep in        
+ 15/04/22 12:36 34    Cancel done     
+ 15/04/22 12:36 34    Cancel start     Pinch lever up 
+ 15/04/22 12:12 33    Print done        
+ 15/04/22 11:53 33    Print start       
+ 15/04/22 11:42 32    Print done        
+ 15/04/22 11:21 31    Print start       
+ 15/04/22 11:19 32    Setup done       Width:1605mm Env.: 0.000
+ 15/04/22 10:49 31    Sub power on     Normal 
+ 15/04/22 08:05 32    Sub power off   
+ 15/04/22 08:04 32    Cleaning         Self flushing 
+ 15/04/22 08:04 32    Sub power on     Normal 
+ 15/04/22 00:04 33    Sub power off   
+ 15/04/22 00:04 33    Cleaning         Self flushing 
+ 15/04/22 00:03 33    Sub power on     Normal 
+ 15/04/21 16:03 33    Sub power off   
+ 15/04/21 16:03 33    Cleaning         Self flushing 
+ 15/04/21 16:03 33    Sub power on     Normal 
+ 15/04/21 08:03 33    Sub power off   
+ 15/04/21 07:44 33    Cancel done     
+ 15/04/21 07:44 33    Cancel start     Pinch lever up 
+ 15/04/21 07:41 33    Setup done       Width:1605mm Env.: 0.000
+ 15/04/21 07:40 33    Cancel done     
+ 15/04/21 07:40 33    Cancel start     Pinch lever up 
+ 15/04/21 07:38 33    Setup done       Width:1605mm Env.: 0.000
+ 15/04/21 07:37 33    Sub power on     Normal 
+ 15/04/21 01:01 33    Sub power off   
+ 15/04/21 01:01 33    Cleaning         Self flushing 
+ 15/04/21 01:00 33    Sub power on     Normal 
+ 15/04/20 17:00 32    Sub power off   
+ 15/04/20 16:57 32    Cleaning         Normal cleaning 
+ 15/04/20 16:56 32    Sub power on     Normal 
+ 15/04/20 16:51 32    Sub power off   
+ 15/04/20 16:51 32    Sleep out       
+ 15/04/20 12:26 35    Sleep in        
+ 15/04/20 11:56 35    Cancel done     
+ 15/04/20 11:56 35    Cancel start     Pinch lever up 
+ 15/04/20 11:43 35    Sleep out       
+ 15/04/20 11:34 35    Sleep in        
+ 15/04/20 11:03 35    Print done        
+ 15/04/20 10:54 35    Print start       
+ 15/04/20 10:54 35    Sleep out       
+ 15/04/20 10:36 35    Sleep in        
+ 15/04/20 10:06 33    Print done        
+ 15/04/20 09:57 33    Print start       
+ 15/04/20 09:55 33    Cleaning         Normal cleaning 
+ 15/04/20 09:55 33    Setup done       Width:1605mm Env.: 0.000
+ 15/04/20 09:54 33    Cancel done     
+ 15/04/20 09:54 33    Cancel start     Pinch lever up 
+ 15/04/20 09:54 33    Setup done       Width:1605mm Env.: 0.000
+ 15/04/20 09:53 33    Cancel done     
+ 15/04/20 09:53 33    Cancel start     User cancel 
+ 15/04/20 09:46 32    Print start       
+ 15/04/20 09:23 32    Setup done       Width:1605mm Env.: 0.000
+ 15/04/20 09:15 32    Sub power on     Normal 
+ 15/04/20 08:41 32    Sub power off   
+ 15/04/20 08:41 32    Cleaning         Self flushing 
+ 15/04/20 08:41 32    Sub power on     Normal 
+ 15/04/20 00:40 32    Sub power off   
+ 15/04/20 00:40 32    Cleaning         Self flushing 
+ 15/04/20 00:40 32    Sub power on     Normal 
+ 15/04/19 16:40 32    Sub power off   
+ 15/04/19 16:40 32    Cleaning         Self flushing 
+ 15/04/19 16:39 32    Sub power on     Normal 
+ 15/04/19 08:39 32    Sub power off   
+ 15/04/19 08:39 32    Cleaning         Self flushing 
+ 15/04/19 08:39 32    Sub power on     Normal 
+ 15/04/19 00:38 32    Sub power off   
+ 15/04/19 00:38 32    Cleaning         Self flushing 
+ 15/04/19 00:38 32    Sub power on     Normal 
+ 15/04/18 16:38 32    Sub power off   
+ 15/04/18 16:38 32    Cleaning         Self flushing 
+ 15/04/18 16:37 32    Sub power on     Normal 
+ 15/04/18 08:37 31    Sub power off   
+ 15/04/18 08:35 31    Cleaning         Normal cleaning 
+ 15/04/18 08:35 31    Cancel done     
+ 15/04/18 08:35 31    Cancel start     Pinch lever up 
+ 15/04/18 08:33 30    Print done        
+ 15/04/18 08:32 30    Print start       
+ 15/04/18 08:30 30    Setup done       Width:1605mm Env.: 0.000
+ 15/04/18 08:28 30    Sub power on     Normal 
+ 15/04/18 01:11 31    Sub power off   
+ 15/04/18 01:11 31    Cleaning         Self flushing 
+ 15/04/18 01:11 31    Sub power on     Normal 
+ 15/04/17 17:11 32    Sub power off   
+ 15/04/17 17:05 31    Cancel done     
+ 15/04/17 17:05 31    Cancel start     Pinch lever up 
+ 15/04/17 16:58 31    Print done        
+ 15/04/17 16:54 31    Print start       
+ 15/04/17 16:53 31    Setup done       Width:1605mm Env.: 0.000
+ 15/04/17 16:37 31    Sleep out       
+ 15/04/17 13:11 32    Sleep in        
+ 15/04/17 12:41 32    Cancel done     
+ 15/04/17 12:41 32    Cancel start     Pinch lever up 
+ 15/04/17 12:37 31    Print done        
+ 15/04/17 12:29 31    Print start       
+ 15/04/17 12:25 31    Setup done       Width:1605mm Env.: 0.000
+ 15/04/17 12:24 31    Sleep out       
+ 15/04/17 12:15 30    Sleep in        
+ 15/04/17 11:44 29    Sub power on     Normal 
+ 15/04/17 08:57 29    Sub power off   
+ 15/04/17 08:57 29    Cleaning         Self flushing 
+ 15/04/17 08:57 29    Sub power on     Normal 
+ 15/04/17 00:57 31    Sub power off   
+ 15/04/17 00:57 31    Cleaning         Self flushing 
+ 15/04/17 00:56 31    Sub power on     Normal 
+ 15/04/16 16:56 33    Sub power off   
+ 15/04/16 16:50 32    Cancel done     
+ 15/04/16 16:50 32    Cancel start     Pinch lever up 
+ 15/04/16 16:49 32    Print done        
+ 15/04/16 16:46 32    Print start       
+ 15/04/16 16:45 32    Setup done       Width:1605mm Env.: 0.000
+ 15/04/16 16:43 32    Cancel done     
+ 15/04/16 16:43 32    Cancel start     Pinch lever up 
+ 15/04/16 16:43 32    Setup done       Width:1605mm Env.: 0.000
+ 15/04/16 16:42 32    Cancel done     
+ 15/04/16 16:42 32    Cancel start     User cancel 
+ 15/04/16 16:35 33    Print start       
+ 15/04/16 16:34 33    Setup done       Width:1605mm Env.: 0.000
+ 15/04/16 16:32 33    Sleep out       
+ 15/04/16 15:20 35    Sleep in        
+ 15/04/16 14:50 34    Cancel done     
+ 15/04/16 14:50 34    Cancel start     Pinch lever up 
+ 15/04/16 14:18 33    Print done        
+ 15/04/16 14:08 33    Print start       
+ 15/04/16 14:05 33    Print done        
+ 15/04/16 13:46 33    Print start       
+ 15/04/16 13:45 33    Setup done       Width:1605mm Env.: 0.000
+ 15/04/16 13:43 33    Sleep out       
+ 15/04/16 13:15 33    Sleep in        
+ 15/04/16 12:45 31    Cancel done     
+ 15/04/16 12:45 31    Cancel start     Pinch lever up 
+@DONE@

@@ -1,0 +1,741 @@
+Model                 : SP-540i
+Version               : 2.20
+Serial No.            : ZAI2889
+Date                  : 2015/03/12 07:13
+IP Address            : 192.168.000.020
+Subnet Mask           : 255.255.255.000
+Gateway Address       : 000.000.000.000
+MAC Address           : 00:40:AB:00:B9:3E
+Ink type              : E-SOL Max 4Color
+Ink remain(1-4)       :   0/  0/  0/  0
+Head height           : Low
+Head Temperature      : 31C /  87.8F
+Heater temp.(PRINT)   : 35C /  94F
+Heater temp.(DRYER)   : 33C /  90F
+Edge detection        : Enable
+Empty mode            : Stop
+Calibration           : -0.20 %
+Media clamp           : SHORT
+Full width scanning   : OFF
+Scan interval         :  0.0 sec
+Length unit           : mm
+Temperature unit      : C
+Menu language         : English
+Sleep interval        :  15 min
+Sheet remain          : 0.0m
+Periodic cleaning     :  NONE  
+Vacuum power          : 100 %
+Heater setting(PRINT) : 36C /  96F
+Heater setting(DRYER) : 36C /  96F
+Feed for dry          : Disable
+Preheating            : PREHEAT
+Set remain at loading : Disable
+Bi-dir. simple        :  +1  
+                      :  H1    H2  
+Bi-dir. adjust No.1   :  -2.5  -2  
+               No.2   :  -1.5  -2  
+                      :  H1    H2  
+               No.3   :  -4    -3  
+               No.4   :  -2    -2  
+Tool parameter        : 
+  Force               : 120 gf
+  Velocity            :  14 cm/s
+  Offset              : 0.250 mm
+  Up velocity         :  19 cm/s
+Cutting calib. (F/S)  :   0.00/  0.00 %
+Print-cut adjust (F/S):  -0.10/ +0.05 mm
+Crop-cut adjust (F/S) :  -0.05/ +0.15 mm
+Cutting priority      : Command
+Prefeed               : Disable
+Auto Env Match        : Enable
+Preset name           : IMPRIMAX       
+Calibration           : -0.55 %
+Heater setting(PRINT) : 36C /  96F
+Heater setting(DRYER) : 35C /  94F
+Feed for dry          : Disable
+Bi-dir. simple        :  -1.5
+Scan interval   :  0.0 sec
+Edge detection  : Enable
+Full width S    : OFF
+Preheating      : Preheat
+Vacuum power    : 100 %
+Force         :  85 gf
+Velocity      :  18 cm/s
+Offset        : 0.250 mm
+Up velocity   :  22 cm/s
+Cutting calib. (F/S)  :   0.00/  0.00 %
+Print-cut adjust (F/S):  -0.10/ +0.05 mm
+Crop-cut adjust (F/S) :  -0.05/ +0.15 mm
+Bi-dir. Adjust No.1   :  -4  /  -4   
+               No.2   :  -1  /  -1   
+               No.3   :  -4  /  -4   
+               No.4   :  -2  /  -1   
+Preset name           : LONA           
+Calibration           : +0.55 %
+Heater setting(PRINT) : OFF
+Heater setting(DRYER) : OFF
+Feed for dry          : Disable
+Bi-dir. simple        :  -0.5
+Scan interval   :  0.0 sec
+Edge detection  : Enable
+Full width S    : OFF
+Preheating      : Preheat
+Vacuum power    : Auto
+Force         : 110 gf
+Velocity      :  30 cm/s
+Offset        : 0.250 mm
+Up velocity   :  30 cm/s
+Cutting calib. (F/S)  :   0.00/  0.00 %
+Print-cut adjust (F/S):  +0.05/ +0.15 mm
+Crop-cut adjust (F/S) :   0.00/ +0.10 mm
+Bi-dir. Adjust No.1   :   0  /   0   
+               No.2   :   0  /   0   
+               No.3   :   0  /   0   
+               No.4   :   0  /   0   
+Preset name           : NAME3
+Calibration           : +0.55 %
+Heater setting(PRINT) : 40C / 104F
+Heater setting(DRYER) : 40C / 104F
+Feed for dry          : Disable
+Bi-dir. simple        :  -0.5
+Scan interval   :  0.0 sec
+Edge detection  : Enable
+Full width S    : OFF
+Preheating      : Preheat
+Vacuum power    : Auto
+Force         : 110 gf
+Velocity      :  30 cm/s
+Offset        : 0.250 mm
+Up velocity   :  30 cm/s
+Cutting calib. (F/S)  :   0.00/  0.00 %
+Print-cut adjust (F/S):   0.00/ +0.20 mm
+Crop-cut adjust (F/S) :   0.00/ +0.10 mm
+Bi-dir. Adjust No.1   :   0  /   0   
+               No.2   :   0  /   0   
+               No.3   :   0  /   0   
+               No.4   :   0  /   0   
+Preset name           : NAME4
+Calibration           :  0.00 %
+Heater setting(PRINT) : 35C /  94F
+Heater setting(DRYER) : 40C / 104F
+Feed for dry          : Disable
+Bi-dir. simple        :   0  
+Scan interval   :  0.0 sec
+Edge detection  : Enable
+Full width S    : FULL
+Preheating      : Preheat
+Vacuum power    : Auto
+Force         :  50 gf
+Velocity      :  30 cm/s
+Offset        : 0.250 mm
+Up velocity   :  30 cm/s
+Cutting calib. (F/S)  :   0.00/  0.00 %
+Print-cut adjust (F/S):   0.00/  0.00 mm
+Crop-cut adjust (F/S) :   0.00/  0.00 mm
+Bi-dir. Adjust No.1   :   0  /   0   
+               No.2   :   0  /   0   
+               No.3   :   0  /   0   
+               No.4   :   0  /   0   
+Preset name           : NAME5
+Calibration           :  0.00 %
+Heater setting(PRINT) : 35C /  94F
+Heater setting(DRYER) : 40C / 104F
+Feed for dry          : Disable
+Bi-dir. simple        :   0  
+Scan interval   :  0.0 sec
+Edge detection  : Enable
+Full width S    : FULL
+Preheating      : Preheat
+Vacuum power    : Auto
+Force         :  50 gf
+Velocity      :  30 cm/s
+Offset        : 0.250 mm
+Up velocity   :  30 cm/s
+Cutting calib. (F/S)  :   0.00/  0.00 %
+Print-cut adjust (F/S):   0.00/  0.00 mm
+Crop-cut adjust (F/S) :   0.00/  0.00 mm
+Bi-dir. Adjust No.1   :   0  /   0   
+               No.2   :   0  /   0   
+               No.3   :   0  /   0   
+               No.4   :   0  /   0   
+Preset name           : NAME6
+Calibration           :  0.00 %
+Heater setting(PRINT) : 35C /  94F
+Heater setting(DRYER) : 40C / 104F
+Feed for dry          : Disable
+Bi-dir. simple        :   0  
+Scan interval   :  0.0 sec
+Edge detection  : Enable
+Full width S    : FULL
+Preheating      : Preheat
+Vacuum power    : Auto
+Force         :  50 gf
+Velocity      :  30 cm/s
+Offset        : 0.250 mm
+Up velocity   :  30 cm/s
+Cutting calib. (F/S)  :   0.00/  0.00 %
+Print-cut adjust (F/S):   0.00/  0.00 mm
+Crop-cut adjust (F/S) :   0.00/  0.00 mm
+Bi-dir. Adjust No.1   :   0  /   0   
+               No.2   :   0  /   0   
+               No.3   :   0  /   0   
+               No.4   :   0  /   0   
+Preset name           : NAME7
+Calibration           :  0.00 %
+Heater setting(PRINT) : 35C /  94F
+Heater setting(DRYER) : 40C / 104F
+Feed for dry          : Disable
+Bi-dir. simple        :   0  
+Scan interval   :  0.0 sec
+Edge detection  : Enable
+Full width S    : FULL
+Preheating      : Preheat
+Vacuum power    : Auto
+Force         :  50 gf
+Velocity      :  30 cm/s
+Offset        : 0.250 mm
+Up velocity   :  30 cm/s
+Cutting calib. (F/S)  :   0.00/  0.00 %
+Print-cut adjust (F/S):   0.00/  0.00 mm
+Crop-cut adjust (F/S) :   0.00/  0.00 mm
+Bi-dir. Adjust No.1   :   0  /   0   
+               No.2   :   0  /   0   
+               No.3   :   0  /   0   
+               No.4   :   0  /   0   
+Preset name           : NAME8
+Calibration           :  0.00 %
+Heater setting(PRINT) : 35C /  94F
+Heater setting(DRYER) : 40C / 104F
+Feed for dry          : Disable
+Bi-dir. simple        :   0  
+Scan interval   :  0.0 sec
+Edge detection  : Enable
+Full width S    : FULL
+Preheating      : Preheat
+Vacuum power    : Auto
+Force         :  50 gf
+Velocity      :  30 cm/s
+Offset        : 0.250 mm
+Up velocity   :  30 cm/s
+Cutting calib. (F/S)  :   0.00/  0.00 %
+Print-cut adjust (F/S):   0.00/  0.00 mm
+Crop-cut adjust (F/S) :   0.00/  0.00 mm
+Bi-dir. Adjust No.1   :   0  /   0   
+               No.2   :   0  /   0   
+               No.3   :   0  /   0   
+               No.4   :   0  /   0   
+Head rank H1          : 78V3B3DPWSXWWTT ............ 00M..E
+          H2          : 7BW3F40RWSXWVST ............ 00G..E
+                      :  H1     H2   
+Head hori.(DT1.Low)   :         -5   
+          (DT3.Low)   :         -5   
+          (DT1.High)  :         -5.5 
+          (DT3.High)  :         -5.5 
+Head bi   (DT1.Low)   : +12     +9.5 
+          (DT3.Low)   : +11.5  +10.5 
+          (DT1.High)  : +16.5  +14   
+          (DT3.High)  : +17    +14   
+Dip SW                : 0000
+System SW page( 1- 4) : 00000000 00000000 00000000 00000000 
+System SW page( 5- 8) : 00000000 00000000 00000000 00000000 
+System SW page( 9-12) : 00000000 00000000 00000000 00000000 
+System SW page(13-16) : 00000000 00000000 00000000 00000001 
+Limit position        :      25.4 mm
+Cutter down position  :    1727.3 mm
+Calibration default   :     -0.26 %
+Encoder position(L)   :    1516.3 mm
+Encoder position(R)   :     144.7 mm
+Maintenance request   : NONE
+Booter version        : 1.00
+Battery               :   Charged
+Periodic CL. degree   : NORMAL
+Drain liquid volume   : 5739.3 cc
+Standard head         : 1
+Flushing pos adjust   :  2.70 mm
+Heater adjust(PRINT)  :   0C
+Heater adjust(DRYER)  :   0C
+Preheat temperature   : 30C
+Heating timeout       : 20 min
+Environment match     :    +0.116 %
+Encoder calibration   :    +0.127 %
+Force adjust 30gf     : 15
+Force adjust 200gf    : 53
+Crop-tool adjust (F/S):   0.00/  +0.10 mm
+Print-cut adjust (F/S):  -0.75/  -0.40 mm
+Crop sensor adjust    :   0
+Model                  : SP-540i
+Version                : 2.20
+Serial No.             : ZAI2889
+Date                   : 2015/03/12 07:13
+==== Motor group ====
+Motor feed   (trip/total [clear]):        729/        729 hours [0]
+Motor scan   (trip/total [clear]):      1,654/      1,654 hours [0]
+Pump Times   (trip/total [clear]):    103,928/    103,928 times [0]
+==== Head group ====
+Shot Cnt.  1 (trip/total [clear]):         65/  2,805,849 K times/nozzle [1]
+Shot Cnt.  2 (trip/total [clear]):         40/  1,765,823 K times/nozzle [1]
+Shot Cnt.  3 (trip/total [clear]):  2,806,706/  2,806,706 K times/nozzle [0]
+Shot Cnt.  4 (trip/total [clear]):  2,706,428/  2,706,428 K times/nozzle [0]
+                       :     H1     H2
+Wiping count for head  :  2,200  2,200 times
+Rubbing count for head :     47     47 times
+Headrank set count     :      1      0 times
+Auto cleaning count    :    669    669 times
+Normal cleaning count  :    172    172 times
+Medium cleaning count  :      7      7 times
+Powerful cleaning count:      0      0 times
+Protect Head           :      3      3 times
+==== Maintenance group ====
+Maintenance Count      :    252 times
+Total time             :     59 hours
+Printing time          :      6 hours
+==== Wiper group ====
+Wiping count           :  2,199 times
+Rubbing count          :     47 times
+Wiper replace count    :      0 times
+==== Print group ====
+Printing time          :       1,748 hours
+Print pages            :      10,562 pages
+==== Ink group ====
+Cartridge change(1-4)  :     14      9     14     14 times
+Change ink type        :           0 times
+==== Error group ====
+Service call count     :      2 times
+Service call history   : 0110 0110 **** **** ****
+Motor error  (feed)    :      6 times
+Motor error  (scan)    :     18 times
+Low temperature error  :      0 times
+High temperature error :      0 times
+Emergency capping      :      1 times
+Start uncapped         :     12 times
+==== System group ====
+Power on count         :  3,580 times
+Power on time          :  4,995 hours
+Sleep time             :  2,433 hours
+Sheet cut count        :  3,578 times
+Peck used count        :      0 times
+Net fault count(pon)   :      0 times
+Net fault count(cfg)   :      0 times
+==== Heater group ====        PRINT      DRYER
+Heater used time       :      3,241      3,251 hours
+==== Cutting group ====
+Cutting time           :         772 hours
+Disconnect carr. count :      10,441 times
+
+Model                  : SP-540i
+Version                : 2.20
+Serial No.             : ZAI2889
+No:          SERIAL/  INK TYPE/  CAP./LOT No/   CONSUM./           TIME/INS./    FLAG
+ 1:    NO CARTRIDGE/          /      /      /          /               /    /        
+ 2:    NO CARTRIDGE/          /      /      /          /               /    /        
+ 3:    NO CARTRIDGE/          /      /      /          /               /    /        
+ 4:    NO CARTRIDGE/          /      /      /          /               /    /        
+Model                  : SP-540i
+Version                : 2.20
+Serial No.             : ZAI2889
+Date                   : 2015/03/12 07:13
+ Date     Time  Temp. Event            Information
++--------+-----+-----+----------------+------------------------------+
+ Date     Time  Temp. Event            Information
++--------+-----+-----+----------------+------------------------------+
+ 15/03/12 07:11 31    Firmware update  2.00->2.20
+ 15/03/12 07:11 31    Main power on    Normal 
+ 15/03/12 07:08 30    Sub power off   
+ 15/03/12 07:06 29    Setup done       Width:1035mm Env.: 0.116
+ 15/03/12 07:05 29    Sub power on     Normal 
+ 15/03/12 07:05 29    Main power on    Normal 
+ 15/03/12 06:51 30    Sub power off   
+ 15/03/12 06:50 30    Print done        
+ 15/03/12 06:47 30    Print start       
+ 15/03/12 06:41 30    Print done       Testpattern 
+ 15/03/12 06:39 30    Print start      Testpattern 
+ 15/03/12 06:38 30    Print done       Testpattern 
+ 15/03/12 06:38 30    Print start      Testpattern 
+ 15/03/12 06:35 29    Print done       Testpattern 
+ 15/03/12 06:34 30    Print start      Testpattern 
+ 15/03/12 06:32 30    Print done       Testpattern 
+ 15/03/12 06:32 30    Print start      Testpattern 
+ 15/03/12 06:30 30    Cleaning         Normal cleaning 
+ 15/03/12 06:28 29    Print done       Testpattern 
+ 15/03/12 06:27 29    Print start      Testpattern 
+ 15/03/12 06:27 29    Print done       Testpattern 
+ 15/03/12 06:26 29    Print start      Testpattern 
+ 15/03/12 06:26 29    Print done       Testpattern 
+ 15/03/12 06:26 29    Print start      Testpattern 
+ 15/03/12 06:26 29    Print done       Testpattern 
+ 15/03/12 06:25 29    Print start      Testpattern 
+ 15/03/12 06:24 29    Print done       Testpattern 
+ 15/03/12 06:24 29    Print start      Testpattern 
+ 15/03/12 06:22 29    Print done       Testpattern 
+ 15/03/12 06:22 29    Print start      Testpattern 
+ 15/03/12 06:22 29    Print done       Testpattern 
+ 15/03/12 06:21 29    Print start      Testpattern 
+ 15/03/12 06:21 29    Print done       Testpattern 
+ 15/03/12 06:21 29    Print start      Testpattern 
+ 15/03/12 06:21 29    Print done       Testpattern 
+ 15/03/12 06:20 29    Print start      Testpattern 
+ 15/03/12 06:18 29    Print done       Testpattern 
+ 15/03/12 06:18 29    Print start      Testpattern 
+ 15/03/12 06:18 29    Print done       Testpattern 
+ 15/03/12 06:17 29    Print start      Testpattern 
+ 15/03/12 06:17 29    Print done       Testpattern 
+ 15/03/12 06:16 29    Print start      Testpattern 
+ 15/03/12 06:16 29    Print done       Testpattern 
+ 15/03/12 06:15 29    Print start      Testpattern 
+ 15/03/12 06:14 29    Print done       Testpattern 
+ 15/03/12 06:14 29    Print start      Testpattern 
+ 15/03/12 06:12 29    Print done       Testpattern 
+ 15/03/12 06:11 29    Print start      Testpattern 
+ 15/03/12 06:11 29    Print done       Testpattern 
+ 15/03/12 06:10 29    Print start      Testpattern 
+ 15/03/12 06:10 29    Print done       Testpattern 
+ 15/03/12 06:09 29    Print start      Testpattern 
+ 15/03/12 06:08 29    Print done       Testpattern 
+ 15/03/12 06:08 29    Print start      Testpattern 
+ 15/03/12 06:07 29    Print done       Testpattern 
+ 15/03/12 06:06 29    Print start      Testpattern 
+ 15/03/12 06:04 29    Print done       Testpattern 
+ 15/03/12 06:03 29    Print start      Testpattern 
+ 15/03/12 06:02 29    Print done       Testpattern 
+ 15/03/12 06:02 29    Print start      Testpattern 
+ 15/03/12 06:00 29    Print done       Testpattern 
+ 15/03/12 05:59 29    Print start      Testpattern 
+ 15/03/12 05:58 29    Print done       Testpattern 
+ 15/03/12 05:57 29    Print start      Testpattern 
+ 15/03/12 05:55 28    Cleaning         Normal cleaning 
+ 15/03/12 05:55 28    Setup done       Width:1035mm Env.: 0.117
+ 15/03/12 05:54 27    Sub power on     Service mode 
+ 15/03/12 05:53 27    Main power on    Normal 
+ 15/03/12 03:00 32    Sub power off   
+ 15/03/12 02:59 32    Print done       Testpattern 
+ 15/03/12 02:59 32    Print start      Testpattern 
+ 15/03/12 02:59 32    Print done       Testpattern 
+ 15/03/12 02:58 32    Print start      Testpattern 
+ 15/03/12 02:58 32    Print done       Testpattern 
+ 15/03/12 02:57 32    Print start      Testpattern 
+ 15/03/12 02:57 32    Print done       Testpattern 
+ 15/03/12 02:57 32    Print start      Testpattern 
+ 15/03/12 02:55 32    Print done       Testpattern 
+ 15/03/12 02:54 32    Print start      Testpattern 
+ 15/03/12 02:53 32    Print done       Testpattern 
+ 15/03/12 02:53 32    Print start      Testpattern 
+ 15/03/12 02:53 32    Setup done       Width:1035mm Env.: 0.106
+ 15/03/12 02:51 32    Sub power on     Service mode 
+ 15/03/12 02:37 33    Sub power off   
+ 15/03/12 02:34 33    Cancel done     
+ 15/03/12 02:34 33    Cancel start     Pinch lever up 
+ 15/03/12 02:34 33    Sleep out       
+ 15/03/12 02:10 33    Sleep in        
+ 15/03/12 01:52 32    Cutting done      
+ 15/03/12 01:46 32    Cutting start     
+ 15/03/12 01:46 32    Print done        
+ 15/03/12 01:39 32    Print start       
+ 15/03/12 01:39 32    Cutting done      
+ 15/03/12 01:25 32    Cutting start     
+ 15/03/12 01:25 32    Print done        
+ 15/03/12 01:12 32    Print start       
+ 15/03/12 01:08 32    Setup done       Width:1035mm Env.: 0.105
+ 15/03/12 01:07 32    Sleep out       
+ 15/03/12 00:27 33    Sleep in        
+ 15/03/12 00:11 33    Cancel done     
+ 15/03/12 00:11 33    Cancel start     Pinch lever up 
+ 15/03/12 00:11 33    Sleep out       
+ 15/03/12 00:04 33    Sleep in        
+ 15/03/11 23:49 32    Cutting done      
+ 15/03/11 23:46 32    Cutting start     
+ 15/03/11 23:46 32    Print done        
+ 15/03/11 23:39 33    Print start       
+ 15/03/11 23:39 33    Cutting done      
+ 15/03/11 23:36 32    Cutting start     
+ 15/03/11 23:36 32    Print done        
+ 15/03/11 23:29 33    Print start       
+ 15/03/11 23:28 33    Cutting done      
+ 15/03/11 23:26 33    Cutting start     
+ 15/03/11 23:26 33    Print done        
+ 15/03/11 23:19 33    Print start       
+ 15/03/11 23:14 33    Setup done       Width:1036mm Env.: 0.102
+ 15/03/11 23:11 33    Cancel done     
+ 15/03/11 23:11 33    Cancel start     Pinch lever up 
+ 15/03/11 23:01 33    Cutting done      
+ 15/03/11 22:59 33    Cutting start     
+ 15/03/11 22:59 33    Print done        
+ 15/03/11 22:37 34    Print start       
+ 15/03/11 22:37 34    Sleep out       
+ 15/03/11 22:26 34    Sleep in        
+ 15/03/11 21:49 32    Sleep out       
+ 15/03/11 21:30 32    Sleep in        
+ 15/03/11 21:14 33    Cutting done      
+ 15/03/11 21:13 32    Cutting start     
+ 15/03/11 21:13 32    Print done        
+ 15/03/11 20:39 33    Print start       
+ 15/03/11 20:24 33    Setup done       Width:1228mm Env.: 0.112
+ 15/03/11 20:03 32    Cancel done     
+ 15/03/11 20:03 32    Cancel start     Pinch lever up 
+ 15/03/11 19:49 31    Sleep out       
+ 15/03/11 19:46 31    Sleep in        
+ 15/03/11 19:31 30    Print done        
+ 15/03/11 19:22 29    Print start       
+ 15/03/11 19:22 29    Cutting done      
+ 15/03/11 19:20 29    Cutting start     
+ 15/03/11 19:17 28    Setup done       Width:625mm Env.: 0.118
+ 15/03/11 19:08 28    Cleaning         Power on cleaning 
+ 15/03/11 19:07 28    Sub power on     Normal 
+ 15/03/11 13:11 29    Sub power off   
+ 15/03/11 13:11 29    Cleaning         Self flushing 
+ 15/03/11 13:11 29    Sub power on     Normal 
+ 15/03/11 05:11 32    Sub power off   
+ 15/03/11 05:09 32    Print done        
+ 15/03/11 05:08 32    Print start       
+ 15/03/11 05:06 32    Sleep out       
+ 15/03/11 04:34 32    Sleep in        
+ 15/03/11 04:13 31    Print done        
+ 15/03/11 04:12 31    Print start       
+ 15/03/11 04:10 31    Print done        
+ 15/03/11 04:10 31    Print start       
+ 15/03/11 04:06 31    Cutting done     Testpattern 
+ 15/03/11 04:06 31    Cutting start    Testpattern 
+ 15/03/11 04:05 31    Setup done       Width:622mm Env.: 0.107
+ 15/03/11 04:01 31    Sleep out       
+ 15/03/11 02:16 33    Sleep in        
+ 15/03/11 02:01 33    Cancel done     
+ 15/03/11 02:01 33    Cancel start     Pinch lever up 
+ 15/03/11 01:42 32    Cutting done      
+ 15/03/11 01:36 32    Cutting start     
+ 15/03/11 01:36 32    Print done        
+ 15/03/11 01:29 33    Print start       
+ 15/03/11 01:27 32    Setup done       Width:1044mm Env.: 0.102
+ 15/03/11 01:26 33    Cancel done     
+ 15/03/11 01:26 33    Cancel start     Pinch lever up 
+ 15/03/11 01:24 32    Cutting done      
+ 15/03/11 01:18 32    Cutting start     
+ 15/03/11 01:18 32    Print done        
+ 15/03/11 01:10 33    Print start       
+ 15/03/11 01:10 33    Sleep out       
+ 15/03/11 01:03 33    Sleep in        
+ 15/03/11 00:48 32    Cutting done      
+ 15/03/11 00:42 32    Cutting start     
+ 15/03/11 00:42 32    Print done        
+ 15/03/11 00:35 33    Print start       
+ 15/03/11 00:26 32    Cutting done      
+ 15/03/11 00:08 32    Cutting start     
+ 15/03/11 00:08 32    Print done        
+ 15/03/11 00:02 33    Print start       
+ 15/03/11 00:01 32    Cutting done      
+ 15/03/10 23:42 32    Cutting start     
+ 15/03/10 23:42 32    Print done        
+ 15/03/10 23:36 32    Print start       
+ 15/03/10 23:34 32    Cutting done      
+ 15/03/10 23:26 32    Cutting start     
+ 15/03/10 23:26 32    Print done        
+ 15/03/10 23:17 32    Print start       
+ 15/03/10 23:15 32    Cutting done      
+ 15/03/10 23:07 32    Cutting start     
+ 15/03/10 23:07 32    Print done        
+ 15/03/10 22:58 32    Print start       
+ 15/03/10 22:58 32    Cutting done      
+ 15/03/10 22:50 32    Cutting start     
+ 15/03/10 22:50 32    Print done        
+ 15/03/10 22:40 33    Print start       
+ 15/03/10 22:38 33    Setup done       Width:1049mm Env.: 0.102
+ 15/03/10 22:35 33    Cancel done     
+ 15/03/10 22:35 33    Cancel start     Pinch lever up 
+ 15/03/10 22:34 33    Setup done       Width:1038mm Env.: 0.102
+ 15/03/10 22:29 33    Cancel done     
+ 15/03/10 22:29 33    Cancel start     Pinch lever up 
+ 15/03/10 22:18 33    Cutting done      
+ 15/03/10 22:17 33    Cutting start     
+ 15/03/10 22:17 33    Print done        
+ 15/03/10 21:43 32    Print start       
+ 15/03/10 21:42 32    Cutting done      
+ 15/03/10 21:42 32    Cutting start     
+ 15/03/10 21:42 32    Print done        
+ 15/03/10 21:33 32    Print start       
+ 15/03/10 21:33 32    Cutting done      
+ 15/03/10 21:32 32    Cutting start     
+ 15/03/10 21:32 32    Print done        
+ 15/03/10 21:10 32    Print start       
+ 15/03/10 21:10 32    Cutting done      
+ 15/03/10 21:09 32    Cutting start     
+ 15/03/10 21:09 32    Print done        
+ 15/03/10 20:33 31    Print start       
+ 15/03/10 20:33 31    Sleep out       
+ 15/03/10 19:46 30    Sleep in        
+ 15/03/10 19:30 29    Setup done       Width:1229mm Env.: 0.118
+ 15/03/10 19:05 28    Cleaning         Power on cleaning 
+ 15/03/10 19:05 28    Sub power on     Normal 
+ 15/03/10 12:59 28    Sub power off   
+ 15/03/10 12:59 28    Cleaning         Self flushing 
+ 15/03/10 12:59 28    Sub power on     Normal 
+ 15/03/10 04:58 30    Sub power off   
+ 15/03/10 04:57 30    Sleep out       
+ 15/03/10 01:56 33    Sleep in        
+ 15/03/10 01:41 32    Cancel done     
+ 15/03/10 01:41 32    Cancel start     Pinch lever up 
+ 15/03/10 01:41 32    Sleep out       
+ 15/03/10 01:34 32    Sleep in        
+ 15/03/10 01:19 32    Sleep out       
+ 15/03/10 01:12 32    Sleep in        
+ 15/03/10 00:57 32    Cutting done      
+ 15/03/10 00:51 32    Cutting start     
+ 15/03/10 00:51 32    Print done        
+ 15/03/10 00:45 32    Print start       
+ 15/03/10 00:45 32    Cutting done      
+ 15/03/10 00:34 31    Cutting start     
+ 15/03/10 00:34 31    Print done        
+ 15/03/10 00:28 32    Print start       
+ 15/03/10 00:28 32    Cutting done      
+ 15/03/10 00:22 32    Cutting start     
+ 15/03/10 00:22 32    Print done        
+ 15/03/10 00:15 32    Print start       
+ 15/03/10 00:14 32    Sleep out       
+ 15/03/09 23:58 33    Sleep in        
+ 15/03/09 23:43 32    Sleep out       
+ 15/03/09 23:22 32    Sleep in        
+ 15/03/09 23:00 32    Cutting done      
+ 15/03/09 22:53 32    Cutting start     
+ 15/03/09 22:53 32    Print done        
+ 15/03/09 22:45 33    Print start       
+ 15/03/09 22:45 33    Sleep out       
+ 15/03/09 22:37 33    Sleep in        
+ 15/03/09 22:22 32    Cutting done      
+ 15/03/09 22:14 32    Cutting start     
+ 15/03/09 22:14 32    Print done        
+ 15/03/09 22:06 33    Print start       
+ 15/03/09 22:05 33    Setup done       Width:1034mm Env.: 0.105
+ 15/03/09 22:02 33    Cancel done     
+ 15/03/09 22:02 33    Cancel start     Pinch lever up 
+ 15/03/09 21:59 33    Cutting done      
+ 15/03/09 21:58 33    Cutting start     
+ 15/03/09 21:58 33    Print done        
+ 15/03/09 21:36 32    Print start       
+ 15/03/09 21:23 32    Cutting done      
+ 15/03/09 21:22 32    Cutting start     
+ 15/03/09 21:22 32    Print done        
+ 15/03/09 20:47 31    Print start       
+ 15/03/09 20:41 31    Sleep out       
+ 15/03/09 20:00 30    Sleep in        
+ 15/03/09 19:44 29    Setup done       Width:1229mm Env.: 0.119
+ 15/03/09 19:11 28    Cleaning         Power on cleaning 
+ 15/03/09 19:10 28    Sub power on     Normal 
+ 15/03/09 13:03 28    Sub power off   
+ 15/03/09 13:03 28    Cleaning         Self flushing 
+ 15/03/09 13:03 28    Sub power on     Normal 
+ 15/03/09 05:03 29    Sub power off   
+ 15/03/09 05:03 29    Cleaning         Self flushing 
+ 15/03/09 05:02 29    Sub power on     Normal 
+ 15/03/08 21:02 28    Sub power off   
+ 15/03/08 21:02 28    Cleaning         Self flushing 
+ 15/03/08 21:02 28    Sub power on     Normal 
+ 15/03/08 13:02 29    Sub power off   
+ 15/03/08 13:02 29    Cleaning         Self flushing 
+ 15/03/08 13:01 29    Sub power on     Normal 
+ 15/03/08 05:01 29    Sub power off   
+ 15/03/08 05:01 29    Cleaning         Self flushing 
+ 15/03/08 05:01 29    Sub power on     Normal 
+ 15/03/07 21:01 29    Sub power off   
+ 15/03/07 21:00 29    Cleaning         Self flushing 
+ 15/03/07 21:00 29    Sub power on     Normal 
+ 15/03/07 13:00 29    Sub power off   
+ 15/03/07 13:00 29    Cleaning         Self flushing 
+ 15/03/07 12:59 29    Sub power on     Normal 
+ 15/03/07 04:59 34    Sub power off   
+ 15/03/07 04:59 34    Cancel done     
+ 15/03/07 04:59 34    Cancel start     Pinch lever up 
+ 15/03/07 04:47 33    Print done        
+ 15/03/07 04:46 33    Print start       
+ 15/03/07 04:43 32    Print done        
+ 15/03/07 04:42 32    Print start       
+ 15/03/07 04:40 32    Print done        
+ 15/03/07 04:37 32    Print start       
+ 15/03/07 04:29 32    Print done       Testpattern 
+ 15/03/07 04:29 32    Print start      Testpattern 
+ 15/03/07 04:26 32    Print done        
+ 15/03/07 04:25 32    Print start       
+ 15/03/07 04:23 31    Cleaning         Medium cleaning 
+ 15/03/07 04:23 31    Print done        
+ 15/03/07 04:22 32    Print start       
+ 15/03/07 04:19 31    Print done       Testpattern 
+ 15/03/07 04:18 31    Print start      Testpattern 
+ 15/03/07 04:18 31    Setup done       Width:312mm Env.: 0.103
+ 15/03/07 04:17 30    Sub power on     Normal 
+ 15/03/07 04:17 30    Main power on    Normal 
+ 15/03/07 04:14 30    Setup done       Width:312mm Env.: 0.104
+ 15/03/07 04:12 29    Sub power on     Normal 
+ 15/03/07 04:12 29    Main power on    Normal 
+ 15/03/07 03:23 33    Sub power off   
+ 15/03/07 03:23 33    Print done       Testpattern 
+ 15/03/07 03:22 33    Print start      Testpattern 
+ 15/03/07 03:22 33    Setup done       Width:312mm Env.: 0.100
+ 15/03/07 03:19 33    Sub power on     Normal 
+ 15/03/07 03:19 33    Sub power off   
+ 15/03/07 03:19 33    Sleep out       
+ 15/03/07 01:30 35    Sleep in        
+ 15/03/07 01:15 35    Cancel done     
+ 15/03/07 01:15 35    Cancel start     Pinch lever up 
+ 15/03/07 01:11 35    Cutting done      
+ 15/03/07 01:04 34    Cutting start     
+ 15/03/07 01:04 34    Print done        
+ 15/03/07 00:57 35    Print start       
+ 15/03/07 00:54 35    Setup done       Width:1032mm Env.: 0.093
+ 15/03/07 00:48 35    Cancel done     
+ 15/03/07 00:48 35    Cancel start     Pinch lever up 
+ 15/03/07 00:39 35    Cutting done      
+ 15/03/07 00:38 35    Cutting start     
+ 15/03/07 00:38 35    Print done        
+ 15/03/07 00:03 36    Print start       
+ 15/03/06 23:34 34    Sleep out       
+ 15/03/06 23:20 34    Sleep in        
+ 15/03/06 23:00 33    Setup done       Width:1226mm Env.: 0.097
+ 15/03/06 22:50 33    Cancel done     
+ 15/03/06 22:50 33    Cancel start     Pinch lever up 
+ 15/03/06 22:46 32    Cutting done      
+ 15/03/06 22:38 32    Cutting start     
+ 15/03/06 22:38 32    Print done        
+ 15/03/06 22:33 33    Print start       
+ 15/03/06 22:32 33    Cutting done      
+ 15/03/06 22:25 32    Cutting start     
+ 15/03/06 22:25 32    Print done        
+ 15/03/06 22:20 33    Print start       
+ 15/03/06 22:16 33    Cutting done      
+ 15/03/06 22:08 32    Cutting start     
+ 15/03/06 22:08 32    Print done        
+ 15/03/06 22:03 33    Print start       
+ 15/03/06 22:03 33    Cutting done      
+ 15/03/06 21:57 33    Cutting start     
+ 15/03/06 21:57 33    Print done        
+ 15/03/06 21:52 33    Print start       
+ 15/03/06 21:51 33    Cutting done      
+ 15/03/06 21:44 33    Cutting start     
+ 15/03/06 21:44 33    Print done        
+ 15/03/06 21:38 33    Print start       
+ 15/03/06 21:36 33    Setup done       Width:1059mm Env.: 0.097
+ 15/03/06 21:32 33    Cancel done     
+ 15/03/06 21:32 33    Cancel start     Pinch lever up 
+ 15/03/06 21:29 33    Print done        
+ 15/03/06 21:14 33    Print start       
+ 15/03/06 21:10 33    Setup done       Width:1185mm Env.: 0.103
+ 15/03/06 21:07 33    Cancel done     
+ 15/03/06 21:07 33    Cancel start     Pinch lever up 
+ 15/03/06 21:05 33    Sleep out       
+ 15/03/06 20:52 32    Sleep in        
+ 15/03/06 20:37 33    Cutting done      
+ 15/03/06 20:35 32    Cutting start     
+ 15/03/06 20:35 32    Print done        
+ 15/03/06 20:00 31    Print start       
+ 15/03/06 19:50 30    Setup done       Width:1227mm Env.: 0.112
+ 15/03/06 19:40 30    Sleep out       
+ 15/03/06 19:25 30    Sleep in        
+ 15/03/06 19:09 29    Cleaning         Power on cleaning 
+ 15/03/06 19:08 29    Sub power on     Normal 
+ 15/03/06 14:18 30    Sub power off   
+ 15/03/06 14:17 30    Cleaning         Self flushing 
+ 15/03/06 14:17 30    Sub power on     Normal 
+ 15/03/06 06:17 36    Sub power off   
+ 15/03/06 06:12 36    Cutting done      
+ 15/03/06 06:11 35    Cutting start     
+ 15/03/06 06:11 35    Print done        
+ 15/03/06 06:02 36    Print start       
+ 15/03/06 06:02 36    Cutting done      
+ 15/03/06 06:00 36    Cutting start     
+ 15/03/06 06:00 36    Print done        
+@DONE@

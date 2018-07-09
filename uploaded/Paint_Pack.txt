@@ -1,0 +1,659 @@
+Model                 : LEC-540
+Version               : 6.40
+Serial No.            : ZAH0231
+Date                  : 2015/03/05 00:42
+IP Address            : 192.168.000.179
+Subnet Mask           : 255.255.255.000
+Gateway Address       : 192.168.000.001
+MAC Address           : 00:40:AB:00:B8:EC
+Ink type              : ECO-UV CMYKGlW
+Ink remain(1-6)       :  35/  9/ 52/ 16/ 27/ 67
+Head height           : Low
+Head Temperature      : 29C /  84.2F
+On Board Temperature  : 40C / 104.0F
+Ambience Temperature  : 28C /  82.4F
+Edge detection        : Enable
+Empty mode            : Stop
+Calibration           :  0.00 %
+Full width scanning   : OFF
+Length unit           : mm
+Temperature unit      : C
+Menu language         : English
+Sleep interval        :  30 min
+Sheet remain          : 0.0 m
+Periodic cleaning     :  NONE  
+Vacuum power          : Auto
+Set remain at loading : Disable
+Bi-dir. simple        :   0  /   0  
+                      :  H1    H2    H3    H4    H5    H6  
+Bi-dir. adjust No.1   :   0     0     0     0     0     0  
+               No.2   :   0     0     0     0     0     0  
+               No.3   :   0     0     0     0     0     0  
+               No.4   :   0     0     0     0     0     0  
+                      :  H1    H2    H3    H4    H5    H6  
+               No.5   :   0     0     0     0     0     0  
+               No.6   :   0     0     0     0     0     0  
+               No.7   :   0     0     0     0     0     0  
+               No.8   :   0     0     0     0     0     0  
+Tool parameter        : 
+  Force               : 215 gf
+  Velocity            :  30 cm/s
+  Offset              : 0.250 mm
+  Up velocity         :  30 cm/s
+Cutting calib. (F/S)  :   0.00/  0.00 %
+Print-cut adjust (F/S):   0.00/  0.00 mm
+Crop-cut adjust (F/S) :   0.00/  0.00 mm
+Cutting priority      : Command
+Prefeed               : Disable
+Auto Env Match        : Enable
+Preset name           : PRESETTING1
+Bi-dir. simple        :   0  /   0  
+Calibration           :  0.00 %
+Edge detection  : Enable
+Full width S    : FULL
+Vacuum power : Auto
+Force        :  50 gf
+Velocity     :  30 cm/s
+Offset                : 0.250 mm
+Up velocity           :  30 cm/s
+Cutting calib. (F/S)  :   0.00/  0.00 %
+Print-cut adjust (F/S):   0.00/  0.00 mm
+Crop-cut adjust (F/S) :   0.00/  0.00 mm
+Bi-dir. Adjust No.1   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.2   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.3   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.4   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.5   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.6   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.7   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.8   :   0  /   0  /   0  /   0  /   0  /   0   
+Preset name           : PRESETTING2
+Bi-dir. simple        :   0  /   0  
+Calibration           :  0.00 %
+Edge detection  : Enable
+Full width S    : FULL
+Vacuum power : Auto
+Force        :  50 gf
+Velocity     :  30 cm/s
+Offset                : 0.250 mm
+Up velocity           :  30 cm/s
+Cutting calib. (F/S)  :   0.00/  0.00 %
+Print-cut adjust (F/S):   0.00/  0.00 mm
+Crop-cut adjust (F/S) :   0.00/  0.00 mm
+Bi-dir. Adjust No.1   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.2   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.3   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.4   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.5   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.6   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.7   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.8   :   0  /   0  /   0  /   0  /   0  /   0   
+Preset name           : PRESETTING3
+Bi-dir. simple        :   0  /   0  
+Calibration           :  0.00 %
+Edge detection  : Enable
+Full width S    : FULL
+Vacuum power : Auto
+Force        :  50 gf
+Velocity     :  30 cm/s
+Offset                : 0.250 mm
+Up velocity           :  30 cm/s
+Cutting calib. (F/S)  :   0.00/  0.00 %
+Print-cut adjust (F/S):   0.00/  0.00 mm
+Crop-cut adjust (F/S) :   0.00/  0.00 mm
+Bi-dir. Adjust No.1   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.2   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.3   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.4   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.5   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.6   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.7   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.8   :   0  /   0  /   0  /   0  /   0  /   0   
+Preset name           : PRESETTING4
+Bi-dir. simple        :   0  /   0  
+Calibration           :  0.00 %
+Edge detection  : Enable
+Full width S    : FULL
+Vacuum power : Auto
+Force        :  50 gf
+Velocity     :  30 cm/s
+Offset                : 0.250 mm
+Up velocity           :  30 cm/s
+Cutting calib. (F/S)  :   0.00/  0.00 %
+Print-cut adjust (F/S):   0.00/  0.00 mm
+Crop-cut adjust (F/S) :   0.00/  0.00 mm
+Bi-dir. Adjust No.1   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.2   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.3   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.4   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.5   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.6   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.7   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.8   :   0  /   0  /   0  /   0  /   0  /   0   
+Preset name           : PRESETTING5
+Bi-dir. simple        :   0  /   0  
+Calibration           :  0.00 %
+Edge detection  : Enable
+Full width S    : FULL
+Vacuum power : Auto
+Force        :  50 gf
+Velocity     :  30 cm/s
+Offset                : 0.250 mm
+Up velocity           :  30 cm/s
+Cutting calib. (F/S)  :   0.00/  0.00 %
+Print-cut adjust (F/S):   0.00/  0.00 mm
+Crop-cut adjust (F/S) :   0.00/  0.00 mm
+Bi-dir. Adjust No.1   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.2   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.3   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.4   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.5   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.6   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.7   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.8   :   0  /   0  /   0  /   0  /   0  /   0   
+Preset name           : PRESETTING6
+Bi-dir. simple        :   0  /   0  
+Calibration           :  0.00 %
+Edge detection  : Enable
+Full width S    : FULL
+Vacuum power : Auto
+Force        :  50 gf
+Velocity     :  30 cm/s
+Offset                : 0.250 mm
+Up velocity           :  30 cm/s
+Cutting calib. (F/S)  :   0.00/  0.00 %
+Print-cut adjust (F/S):   0.00/  0.00 mm
+Crop-cut adjust (F/S) :   0.00/  0.00 mm
+Bi-dir. Adjust No.1   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.2   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.3   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.4   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.5   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.6   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.7   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.8   :   0  /   0  /   0  /   0  /   0  /   0   
+Preset name           : PRESETTING7
+Bi-dir. simple        :   0  /   0  
+Calibration           :  0.00 %
+Edge detection  : Enable
+Full width S    : FULL
+Vacuum power : Auto
+Force        :  50 gf
+Velocity     :  30 cm/s
+Offset                : 0.250 mm
+Up velocity           :  30 cm/s
+Cutting calib. (F/S)  :   0.00/  0.00 %
+Print-cut adjust (F/S):   0.00/  0.00 mm
+Crop-cut adjust (F/S) :   0.00/  0.00 mm
+Bi-dir. Adjust No.1   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.2   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.3   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.4   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.5   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.6   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.7   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.8   :   0  /   0  /   0  /   0  /   0  /   0   
+Preset name           : PRESETTING8
+Bi-dir. simple        :   0  /   0  
+Calibration           :  0.00 %
+Edge detection  : Enable
+Full width S    : FULL
+Vacuum power : Auto
+Force        :  50 gf
+Velocity     :  30 cm/s
+Offset                : 0.250 mm
+Up velocity           :  30 cm/s
+Cutting calib. (F/S)  :   0.00/  0.00 %
+Print-cut adjust (F/S):   0.00/  0.00 mm
+Crop-cut adjust (F/S) :   0.00/  0.00 mm
+Bi-dir. Adjust No.1   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.2   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.3   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.4   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.5   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.6   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.7   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.8   :   0  /   0  /   0  /   0  /   0  /   0   
+Head rank H1          : 81Y3C40NXQZXXTU ............ 00H..E
+          H2          : 74Z4041SXSYVVQS ............ 00M..E
+          H3          : 7603A41RYS0VVST ............ 007..E
+          H4          : 7AY3F42RVRYVWRS ............ 00H..E
+          H5          : 7DW433EPVQWWWRS ............ 00D..E
+          H6          : 78Z3E41SVRXWWQR ............ 001..E
+                      :  H1     H2     H3     H4     H5     H6   
+Head hori.(DT1.Low)   :  +0.5    0     -1            +4     +4   
+          (DT3.Low)   :   0      0      0            +5.5    0   
+          (DT6.Low)   :  +0.5    0     -1            +4     +4   
+          (DT8.Low)   :   0      0      0            +5.5    0   
+          (DT1.High)  :  +1     +0.5    0            +5.5    0   
+          (DT3.High)  :   0     +1     +2.5          +5      0   
+          (DT6.High)  :  +1     +0.5    0            +5.5    0   
+          (DT8.High)  :   0     +1     +2.5          +5      0   
+                      :  H1     H2     H3     H4     H5     H6   
+Head bi   (DT1.Low)   : +16    +18    +16    +16    +16.5  +20   
+          (DT3.Low)   : +15    +16    +14    +16    +15    +18   
+          (DT6.Low)   : +16    +18    +16    +16    +16.5  +20   
+          (DT8.Low)   : +15    +16    +14    +16    +15    +18   
+          (DT1.High)  : +21.5  +25.5  +25    +23.5  +23    +26   
+          (DT3.High)  : +21    +24    +23.5  +23    +22    +25   
+          (DT6.High)  : +21.5  +25.5  +25    +23.5  +23    +26   
+          (DT8.High)  : +21    +24    +23.5  +23    +22    +25   
+Dip SW                : 10000000
+System SW page( 1- 4) : 00000000 00000000 00000000 00000000 
+System SW page( 5- 8) : 00000000 00000000 00000011 00000000 
+System SW page( 9-12) : 00000000 00000000 00000000 00000000 
+System SW page(13-16) : 00000000 00000000 00000000 00000000 
+Network I/F  version  : Print Server 1.2 (Tue May 18 19:04:49 JST 2010)
+Limit position        :      16.3 mm
+Cutter down position  :    2039.1 mm
+Calibration default   :     -0.30 %
+Encoder position(L)   :    1682.0 mm
+Encoder position(R)   :     310.4 mm
+Maintenance request   : NONE
+Booter version        : 1.30
+FPGA build No.        : 28
+Battery               :   Charged
+Periodic CL. degree   : LIGHT
+Last Ink Type         : ECO-UV CMYKGlW
+Cap adjust            :  2.50 mm
+Drain liquid volume   : 9996.4 cc
+Standard head         : 4
+Environment match     :    +0.087 %
+Encoder calibration   :    +0.078 %
+Force adjust 30gf     : 23
+Force adjust 200gf    : 66
+Crop-tool adjust (F/S):  -0.10/  +0.10 mm
+Print-cut adjust (F/S):  -0.90/  +0.60 mm
+Crop sensor adjust    :   0
+Model                  : LEC-540
+Version                : 6.40
+Serial No.             : ZAH0231
+Date                   : 2015/03/05 00:42
+==== Motor group ====
+Motor feed   (trip/total [clear]):         72/         72 hours [0]
+Motor scan   (trip/total [clear]):        642/        642 hours [0]
+Pump Times A (trip/total [clear]):     59,949/     59,949 times [0]
+Pump Times B (trip/total [clear]):     60,432/     60,432 times [0]
+Pump Times C (trip/total [clear]):     89,202/     89,202 times [0]
+Pump TimesCIR(trip/total [clear]):     22,314/     22,314 times [0]
+==== Head group ====
+Shot Cnt.  1 (trip/total [clear]):    119,174/    394,651 K times/nozzle [1]
+Shot Cnt.  2 (trip/total [clear]):    395,678/    395,678 K times/nozzle [0]
+Shot Cnt.  3 (trip/total [clear]):    259,837/    865,331 K times/nozzle [1]
+Shot Cnt.  4 (trip/total [clear]):    869,726/    869,726 K times/nozzle [0]
+Shot Cnt.  5 (trip/total [clear]):    847,566/    847,566 K times/nozzle [0]
+Shot Cnt.  6 (trip/total [clear]):    849,285/    849,285 K times/nozzle [0]
+Shot Cnt.  7 (trip/total [clear]):    344,306/    344,306 K times/nozzle [0]
+Shot Cnt.  8 (trip/total [clear]):    344,171/    344,171 K times/nozzle [0]
+Shot Cnt.  9 (trip/total [clear]):    556,967/    556,967 K times/nozzle [0]
+Shot Cnt. 10 (trip/total [clear]):    557,251/    557,251 K times/nozzle [0]
+Shot Cnt. 11 (trip/total [clear]):    831,559/    831,559 K times/nozzle [0]
+Shot Cnt. 12 (trip/total [clear]):    830,895/    830,895 K times/nozzle [0]
+                       :     H1     H2     H3     H4     H5     H6
+Wiping count for head  :  2,187  2,187  2,189  2,189  4,633  4,633 times
+Rubbing count for head :     28     28     31     31     34     34 times
+Headrank set count     :      1      0      1      0      0      0 times
+Auto cleaning count    :    185    185    185    185  2,014  2,014 times
+Normal cleaning count  :     52     52     52     52     56     56 times
+Medium cleaning count  :      9      9      9      9     14     14 times
+Powerful cleaning count:      4      4      5      5      6      6 times
+Ink renewal            :      0      0      0      0      0      0 times
+==== Maintenance group ====
+Maintenance Count      :     41 times
+Total time             :     21 hours
+Printing time          :      3 hours
+==== Wiper group ====
+Wiping count           :  1,559 times
+Rubbing count          :      9 times
+Wiper replace count    :     13 times
+==== Print group ====
+Printing time          :         954 hours
+Print pages            :       9,808 pages
+==== Ink group ====
+Cartridge change(1-6)  :     11     16     16     11     30     33 times
+Change ink type        :           0 times
+Ink Discharge 1        :    217 times
+Ink Discharge 2        :     42 times
+Ink Discharge 3        :     41 times
+==== Error group ====
+Service call count     :     17 times
+Service call history   : 0109 0109 0109 0109 0109
+Motor error  (feed)    :      3 times
+Motor error  (scan)    :     25 times
+Low temperature error  :      4 times
+High temperature error :      1 times
+Emergency capping      :      1 times
+Start uncapped         :    100 times
+==== System group ====
+Power on count         :  1,635 times
+Power on time          :  2,299 hours
+Sleep time             :  4,511 hours
+Sheet cut count        :     53 times
+Peck used count        :      0 times
+==== UV Lamp group ====
+UV Lamp On Time Right  :      22,875 min  
+UV Lamp On count Right :   1,736,734 times
+UV Lamp On Time Left   :      23,204 min  
+UV Lamp On count Left  :   1,934,286 times
+==== Cutting group ====
+Cutting time           :          68 hours
+Disconnect carr. count :       3,178 times
+
+Model                  : LEC-540
+Version                : 6.40
+Serial No.             : ZAH0231
+No:          SERIAL/  INK TYPE/  CAP./LOT No/   CONSUM./           TIME/INS./    FLAG
+ 1:14018e87060000df/     EUV-C/ 200cc/4908B / 130.835cc/0y025d23h29m23s/   4/00000000
+ 2:1457d28a0600006a/     EUV-M/ 200cc/4909B / 182.915cc/0y008d16h53m55s/   3/00000000
+ 3:14523b76060000cb/     EUV-Y/ 200cc/4527B /  96.171cc/0y005d20h32m09s/   1/00000000
+ 4:14a42f5706000097/     EUV-K/ 200cc/4331B / 167.371cc/0y076d22h08m20s/   3/00000000
+ 5:14b13569060000bb/    EUV-Gl/ 200cc/4421B / 145.909cc/0y005d20h33m08s/   2/00000000
+ 6:14e01b9a06000001/     EUV-W/ 200cc/4A07B /  65.682cc/0y002d19h52m01s/   3/00000000
+Model                  : LEC-540
+Version                : 6.40
+Serial No.             : ZAH0231
+Date                   : 2015/03/05 00:42
+Last event             : 86332
++--------+-----+----------------+------------------------------------+
+ Date     Time  Event            Information
++--------+-----+----------------+------------------------------------+
+ 15/03/05 00:40 System setting   
+ 15/03/05 00:36 Cancel done      
+ 15/03/05 00:36 Cancel start     Pinch lever up
+ 15/03/05 00:31 Job done         
+ 15/03/05 00:31 Cutting done     
+ 15/03/05 00:31 Cutting start    
+ 15/03/05 00:31 Print done       
+ 15/03/05 00:29 Print start      
+ 15/03/05 00:29 Job start        28 C 
+ 15/03/05 00:20 Job done         
+ 15/03/05 00:20 Cutting done     
+ 15/03/05 00:20 Cutting start    
+ 15/03/05 00:20 Print done       
+ 15/03/05 00:17 Print start      
+ 15/03/05 00:17 Job start        28 C 
+ 15/03/04 23:59 Job done         
+ 15/03/04 23:59 Cutting done     
+ 15/03/04 23:59 Cutting start    
+ 15/03/04 23:59 Print done       
+ 15/03/04 23:57 Print start      
+ 15/03/04 23:57 Job start        28 C 
+ 15/03/04 23:52 Job done         
+ 15/03/04 23:52 Print done       
+ 15/03/04 23:51 Temperature      28 C
+ 15/03/04 23:50 Print start      
+ 15/03/04 23:50 Job start        28 C 
+ 15/03/04 23:47 Setup done       Width:1241mm Env.: 0.087
+ 15/03/04 23:45 Cancel done      
+ 15/03/04 23:45 Job done         
+ 15/03/04 23:45 Cancel start     User cancel
+ 15/03/04 23:44 Print start      
+ 15/03/04 23:44 Job start        28 C 
+ 15/03/04 23:41 Job done         
+ 15/03/04 23:41 Print done       
+ 15/03/04 23:39 Print start      
+ 15/03/04 23:39 Job start        28 C 
+ 15/03/04 23:32 Job done         
+ 15/03/04 23:32 Print done       
+ 15/03/04 23:30 Print start      
+ 15/03/04 23:30 Job start        28 C 
+ 15/03/04 23:26 Job done         
+ 15/03/04 23:26 Print done       
+ 15/03/04 23:12 Print start      
+ 15/03/04 23:12 Job start        29 C 
+ 15/03/04 23:12 Job done         
+ 15/03/04 23:12 Print done       
+ 15/03/04 23:03 Print start      
+ 15/03/04 23:03 Job start        28 C 
+ 15/03/04 23:01 Setup done       Width:1241mm Env.: 0.090
+ 15/03/04 22:53 Cancel done      
+ 15/03/04 22:53 Cancel start     Pinch lever up
+ 15/03/04 22:51 Temperature      28 C
+ 15/03/04 22:50 Job done         
+ 15/03/04 22:50 Print done       
+ 15/03/04 22:29 Ink Circulate    Discharge
+ 15/03/04 22:29 Print start      
+ 15/03/04 22:29 Job start        28 C 
+ 15/03/04 22:28 Job done         
+ 15/03/04 22:28 Print done       
+ 15/03/04 22:19 Print start      
+ 15/03/04 22:19 Job start        28 C 
+ 15/03/04 22:17 Job done         
+ 15/03/04 22:17 Print done       
+ 15/03/04 22:06 Print start      
+ 15/03/04 22:06 Job start        29 C 
+ 15/03/04 22:03 Setup done       Width:1241mm Env.: 0.092
+ 15/03/04 21:51 Temperature      29 C
+ 15/03/04 21:43 Sub power on     Normal
+ 15/03/04 20:51 Temperature      30 C
+ 15/03/04 19:51 Temperature      30 C
+ 15/03/04 18:51 Temperature      30 C
+ 15/03/04 17:51 Temperature      30 C
+ 15/03/04 16:51 Temperature      30 C
+ 15/03/04 15:51 Temperature      30 C
+ 15/03/04 14:51 Temperature      30 C
+ 15/03/04 14:51 Sub power off    
+ 15/03/04 14:50 Cleaning         Self flushing
+ 15/03/04 14:50 Temperature      31 C
+ 15/03/04 14:50 Sub power on     Normal
+ 15/03/04 13:50 Temperature      31 C
+ 15/03/04 12:50 Temperature      31 C
+ 15/03/04 11:50 Temperature      31 C
+ 15/03/04 10:50 Temperature      31 C
+ 15/03/04 09:50 Temperature      31 C
+ 15/03/04 08:50 Temperature      31 C
+ 15/03/04 07:50 Temperature      31 C
+ 15/03/04 06:50 Temperature      31 C
+ 15/03/04 06:50 Sub power off    
+ 15/03/04 06:49 Cancel done      
+ 15/03/04 06:48 Job done         
+ 15/03/04 06:48 Cancel start     User cancel
+ 15/03/04 06:39 Print start      
+ 15/03/04 06:39 Job start        29 C 
+ 15/03/04 06:37 Job done         
+ 15/03/04 06:37 Print done       
+ 15/03/04 06:35 Temperature      29 C
+ 15/03/04 06:28 Print start      
+ 15/03/04 06:28 Job start        29 C 
+ 15/03/04 06:27 Job done         
+ 15/03/04 06:27 Print done       
+ 15/03/04 06:16 Print start      
+ 15/03/04 06:16 Job start        29 C 
+ 15/03/04 06:16 Job done         
+ 15/03/04 06:16 Job start        29 C 
+ 15/03/04 06:16 Setup done       Width:1248mm Env.: 0.088
+ 15/03/04 05:59 Cancel done      
+ 15/03/04 05:59 Job done         
+ 15/03/04 05:58 Cancel start     User cancel
+ 15/03/04 05:53 Print start      
+ 15/03/04 05:53 Job start        29 C 
+ 15/03/04 05:52 Setup done       Width:1252mm Env.: 0.086
+ 15/03/04 05:35 Temperature      30 C
+ 15/03/04 05:34 Cancel done      
+ 15/03/04 05:33 Cancel start     Pinch lever up
+ 15/03/04 05:33 Job done         
+ 15/03/04 05:33 Cutting done     
+ 15/03/04 05:30 Cutting start    
+ 15/03/04 05:30 Job start        30 C 
+ 15/03/04 05:29 Job done         
+ 15/03/04 05:29 Cutting done     
+ 15/03/04 05:25 Cutting start    
+ 15/03/04 05:25 Job start        30 C 
+ 15/03/04 05:25 Job done         
+ 15/03/04 05:25 Print done       
+ 15/03/04 05:15 Print start      
+ 15/03/04 05:15 Job start        30 C 
+ 15/03/04 05:13 Job done         
+ 15/03/04 05:13 Print done       
+ 15/03/04 05:05 Print start      
+ 15/03/04 05:05 Job start        30 C 
+ 15/03/04 05:04 Setup done       Width:556mm Env.: 0.087
+ 15/03/04 05:02 Cancel done      
+ 15/03/04 05:01 Job done         
+ 15/03/04 05:01 Cancel start     User cancel
+ 15/03/04 04:55 Print start      
+ 15/03/04 04:55 Job start        30 C 
+ 15/03/04 04:55 Job done         
+ 15/03/04 04:55 Print done       
+ 15/03/04 04:50 Print start      
+ 15/03/04 04:50 Job start        30 C 
+ 15/03/04 04:50 Job done         
+ 15/03/04 04:50 Print done       
+ 15/03/04 04:44 Print start      
+ 15/03/04 04:44 Job start        30 C 
+ 15/03/04 04:38 Setup done       Width:841mm Env.: 0.087
+ 15/03/04 04:35 Sub power on     Normal
+ 15/03/04 04:35 Main power on    Normal
+ 15/03/04 04:35 Temperature      32 C
+ 15/03/04 04:34 Cancel done      
+ 15/03/04 04:34 Job done         
+ 15/03/04 04:34 Cancel start     Media end
+ 15/03/04 04:25 Print start      
+ 15/03/04 04:24 Job start        30 C 
+ 15/03/04 04:24 Setup done       Width:537mm Env.: 0.085
+ 15/03/04 04:23 Cancel done      
+ 15/03/04 04:23 Cancel start     Pinch lever up
+ 15/03/04 04:22 Job done         
+ 15/03/04 04:22 Cutting done     
+ 15/03/04 04:20 Cutting start    
+ 15/03/04 04:20 Job start        30 C 
+ 15/03/04 04:20 Job done         
+ 15/03/04 04:20 Cutting done     
+ 15/03/04 04:18 Cutting start    
+ 15/03/04 04:18 Job start        30 C 
+ 15/03/04 04:17 Job done         
+ 15/03/04 04:17 Cutting done     
+ 15/03/04 04:14 Cutting start    
+ 15/03/04 04:14 Job start        30 C 
+ 15/03/04 04:12 Job done         
+ 15/03/04 04:12 Print done       
+ 15/03/04 04:03 Print start      
+ 15/03/04 04:03 Job start        30 C 
+ 15/03/04 04:01 Job done         
+ 15/03/04 04:01 Print done       
+ 15/03/04 04:00 Temperature      30 C
+ 15/03/04 03:52 Print start      
+ 15/03/04 03:51 Job start        30 C 
+ 15/03/04 03:50 Setup done       Width:537mm Env.: 0.086
+ 15/03/04 03:50 Cancel done      
+ 15/03/04 03:49 Cancel start     Pinch lever up
+ 15/03/04 03:49 Job done         
+ 15/03/04 03:49 Cutting done     
+ 15/03/04 03:47 Cutting start    
+ 15/03/04 03:47 Job start        30 C 
+ 15/03/04 03:47 Job done         
+ 15/03/04 03:47 Cutting done     
+ 15/03/04 03:45 Cutting start    
+ 15/03/04 03:45 Job start        30 C 
+ 15/03/04 03:44 Job done         
+ 15/03/04 03:44 Cutting done     
+ 15/03/04 03:42 Cutting start    
+ 15/03/04 03:42 Job start        30 C 
+ 15/03/04 03:42 Job done         
+ 15/03/04 03:42 Print done       
+ 15/03/04 03:32 Print start      
+ 15/03/04 03:32 Job start        30 C 
+ 15/03/04 03:32 Job done         
+ 15/03/04 03:32 Print done       
+ 15/03/04 03:23 Print start      
+ 15/03/04 03:23 Job start        30 C 
+ 15/03/04 03:23 Setup done       Width:537mm Env.: 0.086
+ 15/03/04 03:00 Sub power on     Normal
+ 15/03/04 03:00 Main power on    Normal
+ 15/03/04 03:00 Temperature      32 C
+ 15/03/04 02:58 Sub power on     Normal
+ 15/03/04 02:50 Temperature      32 C
+ 15/03/04 02:50 Sub power off    
+ 15/03/04 02:42 Cancel done      
+ 15/03/04 02:42 Job done         
+ 15/03/04 02:42 Cancel start     Media end
+ 15/03/04 02:32 Print start      
+ 15/03/04 02:32 Job start        29 C 
+ 15/03/04 02:30 Setup done       Width:526mm Env.: 0.085
+ 15/03/04 02:29 Cancel done      
+ 15/03/04 02:29 Cancel start     Pinch lever up
+ 15/03/04 02:29 Job done         
+ 15/03/04 02:29 Cutting done     
+ 15/03/04 02:27 Cutting start    
+ 15/03/04 02:27 Job start        29 C 
+ 15/03/04 02:26 Job done         
+ 15/03/04 02:26 Cutting done     
+ 15/03/04 02:22 Cutting start    
+ 15/03/04 02:22 Job start        29 C 
+ 15/03/04 02:21 Job done         
+ 15/03/04 02:21 Cutting done     
+ 15/03/04 02:19 Cutting start    
+ 15/03/04 02:19 Job start        29 C 
+ 15/03/04 02:19 Job done         
+ 15/03/04 02:19 Print done       
+ 15/03/04 02:10 Print start      
+ 15/03/04 02:10 Job start        29 C 
+ 15/03/04 02:07 Job done         
+ 15/03/04 02:07 Print done       
+ 15/03/04 02:04 Temperature      29 C
+ 15/03/04 01:58 Print start      
+ 15/03/04 01:58 Job start        29 C 
+ 15/03/04 01:57 Setup done       Width:526mm Env.: 0.088
+ 15/03/04 01:56 Cancel done      
+ 15/03/04 01:56 Cancel start     Pinch lever up
+ 15/03/04 01:56 Job done         
+ 15/03/04 01:56 Cutting done     
+ 15/03/04 01:54 Cutting start    
+ 15/03/04 01:54 Job start        29 C 
+ 15/03/04 01:53 Job done         
+ 15/03/04 01:53 Cutting done     
+ 15/03/04 01:50 Cutting start    
+ 15/03/04 01:50 Job start        29 C 
+ 15/03/04 01:49 Job done         
+ 15/03/04 01:49 Cutting done     
+ 15/03/04 01:47 Cutting start    
+ 15/03/04 01:47 Job start        29 C 
+ 15/03/04 01:46 Job done         
+ 15/03/04 01:46 Print done       
+ 15/03/04 01:39 Print start      
+ 15/03/04 01:39 Job start        29 C 
+ 15/03/04 01:39 Job done         
+ 15/03/04 01:39 Print done       
+ 15/03/04 01:26 Print start      
+ 15/03/04 01:26 Job start        29 C 
+ 15/03/04 01:26 Setup done       Width:526mm Env.: 0.089
+ 15/03/04 01:25 Cancel done      
+ 15/03/04 01:25 Job done         
+ 15/03/04 01:25 Cancel start     User cancel
+ 15/03/04 01:23 Print start      
+ 15/03/04 01:23 Job start        29 C 
+ 15/03/04 01:21 Setup done       Width:526mm Env.: 0.090
+ 15/03/04 01:09 Sub power on     Normal
+ 15/03/04 01:04 Temperature      31 C
+ 15/03/04 01:04 Sub power off    
+ 15/03/04 00:56 Sub power on     Normal
+ 15/03/04 00:56 Main power on    Normal
+ 15/03/04 00:56 Temperature      31 C
+ 15/03/04 00:54 Sub power on     Normal
+ 15/03/04 00:54 Temperature      31 C
+ 15/03/04 00:54 Sub power off    
+ 15/03/04 00:47 Sub power on     Normal
+ 15/03/04 00:43 Temperature      31 C
+ 15/03/04 00:43 Sub power off    
+ 15/03/04 00:42 Sub power on     Normal
+ 15/03/04 00:41 Temperature      31 C
+ 15/03/04 00:41 Sub power off    
+ 15/03/04 00:39 Sub power on     Normal
+ 15/03/04 00:39 Temperature      31 C
+ 15/03/04 00:39 Sub power off    
+ 15/03/04 00:38 Sub power on     Normal
+ 15/03/04 00:38 Temperature      31 C
+ 15/03/04 00:38 Sub power off    
+ 15/03/04 00:37 Cancel done      
+ 15/03/04 00:37 Job done         
+ 15/03/04 00:36 Cancel start     Pinch lever up
+ 15/03/04 00:31 Print start      
+ 15/03/04 00:31 Job start        29 C 
+ 15/03/04 00:29 Job done         
+ 15/03/04 00:29 Print done       
+ 15/03/04 00:26 Temperature      29 C
+ 15/03/04 00:22 Print start      
+ 15/03/04 00:22 Job start        29 C 
+ 15/03/04 00:22 Job done         
+
+@DONE@

@@ -1,0 +1,52 @@
+{% extends 'peck/base.html' %}
+
+{% block corpo %}
+<div id="frame_top">
+    <h2>Lista de Maquinas</h2>
+    <table>
+            <col align="left">
+            <col align="left">
+            <col align="left">
+            <col align="left">
+            <col align="center">
+            <col align="center">
+            <col align="center">
+            <tr>
+                    <th>Key</th>
+                    <th>Cliente</th>
+                    <th>Id</th>
+                    <th>Serial</th>
+                    <th>Tinta</th>
+                    <th>Qte Pecks</th>
+                    <th>Modelo</th>
+            </tr>
+        {% for maq in listao.cli %}
+            <tr>
+                    <td>{{ maq.pk }}</td>
+                    <td>{{ maq.client }}</td>
+                    <td>{{ maq.machine_id }}</td>
+                    <!-- <td><a href="../../../peck/report/{{ maq.serial }}/"/>{{ maq.serial }}</a></td> -->
+                    <td><a href="{% url 'report' maq.serial %}"/>{{ maq.serial }}</a></td>
+                    <td>{{ maq.typtinta }}</td>
+                    {% for key, value in listao.pec.items %}
+                        {% if key == maq.serial %}
+                        <td>{{ value }}</td>
+                        {% endif %}
+                    {% endfor %}
+                    {% for k, v in listao.mod.items %}
+                        {% if k == maq.serial %}
+                        <td>{{ v }}</td>
+                        {% endif %}
+                    {% endfor %}
+            </tr>
+        {% empty %}
+            <tr>
+                    <td> Base de dados VAZIA!!</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+            </tr>
+        {% endfor %}
+    </table>
+</div>
+{% endblock %}

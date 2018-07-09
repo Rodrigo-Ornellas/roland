@@ -1,0 +1,730 @@
+Model                 : LEJ-640
+Version               : 2.20
+Serial No.            : ZAK0199
+Date                  : 2015/01/21 18:12
+IP Address            : 192.168.000.004
+Subnet Mask           : 255.255.255.000
+Gateway Address       : 000.000.000.000
+MAC Address           : 00:40:AB:00:BE:0A
+Ink type              : ECO-UV CMYKGlW
+Ink remain(1-6)       :  10/ 99/  7/ 96/  0/ 22
+Head height           : Middle
+Head Temperature      : 27C /  80.6F
+On Board Temperature  : 40C / 104.0F
+Ambience Temperature  : 26C /  78.8F
+Sheet type            : Opaque
+Empty mode            : Stop
+Calibration           : +0.05 %
+Front Margin          :  5mm
+Full width scanning   : OFF
+Length unit           : mm
+Temperature unit      : C
+Menu language         : English
+Sleep                 : Enable
+Sleep interval        :  30 min
+Sheet remain          : 0.0 m
+Periodic cleaning     :  NONE  
+Vacuum power          : Auto
+Set remain at loading : Disable
+Bi-dir. simple        :  +1  /  +2  
+                      :  H1    H2    H3    H4    H5    H6  
+Bi-dir. adjust No.1   :  -2    -2    -1    -1     0    -4  
+               No.2   :  -2.5  -3.5  -3    -5    -3    -3  
+               No.3   :  -3    -4    -3    -3    -3    -2  
+               No.4   :  -3.5  -5    -4    -4.5  -4    -3  
+                      :  H1    H2    H3    H4    H5    H6  
+               No.5   :  -5    -5.5  -6    -5     0    -4  
+               No.6   :  -6    -6.5  -5    -6    -3    -3  
+               No.7   :  -5    -6    -6.5  -6    -3    -2  
+               No.8   :  -4.5  -4.5  -4    -4    -4    -3  
+Sheet Width           : 1200 mm
+Side Margin           :  5mm
+Sheet Position        : 11 mm
+Preset name           : PSAI CHAPA     
+Bi-dir. simple        :   0  /   0  
+Calibration           :  0.00 %
+Sheet type      : Opaque
+Full width S    : OFF
+Vacuum power : 100 %
+Front Margin :  5mm
+Sheet Width   : 1010 mm
+Sheet Position: 27 mm
+Side Margin   :  5mm
+Bi-dir. Adjust No.1   :  -3  /  -3  /  -3  /  -3  /  -4  /  -4   
+               No.2   :  -4  /  -4  /  -5  /  -4  /  -4  /  -4   
+               No.3   :  -3  /  -3  /  -3  /  -3  /  -3  /  -3   
+               No.4   :  -4  /  -4  /  -4  /  -4  /  -4  /  -4   
+               No.5   :  -3  /  -3  /  -3  /  -3  /  -4  /  -4   
+               No.6   :  -4  /  -4  /  -5  /  -4  /  -4  /  -4   
+               No.7   :  -3  /  -3  /  -3  /  -3  /  -3  /  -3   
+               No.8   :  -4  /  -4  /  -4  /  -4  /  -4  /  -4   
+Preset name           : ADESIVO        
+Bi-dir. simple        :   0  /   0  
+Calibration           :  0.00 %
+Sheet type      : Opaque
+Full width S    : OFF
+Vacuum power : 100 %
+Front Margin :  5mm
+Sheet Width   : 1010 mm
+Sheet Position: 27 mm
+Side Margin   :  5mm
+Bi-dir. Adjust No.1   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.2   :  -2  /  -3  /  -3  /  -3  /  -3  /  -3   
+               No.3   :  -2  /  -2  /  -2  /  -2  /  -3  /  -2   
+               No.4   :  -3  /  -3  /  -3  /  -3  /  -4  /  -3   
+               No.5   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.6   :  -2  /  -3  /  -3  /  -3  /  -3  /  -3   
+               No.7   :  -2  /  -2  /  -2  /  -2  /  -3  /  -2   
+               No.8   :  -3  /  -3  /  -3  /  -3  /  -4  /  -3   
+Preset name           : PRESETTING3
+Bi-dir. simple        :   0  /   0  
+Calibration           :  0.00 %
+Sheet type      : Opaque
+Full width S    : FULL
+Vacuum power : Auto
+Front Margin : 10mm
+Sheet Width   : 1625 mm
+Sheet Position: 0 mm
+Side Margin   : 10mm
+Bi-dir. Adjust No.1   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.2   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.3   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.4   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.5   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.6   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.7   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.8   :   0  /   0  /   0  /   0  /   0  /   0   
+Preset name           : PRESETTING4
+Bi-dir. simple        :   0  /   0  
+Calibration           :  0.00 %
+Sheet type      : Opaque
+Full width S    : FULL
+Vacuum power : Auto
+Front Margin : 10mm
+Sheet Width   : 1625 mm
+Sheet Position: 0 mm
+Side Margin   : 10mm
+Bi-dir. Adjust No.1   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.2   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.3   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.4   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.5   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.6   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.7   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.8   :   0  /   0  /   0  /   0  /   0  /   0   
+Preset name           : PRESETTING5
+Bi-dir. simple        :   0  /   0  
+Calibration           :  0.00 %
+Sheet type      : Opaque
+Full width S    : FULL
+Vacuum power : Auto
+Front Margin : 10mm
+Sheet Width   : 1625 mm
+Sheet Position: 0 mm
+Side Margin   : 10mm
+Bi-dir. Adjust No.1   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.2   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.3   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.4   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.5   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.6   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.7   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.8   :   0  /   0  /   0  /   0  /   0  /   0   
+Preset name           : PRESETTING6
+Bi-dir. simple        :   0  /   0  
+Calibration           :  0.00 %
+Sheet type      : Opaque
+Full width S    : FULL
+Vacuum power : Auto
+Front Margin : 10mm
+Sheet Width   : 1625 mm
+Sheet Position: 0 mm
+Side Margin   : 10mm
+Bi-dir. Adjust No.1   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.2   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.3   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.4   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.5   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.6   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.7   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.8   :   0  /   0  /   0  /   0  /   0  /   0   
+Preset name           : PRESETTING7
+Bi-dir. simple        :   0  /   0  
+Calibration           :  0.00 %
+Sheet type      : Opaque
+Full width S    : FULL
+Vacuum power : Auto
+Front Margin : 10mm
+Sheet Width   : 1625 mm
+Sheet Position: 0 mm
+Side Margin   : 10mm
+Bi-dir. Adjust No.1   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.2   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.3   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.4   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.5   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.6   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.7   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.8   :   0  /   0  /   0  /   0  /   0  /   0   
+Preset name           : PRESETTING8
+Bi-dir. simple        :   0  /   0  
+Calibration           :  0.00 %
+Sheet type      : Opaque
+Full width S    : FULL
+Vacuum power : Auto
+Front Margin : 10mm
+Sheet Width   : 1625 mm
+Sheet Position: 0 mm
+Side Margin   : 10mm
+Bi-dir. Adjust No.1   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.2   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.3   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.4   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.5   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.6   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.7   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.8   :   0  /   0  /   0  /   0  /   0  /   0   
+Head rank H1          : 77S3530NTQTWXTT ............ 00E..E
+          H2          : 7EX3F40MXRWXXUV ............ 005..E
+          H3          : 7EX4045PXRYVVST ............ 00F..E
+          H4          : 7AX3E41QVRXWWSU ............ 002..E
+          H5          : 7ES3D38MSQTXXTU ............ 00P..E
+          H6          : 70X3E3ESVTXXXSU ............ 00Q..E
+                      :  H1     H2     H3     H4     H5     H6   
+Head hori.(DT1.Low)   :  +1.5   -5     -5            +3     -7   
+          (DT3.Low)   :  +2     -4.5   -4            +4     -5   
+          (DT6.Low)   :  +1.5   -5     -5            +3     -7   
+          (DT8.Low)   :  +2     -4.5   -4            +4     -5   
+          (DT1.Middle):   0     -5     -5            -1     -7   
+          (DT3.Middle):  +0.5   -5     -5            +1     -5   
+          (DT6.Middle):   0     -5     -5            -1     -7   
+          (DT8.Middle):  +0.5   -5     -5            +1     -5   
+          (DT1.High)  :   0     -5     -6            +1     -6   
+          (DT3.High)  :  -1     -6     -8            -9     -7   
+          (DT6.High)  :   0     -5     -6            +1     -6   
+          (DT8.High)  :  -1     -6     -8            -9     -7   
+                      :  H1     H2     H3     H4     H5     H6   
+Head bi   (DT1.Low)   :  +9.5  +10     +9     +9.5   +8    +12.5 
+          (DT3.Low)   :  +8.5   +9     +8     +9     +7.5  +12   
+          (DT6.Low)   :  +9.5  +10     +9     +9.5   +8    +12.5 
+          (DT8.Low)   :  +8.5   +9     +8     +9     +7.5  +12   
+          (DT1.Middle): +14.5  +16    +16    +15.5  +14    +19.5 
+          (DT3.Middle): +14    +15    +16    +15    +10    +17   
+          (DT6.Middle): +14.5  +16    +16    +15.5  +14    +19.5 
+          (DT8.Middle): +14    +15    +16    +15    +10    +17   
+          (DT1.High)  : +23.5  +27    +24.5  +24    +19    +28   
+          (DT3.High)  : +23    +25    +24    +22.5  +17    +26   
+          (DT6.High)  : +23.5  +27    +24.5  +24    +19    +28   
+          (DT8.High)  : +23    +25    +24    +22.5  +17    +26   
+Dip SW                : 01000000
+System SW page( 1- 4) : 00000000 00000000 00000000 00000000 
+System SW page( 5- 8) : 00000000 00000000 00000011 00000000 
+System SW page( 9-12) : 00000000 00000000 00000000 00000000 
+System SW page(13-16) : 00000000 00000000 00000000 00000000 
+Network I/F  version  : Print Server 1.2 (Tue May 18 19:04:49 JST 2010)
+Limit position        :      10.5 mm
+Cutter down position  :    2386.9 mm
+Calibration default   :     -0.66 %
+Encoder position(L)   :    1937.3 mm
+Encoder position(R)   :     311.7 mm
+Maintenance request   : NONE
+Booter version        : 1.30
+FPGA build No.        : 28
+Battery               :   Charged
+Periodic CL. degree   : LIGHT
+Set sheet position    : 11 - 1211
+Last Ink Type         : ECO-UV CMYKGlW
+Wiper Height adjust   :  +1.0 mm
+Cap adjust            :  1.75 mm
+Drain liquid volume   : 1672.9 cc
+Standard head         : 4
+Model                  : LEJ-640
+Version                : 2.20
+Serial No.             : ZAK0199
+Date                   : 2015/01/21 18:12
+==== Motor group ====
+Motor feed   (trip/total [clear]):         32/         32 hours [0]
+Motor scan   (trip/total [clear]):      1,138/      1,138 hours [0]
+Pump Times A (trip/total [clear]):     88,090/     88,090 times [0]
+Pump Times B (trip/total [clear]):     88,686/     88,686 times [0]
+Pump Times C (trip/total [clear]):    118,933/    118,933 times [0]
+Pump TimesCIR(trip/total [clear]):     11,721/     11,721 times [0]
+==== Head group ====
+Shot Cnt.  1 (trip/total [clear]):    651,636/  3,638,672 K times/nozzle [2]
+Shot Cnt.  2 (trip/total [clear]):    654,173/  3,650,826 K times/nozzle [2]
+Shot Cnt.  3 (trip/total [clear]):  1,783,119/  6,128,021 K times/nozzle [2]
+Shot Cnt.  4 (trip/total [clear]):  1,781,102/  6,108,001 K times/nozzle [2]
+Shot Cnt.  5 (trip/total [clear]):  1,324,078/  5,586,735 K times/nozzle [3]
+Shot Cnt.  6 (trip/total [clear]):  1,325,189/  5,608,937 K times/nozzle [3]
+Shot Cnt.  7 (trip/total [clear]):    952,831/  2,382,189 K times/nozzle [1]
+Shot Cnt.  8 (trip/total [clear]):    953,378/  2,379,774 K times/nozzle [1]
+Shot Cnt.  9 (trip/total [clear]):    390,542/    390,542 K times/nozzle [0]
+Shot Cnt. 10 (trip/total [clear]):    390,564/    390,564 K times/nozzle [0]
+Shot Cnt. 11 (trip/total [clear]):    151,020/    452,809 K times/nozzle [1]
+Shot Cnt. 12 (trip/total [clear]):    151,080/    452,970 K times/nozzle [1]
+                       :     H1     H2     H3     H4     H5     H6
+Wiping count for head  :  1,031    967  3,576  3,576  6,094  6,094 times
+Rubbing count for head :     34     25    144    144    159    159 times
+Headrank set count     :      2      2      4      1      1      1 times
+Auto cleaning count    :     59     53    170    170  2,531  2,531 times
+Normal cleaning count  :     44     39    202    202    197    197 times
+Medium cleaning count  :      9      8     41     41     26     26 times
+Powerful cleaning count:     10      7     43     43     48     48 times
+Ink renewal            :      0      0      0      0      0      0 times
+==== Maintenance group ====
+Maintenance Count      :    245 times
+Total time             :      2 hours
+Printing time          :      1 hours
+==== Wiper group ====
+Wiping count           :    535 times
+Rubbing count          :     12 times
+Wiper replace count    :     10 times
+==== Print group ====
+Printing time          :       1,789 hours
+Print pages            :       5,657 pages
+==== Ink group ====
+Cartridge change(1-6)  :     69     97     84     50     25     22 times
+Change ink type        :           0 times
+Ink Discharge 1        :     54 times
+Ink Discharge 2        :      8 times
+Ink Discharge 3        :     32 times
+==== Error group ====
+Service call count     :     13 times
+Service call history   : 0110 0211 0211 0211 0211
+Motor error  (feed)    :      3 times
+Motor error  (scan)    :    102 times
+Low temperature error  :     14 times
+High temperature error :      1 times
+Emergency capping      :      0 times
+Start uncapped         :    135 times
+==== System group ====
+Power on count         :    914 times
+Power on time          :  3,815 hours
+Sleep time             : 17,684 hours
+Sheet cut count        :     69 times
+Peck used count        :      2 times
+==== UV Lamp group ====
+UV Lamp On Time Right  :      61,864 min  
+UV Lamp On count Right :   2,512,838 times
+UV Lamp On Time Left   :      70,517 min  
+UV Lamp On count Left  :   2,025,551 times
+
+Model                  : LEJ-640
+Version                : 2.20
+Serial No.             : ZAK0199
+No:          SERIAL/  INK TYPE/  CAP./LOT No/   CONSUM./           TIME/INS./    FLAG
+ 1:14abe769060000f2/     EUV-C/ 200cc/4528B / 180.564cc/0y021d19h21m36s/   1/00000000
+ 2:14951a630600005d/     EUV-M/ 200cc/4723B /   1.917cc/0y000d03h20m59s/   1/00000000
+ 3:14e50569060000cd/     EUV-Y/ 200cc/4527B / 186.191cc/0y022d02h35m21s/   1/00000000
+ 4:149c2276060000c8/     EUV-K/ 200cc/4529B /   7.777cc/0y000d03h22m25s/   1/00000000
+ 5:149bd97506000013/    EUV-Gl/ 200cc/4526B / 200.360cc/0y043d03h43m05s/   6/00000000
+ 6:14ee0b6906000097/     EUV-W/ 200cc/4704B / 156.802cc/0y035d13h51m28s/  15/00000000
+Model                  : LEJ-640
+Version                : 2.20
+Serial No.             : ZAK0199
+Date                   : 2015/01/21 18:12
+Last event             : 78210
++--------+-----+----------------+------------------------------------+
+ Date     Time  Event            Information
++--------+-----+----------------+------------------------------------+
+ 15/01/21 18:11 Job done         
+ 15/01/21 18:11 Print done       
+ 15/01/21 18:10 Print start      
+ 15/01/21 18:10 Job start        26 C Testpattern
+ 15/01/21 18:10 Job done         
+ 15/01/21 18:10 Print done       
+ 15/01/21 18:10 Temperature      27 C
+ 15/01/21 18:08 Print start      
+ 15/01/21 18:08 Job start        26 C Testpattern
+ 15/01/21 18:06 Setup done       Width:589mm Thick:1.2mm
+ 15/01/21 17:56 Cancel done      
+ 15/01/21 17:56 Cancel start     Pinch lever up
+ 15/01/21 17:51 Job done         
+ 15/01/21 17:51 Print done       
+ 15/01/21 17:44 Print start      
+ 15/01/21 17:44 Job start        26 C 
+ 15/01/21 17:39 Setup done       Width:593mm Thick:1.2mm
+ 15/01/21 17:37 System setting   
+ 15/01/21 17:20 Cancel done      
+ 15/01/21 17:20 Cancel start     Pinch lever up
+ 15/01/21 17:19 Job done         
+ 15/01/21 17:19 Print done       
+ 15/01/21 17:19 Print start      
+ 15/01/21 17:19 Job start        25 C Testpattern
+ 15/01/21 17:19 Job done         
+ 15/01/21 17:19 Print done       
+ 15/01/21 17:18 Print start      
+ 15/01/21 17:18 Job start        25 C Testpattern
+ 15/01/21 17:18 Job done         
+ 15/01/21 17:18 Print done       
+ 15/01/21 17:17 Print start      
+ 15/01/21 17:17 Job start        25 C Testpattern
+ 15/01/21 17:17 Job done         
+ 15/01/21 17:17 Print done       
+ 15/01/21 17:16 Print start      
+ 15/01/21 17:16 Job start        25 C Testpattern
+ 15/01/21 17:16 Job done         
+ 15/01/21 17:16 Print done       
+ 15/01/21 17:15 Print start      
+ 15/01/21 17:15 Job start        25 C Testpattern
+ 15/01/21 17:15 Job done         
+ 15/01/21 17:15 Print done       
+ 15/01/21 17:14 Print start      
+ 15/01/21 17:14 Job start        25 C Testpattern
+ 15/01/21 17:14 Setup done       Width:596mm Thick:1.1mm
+ 15/01/21 17:13 Cancel done      
+ 15/01/21 17:13 Job done         
+ 15/01/21 17:13 Print start      
+ 15/01/21 17:13 Cancel start     User cancel
+ 15/01/21 17:13 Job start        25 C Testpattern
+ 15/01/21 17:10 Temperature      25 C
+ 15/01/21 17:07 Job done         
+ 15/01/21 17:07 Print done       
+ 15/01/21 17:06 Print start      
+ 15/01/21 17:06 Job start        25 C Testpattern
+ 15/01/21 17:00 Job done         
+ 15/01/21 17:00 Print done       
+ 15/01/21 16:59 Print start      
+ 15/01/21 16:59 Job start        25 C Testpattern
+ 15/01/21 16:52 Job done         
+ 15/01/21 16:52 Print done       
+ 15/01/21 16:50 Print start      
+ 15/01/21 16:50 Job start        25 C Testpattern
+ 15/01/21 16:33 Job done         
+ 15/01/21 16:33 Print done       
+ 15/01/21 16:31 Print start      
+ 15/01/21 16:31 Job start        25 C Testpattern
+ 15/01/21 16:30 Setup done       Width:589mm Thick:1.2mm
+ 15/01/21 16:10 Sub power on     Service mode
+ 15/01/21 16:10 Temperature      26 C
+ 15/01/21 16:10 Sub power off    
+ 15/01/21 16:09 Cancel done      
+ 15/01/21 16:09 System setting   
+ 15/01/21 16:09 Cancel start     User cancel
+ 15/01/21 16:05 Job done         
+ 15/01/21 16:05 Print done       
+ 15/01/21 16:03 Print start      
+ 15/01/21 16:03 Job start        26 C Testpattern
+ 15/01/21 15:47 Job done         
+ 15/01/21 15:47 Print done       
+ 15/01/21 15:44 Print start      
+ 15/01/21 15:44 Job start        26 C Testpattern
+ 15/01/21 15:41 Cleaning         Normal cleaning
+ 15/01/21 15:27 Job done         
+ 15/01/21 15:27 Print done       
+ 15/01/21 15:26 Print start      
+ 15/01/21 15:26 Job start        26 C Testpattern
+ 15/01/21 15:26 Setup done       Width:591mm Thick:1.0mm
+ 15/01/21 15:23 Cleaning         Medium cleaning
+ 15/01/21 15:11 Sub power on     Service mode
+ 15/01/21 15:11 Main power on    Normal
+ 15/01/21 15:11 Temperature      26 C
+ 15/01/21 15:00 Temperature      27 C
+ 15/01/21 15:00 Sub power off    
+ 15/01/21 14:55 Job done         
+ 15/01/21 14:55 Print done       
+ 15/01/21 14:54 Print start      
+ 15/01/21 14:54 Job start        26 C Testpattern
+ 15/01/21 14:50 Cartridge change No.2
+ 15/01/21 14:48 Cartridge change No.4
+ 15/01/21 14:45 Cleaning         Powerful cleaning
+ 15/01/21 14:44 Setup done       Width:591mm Thick:1.0mm
+ 15/01/21 14:42 Sub power on     Service mode
+ 15/01/21 14:41 Main power on    Normal
+ 15/01/21 14:41 Temperature      26 C
+ 15/01/21 14:36 Temperature      26 C
+ 15/01/21 14:36 Sub power off    
+ 15/01/21 14:34 Job done         
+ 15/01/21 14:34 Print done       
+ 15/01/21 14:32 Print start      
+ 15/01/21 14:32 Job start        25 C Testpattern
+ 15/01/21 14:31 Setup done       Width:591mm Thick:1.0mm
+ 15/01/21 14:29 Sub power on     Service mode
+ 15/01/21 14:21 Temperature      25 C
+ 15/01/21 13:21 Temperature      25 C
+ 15/01/21 13:21 Sub power off    
+ 15/01/21 13:16 Cleaning         Normal cleaning
+ 15/01/21 13:16 Setup done       Width:591mm Thick:1.0mm
+ 15/01/21 13:13 Sub power on     Service mode
+ 15/01/21 13:12 Main power on    Normal
+ 15/01/21 13:12 Temperature      25 C
+ 15/01/21 10:51 Temperature      19 C
+ 15/01/21 10:51 Sub power off    
+ 15/01/21 10:50 Sub power on     Service mode
+ 15/01/21 10:50 Main power on    Normal
+ 15/01/21 10:50 Temperature      19 C
+ 15/01/21 10:39 Temperature      21 C
+ 15/01/21 10:39 Sub power off    
+ 15/01/21 10:37 Job done         
+ 15/01/21 10:37 Print done       
+ 15/01/21 10:35 Print start      
+ 15/01/21 10:35 Job start        20 C Testpattern
+ 15/01/21 10:29 Job done         
+ 15/01/21 10:29 Print done       
+ 15/01/21 10:26 Print start      
+ 15/01/21 10:26 Job start        20 C Testpattern
+ 15/01/21 10:26 Setup done       Width:595mm Thick:1.0mm
+ 15/01/21 10:21 Sub power on     Service mode
+ 15/01/21 10:21 Temperature      21 C
+ 15/01/21 10:21 Sub power off    
+ 15/01/21 10:21 Sleep out        
+ 15/01/21 10:10 Temperature      20 C
+ 15/01/21 09:10 Temperature      22 C
+ 15/01/21 08:10 Temperature      21 C
+ 15/01/21 07:10 Temperature      20 C
+ 15/01/21 06:10 Temperature      19 C
+ 15/01/21 05:10 Temperature      19 C
+ 15/01/21 04:10 Temperature      19 C
+ 15/01/21 03:10 Temperature      19 C
+ 15/01/21 02:47 Sleep in         
+ 15/01/21 02:47 Sleep out        
+ 15/01/21 02:47 Cleaning         Self flushing
+ 15/01/21 02:10 Temperature      20 C
+ 15/01/21 01:10 Temperature      20 C
+ 15/01/21 00:10 Temperature      20 C
+ 15/01/20 23:10 Temperature      21 C
+ 15/01/20 22:10 Temperature      21 C
+ 15/01/20 21:10 Temperature      21 C
+ 15/01/20 20:10 Temperature      21 C
+ 15/01/20 19:10 Temperature      21 C
+ 15/01/20 18:46 Sleep in         
+ 15/01/20 18:46 Sleep out        
+ 15/01/20 18:46 Cleaning         Self flushing
+ 15/01/20 18:10 Temperature      22 C
+ 15/01/20 17:10 Temperature      21 C
+ 15/01/20 16:10 Temperature      20 C
+ 15/01/20 15:10 Temperature      21 C
+ 15/01/20 14:10 Temperature      20 C
+ 15/01/20 13:10 Temperature      20 C
+ 15/01/20 12:10 Temperature      20 C
+ 15/01/20 11:10 Temperature      20 C
+ 15/01/20 10:46 Sleep in         
+ 15/01/20 10:46 Sleep out        
+ 15/01/20 10:46 Cleaning         Self flushing
+ 15/01/20 10:10 Temperature      21 C
+ 15/01/20 09:10 Temperature      21 C
+ 15/01/20 08:10 Temperature      20 C
+ 15/01/20 07:10 Temperature      20 C
+ 15/01/20 06:10 Temperature      20 C
+ 15/01/20 05:10 Temperature      20 C
+ 15/01/20 04:10 Temperature      20 C
+ 15/01/20 03:10 Temperature      20 C
+ 15/01/20 02:45 Sleep in         
+ 15/01/20 02:45 Sleep out        
+ 15/01/20 02:45 Cleaning         Self flushing
+ 15/01/20 02:10 Temperature      19 C
+ 15/01/20 01:10 Temperature      19 C
+ 15/01/20 00:10 Temperature      20 C
+ 15/01/19 23:10 Temperature      20 C
+ 15/01/19 22:10 Temperature      20 C
+ 15/01/19 21:10 Temperature      21 C
+ 15/01/19 20:10 Temperature      21 C
+ 15/01/19 19:10 Temperature      21 C
+ 15/01/19 18:44 Sleep in         
+ 15/01/19 18:44 Sleep out        
+ 15/01/19 18:44 Cleaning         Self flushing
+ 15/01/19 18:10 Temperature      21 C
+ 15/01/19 17:10 Temperature      23 C
+ 15/01/19 16:10 Temperature      21 C
+ 15/01/19 15:10 Temperature      21 C
+ 15/01/19 14:10 Temperature      21 C
+ 15/01/19 13:10 Temperature      22 C
+ 15/01/19 12:10 Temperature      22 C
+ 15/01/19 11:10 Temperature      22 C
+ 15/01/19 10:44 Sleep in         
+ 15/01/19 10:11 Cleaning         Power on cleaning
+ 15/01/19 10:10 Sub power on     Normal
+ 15/01/19 10:10 Main power on    Normal
+ 15/01/19 10:10 Internal error   
+ 15/01/19 10:10 Temperature      27 C
+ 15/01/19 10:02 Cancel start     Pinch lever up
+ 15/01/19 10:01 Job done         
+ 15/01/19 10:01 Print done       
+ 15/01/19 09:43 Temperature      22 C
+ 15/01/19 09:29 Print start      
+ 15/01/19 09:29 Job start        22 C 
+ 15/01/19 09:26 Setup done       Width:991mm Thick:1.9mm
+ 15/01/19 09:23 Cancel done      
+ 15/01/19 09:23 Job done         
+ 15/01/19 09:23 Cancel start     User cancel
+ 15/01/19 09:17 Print start      
+ 15/01/19 09:17 Job start        22 C 
+ 15/01/19 09:15 Setup done       Width:991mm Thick:1.9mm
+ 15/01/19 08:52 Cancel done      
+ 15/01/19 08:52 Cancel start     Pinch lever up
+ 15/01/19 08:50 Job done         
+ 15/01/19 08:50 Print done       
+ 15/01/19 08:49 Print start      
+ 15/01/19 08:49 Job start        24 C Testpattern
+ 15/01/19 08:47 Setup done       Width:235mm Thick:0.6mm
+ 15/01/19 08:43 Temperature      24 C
+ 15/01/19 08:28 Cartridge change No.6
+ 15/01/19 08:28 Sleep out        
+ 15/01/19 07:43 Temperature      24 C
+ 15/01/19 07:19 Sleep in         
+ 15/01/19 07:19 Sleep out        
+ 15/01/19 07:19 Cleaning         Self flushing
+ 15/01/19 06:43 Temperature      23 C
+ 15/01/19 05:43 Temperature      24 C
+ 15/01/19 04:43 Temperature      24 C
+ 15/01/19 03:43 Temperature      24 C
+ 15/01/19 02:43 Temperature      24 C
+ 15/01/19 01:43 Temperature      24 C
+ 15/01/19 00:43 Temperature      25 C
+ 15/01/18 23:43 Temperature      25 C
+ 15/01/18 23:19 Sleep in         
+ 15/01/18 23:19 Sleep out        
+ 15/01/18 23:19 Cleaning         Self flushing
+ 15/01/18 22:43 Temperature      25 C
+ 15/01/18 21:43 Temperature      25 C
+ 15/01/18 20:43 Temperature      25 C
+ 15/01/18 19:43 Temperature      25 C
+ 15/01/18 18:43 Temperature      25 C
+ 15/01/18 17:43 Temperature      26 C
+ 15/01/18 16:43 Temperature      25 C
+ 15/01/18 15:43 Temperature      25 C
+ 15/01/18 15:18 Sleep in         
+ 15/01/18 15:18 Sleep out        
+ 15/01/18 15:18 Cleaning         Self flushing
+ 15/01/18 14:43 Temperature      25 C
+ 15/01/18 13:43 Temperature      25 C
+ 15/01/18 12:43 Temperature      25 C
+ 15/01/18 11:43 Temperature      25 C
+ 15/01/18 10:43 Temperature      25 C
+ 15/01/18 09:43 Temperature      24 C
+ 15/01/18 08:43 Temperature      24 C
+ 15/01/18 07:43 Temperature      24 C
+ 15/01/18 07:18 Sleep in         
+ 15/01/18 07:18 Sleep out        
+ 15/01/18 07:18 Cleaning         Self flushing
+ 15/01/18 06:43 Temperature      23 C
+ 15/01/18 05:43 Temperature      24 C
+ 15/01/18 04:43 Temperature      24 C
+ 15/01/18 03:43 Temperature      24 C
+ 15/01/18 02:43 Temperature      24 C
+ 15/01/18 01:43 Temperature      24 C
+ 15/01/18 00:43 Temperature      24 C
+ 15/01/17 23:43 Temperature      24 C
+ 15/01/17 23:17 Sleep in         
+ 15/01/17 23:17 Sleep out        
+ 15/01/17 23:17 Cleaning         Self flushing
+ 15/01/17 22:43 Temperature      25 C
+ 15/01/17 21:43 Temperature      25 C
+ 15/01/17 20:43 Temperature      25 C
+ 15/01/17 19:43 Temperature      25 C
+ 15/01/17 18:43 Temperature      25 C
+ 15/01/17 17:43 Temperature      25 C
+ 15/01/17 16:43 Temperature      25 C
+ 15/01/17 15:43 Temperature      25 C
+ 15/01/17 15:16 Sleep in         
+ 15/01/17 15:16 Sleep out        
+ 15/01/17 15:16 Cleaning         Self flushing
+ 15/01/17 14:43 Temperature      25 C
+ 15/01/17 13:43 Temperature      25 C
+ 15/01/17 12:43 Temperature      24 C
+ 15/01/17 11:43 Temperature      24 C
+ 15/01/17 10:43 Temperature      24 C
+ 15/01/17 09:43 Temperature      24 C
+ 15/01/17 08:43 Temperature      24 C
+ 15/01/17 07:43 Temperature      23 C
+ 15/01/17 07:16 Sleep in         
+ 15/01/17 07:16 Sleep out        
+ 15/01/17 07:16 Cleaning         Self flushing
+ 15/01/17 06:43 Temperature      23 C
+ 15/01/17 05:43 Temperature      23 C
+ 15/01/17 04:43 Temperature      23 C
+ 15/01/17 03:43 Temperature      23 C
+ 15/01/17 02:43 Temperature      23 C
+ 15/01/17 01:43 Temperature      24 C
+ 15/01/17 00:43 Temperature      24 C
+ 15/01/16 23:43 Temperature      24 C
+ 15/01/16 23:15 Sleep in         
+ 15/01/16 23:15 Sleep out        
+ 15/01/16 23:15 Cleaning         Self flushing
+ 15/01/16 22:43 Temperature      24 C
+ 15/01/16 21:43 Temperature      24 C
+ 15/01/16 20:43 Temperature      24 C
+ 15/01/16 19:43 Temperature      25 C
+ 15/01/16 18:43 Temperature      24 C
+ 15/01/16 17:43 Temperature      23 C
+ 15/01/16 16:43 Temperature      23 C
+ 15/01/16 15:43 Temperature      23 C
+ 15/01/16 15:14 Sleep in         
+ 15/01/16 15:14 Sleep out        
+ 15/01/16 15:14 Cleaning         Self flushing
+ 15/01/16 14:43 Temperature      23 C
+ 15/01/16 13:43 Temperature      26 C
+ 15/01/16 12:43 Temperature      25 C
+ 15/01/16 11:43 Temperature      25 C
+ 15/01/16 10:43 Temperature      25 C
+ 15/01/16 09:43 Temperature      25 C
+ 15/01/16 08:43 Temperature      24 C
+ 15/01/16 07:43 Temperature      23 C
+ 15/01/16 07:14 Sleep in         
+ 15/01/16 07:14 Sleep out        
+ 15/01/16 07:14 Cleaning         Self flushing
+ 15/01/16 06:43 Temperature      22 C
+ 15/01/16 05:43 Temperature      22 C
+ 15/01/16 04:43 Temperature      22 C
+ 15/01/16 03:43 Temperature      22 C
+ 15/01/16 02:43 Temperature      23 C
+ 15/01/16 01:43 Temperature      23 C
+ 15/01/16 00:43 Temperature      23 C
+ 15/01/15 23:43 Temperature      23 C
+ 15/01/15 23:13 Sleep in         
+ 15/01/15 23:13 Sleep out        
+ 15/01/15 23:13 Cleaning         Self flushing
+ 15/01/15 22:43 Temperature      23 C
+ 15/01/15 21:43 Temperature      23 C
+ 15/01/15 20:43 Temperature      23 C
+ 15/01/15 19:43 Temperature      23 C
+ 15/01/15 18:43 Temperature      23 C
+ 15/01/15 17:43 Temperature      21 C
+ 15/01/15 16:43 Temperature      23 C
+ 15/01/15 15:43 Temperature      24 C
+ 15/01/15 15:13 Sleep in         
+ 15/01/15 15:13 Sleep out        
+ 15/01/15 15:12 Cleaning         Self flushing
+ 15/01/15 14:43 Temperature      24 C
+ 15/01/15 13:43 Temperature      24 C
+ 15/01/15 12:43 Temperature      24 C
+ 15/01/15 11:43 Temperature      23 C
+ 15/01/15 10:43 Temperature      23 C
+ 15/01/15 09:43 Temperature      23 C
+ 15/01/15 08:43 Temperature      24 C
+ 15/01/15 07:43 Temperature      24 C
+ 15/01/15 07:12 Sleep in         
+ 15/01/15 06:43 Temperature      23 C
+ 15/01/15 06:42 Cartridge change No.6
+ 15/01/15 06:42 Sleep out        
+ 15/01/15 05:43 Temperature      23 C
+ 15/01/15 04:43 Temperature      23 C
+ 15/01/15 03:43 Temperature      23 C
+ 15/01/15 02:43 Temperature      23 C
+ 15/01/15 01:43 Temperature      24 C
+ 15/01/15 01:06 Sleep in         
+ 15/01/15 01:06 Sleep out        
+ 15/01/15 01:06 Cleaning         Self flushing
+ 15/01/15 00:43 Temperature      24 C
+ 15/01/14 23:43 Temperature      24 C
+ 15/01/14 22:43 Temperature      24 C
+ 15/01/14 21:43 Temperature      24 C
+ 15/01/14 20:43 Temperature      24 C
+ 15/01/14 19:43 Temperature      24 C
+ 15/01/14 18:43 Temperature      25 C
+ 15/01/14 17:43 Temperature      23 C
+ 15/01/14 17:05 Sleep in         
+ 15/01/14 16:43 Temperature      25 C
+ 15/01/14 16:21 Cancel done      
+ 15/01/14 16:21 Cancel start     Pinch lever up
+ 15/01/14 16:21 Job done         
+ 15/01/14 16:21 Print done       
+ 15/01/14 16:19 Print start      
+ 15/01/14 16:19 Job start        25 C 
+ 15/01/14 16:19 Job done         
+ 15/01/14 16:19 Print done       
+ 15/01/14 16:14 Print start      
+ 15/01/14 16:14 Job start        25 C 
+ 15/01/14 15:53 Setup done       Width:419mm Thick:0.7mm
+ 15/01/14 15:43 Temperature      26 C
+@DONE@

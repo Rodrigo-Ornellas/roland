@@ -1,0 +1,524 @@
+Model                 : VS-640i
+Version               : 1.40
+Serial No.            : KBT1179
+Date                  : 2015/05/29 03:06
+IP Address            : 192.168.010.010
+Subnet Mask           : 255.255.255.000
+Gateway Address       : 000.000.000.000
+MAC Address           : 00:40:AB:7F:1D:BB
+Ink type              : E-SOL MAX2 LkW  
+Ink remain(1-4)       :  85/ 85/ 85/ 85
+Ink remain(5-8)       :  85/ 85/ 80/ 59
+Head height           : Low
+Head Temperature      : 33C /  91.4F
+Heater temp.(PRINT)   : 30C /  86F
+Heater temp.(DRYER)   : 31C /  86F
+Edge detection        : Enable
+Empty mode            : Stop
+Calibration           :  0.00 %
+Full width scanning   : FULL
+Scan interval         :  0.0 sec
+Length unit           : mm
+Temperature unit      : C
+Menu language         : English
+Sleep interval        :  30 min
+Test Print Pos        : FEED            
+Sheet remain          : 0.0m
+Periodic cleaning     :  NONE  
+Vacuum power          : Auto
+Heater setting(PRINT) : 40C / 104F
+Heater setting(DRYER) : 45C / 112F
+Feed for dry          : Disable
+Preheating            : PREHEAT
+Drying Time           :   0 min
+Option Dryer          : Disable
+Set remain at loading : Disable
+Bi-dir. simple        :   0  
+Bi-dir. adjust No.1   :   0  
+        No.2   :   0  
+        No.3   :   0  
+        No.4   :   0  
+Tool parameter        : 
+  Force               :  50 gf
+  Velocity            :  30 cm/s
+  Offset              : 0.250 mm
+  Up velocity         :  30 cm/s
+Cutting calib. (F/S)  :   0.00/  0.00 %
+Print-cut adjust (F/S):   0.00/  0.00 mm
+Crop-cut adjust (F/S) :   0.00/  0.00 mm
+Cutting priority      : Command
+Prefeed               : Disable
+Auto Env Match        : Enable
+Media Release         : Disable
+Preset name           : NAME1
+Calibration           :  0.00 %
+Heater setting(PRINT) : 40C / 104F
+Heater setting(DRYER) : 45C / 112F
+Feed for dry          : Disable
+Bi-dir. simple        :   0  
+Scan interval   :  0.0 sec
+Edge detection  : Enable
+Full width S    : FULL
+Preheating      : Preheat
+Vacuum power    : Auto
+Force         :  50 gf
+Velocity      :  30 cm/s
+Offset        : 0.250 mm
+Up velocity   :  30 cm/s
+Drying Time   :   0 min
+Cutting calib. (F/S)  :   0.00/  0.00 %
+Print-cut adjust (F/S):   0.00/  0.00 mm
+Crop-cut adjust (F/S) :   0.00/  0.00 mm
+Media Release         : Disable
+Bi-dir. Adjust No.1   :   0   
+        No.2   :   0   
+        No.3   :   0   
+        No.4   :   0   
+Preset name           : NAME2
+Calibration           :  0.00 %
+Heater setting(PRINT) : 40C / 104F
+Heater setting(DRYER) : 45C / 112F
+Feed for dry          : Disable
+Bi-dir. simple        :   0  
+Scan interval   :  0.0 sec
+Edge detection  : Enable
+Full width S    : FULL
+Preheating      : Preheat
+Vacuum power    : Auto
+Force         :  50 gf
+Velocity      :  30 cm/s
+Offset        : 0.250 mm
+Up velocity   :  30 cm/s
+Drying Time   :   0 min
+Cutting calib. (F/S)  :   0.00/  0.00 %
+Print-cut adjust (F/S):   0.00/  0.00 mm
+Crop-cut adjust (F/S) :   0.00/  0.00 mm
+Media Release         : Disable
+Bi-dir. Adjust No.1   :   0   
+        No.2   :   0   
+        No.3   :   0   
+        No.4   :   0   
+Preset name           : NAME3
+Calibration           :  0.00 %
+Heater setting(PRINT) : 40C / 104F
+Heater setting(DRYER) : 45C / 112F
+Feed for dry          : Disable
+Bi-dir. simple        :   0  
+Scan interval   :  0.0 sec
+Edge detection  : Enable
+Full width S    : FULL
+Preheating      : Preheat
+Vacuum power    : Auto
+Force         :  50 gf
+Velocity      :  30 cm/s
+Offset        : 0.250 mm
+Up velocity   :  30 cm/s
+Drying Time   :   0 min
+Cutting calib. (F/S)  :   0.00/  0.00 %
+Print-cut adjust (F/S):   0.00/  0.00 mm
+Crop-cut adjust (F/S) :   0.00/  0.00 mm
+Media Release         : Disable
+Bi-dir. Adjust No.1   :   0   
+        No.2   :   0   
+        No.3   :   0   
+        No.4   :   0   
+Preset name           : NAME4
+Calibration           :  0.00 %
+Heater setting(PRINT) : 40C / 104F
+Heater setting(DRYER) : 45C / 112F
+Feed for dry          : Disable
+Bi-dir. simple        :   0  
+Scan interval   :  0.0 sec
+Edge detection  : Enable
+Full width S    : FULL
+Preheating      : Preheat
+Vacuum power    : Auto
+Force         :  50 gf
+Velocity      :  30 cm/s
+Offset        : 0.250 mm
+Up velocity   :  30 cm/s
+Drying Time   :   0 min
+Cutting calib. (F/S)  :   0.00/  0.00 %
+Print-cut adjust (F/S):   0.00/  0.00 mm
+Crop-cut adjust (F/S) :   0.00/  0.00 mm
+Media Release         : Disable
+Bi-dir. Adjust No.1   :   0   
+        No.2   :   0   
+        No.3   :   0   
+        No.4   :   0   
+Preset name           : NAME5
+Calibration           :  0.00 %
+Heater setting(PRINT) : 40C / 104F
+Heater setting(DRYER) : 45C / 112F
+Feed for dry          : Disable
+Bi-dir. simple        :   0  
+Scan interval   :  0.0 sec
+Edge detection  : Enable
+Full width S    : FULL
+Preheating      : Preheat
+Vacuum power    : Auto
+Force         :  50 gf
+Velocity      :  30 cm/s
+Offset        : 0.250 mm
+Up velocity   :  30 cm/s
+Drying Time   :   0 min
+Cutting calib. (F/S)  :   0.00/  0.00 %
+Print-cut adjust (F/S):   0.00/  0.00 mm
+Crop-cut adjust (F/S) :   0.00/  0.00 mm
+Media Release         : Disable
+Bi-dir. Adjust No.1   :   0   
+        No.2   :   0   
+        No.3   :   0   
+        No.4   :   0   
+Preset name           : NAME6
+Calibration           :  0.00 %
+Heater setting(PRINT) : 40C / 104F
+Heater setting(DRYER) : 45C / 112F
+Feed for dry          : Disable
+Bi-dir. simple        :   0  
+Scan interval   :  0.0 sec
+Edge detection  : Enable
+Full width S    : FULL
+Preheating      : Preheat
+Vacuum power    : Auto
+Force         :  50 gf
+Velocity      :  30 cm/s
+Offset        : 0.250 mm
+Up velocity   :  30 cm/s
+Drying Time   :   0 min
+Cutting calib. (F/S)  :   0.00/  0.00 %
+Print-cut adjust (F/S):   0.00/  0.00 mm
+Crop-cut adjust (F/S) :   0.00/  0.00 mm
+Media Release         : Disable
+Bi-dir. Adjust No.1   :   0   
+        No.2   :   0   
+        No.3   :   0   
+        No.4   :   0   
+Preset name           : NAME7
+Calibration           :  0.00 %
+Heater setting(PRINT) : 40C / 104F
+Heater setting(DRYER) : 45C / 112F
+Feed for dry          : Disable
+Bi-dir. simple        :   0  
+Scan interval   :  0.0 sec
+Edge detection  : Enable
+Full width S    : FULL
+Preheating      : Preheat
+Vacuum power    : Auto
+Force         :  50 gf
+Velocity      :  30 cm/s
+Offset        : 0.250 mm
+Up velocity   :  30 cm/s
+Drying Time   :   0 min
+Cutting calib. (F/S)  :   0.00/  0.00 %
+Print-cut adjust (F/S):   0.00/  0.00 mm
+Crop-cut adjust (F/S) :   0.00/  0.00 mm
+Media Release         : Disable
+Bi-dir. Adjust No.1   :   0   
+        No.2   :   0   
+        No.3   :   0   
+        No.4   :   0   
+Preset name           : NAME8
+Calibration           :  0.00 %
+Heater setting(PRINT) : 40C / 104F
+Heater setting(DRYER) : 45C / 112F
+Feed for dry          : Disable
+Bi-dir. simple        :   0  
+Scan interval   :  0.0 sec
+Edge detection  : Enable
+Full width S    : FULL
+Preheating      : Preheat
+Vacuum power    : Auto
+Force         :  50 gf
+Velocity      :  30 cm/s
+Offset        : 0.250 mm
+Up velocity   :  30 cm/s
+Drying Time   :   0 min
+Cutting calib. (F/S)  :   0.00/  0.00 %
+Print-cut adjust (F/S):   0.00/  0.00 mm
+Crop-cut adjust (F/S) :   0.00/  0.00 mm
+Media Release         : Disable
+Bi-dir. Adjust No.1   :   0   
+        No.2   :   0   
+        No.3   :   0   
+        No.4   :   0   
+Head rank             : 3898A6D7183837C7A9394R0F
+Head bi
+ Pigment:
+  No.1  : +24.5 
+  No.2  : +10   
+  No.3  : +15   
+  No.4  :  +4.5 
+ Max2   :
+  No.1  : +21   
+  No.2  : +28   
+  No.3  : +11.5 
+  No.4  : +21.5 
+  No.5  : +12   
+  No.6  : +16.5 
+  No.7  :  +5   
+  No.8  : +11.5 
+Dip SW                : 0010
+System SW page( 1- 4) : 00000000 00000000 00000000 00000000 
+System SW page( 5- 8) : 00000000 00000000 00000000 00000000 
+System SW page( 9-12) : 00000000 00000000 00000000 00000000 
+System SW page(13-16) : 00000000 00000000 00000000 00000000 
+Ink Mode              : E-SOL MAX2 LkW
+Limit position        :      25.8 mm
+Cutter down position  :    2018.1 mm
+Calibration default   :     -0.31 %
+Encoder position(L)   :    1803.7 mm
+Encoder position(R)   :     178.1 mm
+Maintenance request   : NONE
+Booter version        : 1.40
+Battery               :   Charged
+Periodic CL. degree   : LIGHT
+Drain liquid volume   : 254.7 cc
+Standard head         : 1
+Flushing pos adjust   :  0.00 mm
+Heater adjust(PRINT)  :   0C
+Heater adjust(DRYER)  :   0C
+Preheat temperature   : 30C
+Heating timeout       : 20 min
+Feed for dry len (OPT): 250 mm
+Encoder calibration   :    +0.112 %
+Force adjust 30gf     : 14
+Force adjust 200gf    : 50
+Crop-tool adjust (F/S):  +0.30/  -0.40 mm
+Print-cut adjust (F/S):  -0.25/  -0.45 mm
+Crop sensor adjust    :   0
+Model                  : VS-640i
+Version                : 1.40
+Serial No.             : KBT1179
+Date                   : 2015/05/29 03:06
+==== Motor group ====
+Motor feed   (trip/total [clear]):          0/          0 hours [0]
+Motor scan   (trip/total [clear]):          0/          0 hours [0]
+Pump Times   (trip/total [clear]):      2,312/      2,312 times [0]
+Pump TimesCIR(trip/total [clear]):        224/        224 times [0]
+Choke Times  (trip/total [clear]):         40/         40 times [0]
+==== Head group ====
+Shot Cnt.  1 (trip/total [clear]):      1,086/      1,086 K times/nozzle [0]
+Shot Cnt.  2 (trip/total [clear]):        940/        940 K times/nozzle [0]
+Shot Cnt.  3 (trip/total [clear]):      1,089/      1,089 K times/nozzle [0]
+Shot Cnt.  4 (trip/total [clear]):      1,011/      1,011 K times/nozzle [0]
+Shot Cnt.  5 (trip/total [clear]):      1,046/      1,046 K times/nozzle [0]
+Shot Cnt.  6 (trip/total [clear]):      1,098/      1,098 K times/nozzle [0]
+Shot Cnt.  7 (trip/total [clear]):      1,182/      1,182 K times/nozzle [0]
+Shot Cnt.  8 (trip/total [clear]):        833/        833 K times/nozzle [0]
+                          :     H1
+Wiping count for head     :     20 times
+Headrank set count        :      0 times
+Auto cleaning count       :      2 times
+Normal cleaning count     :      1 times
+Medium cleaning count     :      3 times
+Powerful cleaning count   :      1 times
+Choke cleaning count      :      1 times
+Light Choke cleaning count:      0 times
+==== Maintenance group ====
+Maintenance Count      :      0 times
+Total time             :  6,608 hours
+Printing time          :      0 hours
+==== Wiper group ====
+Wiping count           :     20 times
+Wiper replace count    :      0 times
+Felt Wiping count      :     20 times
+Felt Wipe replace count:      0 times
+==== Print group ====
+Printing time          :           0 hours
+Print pages            :           3 pages
+==== Ink group ====
+Cartridge change(1-4)  :      0      0      0      1 times
+Cartridge change(5-8)  :      0      0      1      0 times
+Change ink type        :           0 times
+Ink Circulation        :      0 times
+Ink Discharge (1-3)    :      0 times      0 times      0 times
+==== Error group ====
+Service call count     :      0 times
+Service call history   : **** **** **** **** ****
+Motor error  (feed)    :      0 times
+Motor error  (scan)    :      0 times
+Low temperature error  :      0 times
+High temperature error :      0 times
+Emergency capping      :      0 times
+Start uncapped         :      0 times
+==== System group ====
+Power on count         :     33 times
+Power on time          :      5 hours
+Sleep time             :      0 hours
+Sheet cut count        :      7 times
+Peck used count        :      0 times
+Net fault count(pon)   :      0 times
+Net fault count(cfg)   :      0 times
+==== Heater group ====        PRINT      DRYER
+Heater used time       :          4          4 hours
+==== Cutting group ====
+Cutting time           :           0 hours
+Disconnect carr. count :          18 times
+
+Model                  : VS-640i
+Version                : 1.40
+Serial No.             : KBT1179
+No:          SERIAL/  INK TYPE/  CAP./LOT No/   CONSUM./           TIME/INS./    FLAG
+ 1:1438ee69060000e9/  MAX2 Lc / 400cc/4617C/   61.319cc/0y000d02h47m40s/   1/00000000
+ 2:14199e84060000d1/  MAX2 C  / 400cc/4819C/   61.252cc/0y000d02h48m10s/   1/00000000
+ 3:14c4cf870600008f/  MAX2 Lm / 400cc/4821C/   61.377cc/0y000d02h47m17s/   1/00000000
+ 4:14371e8506000030/  MAX2 M  / 400cc/4820C/   61.235cc/0y000d02h48m35s/   1/00000000
+ 5:1438ed8606000074/  MAX2 Y  / 400cc/4916C/   61.287cc/0y000d02h48m55s/   1/00000000
+ 6:14abf2860600008f/  MAX2 K  / 400cc/4911C/   61.206cc/0y000d02h49m20s/   1/00000000
+ 7:14125f6d0600001c/  MAX2 Lk / 400cc/4808C/   81.769cc/0y000d02h53m15s/   1/00000000
+ 8:142e28df050000c2/  MAX2 W  / 200cc/3514B/   81.695cc/0y000d02h53m22s/   1/00000000
+Model                  : VS-640i
+Version                : 1.40
+Serial No.             : KBT1179
+Date                   : 2015/05/29 03:06
+Last event             : 143
++--------+-----+----------------+------------------------------------+
+ Date     Time  Event            Information
++--------+-----+----------------+------------------------------------+
+ 15/05/29 03:00 Print start      
+ 15/05/29 03:00 Job start        33 C 
+ 15/05/29 02:59 Job done         
+ 15/05/29 02:59 Print done       
+ 15/05/29 02:57 Print start      
+ 15/05/29 02:57 Job start        32 C Testpattern
+ 15/05/29 02:57 Job done         
+ 15/05/29 02:57 Print done       
+ 15/05/29 02:57 Print start      
+ 15/05/29 02:57 Job start        32 C Testpattern
+ 15/05/29 02:56 System setting   
+ 15/05/29 02:56 Setup done       Width:959mm Env.: 0.112
+ 15/05/29 02:55 Sub power on     Service mode
+ 15/05/29 02:54 Temperature      32 C
+ 15/05/29 02:54 Sub power off    
+ 15/05/29 02:52 Job done         
+ 15/05/29 02:52 Cutting done     
+ 15/05/29 02:51 Cutting start    
+ 15/05/29 02:51 Print done       
+ 15/05/29 02:49 Print start      
+ 15/05/29 02:49 Job start        32 C 
+ 15/05/29 02:43 Job done         
+ 15/05/29 02:43 Cutting done     
+ 15/05/29 02:42 Cutting start    
+ 15/05/29 02:42 Job start        33 C 
+ 15/05/29 02:39 Job done         
+ 15/05/29 02:39 Cutting done     
+ 15/05/29 02:39 Cutting start    
+ 15/05/29 02:39 Print done       
+ 15/05/29 02:29 Print start      
+ 15/05/29 02:28 Job start        31 C 
+ 15/05/29 02:18 System setting   
+ 15/05/29 02:16 Setup done       Width:959mm Env.: 0.113
+ 15/05/29 02:15 Sub power on     Normal
+ 15/05/29 02:15 Temperature      31 C
+ 15/05/29 02:15 Sub power off    
+ 15/05/29 02:09 Job done         
+ 15/05/29 02:09 Cutting done     
+ 15/05/29 02:09 Cutting start    
+ 15/05/29 02:09 Job start        30 C Testpattern
+ 15/05/29 02:04 Job done         
+ 15/05/29 02:04 Print done       
+ 15/05/29 02:03 Print start      
+ 15/05/29 02:03 Job start        30 C Testpattern
+ 15/05/29 02:01 Cleaning         Powerful cleaning
+ 15/05/29 02:00 Job done         
+ 15/05/29 02:00 Print done       
+ 15/05/29 01:59 Print start      
+ 15/05/29 01:59 Job start        29 C Testpattern
+ 15/05/29 01:57 Cleaning         Medium cleaning
+ 15/05/29 01:51 Job done         
+ 15/05/29 01:51 Print done       
+ 15/05/29 01:51 Print start      
+ 15/05/29 01:51 Job start        29 C Testpattern
+ 15/05/29 01:48 Cleaning         Medium cleaning
+ 15/05/29 01:48 Job done         
+ 15/05/29 01:48 Print done       
+ 15/05/29 01:48 Print start      
+ 15/05/29 01:48 Job start        29 C Testpattern
+ 15/05/29 01:45 Cleaning         Medium cleaning
+ 15/05/29 01:45 Job done         
+ 15/05/29 01:45 Print done       
+ 15/05/29 01:44 Print start      
+ 15/05/29 01:44 Job start        28 C Testpattern
+ 15/05/29 01:42 Cleaning         Normal cleaning
+ 15/05/29 01:41 Job done         
+ 15/05/29 01:41 Print done       
+ 15/05/29 01:40 Print start      
+ 15/05/29 01:40 Job start        28 C Testpattern
+ 15/05/29 01:39 System setting   
+ 15/05/29 01:37 Setup done       Width:959mm Env.: 0.116
+ 15/05/29 01:36 Temperature      28 C
+ 15/05/29 00:44 Sub power on     Normal
+ 15/05/29 00:36 Firmware update  1.20->1.40
+ 15/05/29 00:36 Main power on    Normal
+ 15/05/29 00:36 Temperature      28 C
+ 15/05/29 00:31 Temperature      28 C
+ 15/05/29 00:30 Sub power off    
+ 15/05/29 00:28 Sub power on     Service mode
+ 15/05/29 00:28 Temperature      28 C
+ 15/05/29 00:28 Sub power off    
+ 15/05/29 00:28 User setting     
+ 15/05/29 00:23 System setting   
+ 15/05/29 00:23 User setting     
+ 15/05/29 00:12 Cartridge change No.3
+ 15/05/29 00:11 Cartridge change No.1
+ 15/05/29 00:11 Cartridge change No.2
+ 15/05/29 00:10 Cartridge change No.4
+ 15/05/29 00:10 Cartridge change No.5
+ 15/05/29 00:10 Cartridge change No.6
+ 15/05/29 00:07 Cartridge change No.3
+ 15/05/29 00:07 Cartridge change No.1
+ 15/05/29 00:07 Cartridge change No.2
+ 15/05/29 00:07 Cartridge change No.5
+ 15/05/29 00:07 Cartridge change No.4
+ 15/05/29 00:07 Cartridge change No.6
+ 15/05/29 00:06 Select Ink Mode  E-SOL MAX2 LkW
+ 15/05/29 00:06 Cartridge change No.7
+ 15/05/29 00:06 Cartridge change No.8
+ 15/05/28 23:33 Temperature      26 C
+ 15/05/28 23:24 Cartridge change No.7
+ 15/05/28 23:24 Cartridge change No.8
+ 15/05/28 23:23 Cartridge change No.8
+ 15/05/28 23:23 Cartridge change No.7
+ 15/05/28 23:22 Cartridge change No.5
+ 15/05/28 23:21 Cartridge change No.5
+ 15/05/28 23:21 Cartridge change No.6
+ 15/05/28 23:21 Cartridge change No.8
+ 15/05/28 23:21 Cartridge change No.7
+ 15/05/28 23:13 Cartridge change No.6
+ 15/05/28 23:13 Cartridge change No.5
+ 15/05/28 23:12 Cartridge change No.6
+ 15/05/28 23:12 Cartridge change No.5
+ 15/05/28 23:11 Cartridge change No.4
+ 15/05/28 23:11 Cartridge change No.3
+ 15/05/28 23:11 Cartridge change No.6
+ 15/05/28 23:11 Cartridge change No.5
+ 15/05/28 23:02 Cartridge change No.4
+ 15/05/28 23:02 Cartridge change No.3
+ 15/05/28 23:01 Cartridge change No.4
+ 15/05/28 23:01 Cartridge change No.3
+ 15/05/28 23:00 Cartridge change No.2
+ 15/05/28 23:00 Cartridge change No.4
+ 15/05/28 23:00 Cartridge change No.3
+ 15/05/28 22:51 Cartridge change No.2
+ 15/05/28 22:51 Cartridge change No.1
+ 15/05/28 22:49 Cartridge change No.2
+ 15/05/28 22:49 Cartridge change No.1
+ 15/05/28 22:48 Cartridge change No.8
+ 15/05/28 22:48 Cartridge change No.7
+ 15/05/28 22:48 Cartridge change No.6
+ 15/05/28 22:48 Cartridge change No.5
+ 15/05/28 22:48 Cartridge change No.4
+ 15/05/28 22:48 Cartridge change No.3
+ 15/05/28 22:47 Cartridge change No.2
+ 15/05/28 22:47 Cartridge change No.1
+ 15/05/28 22:34 Sub power on     Normal
+ 15/05/28 22:33 Main power on    Normal
+ 15/05/28 22:33 Temperature      23 C
+ 14/08/27 09:26 Temperature      24 C
+ 14/08/27 09:26 Sub power off    
+ 14/08/27 09:24 Sub power on     Service mode
+ 14/08/27 09:24 Main power on    Normal
+ 14/08/27 09:24 Temperature      24 C
+
+@DONE@

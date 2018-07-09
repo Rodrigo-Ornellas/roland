@@ -1,0 +1,853 @@
+<< SYSTEM REPORT >>
+MODEL: XF-640
+SERIAL NUMBER: ZBT2537
+FIRMWARE VERSION
+  MAIN: 2.20
+  BOOT: 1.00
+SYSTEM
+  DATE: 2015/05/08 10:20
+  DIP SWITCH: 00000000
+  SYSTEM SWITCH( 1- 4): 00000000 00000000 00000000 00000000
+  SYSTEM SWITCH( 5- 8): 00000000 00000000 00000000 00000000
+  SYSTEM SWITCH( 9-12): 00000000 00000000 00000000 00000000
+  SYSTEM SWITCH(13-16): 00000000 00000000 00000000 00000001
+  BATTERY: CHARGED
+POSITION
+  LIMIT POSITION: 30.2 MM
+  CUTTER DOWN POSITION: 2212.9 MM
+  FLUSHING POSITION ADJUST: 1.40MM
+NETWORK
+  IP ADDRESS : 192.168.001.014
+  SUBNET MASK: 255.255.255.000
+  GATEWAY    : 000.000.000.000
+  MAC ADDRESS: 00:40:AB:01:3B:88
+MENU
+  LANGUAGE: ENGLISH
+  LENGTH UNIT: MM
+  TEMPERATURE UNIT: ßC
+SLEEP
+  SETTING: ENABLE
+  INTERVAL: 30 MIN
+SHEET
+  SHEET TYPE: OPAQUE
+  SHEET WIDTH: 1625 MM
+  SHEET POSITION: 0 MM
+  SIDE MARGIN: 10 MM
+  MEDIA RELEASE: DISABLE
+  VACUUM POWER: 100%
+  SHEET REMAIN: 0.0 M
+  SET REMAIN AT LOADING: DISABLE
+PRINT
+  EMPTY MODE: STOP
+  FULL WIDTH SCANNING: OFF
+  SCAN INTERVAL: 0.0 SEC
+  PERIODIC CLEANING: 150 MIN
+  PERIODIC CLEANING DEGREE: LIGHT
+  PERIODIC FLUSHING: ENABLE
+  PRE PRINT CLEANING: ENABLE
+  CL FLUSHING: DEFAULT
+INK
+  INK TYPE: PIGMENT 4COLORS
+  INK REMAIN(1-4): 0000/0000/0000/0000
+  INK REMAIN(5-8): 0000/0000/0000/0000
+  DRAIN LIQUID VOLUME: 5637.8 CC
+MOTOR
+  FEED CALIBRATION (USER): 0.15%
+  FEED CALIBRATION (FACTORY): -0.44%
+DRYING
+  PREHEATING TYPE: PREHEAT
+  PREHEATING TEMPERATURE: 30ßC
+  FEED FOR DRY: DISABLE
+  DRYING TIME: 0 MIN
+  HEATING TIMEOUT: 20 MIN
+  OPTION DRYER: DISABLE
+  BLOWER FAN: DISABLE
+HEATER TEMPERATURE
+  PRE HEATER: 22ßC /  70ßF
+  PRINT HEATER: 22ßC /  70ßF
+  DRYER: 22ßC /  70ßF
+HEATER SETTING
+  PRE HEATER: 40ßC / 104ßF
+  PRINT HEATER: 40ßC / 104ßF
+  DRYER: 40ßC / 104ßF
+HEATER ADJUST
+  PRE HEATER:  0ßC
+  PRINT HEATER:  0ßC
+  DRYER:  0ßC
+  OPTION-DRYER:  0ßC
+HEAD
+  HEAD HEIGHT: LOW
+  HEAD TEMPERATURE H1:  22ßC /  70ßF
+  HEAD TEMPERATURE H2:  22ßC /  70ßF
+  HEAD DRIVER TEMPERATURE:  27ßC /  80ßF
+  HEAD RANK H1: 394957B7F8F9186879C9DQ0W
+  HEAD RANK H2: 390957B7B868D828A949BS04
+  MAINTENANCE REQUEST: NONE
+BI-DIR.ADJUST
+  SIMPLE: -2  
+         H1    H2
+  NO.1:  +1.5  +2  
+  NO.2:  +2.5  +1  
+  NO.3:  +1    +1  
+  NO.4:  -1.5  +1  
+  NO.5:  +6.5  +9.5
+  NO.6:  +6   +10  
+  NO.7:  +3.5  +4.5
+  NO.8:  +5    +6  
+                         H1    H2
+          FACTORY NO.1: +28.5 +27  
+          FACTORY NO.2: +15   +13.5
+          FACTORY NO.3: +20   +19  
+          FACTORY NO.4: +10    +9.5
+  PIGMENT FACTORY NO.1: +29.5 +33  
+  PIGMENT FACTORY NO.2: +36.5 +37  
+  PIGMENT FACTORY NO.3: +15   +16  
+  PIGMENT FACTORY NO.4: +13   +14.5
+  PIGMENT FACTORY NO.5: +21.5 +23  
+  PIGMENT FACTORY NO.6: +24.5 +27  
+  PIGMENT FACTORY NO.7: +10.5 +12  
+  PIGMENT FACTORY NO.8: +11.5 +10.5
+  MAX2    FACTORY NO.1: +33.5 +32  
+  MAX2    FACTORY NO.2: +37   +35.5
+  MAX2    FACTORY NO.3: +18   +16.5
+  MAX2    FACTORY NO.4: +28   +26.5
+  MAX2    FACTORY NO.5: +22.5 +21.5
+  MAX2    FACTORY NO.6: +24.5 +23.5
+  MAX2    FACTORY NO.7: +11.5 +11  
+  MAX2    FACTORY NO.8: +18.5 +18  
+HORIZONTAL ADJUST
+  STANDARD HEAD: 1
+                 H1    H2
+          NO.1:        -4.5
+          NO.2:        -5  
+  PIGMENT NO.1:        -3  
+  PIGMENT NO.2:        -4  
+  PIGMENT NO.3:        -3  
+  PIGMENT NO.4:        -5  
+  MAX2    NO.1:        -4.5
+  MAX2    NO.2:        -4.5
+  MAX2    NO.3:        -5  
+  MAX2    NO.4:        -5  
+PRESET SETTING
+  SELECT AT LOADING: DISABLE
+  PRESET NAME: MONO           
+    SIMPLE BI-DIR.: -1
+    SHEET TYPE: OPAQUE
+    SHEET WIDTH:   1625 MM
+    SHEET POSITION:      0 MM
+    SIDE MARGIN:     10 MM
+    CALIBRATION:  0.05 
+    FULL WIDTH S: FULL
+    SCAN INTERVAL:    0.0 SEC
+    VACUUM POWER: AUTO
+    MEDIA RELEASE: DISABLE
+    DRYING TIME:      0 MIN
+    FEED FOR DRY: DISABLE
+    PREHEATING:  30ßC
+    PRE HEATER SETTING: OFF
+    PRINT HEATER SETTING: OFF
+    DRYER SETTING: OFF
+                   H1    H2
+    BI-DIR. NO.1:   0     0  
+    BI-DIR. NO.2:   0     0  
+    BI-DIR. NO.3:   0     0  
+    BI-DIR. NO.4:   0     0  
+    BI-DIR. NO.5:   0     0  
+    BI-DIR. NO.6:   0     0  
+    BI-DIR. NO.7:   0     0  
+    BI-DIR. NO.8:   0     0  
+  PRESET NAME: NAME2
+    SIMPLE BI-DIR.: 0
+    SHEET TYPE: OPAQUE
+    SHEET WIDTH:   1625 MM
+    SHEET POSITION:      0 MM
+    SIDE MARGIN:     10 MM
+    CALIBRATION:  0.00 
+    FULL WIDTH S: FULL
+    SCAN INTERVAL:    0.0 SEC
+    VACUUM POWER: AUTO
+    MEDIA RELEASE: DISABLE
+    DRYING TIME:      0 MIN
+    FEED FOR DRY: DISABLE
+    PREHEATING:  30ßC
+    PRE HEATER SETTING: 40ßC / 104ßF
+    PRINT HEATER SETTING: 40ßC / 104ßF
+    DRYER SETTING: 50ßC / 122ßF
+                   H1    H2
+    BI-DIR. NO.1:   0     0  
+    BI-DIR. NO.2:   0     0  
+    BI-DIR. NO.3:   0     0  
+    BI-DIR. NO.4:   0     0  
+    BI-DIR. NO.5:   0     0  
+    BI-DIR. NO.6:   0     0  
+    BI-DIR. NO.7:   0     0  
+    BI-DIR. NO.8:   0     0  
+  PRESET NAME: NAME3
+    SIMPLE BI-DIR.: 0
+    SHEET TYPE: OPAQUE
+    SHEET WIDTH:   1625 MM
+    SHEET POSITION:      0 MM
+    SIDE MARGIN:     10 MM
+    CALIBRATION:  0.00 
+    FULL WIDTH S: FULL
+    SCAN INTERVAL:    0.0 SEC
+    VACUUM POWER: AUTO
+    MEDIA RELEASE: DISABLE
+    DRYING TIME:      0 MIN
+    FEED FOR DRY: DISABLE
+    PREHEATING:  30ßC
+    PRE HEATER SETTING: 40ßC / 104ßF
+    PRINT HEATER SETTING: 40ßC / 104ßF
+    DRYER SETTING: 50ßC / 122ßF
+                   H1    H2
+    BI-DIR. NO.1:   0     0  
+    BI-DIR. NO.2:   0     0  
+    BI-DIR. NO.3:   0     0  
+    BI-DIR. NO.4:   0     0  
+    BI-DIR. NO.5:   0     0  
+    BI-DIR. NO.6:   0     0  
+    BI-DIR. NO.7:   0     0  
+    BI-DIR. NO.8:   0     0  
+  PRESET NAME: NAME4
+    SIMPLE BI-DIR.: 0
+    SHEET TYPE: OPAQUE
+    SHEET WIDTH:   1625 MM
+    SHEET POSITION:      0 MM
+    SIDE MARGIN:     10 MM
+    CALIBRATION:  0.00 
+    FULL WIDTH S: FULL
+    SCAN INTERVAL:    0.0 SEC
+    VACUUM POWER: AUTO
+    MEDIA RELEASE: DISABLE
+    DRYING TIME:      0 MIN
+    FEED FOR DRY: DISABLE
+    PREHEATING:  30ßC
+    PRE HEATER SETTING: 40ßC / 104ßF
+    PRINT HEATER SETTING: 40ßC / 104ßF
+    DRYER SETTING: 50ßC / 122ßF
+                   H1    H2
+    BI-DIR. NO.1:   0     0  
+    BI-DIR. NO.2:   0     0  
+    BI-DIR. NO.3:   0     0  
+    BI-DIR. NO.4:   0     0  
+    BI-DIR. NO.5:   0     0  
+    BI-DIR. NO.6:   0     0  
+    BI-DIR. NO.7:   0     0  
+    BI-DIR. NO.8:   0     0  
+  PRESET NAME: NAME5
+    SIMPLE BI-DIR.: 0
+    SHEET TYPE: OPAQUE
+    SHEET WIDTH:   1625 MM
+    SHEET POSITION:      0 MM
+    SIDE MARGIN:     10 MM
+    CALIBRATION:  0.00 
+    FULL WIDTH S: FULL
+    SCAN INTERVAL:    0.0 SEC
+    VACUUM POWER: AUTO
+    MEDIA RELEASE: DISABLE
+    DRYING TIME:      0 MIN
+    FEED FOR DRY: DISABLE
+    PREHEATING:  30ßC
+    PRE HEATER SETTING: 40ßC / 104ßF
+    PRINT HEATER SETTING: 40ßC / 104ßF
+    DRYER SETTING: 50ßC / 122ßF
+                   H1    H2
+    BI-DIR. NO.1:   0     0  
+    BI-DIR. NO.2:   0     0  
+    BI-DIR. NO.3:   0     0  
+    BI-DIR. NO.4:   0     0  
+    BI-DIR. NO.5:   0     0  
+    BI-DIR. NO.6:   0     0  
+    BI-DIR. NO.7:   0     0  
+    BI-DIR. NO.8:   0     0  
+  PRESET NAME: NAME6
+    SIMPLE BI-DIR.: 0
+    SHEET TYPE: OPAQUE
+    SHEET WIDTH:   1625 MM
+    SHEET POSITION:      0 MM
+    SIDE MARGIN:     10 MM
+    CALIBRATION:  0.00 
+    FULL WIDTH S: FULL
+    SCAN INTERVAL:    0.0 SEC
+    VACUUM POWER: AUTO
+    MEDIA RELEASE: DISABLE
+    DRYING TIME:      0 MIN
+    FEED FOR DRY: DISABLE
+    PREHEATING:  30ßC
+    PRE HEATER SETTING: 40ßC / 104ßF
+    PRINT HEATER SETTING: 40ßC / 104ßF
+    DRYER SETTING: 50ßC / 122ßF
+                   H1    H2
+    BI-DIR. NO.1:   0     0  
+    BI-DIR. NO.2:   0     0  
+    BI-DIR. NO.3:   0     0  
+    BI-DIR. NO.4:   0     0  
+    BI-DIR. NO.5:   0     0  
+    BI-DIR. NO.6:   0     0  
+    BI-DIR. NO.7:   0     0  
+    BI-DIR. NO.8:   0     0  
+  PRESET NAME: NAME7
+    SIMPLE BI-DIR.: 0
+    SHEET TYPE: OPAQUE
+    SHEET WIDTH:   1625 MM
+    SHEET POSITION:      0 MM
+    SIDE MARGIN:     10 MM
+    CALIBRATION:  0.00 
+    FULL WIDTH S: FULL
+    SCAN INTERVAL:    0.0 SEC
+    VACUUM POWER: AUTO
+    MEDIA RELEASE: DISABLE
+    DRYING TIME:      0 MIN
+    FEED FOR DRY: DISABLE
+    PREHEATING:  30ßC
+    PRE HEATER SETTING: 40ßC / 104ßF
+    PRINT HEATER SETTING: 40ßC / 104ßF
+    DRYER SETTING: 50ßC / 122ßF
+                   H1    H2
+    BI-DIR. NO.1:   0     0  
+    BI-DIR. NO.2:   0     0  
+    BI-DIR. NO.3:   0     0  
+    BI-DIR. NO.4:   0     0  
+    BI-DIR. NO.5:   0     0  
+    BI-DIR. NO.6:   0     0  
+    BI-DIR. NO.7:   0     0  
+    BI-DIR. NO.8:   0     0  
+  PRESET NAME: NAME8
+    SIMPLE BI-DIR.: 0
+    SHEET TYPE: OPAQUE
+    SHEET WIDTH:   1625 MM
+    SHEET POSITION:      0 MM
+    SIDE MARGIN:     10 MM
+    CALIBRATION:  0.00 
+    FULL WIDTH S: FULL
+    SCAN INTERVAL:    0.0 SEC
+    VACUUM POWER: AUTO
+    MEDIA RELEASE: DISABLE
+    DRYING TIME:      0 MIN
+    FEED FOR DRY: DISABLE
+    PREHEATING:  30ßC
+    PRE HEATER SETTING: 40ßC / 104ßF
+    PRINT HEATER SETTING: 40ßC / 104ßF
+    DRYER SETTING: 50ßC / 122ßF
+                   H1    H2
+    BI-DIR. NO.1:   0     0  
+    BI-DIR. NO.2:   0     0  
+    BI-DIR. NO.3:   0     0  
+    BI-DIR. NO.4:   0     0  
+    BI-DIR. NO.5:   0     0  
+    BI-DIR. NO.6:   0     0  
+    BI-DIR. NO.7:   0     0  
+    BI-DIR. NO.8:   0     0  
+MOTOR HISTORY
+  MOTOR FEED    (TRIP/TOTAL[CLEAR]) :     13,805/     13,804 HOURS [0]
+  MOTOR SCAN    (TRIP/TOTAL[CLEAR]) :        237/        236 HOURS [0]
+  PUMP TIMES A  (TRIP/TOTAL[CLEAR]) :     85,204/     84,930 TIMES [0]
+  PUMP TIMES B  (TRIP/TOTAL[CLEAR]) :     83,567/     83,293 TIMES [0]
+  CHOKE TIMES   (TRIP/TOTAL[CLEAR]) :         31/         31 TIMES [0]
+HEAD HISTORY
+  SHOT COUNT  1 (TRIP/TOTAL[CLEAR]) :          0/  2,678,509 K TIMES/NOZZLE [1]
+  SHOT COUNT  2 (TRIP/TOTAL[CLEAR]) :          0/  1,498,990 K TIMES/NOZZLE [1]
+  SHOT COUNT  3 (TRIP/TOTAL[CLEAR]) :          0/  3,545,671 K TIMES/NOZZLE [1]
+  SHOT COUNT  4 (TRIP/TOTAL[CLEAR]) :          0/  5,847,151 K TIMES/NOZZLE [1]
+  SHOT COUNT  5 (TRIP/TOTAL[CLEAR]) :          0/  5,847,178 K TIMES/NOZZLE [1]
+  SHOT COUNT  6 (TRIP/TOTAL[CLEAR]) :          0/  3,545,607 K TIMES/NOZZLE [1]
+  SHOT COUNT  7 (TRIP/TOTAL[CLEAR]) :          0/  1,498,982 K TIMES/NOZZLE [1]
+  SHOT COUNT  8 (TRIP/TOTAL[CLEAR]) :          0/  2,678,527 K TIMES/NOZZLE [1]
+  SHOT COUNT  9 (TRIP/TOTAL[CLEAR]) :    250,524/  2,678,195 K TIMES/NOZZLE [1]
+  SHOT COUNT 10 (TRIP/TOTAL[CLEAR]) :    152,059/  1,498,864 K TIMES/NOZZLE [1]
+  SHOT COUNT 11 (TRIP/TOTAL[CLEAR]) :    281,698/  3,545,320 K TIMES/NOZZLE [1]
+  SHOT COUNT 12 (TRIP/TOTAL[CLEAR]) :    359,745/  5,846,545 K TIMES/NOZZLE [1]
+  SHOT COUNT 13 (TRIP/TOTAL[CLEAR]) :    359,752/  5,846,545 K TIMES/NOZZLE [1]
+  SHOT COUNT 14 (TRIP/TOTAL[CLEAR]) :    281,688/  3,545,250 K TIMES/NOZZLE [1]
+  SHOT COUNT 15 (TRIP/TOTAL[CLEAR]) :    152,061/  1,498,857 K TIMES/NOZZLE [1]
+  SHOT COUNT 16 (TRIP/TOTAL[CLEAR]) :    250,529/  2,678,205 K TIMES/NOZZLE [1]
+                                    :     H1     H2 
+  WIPING COUNT FOR HEAD             :    687    102 TIMES
+  HEADRANK SET COUNT                :      1      1 TIMES
+  REPLACE HEAD COUNT                :      0      0 TIMES
+  AUTO CLEANING COUNT               :    139     15 TIMES
+  NORMAL CLEANING COUNT             :     78     11 TIMES
+  MEDIUM CLEANING COUNT             :     29      3 TIMES
+  POWERFUL CLEANING COUNT           :     36      4 TIMES
+  SUPER CLEANING COUNT              :     56      1 TIMES
+  CHOKE CLEANING COUNT              :      4      0 TIMES
+  LIGHT CHOKE CLEANING COUNT        :      3      1 TIMES
+  INK RENEWAL COUNT                 :      9      1 TIMES
+MAINTENANCE HISTORY
+  MAINTENACE COUNT                  :      8 TIMES
+  TOTAL TIME                        :    210 HOUR
+  PRINTING TIME                     :     50 HOUR
+WIPER HISTORY
+                                    :     H1     H2
+  WIPING COUNT                      :    681    671 TIMES
+  REPLACE WIPER COUNT               :      1      1 TIMES
+  FELT WIPING COUNT                 :    784    774 TIMES
+  REPLACE FELT WIPE COUNT           :      1      1 TIMES
+PRINT HISTORY
+  PRINTING TIME (TRIP/TOTAL[CLEAR]) :        425/        423 HOURS [0]
+  PRINTED PAGES (TRIP/TOTAL[CLEAR]) :        738/        737 PAGES [0]
+  PRINTED AREA  (TRIP/TOTAL[CLEAR]) :     29,270/     29,118 M^2 [0]
+INK HISTORY
+  INSERT COUNT ( 1- 4)              :      0      0      0      0 TIMES
+  INSERT COUNT ( 5- 8)              :      0      0      0      0 TIMES
+  EMPTY COUNT ( 1- 4)               :      0      0      0      0 TIMES
+  EMPTY COUNT ( 5- 8)               :      0      0      0      0 TIMES
+  CHANGE INK TYPE                   :      1 TIMES
+  CONSUME BY PRINT
+    SLOT  1     (TRIP/TOTAL[CLEAR]) :      5,294/      5,277 CC [0]
+    SLOT  2     (TRIP/TOTAL[CLEAR]) :      5,294/      5,277 CC [0]
+    SLOT  3     (TRIP/TOTAL[CLEAR]) :     13,171/     13,020 CC [0]
+    SLOT  4     (TRIP/TOTAL[CLEAR]) :     13,171/     13,020 CC [0]
+    SLOT  5     (TRIP/TOTAL[CLEAR]) :     21,063/     20,637 CC [0]
+    SLOT  6     (TRIP/TOTAL[CLEAR]) :     21,063/     20,637 CC [0]
+    SLOT  7     (TRIP/TOTAL[CLEAR]) :      9,771/      9,740 CC [0]
+    SLOT  8     (TRIP/TOTAL[CLEAR]) :      9,771/      9,740 CC [0]
+  CONSUME BY MAINTENANCE
+    SLOT  1     (TRIP/TOTAL[CLEAR]) :      2,532/      2,523 CC [0]
+    SLOT  2     (TRIP/TOTAL[CLEAR]) :      2,532/      2,523 CC [0]
+    SLOT  3     (TRIP/TOTAL[CLEAR]) :      2,532/      2,523 CC [0]
+    SLOT  4     (TRIP/TOTAL[CLEAR]) :      2,532/      2,523 CC [0]
+    SLOT  5     (TRIP/TOTAL[CLEAR]) :      2,532/      2,523 CC [0]
+    SLOT  6     (TRIP/TOTAL[CLEAR]) :      2,532/      2,523 CC [0]
+    SLOT  7     (TRIP/TOTAL[CLEAR]) :      2,532/      2,523 CC [0]
+    SLOT  8     (TRIP/TOTAL[CLEAR]) :      2,532/      2,523 CC [0]
+ERROR HISTORY
+  SERVICE CALL COUNT                :      0 TIMES
+  SERVICE CALL HISTORY              : **** **** **** **** **** **** **** **** 
+  MOTOR ERROR COUNT(FEED)           :      1 TIMES
+  MOTOR ERROR COUNT(SCAN)           :      3 TIMES
+  LOW TEMPERATURE ERROR COUNT       :      0 TIMES
+  HIGH TEMPERATURE ERROR COUNT      :      0 TIMES
+  EMERGENCY CAPPING COUNT           :      0 TIMES
+  START UNCAPPED COUNT              :      3 TIMES
+SYSTEM HISTORY
+  POWER ON COUNT                    :     40 TIMES
+  POWER ON TIME                     :    817 HOURS
+  SLEEP TIME                        :    303 HOURS
+  SHEET CUT COUNT                   :      4 TIMES
+  PECK USED COUNT                   :      0 TIMES
+  HIGHEST TEMPERATURE               :  35 ßC
+  LOWEST TEMPERATURE                :  17 ßC
+HEATER HISTORY
+  PRE HEATER USED TIME              :    117 HOURS
+  PRINT HEATER USED TIME            :    117 HOURS
+  DRYER USED TIME                   :    117 HOURS
+  OPTION DRYER USED TIME            :      0 HOURS
+INK CARTRIDGE
+  NO:          SERIAL/  INK TYPE/  CAP./LOT NO/   CONSUME/           TIME/INS./    FLAG
+   1:1464e088060000de/     PIG Y/ 200cc/ 1806A/8397.008cc/0y094d06h44m27s/  19/00000000
+   2:1466b188060000e8/     PIG Y/ 200cc/ 1806A/8397.040cc/0y094d06h44m20s/  19/00000000
+   3:142013880600009f/     PIG C/ 200cc/ 1910A/16279.936cc/0y093d13h43m02s/  20/00000000
+   4:145f0f880600007e/     PIG C/ 200cc/ 1910A/16280.177cc/0y093d13h43m10s/  20/00000000
+   5:1471238806000002/     PIG K/ 200cc/ 1616A/24147.004cc/0y093d12h11m03s/  25/00000000
+   6:14a00b8806000037/     PIG K/ 200cc/ 1616A/24147.063cc/0y093d12h11m10s/  25/00000000
+   7:147e0c8a060000b6/     PIG M/ 200cc/ 1810A/12861.191cc/0y094d01h01m06s/  12/00000001
+   8:14d2e48806000074/     PIG M/ 200cc/ 1810A/12861.141cc/0y094d01h01m06s/  12/00000001
+MACHINE EVENT LOG
+  LAST EVENT SERIAL NO. : 6234
+  2015/05/08 10:20 Sub power on     Service mode
+  2015/05/08 10:20 Main power on    Normal mode
+  2015/05/08 10:20 Update firmware  2.10 -> 2.20
+  2015/05/08 10:10 Sub power off    
+  2015/05/08 10:09 Sub power on     Service mode
+  2015/05/08 10:08 Sub power off    
+  2015/05/08 10:07 User setting     
+  2015/05/08 10:03 Job done         
+  2015/05/08 10:03 Print done       
+  2015/05/08 10:00 Print start      
+  2015/05/08 10:00 Job start        22ßC Testpattern
+  2015/05/08 10:00 User setting     
+  2015/05/08 10:00 Job done         
+  2015/05/08 10:00 Print done       
+  2015/05/08 09:59 Print start      
+  2015/05/08 09:59 Job start        22ßC Testpattern
+  2015/05/08 09:59 System setting   
+  2015/05/08 09:57 Job done         
+  2015/05/08 09:57 Print done       
+  2015/05/08 09:52 Print start      
+  2015/05/08 09:52 Job start        22ßC Testpattern
+  2015/05/08 09:50 System setting   
+  2015/05/08 09:49 Job done         
+  2015/05/08 09:49 Print done       
+  2015/05/08 09:47 Temperature      22ßC
+  2015/05/08 09:46 Print start      
+  2015/05/08 09:46 Job start        22ßC Testpattern
+  2015/05/08 09:44 Job done         
+  2015/05/08 09:44 Print done       
+  2015/05/08 09:43 Print start      
+  2015/05/08 09:43 Job start        22ßC Testpattern
+  2015/05/08 09:42 Job done         
+  2015/05/08 09:42 Print done       
+  2015/05/08 09:41 Print start      
+  2015/05/08 09:41 Job start        22ßC Testpattern
+  2015/05/08 09:39 Job done         
+  2015/05/08 09:39 Print done       
+  2015/05/08 09:38 Print start      
+  2015/05/08 09:38 Job start        22ßC Testpattern
+  2015/05/08 09:37 Job done         
+  2015/05/08 09:37 Print done       
+  2015/05/08 09:36 Print start      
+  2015/05/08 09:36 Job start        22ßC Testpattern
+  2015/05/08 09:33 Job done         
+  2015/05/08 09:33 Print done       
+  2015/05/08 09:32 Print start      
+  2015/05/08 09:32 Job start        22ßC Testpattern
+  2015/05/08 09:31 Job done         
+  2015/05/08 09:31 Print done       
+  2015/05/08 09:30 Print start      
+  2015/05/08 09:30 Job start        22ßC Testpattern
+  2015/05/08 09:27 Job done         
+  2015/05/08 09:27 Print done       
+  2015/05/08 09:26 Print start      
+  2015/05/08 09:26 Job start        22ßC Testpattern
+  2015/05/08 09:25 Job done         
+  2015/05/08 09:25 Print done       
+  2015/05/08 09:24 Print start      
+  2015/05/08 09:24 Job start        22ßC Testpattern
+  2015/05/08 09:21 Job done         
+  2015/05/08 09:21 Print done       
+  2015/05/08 09:20 Print start      
+  2015/05/08 09:20 Job start        21ßC Testpattern
+  2015/05/08 09:20 System setting   
+  2015/05/08 09:12 Job done         
+  2015/05/08 09:12 Print done       
+  2015/05/08 09:11 Print start      
+  2015/05/08 09:11 Job start        21ßC Testpattern
+  2015/05/08 09:09 Cleaning         Medium cleaning
+  2015/05/08 09:08 Job done         
+  2015/05/08 09:08 Print done       
+  2015/05/08 09:07 Print start      
+  2015/05/08 09:07 Job start        21ßC Testpattern
+  2015/05/08 09:03 Cleaning         Super cleaning
+  2015/05/08 09:03 Job done         
+  2015/05/08 09:03 Print done       
+  2015/05/08 09:02 Print start      
+  2015/05/08 09:02 Job start        21ßC Testpattern
+  2015/05/08 08:57 Cleaning         Super cleaning
+  2015/05/08 08:56 Job done         
+  2015/05/08 08:56 Print done       
+  2015/05/08 08:55 Print start      
+  2015/05/08 08:55 Job start        21ßC Testpattern
+  2015/05/08 08:54 Setup done       Width:1553mm Env.:0.000
+  2015/05/08 08:49 Cleaning         Super cleaning
+  2015/05/08 08:47 Sub power on     Service mode
+  2015/05/08 08:47 Main power on    Normal mode
+  2015/05/08 08:16 Sub power off    
+  2015/05/08 08:14 Job done         
+  2015/05/08 08:14 Print done       
+  2015/05/08 08:13 Print start      
+  2015/05/08 08:13 Job start        20ßC Testpattern
+  2015/05/08 08:09 Cleaning         Super cleaning
+  2015/05/08 08:08 Job done         
+  2015/05/08 08:08 Print done       
+  2015/05/08 08:07 Cleaning         Periodic cleaning
+  2015/05/08 08:05 Print start      
+  2015/05/08 08:05 Job start        21ßC Testpattern
+  2015/05/08 08:02 Cleaning         Medium cleaning
+  2015/05/08 08:01 Setup done       Width:1553mm Env.:0.000
+  2015/05/08 07:59 Sub power on     Service mode
+  2015/05/08 07:59 Main power on    Normal mode
+  2015/05/07 18:22 Sub power off    
+  2015/05/07 18:05 Cleaning         Super cleaning
+  2015/05/07 18:04 Sub power on     Service mode
+  2015/05/07 18:00 Sub power off    
+  2015/05/07 17:59 Cleaning         Super cleaning
+  2015/05/07 17:59 Setup done       Width:1553mm Env.:0.000
+  2015/05/07 17:57 Sub power on     Service mode
+  2015/05/07 17:57 Main power on    Normal mode
+  2015/05/07 17:42 Sub power off    
+  2015/05/07 17:42 Job done         
+  2015/05/07 17:42 Print done       
+  2015/05/07 17:41 Print start      
+  2015/05/07 17:41 Job start        24ßC Testpattern
+  2015/05/07 17:41 Setup done       Width:1553mm Env.:0.000
+  2015/05/07 17:40 System setting   
+  2015/05/07 17:36 Cleaning         Super cleaning
+  2015/05/07 17:32 Job done         
+  2015/05/07 17:32 Print done       
+  2015/05/07 17:31 Print start      
+  2015/05/07 17:31 Job start        23ßC Testpattern
+  2015/05/07 17:27 Cleaning         Super cleaning
+  2015/05/07 17:25 Job done         
+  2015/05/07 17:25 Print done       
+  2015/05/07 17:24 Print start      
+  2015/05/07 17:24 Job start        23ßC Testpattern
+  2015/05/07 17:22 Cleaning         Normal cleaning
+  2015/05/07 17:19 Cleaning         Normal cleaning
+  2015/05/07 17:19 Setup done       Width:1553mm Env.:0.000
+  2015/05/07 17:14 Setup done       Width:1553mm Env.:0.000
+  2015/05/07 17:12 Sub power on     Service mode
+  2015/05/07 17:12 Main power on    Normal mode
+  2015/05/07 16:56 Sub power off    
+  2015/05/07 16:54 Job done         
+  2015/05/07 16:54 Print done       
+  2015/05/07 16:53 Print start      
+  2015/05/07 16:53 Job start        22ßC Testpattern
+  2015/05/07 16:44 Ink renewal      
+  2015/05/07 16:42 Job done         
+  2015/05/07 16:42 Print done       
+  2015/05/07 16:42 Print start      
+  2015/05/07 16:42 Job start        22ßC Testpattern
+  2015/05/07 16:41 Setup done       Width:1553mm Env.:0.000
+  2015/05/07 16:37 Cleaning         Powerful cleaning
+  2015/05/07 16:36 Sub power on     Service mode
+  2015/05/07 16:34 Sub power off    
+  2015/05/07 16:33 Job done         
+  2015/05/07 16:33 Print done       
+  2015/05/07 16:32 Print start      
+  2015/05/07 16:32 Job start        22ßC Testpattern
+  2015/05/07 16:29 Cleaning         Normal cleaning
+  2015/05/07 16:25 Job done         
+  2015/05/07 16:25 Print done       
+  2015/05/07 16:24 Print start      
+  2015/05/07 16:24 Job start        22ßC Testpattern
+  2015/05/07 16:20 Cleaning         Super cleaning
+  2015/05/07 16:19 Setup done       Width:1553mm Env.:0.000
+  2015/05/07 16:17 Sub power on     Service mode
+  2015/05/07 16:17 Main power on    Normal mode
+  2015/05/07 16:07 Job done         
+  2015/05/07 16:07 Print done       
+  2015/05/07 16:06 Print start      
+  2015/05/07 16:06 Job start        23ßC Testpattern
+  2015/05/07 16:06 Setup done       Width:1553mm Env.:0.000
+  2015/05/07 16:03 Cleaning         Medium cleaning
+  2015/05/07 16:02 Sub power on     Service mode
+  2015/05/07 16:01 Main power on    Normal mode
+  2015/05/07 15:55 Sub power off    
+  2015/05/07 15:54 Job done         
+  2015/05/07 15:54 Print done       
+  2015/05/07 15:53 Print start      
+  2015/05/07 15:53 Job start        23ßC Testpattern
+  2015/05/07 15:53 Setup done       Width:1553mm Env.:0.000
+  2015/05/07 15:47 Cleaning         Super cleaning
+  2015/05/07 15:46 Sub power on     Service mode
+  2015/05/07 15:42 Sub power off    
+  2015/05/07 15:41 Job done         
+  2015/05/07 15:41 Print done       
+  2015/05/07 15:40 Print start      
+  2015/05/07 15:40 Job start        23ßC Testpattern
+  2015/05/07 15:35 Cleaning         Super cleaning
+  2015/05/07 15:35 Setup done       Width:1553mm Env.:0.000
+  2015/05/07 15:33 Sub power on     Service mode
+  2015/05/07 15:32 Main power on    Normal mode
+  2015/05/07 14:54 Sub power off    
+  2015/05/07 14:23 Job done         
+  2015/05/07 14:23 Print done       
+  2015/05/07 14:21 Print start      
+  2015/05/07 14:21 Job start        26ßC Testpattern
+  2015/05/07 14:21 Job done         
+  2015/05/07 14:21 Print done       
+  2015/05/07 14:20 Cleaning         Periodic cleaning
+  2015/05/07 14:18 Print start      
+  2015/05/07 14:18 Job start        25ßC Testpattern
+  2015/05/07 14:17 Setup done       Width:1553mm Env.:0.000
+  2015/05/07 14:14 Sub power on     Service mode
+  2015/05/07 14:14 Sub power off    
+  2015/05/07 14:13 User setting     
+  2015/05/07 14:13 Cancel done      
+  2015/05/07 14:13 Cancel start     User cancel
+  2015/05/07 14:12 Sleep out        
+  2015/05/07 13:42 Temperature      26ßC
+  2015/05/07 12:42 Temperature      26ßC
+  2015/05/07 12:34 Sleep in         
+  2015/05/07 12:02 Print start      
+  2015/05/07 12:02 Job start        27ßC
+  2015/05/07 12:02 Job done         
+  2015/05/07 12:02 Print done       
+  2015/05/07 12:01 Print start      
+  2015/05/07 12:01 Job start        27ßC Testpattern
+  2015/05/07 11:57 Cleaning         Super cleaning
+  2015/05/07 11:57 Job done         
+  2015/05/07 11:57 Print done       
+  2015/05/07 11:56 Print start      
+  2015/05/07 11:56 Job start        27ßC Testpattern
+  2015/05/07 11:52 Cleaning         Super cleaning
+  2015/05/07 11:51 Job done         
+  2015/05/07 11:51 Print done       
+  2015/05/07 11:50 Print start      
+  2015/05/07 11:50 Job start        27ßC Testpattern
+  2015/05/07 11:50 Setup done       Width:1553mm Env.:0.000
+  2015/05/07 11:49 Cancel done      
+  2015/05/07 11:48 Cancel start     User cancel
+  2015/05/07 11:43 Print start      
+  2015/05/07 11:43 Job start        26ßC
+  2015/05/07 11:43 Sleep out        
+  2015/05/07 11:42 Temperature      26ßC
+  2015/05/07 11:15 Sleep in         
+  2015/05/07 10:45 User setting     
+  2015/05/07 10:45 Job done         
+  2015/05/07 10:45 Print done       
+  2015/05/07 10:42 Temperature      27ßC
+  2015/05/07 10:41 Print start      
+  2015/05/07 10:41 Job start        27ßC
+  2015/05/07 10:32 Setup done       Width:1553mm Env.:0.000
+  2015/05/07 10:29 Job done         
+  2015/05/07 10:29 Print done       
+  2015/05/07 10:26 Cleaning         Periodic cleaning
+  2015/05/07 10:23 Print start      
+  2015/05/07 10:23 Job start        27ßC
+  2015/05/07 10:11 Job done         
+  2015/05/07 10:11 Print done       
+  2015/05/07 10:07 Print start      
+  2015/05/07 10:07 Job start        26ßC
+  2015/05/07 09:42 Temperature      27ßC
+  2015/05/07 09:41 Job done         
+  2015/05/07 09:41 Print done       
+  2015/05/07 09:39 Print start      
+  2015/05/07 09:39 Job start        26ßC
+  2015/05/07 09:19 Job done         
+  2015/05/07 09:19 Print done       
+  2015/05/07 09:16 Print start      
+  2015/05/07 09:16 Job start        26ßC
+  2015/05/07 08:59 Job done         
+  2015/05/07 08:59 Print done       
+  2015/05/07 08:55 Print start      
+  2015/05/07 08:55 Job start        26ßC
+  2015/05/07 08:46 Job done         
+  2015/05/07 08:46 Print done       
+  2015/05/07 08:42 Temperature      25ßC
+  2015/05/07 08:41 Print start      
+  2015/05/07 08:41 Job start        25ßC
+  2015/05/07 08:36 Job done         
+  2015/05/07 08:36 Print done       
+  2015/05/07 08:35 Print start      
+  2015/05/07 08:35 Job start        25ßC Testpattern
+  2015/05/07 08:30 Cleaning         Super cleaning
+  2015/05/07 08:28 Setup done       Width:1555mm Env.:0.000
+  2015/05/07 08:17 Job done         
+  2015/05/07 08:17 Print done       
+  2015/05/07 08:16 Print start      
+  2015/05/07 08:16 Job start        24ßC Testpattern
+  2015/05/07 08:11 Cleaning         Super cleaning
+  2015/05/07 08:08 Job done         
+  2015/05/07 08:08 Print done       
+  2015/05/07 08:07 Print start      
+  2015/05/07 08:07 Job start        24ßC Testpattern
+  2015/05/07 08:04 Cleaning         Normal cleaning
+  2015/05/07 07:59 Job done         
+  2015/05/07 07:59 Print done       
+  2015/05/07 07:58 Print start      
+  2015/05/07 07:58 Job start        24ßC Testpattern
+  2015/05/07 07:55 Cleaning         Normal cleaning
+  2015/05/07 07:55 Job done         
+  2015/05/07 07:55 Print done       
+  2015/05/07 07:54 Cleaning         Periodic cleaning
+  2015/05/07 07:52 Print start      
+  2015/05/07 07:52 Job start        23ßC Testpattern
+  2015/05/07 07:42 Temperature      23ßC
+  2015/05/07 07:41 Setup done       Width:1564mm Env.:0.000
+  2015/05/07 07:36 Sleep out        
+  2015/05/07 06:42 Temperature      23ßC
+  2015/05/07 05:42 Temperature      23ßC
+  2015/05/07 04:42 Temperature      23ßC
+  2015/05/07 03:42 Temperature      24ßC
+  2015/05/07 02:42 Temperature      25ßC
+  2015/05/07 01:42 Temperature      25ßC
+  2015/05/07 00:42 Temperature      27ßC
+  2015/05/06 23:47 Sleep in         
+  2015/05/06 23:42 Temperature      29ßC
+  2015/05/06 23:17 Cancel done      
+  2015/05/06 23:17 Cancel start     Media end
+  2015/05/06 22:42 Temperature      32ßC
+  2015/05/06 21:42 Temperature      32ßC
+  2015/05/06 21:05 Cleaning         Periodic cleaning
+  2015/05/06 20:42 Temperature      32ßC
+  2015/05/06 19:42 Temperature      31ßC
+  2015/05/06 18:42 Temperature      31ßC
+  2015/05/06 18:30 Cleaning         Normal cleaning
+  2015/05/06 18:26 Print start      
+  2015/05/06 18:26 Job start        29ßC
+  2015/05/06 18:21 Setup done       Width:1561mm Env.:0.000
+  2015/05/06 18:10 Cancel done      
+  2015/05/06 18:07 Cancel start     Pinch lever up
+  2015/05/06 17:42 Temperature      32ßC
+  2015/05/06 16:42 Temperature      31ßC
+  2015/05/06 16:36 Cleaning         Normal cleaning
+  2015/05/06 15:55 Cleaning         Periodic cleaning
+  2015/05/06 15:42 Temperature      32ßC
+  2015/05/06 14:42 Temperature      32ßC
+  2015/05/06 13:42 Temperature      32ßC
+  2015/05/06 13:25 Print start      
+  2015/05/06 13:25 Job start        31ßC
+  2015/05/06 13:24 Job done         
+  2015/05/06 13:24 Print done       
+  2015/05/06 13:19 Cleaning         Powerful cleaning
+  2015/05/06 13:03 Print start      
+  2015/05/06 13:03 Job start        31ßC
+  2015/05/06 13:02 Setup done       Width:1562mm Env.:0.000
+  2015/05/06 12:59 Cancel done      
+  2015/05/06 12:58 Cancel start     Pinch lever up
+  2015/05/06 12:42 Temperature      32ßC
+  2015/05/06 12:22 Cleaning         Normal cleaning
+  2015/05/06 11:42 Temperature      32ßC
+  2015/05/06 10:42 Temperature      32ßC
+  2015/05/06 10:10 Print start      
+  2015/05/06 10:10 Job start        30ßC
+  2015/05/06 10:07 Setup done       Width:1559mm Env.:0.000
+  2015/05/06 10:06 Setup done       Width:1559mm Env.:0.000
+  2015/05/06 10:04 Cancel done      
+  2015/05/06 10:03 Cancel start     User cancel
+  2015/05/06 09:42 Temperature      32ßC
+  2015/05/06 08:42 Temperature      31ßC
+  2015/05/06 07:56 Cleaning         Periodic cleaning
+  2015/05/06 07:50 Print start      
+  2015/05/06 07:50 Job start        23ßC
+  2015/05/06 07:44 Setup done       Width:1559mm Env.:0.000
+  2015/05/06 07:42 Temperature      23ßC
+  2015/05/06 07:27 Sleep out        
+  2015/05/06 06:42 Temperature      23ßC
+  2015/05/06 05:42 Temperature      23ßC
+  2015/05/06 04:42 Temperature      23ßC
+  2015/05/06 03:42 Temperature      24ßC
+  2015/05/06 02:42 Temperature      24ßC
+  2015/05/06 01:42 Temperature      25ßC
+  2015/05/06 00:42 Temperature      26ßC
+  2015/05/05 23:42 Temperature      28ßC
+  2015/05/05 23:00 Sleep in         
+  2015/05/05 22:42 Temperature      30ßC
+  2015/05/05 22:30 Cancel done      
+  2015/05/05 22:30 Cancel start     Media end
+  2015/05/05 21:42 Temperature      32ßC
+  2015/05/05 20:42 Temperature      32ßC
+  2015/05/05 20:28 Cleaning         Periodic cleaning
+  2015/05/05 19:42 Temperature      32ßC
+  2015/05/05 18:42 Temperature      32ßC
+  2015/05/05 17:56 Cleaning         Periodic cleaning
+  2015/05/05 17:44 Print start      
+  2015/05/05 17:44 Job start        30ßC
+  2015/05/05 17:43 Setup done       Width:1565mm Env.:0.000
+  2015/05/05 17:42 Temperature      31ßC
+  2015/05/05 17:35 Cancel done      
+  2015/05/05 17:35 Cancel start     Media end
+  2015/05/05 16:42 Temperature      33ßC
+  2015/05/05 16:10 Print start      
+  2015/05/05 16:10 Job start        28ßC
+  2015/05/05 16:06 Cleaning         Super cleaning
+  2015/05/05 16:02 Cleaning         Super cleaning
+  2015/05/05 15:53 Setup done       Width:1563mm Env.:0.000
+  2015/05/05 15:46 Job done         
+  2015/05/05 15:46 Print done       
+  2015/05/05 15:46 Print start      
+  2015/05/05 15:46 Job start        30ßC Testpattern
+  2015/05/05 15:42 Temperature      30ßC
+  2015/05/05 15:34 Job done         
+  2015/05/05 15:34 Print done       
+  2015/05/05 15:21 Cleaning         Powerful cleaning
+  2015/05/05 14:42 Temperature      32ßC
+  2015/05/05 14:29 Cleaning         Normal cleaning
+  2015/05/05 13:44 Print start      
+  2015/05/05 13:44 Job start        31ßC
+  2015/05/05 13:42 Temperature      32ßC
+  2015/05/05 13:41 Job done         
+  2015/05/05 13:41 Print done       
+  2015/05/05 12:42 Temperature      31ßC
+  2015/05/05 12:42 Cleaning         Medium cleaning
+  2015/05/05 12:28 Cleaning         Normal cleaning
+  2015/05/05 11:54 Print start      
+  2015/05/05 11:54 Job start        30ßC
+FATAL ERROR LOG
+  NEW: 1006, 0102
+     : 1006, 0102
+     : 1006, 0102
+     : 1006, 0101
+<< END >>

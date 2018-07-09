@@ -1,0 +1,444 @@
+<< SYSTEM REPORT >>
+MODEL: RF-640
+SERIAL NUMBER: KBV1266
+FIRMWARE VERSION
+  MAIN: 1.30
+  BOOT: 1.40
+SYSTEM
+  DATE: 2015/05/20 14:58
+  DIP SWITCH: 00001110
+  SYSTEM SWITCH( 1- 4): 00000000 00000000 00000000 00000000
+  SYSTEM SWITCH( 5- 8): 00000000 00000000 00000000 00000000
+  SYSTEM SWITCH( 9-12): 00000000 00000000 00000000 00000000
+  SYSTEM SWITCH(13-16): 00000000 00000000 00000000 00000000
+  BATTERY: CHARGED
+POSITION
+  LIMIT POSITION: 22.4 MM
+  CUTTER DOWN POSITION: 2018.8 MM
+  FLUSHING POSITION ADJUST:-0.50MM
+NETWORK
+  IP ADDRESS : 192.168.002.235
+  SUBNET MASK: 255.255.255.000
+  GATEWAY    : 000.000.000.000
+  MAC ADDRESS: 00:40:AB:7F:22:61
+MENU
+  LANGUAGE: ENGLISH
+  LENGTH UNIT: MM
+  TEMPERATURE UNIT: ßC
+SLEEP
+  SETTING: ENABLE
+  INTERVAL: 30 MIN
+SHEET
+  SHEET TYPE: OPAQUE
+  SHEET WIDTH: 1625 MM
+  SHEET POSITION: 0 MM
+  SIDE MARGIN: 10 MM
+  MEDIA RELEASE: DISABLE
+  VACUUM POWER: AUTO
+  SHEET REMAIN: 0.0 M
+  SET REMAIN AT LOADING: DISABLE
+PRINT
+  EMPTY MODE: STOP
+  FULL WIDTH SCANNING: FULL
+  SCAN INTERVAL: 0.0 SEC
+  PERIODIC CLEANING: NONE
+  PERIODIC CLEANING DEGREE: LIGHT
+  PERIODIC FLUSHING: ENABLE
+  PRE PRINT CLEANING: ENABLE
+INK
+  INK TYPE: E-SOL MAX2 4COLOR
+  INK REMAIN(1-4): 0075/0189/0075/0189
+  INK REMAIN(5-8): 0075/0189/0075/0189
+  DRAIN LIQUID VOLUME: 311.2 CC
+MOTOR
+  FEED CALIBRATION (USER): 0.00%
+  FEED CALIBRATION (FACTORY): -0.32%
+DRYING
+  PREHEATING TYPE: PREHEAT
+  PREHEATING TEMPERATURE: 30ßC
+  FEED FOR DRY: DISABLE
+  DRYING TIME: 0 MIN
+  HEATING TIMEOUT: 20 MIN
+  OPTION DRYER: DISABLE
+  OPTION DRYING FEED LENGTH: 250 MM
+HEATER TEMPERATURE
+  PRINT HEATER: 40ßC / 104ßF
+  DRYER: 45ßC / 112ßF
+HEATER SETTING
+  PRINT HEATER: 40ßC / 104ßF
+  DRYER: 45ßC / 112ßF
+HEATER ADJUST
+  PRINT HEATER:  0ßC
+  DRYER:  0ßC
+HEAD
+  HEAD HEIGHT: LOW
+  HEAD TEMPERATURE:  27ßC /  80ßF
+  HEAD RANK: 38E8E7C7C8A8C81839395R0B
+  MAINTENANCE REQUEST: NONE
+BI-DIR.ADJUST
+  SIMPLE:  +2  
+  NO.1:   0  
+  NO.2:  -1.5
+  NO.3:   0  
+  NO.4:  +1  
+          FACTORY NO.1: +24.5
+          FACTORY NO.2: +13.5
+          FACTORY NO.3: +17.5
+          FACTORY NO.4:  +8.5
+  PIGMENT FACTORY NO.1: +26  
+  PIGMENT FACTORY NO.2: +27  
+  PIGMENT FACTORY NO.3: +14  
+  PIGMENT FACTORY NO.4: +12  
+  PIGMENT FACTORY NO.5: +18  
+  PIGMENT FACTORY NO.6: +19.5
+  PIGMENT FACTORY NO.7:  +8.5
+  PIGMENT FACTORY NO.8:  +7  
+  MAX2    FACTORY NO.1: +29.5
+  MAX2    FACTORY NO.2: +23.5
+  MAX2    FACTORY NO.3: +10  
+  MAX2    FACTORY NO.4:  +9  
+  MAX2    FACTORY NO.5: +20  
+  MAX2    FACTORY NO.6: +16  
+  MAX2    FACTORY NO.7:  +6  
+  MAX2    FACTORY NO.8:  +5.5
+PRESET SETTING
+  SELECT AT LOADING: DISABLE
+  PRESET NAME: NAME1
+    SIMPLE BI-DIR.: 0
+    SHEET TYPE: OPAQUE
+    SHEET WIDTH:   1625 MM
+    SHEET POSITION:      0 MM
+    SIDE MARGIN:     10 MM
+    CALIBRATION:  0.00 
+    FULL WIDTH S: FULL
+    SCAN INTERVAL:    0.0 SEC
+    VACUUM POWER: AUTO
+    MEDIA RELEASE: DISABLE
+    DRYING TIME:      0 MIN
+    FEED FOR DRY: DISABLE
+    PREHEATING:  30ßC
+    PRINT HEATER SETTING: 40ßC / 104ßF
+    DRYER SETTING: 45ßC / 112ßF
+    BI-DIR. NO.1:   0  
+    BI-DIR. NO.2:   0  
+    BI-DIR. NO.3:   0  
+    BI-DIR. NO.4:   0  
+  PRESET NAME: NAME2
+    SIMPLE BI-DIR.: 0
+    SHEET TYPE: OPAQUE
+    SHEET WIDTH:   1625 MM
+    SHEET POSITION:      0 MM
+    SIDE MARGIN:     10 MM
+    CALIBRATION:  0.00 
+    FULL WIDTH S: FULL
+    SCAN INTERVAL:    0.0 SEC
+    VACUUM POWER: AUTO
+    MEDIA RELEASE: DISABLE
+    DRYING TIME:      0 MIN
+    FEED FOR DRY: DISABLE
+    PREHEATING:  30ßC
+    PRINT HEATER SETTING: 40ßC / 104ßF
+    DRYER SETTING: 45ßC / 112ßF
+    BI-DIR. NO.1:   0  
+    BI-DIR. NO.2:   0  
+    BI-DIR. NO.3:   0  
+    BI-DIR. NO.4:   0  
+  PRESET NAME: NAME3
+    SIMPLE BI-DIR.: 0
+    SHEET TYPE: OPAQUE
+    SHEET WIDTH:   1625 MM
+    SHEET POSITION:      0 MM
+    SIDE MARGIN:     10 MM
+    CALIBRATION:  0.00 
+    FULL WIDTH S: FULL
+    SCAN INTERVAL:    0.0 SEC
+    VACUUM POWER: AUTO
+    MEDIA RELEASE: DISABLE
+    DRYING TIME:      0 MIN
+    FEED FOR DRY: DISABLE
+    PREHEATING:  30ßC
+    PRINT HEATER SETTING: 40ßC / 104ßF
+    DRYER SETTING: 45ßC / 112ßF
+    BI-DIR. NO.1:   0  
+    BI-DIR. NO.2:   0  
+    BI-DIR. NO.3:   0  
+    BI-DIR. NO.4:   0  
+  PRESET NAME: NAME4
+    SIMPLE BI-DIR.: 0
+    SHEET TYPE: OPAQUE
+    SHEET WIDTH:   1625 MM
+    SHEET POSITION:      0 MM
+    SIDE MARGIN:     10 MM
+    CALIBRATION:  0.00 
+    FULL WIDTH S: FULL
+    SCAN INTERVAL:    0.0 SEC
+    VACUUM POWER: AUTO
+    MEDIA RELEASE: DISABLE
+    DRYING TIME:      0 MIN
+    FEED FOR DRY: DISABLE
+    PREHEATING:  30ßC
+    PRINT HEATER SETTING: 40ßC / 104ßF
+    DRYER SETTING: 45ßC / 112ßF
+    BI-DIR. NO.1:   0  
+    BI-DIR. NO.2:   0  
+    BI-DIR. NO.3:   0  
+    BI-DIR. NO.4:   0  
+  PRESET NAME: NAME5
+    SIMPLE BI-DIR.: 0
+    SHEET TYPE: OPAQUE
+    SHEET WIDTH:   1625 MM
+    SHEET POSITION:      0 MM
+    SIDE MARGIN:     10 MM
+    CALIBRATION:  0.00 
+    FULL WIDTH S: FULL
+    SCAN INTERVAL:    0.0 SEC
+    VACUUM POWER: AUTO
+    MEDIA RELEASE: DISABLE
+    DRYING TIME:      0 MIN
+    FEED FOR DRY: DISABLE
+    PREHEATING:  30ßC
+    PRINT HEATER SETTING: 40ßC / 104ßF
+    DRYER SETTING: 45ßC / 112ßF
+    BI-DIR. NO.1:   0  
+    BI-DIR. NO.2:   0  
+    BI-DIR. NO.3:   0  
+    BI-DIR. NO.4:   0  
+  PRESET NAME: NAME6
+    SIMPLE BI-DIR.: 0
+    SHEET TYPE: OPAQUE
+    SHEET WIDTH:   1625 MM
+    SHEET POSITION:      0 MM
+    SIDE MARGIN:     10 MM
+    CALIBRATION:  0.00 
+    FULL WIDTH S: FULL
+    SCAN INTERVAL:    0.0 SEC
+    VACUUM POWER: AUTO
+    MEDIA RELEASE: DISABLE
+    DRYING TIME:      0 MIN
+    FEED FOR DRY: DISABLE
+    PREHEATING:  30ßC
+    PRINT HEATER SETTING: 40ßC / 104ßF
+    DRYER SETTING: 45ßC / 112ßF
+    BI-DIR. NO.1:   0  
+    BI-DIR. NO.2:   0  
+    BI-DIR. NO.3:   0  
+    BI-DIR. NO.4:   0  
+  PRESET NAME: NAME7
+    SIMPLE BI-DIR.: 0
+    SHEET TYPE: OPAQUE
+    SHEET WIDTH:   1625 MM
+    SHEET POSITION:      0 MM
+    SIDE MARGIN:     10 MM
+    CALIBRATION:  0.00 
+    FULL WIDTH S: FULL
+    SCAN INTERVAL:    0.0 SEC
+    VACUUM POWER: AUTO
+    MEDIA RELEASE: DISABLE
+    DRYING TIME:      0 MIN
+    FEED FOR DRY: DISABLE
+    PREHEATING:  30ßC
+    PRINT HEATER SETTING: 40ßC / 104ßF
+    DRYER SETTING: 45ßC / 112ßF
+    BI-DIR. NO.1:   0  
+    BI-DIR. NO.2:   0  
+    BI-DIR. NO.3:   0  
+    BI-DIR. NO.4:   0  
+  PRESET NAME: NAME8
+    SIMPLE BI-DIR.: 0
+    SHEET TYPE: OPAQUE
+    SHEET WIDTH:   1625 MM
+    SHEET POSITION:      0 MM
+    SIDE MARGIN:     10 MM
+    CALIBRATION:  0.00 
+    FULL WIDTH S: FULL
+    SCAN INTERVAL:    0.0 SEC
+    VACUUM POWER: AUTO
+    MEDIA RELEASE: DISABLE
+    DRYING TIME:      0 MIN
+    FEED FOR DRY: DISABLE
+    PREHEATING:  30ßC
+    PRINT HEATER SETTING: 40ßC / 104ßF
+    DRYER SETTING: 45ßC / 112ßF
+    BI-DIR. NO.1:   0  
+    BI-DIR. NO.2:   0  
+    BI-DIR. NO.3:   0  
+    BI-DIR. NO.4:   0  
+MOTOR HISTORY
+  MOTOR FEED    (TRIP/TOTAL[CLEAR]) :          0/          0 HOURS [0]
+  MOTOR SCAN    (TRIP/TOTAL[CLEAR]) :          0/          0 HOURS [0]
+  PUMP TIMES A  (TRIP/TOTAL[CLEAR]) :      1,730/      1,730 TIMES [0]
+HEAD HISTORY
+  SHOT COUNT  1 (TRIP/TOTAL[CLEAR]) :        115/        115 K TIMES/NOZZLE [0]
+  SHOT COUNT  2 (TRIP/TOTAL[CLEAR]) :        115/        115 K TIMES/NOZZLE [0]
+  SHOT COUNT  3 (TRIP/TOTAL[CLEAR]) :        115/        115 K TIMES/NOZZLE [0]
+  SHOT COUNT  4 (TRIP/TOTAL[CLEAR]) :        158/        158 K TIMES/NOZZLE [0]
+  SHOT COUNT  5 (TRIP/TOTAL[CLEAR]) :        158/        158 K TIMES/NOZZLE [0]
+  SHOT COUNT  6 (TRIP/TOTAL[CLEAR]) :        115/        115 K TIMES/NOZZLE [0]
+  SHOT COUNT  7 (TRIP/TOTAL[CLEAR]) :        115/        115 K TIMES/NOZZLE [0]
+  SHOT COUNT  8 (TRIP/TOTAL[CLEAR]) :        115/        115 K TIMES/NOZZLE [0]
+                                    :     H1 
+  WIPING COUNT FOR HEAD             :      4 TIMES
+  HEADRANK SET COUNT                :      0 TIMES
+  REPLACE HEAD COUNT                :      0 TIMES
+  AUTO CLEANING COUNT               :      1 TIMES
+  NORMAL CLEANING COUNT             :      0 TIMES
+  MEDIUM CLEANING COUNT             :      0 TIMES
+  POWERFUL CLEANING COUNT           :      0 TIMES
+  SUPER CLEANING COUNT              :      0 TIMES
+  CHOKE CLEANING COUNT              :      0 TIMES
+  LIGHT CHOKE CLEANING COUNT        :      0 TIMES
+  INK RENEWAL COUNT                 :      0 TIMES
+  SUPER CLEANING COUNT ( 1- 4)      :      0      0      0      0 TIMES
+  SUPER CLEANING COUNT ( 5- 8)      :      0      0      0      0 TIMES
+MAINTENANCE HISTORY
+  MAINTENACE COUNT                  :      0 TIMES
+  TOTAL TIME                        :      0 HOUR
+  PRINTING TIME                     :      0 HOUR
+WIPER HISTORY
+  WIPING COUNT                      :      4 TIMES
+  REPLACE WIPER COUNT               :      0 TIMES
+  FELT WIPING COUNT                 :      4 TIMES
+  REPLACE FELT WIPE COUNT           :      0 TIMES
+PRINT HISTORY
+  PRINTING TIME (TRIP/TOTAL[CLEAR]) :          0/          0 HOURS [0]
+  PRINTED PAGES (TRIP/TOTAL[CLEAR]) :          0/          0 PAGES [0]
+  PRINTED AREA  (TRIP/TOTAL[CLEAR]) :          0/          0 M^2 [0]
+INK HISTORY
+  INSERT COUNT ( 1- 4)              :      4      4      4      4 TIMES
+  INSERT COUNT ( 5- 8)              :      4      4      4      4 TIMES
+  EMPTY COUNT ( 1- 4)               :      0      0      0      0 TIMES
+  EMPTY COUNT ( 5- 8)               :      0      0      0      0 TIMES
+  CHANGE INK TYPE                   :      1 TIMES
+  CONSUME BY PRINT
+    SLOT  1     (TRIP/TOTAL[CLEAR]) :          0/          0 CC [0]
+    SLOT  2     (TRIP/TOTAL[CLEAR]) :          0/          0 CC [0]
+    SLOT  3     (TRIP/TOTAL[CLEAR]) :          0/          0 CC [0]
+    SLOT  4     (TRIP/TOTAL[CLEAR]) :          0/          0 CC [0]
+    SLOT  5     (TRIP/TOTAL[CLEAR]) :          0/          0 CC [0]
+    SLOT  6     (TRIP/TOTAL[CLEAR]) :          0/          0 CC [0]
+    SLOT  7     (TRIP/TOTAL[CLEAR]) :          0/          0 CC [0]
+    SLOT  8     (TRIP/TOTAL[CLEAR]) :          0/          0 CC [0]
+  CONSUME BY MAINTENANCE
+    SLOT  1     (TRIP/TOTAL[CLEAR]) :        125/        125 CC [0]
+    SLOT  2     (TRIP/TOTAL[CLEAR]) :         11/         11 CC [0]
+    SLOT  3     (TRIP/TOTAL[CLEAR]) :        125/        125 CC [0]
+    SLOT  4     (TRIP/TOTAL[CLEAR]) :         11/         11 CC [0]
+    SLOT  5     (TRIP/TOTAL[CLEAR]) :        125/        125 CC [0]
+    SLOT  6     (TRIP/TOTAL[CLEAR]) :         11/         11 CC [0]
+    SLOT  7     (TRIP/TOTAL[CLEAR]) :        125/        125 CC [0]
+    SLOT  8     (TRIP/TOTAL[CLEAR]) :         11/         11 CC [0]
+  CHOKE VALVE COUNT ( 1- 4)         :         7         8         8         9 TIMES
+  CHOKE VALVE COUNT ( 5- 8)         :         8         9         7         9 TIMES
+  CHOKE SOLENOID COUNT ( 1- 4)      :         7         8         8         9 TIMES
+  CHOKE SOLENOID COUNT ( 5- 8)      :         8         9         7         9 TIMES
+ERROR HISTORY
+  SERVICE CALL COUNT                :      0 TIMES
+  SERVICE CALL HISTORY              : **** **** **** **** **** **** **** **** 
+  MOTOR ERROR COUNT(FEED)           :      0 TIMES
+  MOTOR ERROR COUNT(SCAN)           :      0 TIMES
+  LOW TEMPERATURE ERROR COUNT       :      0 TIMES
+  HIGH TEMPERATURE ERROR COUNT      :      0 TIMES
+  EMERGENCY CAPPING COUNT           :      0 TIMES
+  START UNCAPPED COUNT              :      2 TIMES
+SYSTEM HISTORY
+  POWER ON COUNT                    :      1 TIMES
+  POWER ON TIME                     :      1 HOURS
+  SLEEP TIME                        :      0 HOURS
+  SHEET CUT COUNT                   :      0 TIMES
+  PECK USED COUNT                   :      0 TIMES
+  HIGHEST TEMPERATURE               :  28 ßC
+  LOWEST TEMPERATURE                :  22 ßC
+HEATER HISTORY
+  PRINT HEATER USED TIME            :      0 HOURS
+  DRYER USED TIME                   :      0 HOURS
+INK CARTRIDGE
+  NO:          SERIAL/  INK TYPE/  CAP./LOT NO/   CONSUME/           TIME/INS./    FLAG
+   1:14b265b30600006d/    MAX2 Y/ 200cc/ 4B21C/ 125.066cc/0y000d00h27m26s/   1/00000000
+   2:142619b2060000c3/    MAX2 Y/ 200cc/ 4B21C/  11.350cc/0y000d00h16m24s/   1/00000000
+   3:14a1fab1060000b0/    MAX2 C/ 200cc/ 4B19C/ 125.066cc/0y000d00h27m21s/   1/00000000
+   4:149cb6b206000057/    MAX2 C/ 200cc/ 4B19C/  11.350cc/0y000d00h16m20s/   1/00000000
+   5:14f2a590060000c2/    MAX2 K/ 200cc/ 4B24C/ 125.193cc/0y000d00h27m17s/   1/00000000
+   6:1431ba9006000017/    MAX2 K/ 200cc/ 4B24C/  11.350cc/0y000d00h16m15s/   1/00000000
+   7:146387b806000053/    MAX2 M/ 200cc/ 4C22C/ 125.066cc/0y000d00h27m13s/   1/00000000
+   8:14fd09b906000017/    MAX2 M/ 200cc/ 4C22C/  11.350cc/0y000d00h16m11s/   1/00000000
+MACHINE EVENT LOG
+  LAST EVENT SERIAL NO. : 72
+  2015/05/20 14:58 User setting     
+  2015/05/20 14:57 Job done         
+  2015/05/20 14:57 Print done       
+  2015/05/20 14:56 Print start      
+  2015/05/20 14:56 Job start        27ßC Testpattern
+  2015/05/20 14:56 User setting     
+  2015/05/20 14:55 Job done         
+  2015/05/20 14:55 Print done       
+  2015/05/20 14:55 Print start      
+  2015/05/20 14:55 Job start        27ßC Testpattern
+  2015/05/20 14:54 Job done         
+  2015/05/20 14:54 Print done       
+  2015/05/20 14:53 Print start      
+  2015/05/20 14:53 Job start        26ßC Testpattern
+  2015/05/20 14:51 Job done         
+  2015/05/20 14:51 Print done       
+  2015/05/20 14:49 Print start      
+  2015/05/20 14:49 Job start        26ßC Testpattern
+  2015/05/20 14:49 Setup done       Width:966mm Env.:0.000
+  2015/05/20 14:48 Sub power on     Service mode
+  2015/05/20 14:48 Main power on    Normal mode
+  2015/05/20 14:48 Update firmware  1.20 -> 1.30
+  2015/05/20 14:40 Sub power off    
+  2015/05/20 14:40 System setting   
+  2015/05/20 14:40 Set date         -> 15/05/20 14:40
+  2015/05/20 00:41 Set date         -> 15/05/20 00:41
+  2015/05/21 00:39 Sub power on     Service mode
+  2015/05/21 00:38 Sub power off    
+  2015/05/21 00:38 User setting     
+  2015/05/21 00:35 Job done         
+  2015/05/21 00:35 Print done       
+  2015/05/21 00:35 Print start      
+  2015/05/21 00:35 Job start        25ßC Testpattern
+  2015/05/21 00:35 Setup done       Width:966mm Env.:0.000
+  2015/05/21 00:32 Cleaning         Power on cleaning
+  2015/05/21 00:22 Temperature      25ßC
+  2015/05/21 00:20 Cartridge change No.7
+  2015/05/21 00:20 Cartridge change No.5
+  2015/05/21 00:20 Cartridge change No.3
+  2015/05/21 00:20 Cartridge change No.1
+  2015/05/21 00:15 Cartridge change No.8
+  2015/05/21 00:15 Cartridge change No.6
+  2015/05/21 00:15 Cartridge change No.4
+  2015/05/21 00:15 Cartridge change No.2
+  2015/05/21 00:05 Cartridge change No.8
+  2015/05/21 00:05 Cartridge change No.7
+  2015/05/21 00:05 Cartridge change No.8
+  2015/05/21 00:05 Cartridge change No.7
+  2015/05/21 00:04 Cartridge change No.8
+  2015/05/21 00:04 Cartridge change No.7
+  2015/05/20 23:56 Cartridge change No.6
+  2015/05/20 23:56 Cartridge change No.5
+  2015/05/20 23:55 Cartridge change No.6
+  2015/05/20 23:55 Cartridge change No.5
+  2015/05/20 23:54 Cartridge change No.6
+  2015/05/20 23:54 Cartridge change No.5
+  2015/05/20 23:42 Cartridge change No.4
+  2015/05/20 23:42 Cartridge change No.3
+  2015/05/20 23:41 Cartridge change No.4
+  2015/05/20 23:41 Cartridge change No.3
+  2015/05/20 23:40 Cartridge change No.4
+  2015/05/20 23:40 Cartridge change No.3
+  2015/05/20 23:32 Cartridge change No.2
+  2015/05/20 23:32 Cartridge change No.1
+  2015/05/20 23:31 Cartridge change No.2
+  2015/05/20 23:31 Cartridge change No.1
+  2015/05/20 23:30 Cartridge change No.2
+  2015/05/20 23:29 Cartridge change No.1
+  2015/05/20 23:24 Fill Ink         
+  2015/05/20 23:23 Sub power on     Normal
+  2015/05/20 23:22 Main power on    Normal mode
+  2014/10/24 18:52 User setting     
+  2014/10/24 18:51 Main power on    Normal mode
+FATAL ERROR LOG
+  NEW: 0000, 0000
+     : 0000, 0000
+     : 0000, 0000
+     : 0000, 0000
+<< END >>

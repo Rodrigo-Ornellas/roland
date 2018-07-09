@@ -1,0 +1,41 @@
+{% extends 'peck/base.html' %}
+
+{% block corpo %}
+
+    <div id="frame_top">
+        <h2>Lista de Peck Reports</h2>
+        <table>
+                <tr>
+                        <th>ID</th>
+                        <th>Serial</th>
+                        <th>Modelo</th>
+                        <th>Data</th>
+                        <th>Firmware</th>
+                        <th>Peck Original</th>
+                </tr>
+            {% for repo in lista_pecks.pecs %}
+                <tr>
+                        <td>{{ repo.id }}</td>
+                        <!-- <td><a href="../detalhe/{{ repo.pk }}/">{{ repo.serial }}</a></td> -->
+                        <td><a href="{% url 'detailspeck' repo.pk %}">{{ repo.serial }}</a></td>
+                        <td>{{ repo.modelo }}</td>
+                        <td>{{ repo.data|date:'d-m-Y' }}</td>
+                        <td>{{ repo.firm }}</td>
+                        {% for key, value in lista_pecks.arqs.items %}
+                            {% if key == repo.serial %}
+                            <!-- <td><a href="../../../peck/{{ value }}/">{{ value }}</a></td> -->
+                            <td><a href="{% url 'listapeck' value %}/">{{ value }}</a></td>
+                            {% endif %}
+                        {% endfor %}
+                </tr>
+            {% empty %}
+                <tr>
+                        <td> Base de dados VAZIA!!</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                </tr>
+            {% endfor %}
+        </table>
+    </div>
+{% endblock %}

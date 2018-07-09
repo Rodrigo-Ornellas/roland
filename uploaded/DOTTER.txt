@@ -1,0 +1,761 @@
+Model                 : LEC-330
+Version               : 6.50
+Serial No.            : ZZ30374
+Date                  : 2015/03/19 13:22
+IP Address            : 192.168.002.002
+Subnet Mask           : 255.255.255.000
+Gateway Address       : 000.000.000.000
+MAC Address           : 00:40:AB:00:84:3F
+Ink type              : ECO-UV CMYKGlW
+Ink remain(1-6)       :   2/  0/ 81/ 52/  0/ 96
+Head height           : High
+Head Temperature      : 26C /  78.8F
+On Board Temperature  : 35C /  95.0F
+Ambience Temperature  : 26C /  78.8F
+Edge detection        : Enable
+Empty mode            : Stop
+Calibration           : +0.05 %
+Media clamp           : SHORT
+Full width scanning   : OFF
+Length unit           : mm
+Temperature unit      : C
+Menu language         : English
+Sleep interval        :  30 min
+Sheet remain          : 0.0 m
+Periodic cleaning     :  NONE  
+Vacuum power          : 70 %
+Set remain at loading : Disable
+Bi-dir. simple        :  +0.5/  +0.5
+                      :  H1    H2    H3    H4    H5    H6  
+Bi-dir. adjust No.1   :  -2.5  -1    -3    -3.5  -2.5  +3.5
+               No.2   :  +0.5  +1    -2    -1.5   0    +4  
+               No.3   :  -2.5  -1.5  -2.5  -4.5  -2.5  +1  
+               No.4   :  -1.5   0    -1.5  -1.5   0    +1.5
+                      :  H1    H2    H3    H4    H5    H6  
+               No.5   :  -2.5  -1    -3    -3.5  -2.5  +3.5
+               No.6   :  +0.5  +1    -2    -1.5   0    +4  
+               No.7   :  -2.5  -1.5  -2.5  -4.5  -2.5  +1  
+               No.8   :  -1.5   0    -1.5  -1.5   0    +1.5
+Tool parameter        : 
+  Force               :  50 gf
+  Velocity            :  30 cm/s
+  Offset              : 0.500 mm
+  Up velocity         :  30 cm/s
+Cutting calib. (F/S)  :   0.00/  0.00 %
+Print-cut adjust (F/S):  -0.35/ -0.70 mm
+Crop-cut adjust (F/S) :   0.00/  0.00 mm
+Cutting priority      : Command
+Prefeed               : Disable
+Auto Env Match        : Enable
+Preset name           : ECO LACRE      
+Bi-dir. simple        :  +0.5/  +0.5
+Calibration           : -0.15 %
+Edge detection  : Enable
+Full width S    : OFF
+Vacuum power : 70 %
+Force        :  50 gf
+Velocity     :  30 cm/s
+Offset                : 0.250 mm
+Up velocity           :  30 cm/s
+Cutting calib. (F/S)  :   0.00/  0.00 %
+Print-cut adjust (F/S):   0.00/  0.00 mm
+Crop-cut adjust (F/S) :   0.00/  0.00 mm
+Bi-dir. Adjust No.1   :  -0.5/  +2.5/  +1  /  -1.5/   0  /   0   
+               No.2   :  +1.5/  +3  /  +1  /  +1.5/   0  /   0   
+               No.3   :  -1.5/   0  /   0  /  -2  /   0  /   0   
+               No.4   :   0  /  +0.5/   0  /  -1  /   0  /   0   
+               No.5   :  -0.5/  +2.5/  +1  /  -1.5/   0  /   0   
+               No.6   :  +1.5/  +3  /  +1  /  +1.5/   0  /   0   
+               No.7   :  -1.5/   0  /   0  /  -2  /   0  /   0   
+               No.8   :   0  /  +0.5/   0  /  -1  /   0  /   0   
+Preset name           : ANTI-CLICK     
+Bi-dir. simple        :  +0.5/  +0.5
+Calibration           : +0.05 %
+Edge detection  : Enable
+Full width S    : OFF
+Vacuum power : 70 %
+Force        :  50 gf
+Velocity     :  30 cm/s
+Offset                : 0.500 mm
+Up velocity           :  30 cm/s
+Cutting calib. (F/S)  :   0.00/  0.00 %
+Print-cut adjust (F/S):  -0.35/ -0.70 mm
+Crop-cut adjust (F/S) :   0.00/  0.00 mm
+Bi-dir. Adjust No.1   :  -2.5/  -1  /  -3  /  -3.5/  -2.5/  +3.5 
+               No.2   :  +0.5/  +1  /  -2  /  -1.5/   0  /  +4   
+               No.3   :  -2.5/  -1.5/  -2.5/  -4.5/  -2.5/  +1   
+               No.4   :  -1.5/   0  /  -1.5/  -1.5/   0  /  +1.5 
+               No.5   :  -2.5/  -1  /  -3  /  -3.5/  -2.5/  +3.5 
+               No.6   :  +0.5/  +1  /  -2  /  -1.5/   0  /  +4   
+               No.7   :  -2.5/  -1.5/  -2.5/  -4.5/  -2.5/  +1   
+               No.8   :  -1.5/   0  /  -1.5/  -1.5/   0  /  +1.5 
+Preset name           : DESTRUTIVEL    
+Bi-dir. simple        :  +1  /  +1  
+Calibration           : -0.05 %
+Edge detection  : Enable
+Full width S    : OFF
+Vacuum power : 70 %
+Force        :  50 gf
+Velocity     :  30 cm/s
+Offset                : 0.250 mm
+Up velocity           :  30 cm/s
+Cutting calib. (F/S)  :   0.00/  0.00 %
+Print-cut adjust (F/S):  -0.15/ -0.15 mm
+Crop-cut adjust (F/S) :   0.00/  0.00 mm
+Bi-dir. Adjust No.1   :  -2.5/  -1  /  -3  /  -4  /  -2.5/  +3.5 
+               No.2   :  +0.5/  +1  /  -2  /  -0.5/   0  /  +4   
+               No.3   :  -2.5/  -1.5/  -2.5/  -3.5/  -2.5/  +1   
+               No.4   :  -1.5/   0  /  -1.5/  -1.5/   0  /  +1.5 
+               No.5   :  -2.5/  -1  /  -3  /  -4  /  -2.5/  +3.5 
+               No.6   :  +0.5/  +1  /  -2  /  -0.5/   0  /  +4   
+               No.7   :  -2.5/  -1.5/  -2.5/  -3.5/  -2.5/  +1   
+               No.8   :  -1.5/   0  /  -1.5/  -1.5/   0  /  +1.5 
+Preset name           : VOID BRANCO    
+Bi-dir. simple        :  +2  /  +2  
+Calibration           : -0.15 %
+Edge detection  : Enable
+Full width S    : OFF
+Vacuum power : 70 %
+Force        :  50 gf
+Velocity     :  30 cm/s
+Offset                : 0.250 mm
+Up velocity           :  30 cm/s
+Cutting calib. (F/S)  :   0.00/  0.00 %
+Print-cut adjust (F/S):  -0.15/ -0.15 mm
+Crop-cut adjust (F/S) :   0.00/  0.00 mm
+Bi-dir. Adjust No.1   :  -6  /  -4.5/  -5  /  -6  /  -2.5/  +3.5 
+               No.2   :  -2  /  -1.5/  -2  /  -2  /   0  /  +4   
+               No.3   :  -4  /  -3  /  -2.5/  -5  /  -2.5/  +1   
+               No.4   :  -1.5/  -2  /  -1.5/  -2  /   0  /  +1.5 
+               No.5   :  -6  /  -4.5/  -5  /  -6  /  -2.5/  +3.5 
+               No.6   :  -2  /  -1.5/  -2  /  -2  /   0  /  +4   
+               No.7   :  -4  /  -3  /  -2.5/  -5  /  -2.5/  +1   
+               No.8   :  -1.5/  -2  /  -1.5/  -2  /   0  /  +1.5 
+Preset name           : VOID PRATA     
+Bi-dir. simple        :  +1  /  +1  
+Calibration           : +0.05 %
+Edge detection  : Enable
+Full width S    : OFF
+Vacuum power : 70 %
+Force        :  50 gf
+Velocity     :  30 cm/s
+Offset                : 0.250 mm
+Up velocity           :  30 cm/s
+Cutting calib. (F/S)  :   0.00/  0.00 %
+Print-cut adjust (F/S):  -0.15/ -0.15 mm
+Crop-cut adjust (F/S) :   0.00/  0.00 mm
+Bi-dir. Adjust No.1   :  -2.5/  -1  /  -3  /  -3.5/  -2.5/  +3.5 
+               No.2   :  +0.5/  +1  /  -2  /  -1.5/   0  /  +4   
+               No.3   :  -2.5/  -1.5/  -2.5/  -4.5/  -2.5/  +1   
+               No.4   :  -1.5/   0  /  -1.5/  -1.5/   0  /  +1.5 
+               No.5   :  -2.5/  -1  /  -3  /  -3.5/  -2.5/  +3.5 
+               No.6   :  +0.5/  +1  /  -2  /  -1.5/   0  /  +4   
+               No.7   :  -2.5/  -1.5/  -2.5/  -4.5/  -2.5/  +1   
+               No.8   :  -1.5/   0  /  -1.5/  -1.5/   0  /  +1.5 
+Preset name           : PRESETTING6
+Bi-dir. simple        :   0  /   0  
+Calibration           :  0.00 %
+Edge detection  : Enable
+Full width S    : FULL
+Vacuum power : Auto
+Force        :  50 gf
+Velocity     :  30 cm/s
+Offset                : 0.250 mm
+Up velocity           :  30 cm/s
+Cutting calib. (F/S)  :   0.00/  0.00 %
+Print-cut adjust (F/S):   0.00/  0.00 mm
+Crop-cut adjust (F/S) :   0.00/  0.00 mm
+Bi-dir. Adjust No.1   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.2   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.3   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.4   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.5   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.6   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.7   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.8   :   0  /   0  /   0  /   0  /   0  /   0   
+Preset name           : PRESETTING7
+Bi-dir. simple        :   0  /   0  
+Calibration           :  0.00 %
+Edge detection  : Enable
+Full width S    : FULL
+Vacuum power : Auto
+Force        :  50 gf
+Velocity     :  30 cm/s
+Offset                : 0.250 mm
+Up velocity           :  30 cm/s
+Cutting calib. (F/S)  :   0.00/  0.00 %
+Print-cut adjust (F/S):   0.00/  0.00 mm
+Crop-cut adjust (F/S) :   0.00/  0.00 mm
+Bi-dir. Adjust No.1   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.2   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.3   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.4   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.5   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.6   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.7   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.8   :   0  /   0  /   0  /   0  /   0  /   0   
+Preset name           : PRESETTING8
+Bi-dir. simple        :   0  /   0  
+Calibration           :  0.00 %
+Edge detection  : Enable
+Full width S    : FULL
+Vacuum power : Auto
+Force        :  50 gf
+Velocity     :  30 cm/s
+Offset                : 0.250 mm
+Up velocity           :  30 cm/s
+Cutting calib. (F/S)  :   0.00/  0.00 %
+Print-cut adjust (F/S):   0.00/  0.00 mm
+Crop-cut adjust (F/S) :   0.00/  0.00 mm
+Bi-dir. Adjust No.1   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.2   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.3   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.4   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.5   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.6   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.7   :   0  /   0  /   0  /   0  /   0  /   0   
+               No.8   :   0  /   0  /   0  /   0  /   0  /   0   
+Head rank H1          : 7AU413DURRVVVQR ............ 005..E
+          H2          : 6EW3934SVRWVVQR ............ 004..E
+          H3          : 70W393ASXSXVVRR ............ 00Z..E
+          H4          : 6FV3436SVSXVVQS ............ 00W..E
+          H5          : 70W3B3CRWRXVVRS ............ 00H..E
+          H6          : 77V3A39TWRYVWQR ............ 00T..E
+                      :  H1     H2     H3     H4     H5     H6   
+Head hori.(DT1.Low)   :  +1     -7     -4.5          +2     +8   
+          (DT3.Low)   :  +1     -8     -4            +4.5   +9   
+          (DT6.Low)   :  +1     -7     -4.5          +2     +8   
+          (DT8.Low)   :  +1     -8     -4            +4.5   +9   
+          (DT1.High)  :  +1     -8     -5            +2     +9   
+          (DT3.High)  :  +1     -8     -6            +4     +8   
+          (DT6.High)  :  +1     -8     -5            +2     +9   
+          (DT8.High)  :  +1     -8     -6            +4     +8   
+                      :  H1     H2     H3     H4     H5     H6   
+Head bi   (DT1.Low)   : +18.5  +16.5  +20    +20    +16    +19   
+          (DT3.Low)   : +15    +16    +16    +16    +16    +16.5 
+          (DT6.Low)   : +18.5  +16.5  +20    +20    +18    +18.5 
+          (DT8.Low)   : +15    +16    +16    +16    +16    +16.5 
+          (DT1.High)  : +25    +23    +27    +25    +23    +27   
+          (DT3.High)  : +21.5  +22.5  +22    +23    +24    +25.5 
+          (DT6.High)  : +25    +23    +27    +25    +26    +27   
+          (DT8.High)  : +21.5  +22.5  +22    +23    +26    +27   
+Dip SW                : 10000000
+System SW page( 1- 4) : 00000000 00000000 00000000 00000000 
+System SW page( 5- 8) : 00000000 00000000 00000011 00000000 
+System SW page( 9-12) : 00000000 00000000 00000000 00000000 
+System SW page(13-16) : 00000000 00000000 00000000 00000000 
+Network I/F  version  : Print Server 1.1 (Tue May 30 14:46:26 JST 2006)
+Limit position        :      16.3 mm
+Cutter down position  :    1383.7 mm
+Calibration default   :     -0.19 %
+Encoder position(L)   :    1072.1 mm
+Encoder position(R)   :     310.1 mm
+Maintenance request   : NONE
+Booter version        : 1.20
+FPGA build No.        : 28
+Battery               :   Charged
+Periodic CL. degree   : LIGHT
+Last Ink Type         : ECO-UV CMYKGlW
+Cap adjust            :  1.00 mm
+Drain liquid volume   : 4603.2 cc
+Standard head         : 4
+Environment match     :    +0.051 %
+Encoder calibration   :    +0.047 %
+Force adjust 30gf     : 17
+Force adjust 200gf    : 59
+Crop-tool adjust (F/S):  +0.40/   0.00 mm
+Print-cut adjust (F/S):  -0.60/  +0.20 mm
+Crop sensor adjust    :   0
+Model                  : LEC-330
+Version                : 6.50
+Serial No.             : ZZ30374
+Date                   : 2015/03/19 13:22
+==== Motor group ====
+Motor feed   (trip/total [clear]):        187/        187 hours [0]
+Motor scan   (trip/total [clear]):        225/        225 hours [0]
+Pump Times A (trip/total [clear]):     18,670/     18,670 times [0]
+Pump Times B (trip/total [clear]):     18,654/     18,654 times [0]
+Pump Times C (trip/total [clear]):     34,488/     34,488 times [0]
+Pump TimesCIR(trip/total [clear]):      1,197/      1,197 times [0]
+==== Head group ====
+Shot Cnt.  1 (trip/total [clear]):    186,972/    186,972 K times/nozzle [0]
+Shot Cnt.  2 (trip/total [clear]):    188,038/    188,038 K times/nozzle [0]
+Shot Cnt.  3 (trip/total [clear]):    130,214/    130,214 K times/nozzle [0]
+Shot Cnt.  4 (trip/total [clear]):    130,261/    130,261 K times/nozzle [0]
+Shot Cnt.  5 (trip/total [clear]):    141,561/    141,561 K times/nozzle [0]
+Shot Cnt.  6 (trip/total [clear]):    142,095/    142,095 K times/nozzle [0]
+Shot Cnt.  7 (trip/total [clear]):    142,889/    142,889 K times/nozzle [0]
+Shot Cnt.  8 (trip/total [clear]):    143,119/    143,119 K times/nozzle [0]
+Shot Cnt.  9 (trip/total [clear]):     89,124/     89,124 K times/nozzle [0]
+Shot Cnt. 10 (trip/total [clear]):     89,123/     89,123 K times/nozzle [0]
+Shot Cnt. 11 (trip/total [clear]):     88,927/     88,927 K times/nozzle [0]
+Shot Cnt. 12 (trip/total [clear]):     88,926/     88,926 K times/nozzle [0]
+                       :     H1     H2     H3     H4     H5     H6
+Wiping count for head  :    317    317    315    315  1,790  1,790 times
+Rubbing count for head :     11     11     11     11     20     20 times
+Headrank set count     :      0      0      0      0      0      0 times
+Auto cleaning count    :     98     98     98     98  1,553  1,553 times
+Normal cleaning count  :      2      2      1      1      3      3 times
+Medium cleaning count  :      0      0      0      0      1      1 times
+Powerful cleaning count:      1      1      1      1      4      4 times
+Ink renewal            :      0      0      0      0      0      0 times
+==== Maintenance group ====
+Maintenance Count      :      1 times
+Total time             :  7,370 hours
+Printing time          :    319 hours
+==== Wiper group ====
+Wiping count           :  2,422 times
+Rubbing count          :     42 times
+Wiper replace count    :      0 times
+==== Print group ====
+Printing time          :         347 hours
+Print pages            :       1,842 pages
+==== Ink group ====
+Cartridge change(1-6)  :      1      1      1      1      4      5 times
+Change ink type        :           0 times
+Ink Discharge 1        :      1 times
+Ink Discharge 2        :      0 times
+Ink Discharge 3        :      4 times
+==== Error group ====
+Service call count     :      1 times
+Service call history   : 0104 **** **** **** ****
+Motor error  (feed)    :      1 times
+Motor error  (scan)    :      2 times
+Low temperature error  :      0 times
+High temperature error :      0 times
+Emergency capping      :      0 times
+Start uncapped         :     10 times
+==== System group ====
+Power on count         :    912 times
+Power on time          :    986 hours
+Sleep time             :    253 hours
+Sheet cut count        :  1,719 times
+Peck used count        :      0 times
+==== UV Lamp group ====
+UV Lamp On Time Right  :       8,964 min  
+UV Lamp On count Right :     780,127 times
+UV Lamp On Time Left   :       8,750 min  
+UV Lamp On count Left  :     791,254 times
+==== Cutting group ====
+Cutting time           :         275 hours
+Disconnect carr. count :       1,853 times
+
+Model                  : LEC-330
+Version                : 6.50
+Serial No.             : ZZ30374
+No:          SERIAL/  INK TYPE/  CAP./LOT No/   CONSUM./           TIME/INS./    FLAG
+ 1:1490955f06000048/     EUV-C/ 200cc/4424B / 195.920cc/0y058d02h17m11s/   3/00000000
+ 2:14813d6c060000e9/     EUV-M/ 200cc/4423B / 206.288cc/0y103d23h15m48s/   3/00000000
+ 3:14aeca360600004f/     EUV-Y/ 200cc/3C26B /  38.633cc/0y021d04h27m49s/   3/00000000
+ 4:14d88a5706000093/     EUV-K/ 200cc/4331B /  96.671cc/0y040d22h37m02s/   5/00000000
+ 5:149fa5540600007c/    EUV-Gl/ 200cc/4217B / 239.441cc/0y019d20h32m26s/   2/00000000
+ 6:1456242a060000ce/     EUV-W/ 200cc/3A30B /   7.802cc/0y000d01h42m33s/   1/00000000
+Model                  : LEC-330
+Version                : 6.50
+Serial No.             : ZZ30374
+Date                   : 2015/03/19 13:22
+Last event             : 24362
++--------+-----+----------------+------------------------------------+
+ Date     Time  Event            Information
++--------+-----+----------------+------------------------------------+
+ 15/03/19 13:18 Firmware update  6.40->6.50
+ 15/03/19 13:18 Main power on    Normal
+ 15/03/19 13:18 Temperature      26 C
+ 15/03/19 13:16 Temperature      26 C
+ 15/03/19 13:16 Sub power off    
+ 15/03/19 13:15 Job done         
+ 15/03/19 13:15 Print done       
+ 15/03/19 13:14 Print start      
+ 15/03/19 13:14 Job start        26 C Testpattern
+ 15/03/19 13:13 System setting   
+ 15/03/19 13:07 Job done         
+ 15/03/19 13:07 Print done       
+ 15/03/19 13:06 Print start      
+ 15/03/19 13:06 Job start        26 C Testpattern
+ 15/03/19 13:06 Job done         
+ 15/03/19 13:06 Print done       
+ 15/03/19 13:06 Print start      
+ 15/03/19 13:06 Job start        26 C Testpattern
+ 15/03/19 13:06 Job done         
+ 15/03/19 13:06 Print done       
+ 15/03/19 13:05 Print start      
+ 15/03/19 13:05 Job start        26 C Testpattern
+ 15/03/19 13:05 Job done         
+ 15/03/19 13:05 Print done       
+ 15/03/19 13:04 Print start      
+ 15/03/19 13:04 Job start        26 C Testpattern
+ 15/03/19 13:04 Job done         
+ 15/03/19 13:04 Print done       
+ 15/03/19 13:04 Print start      
+ 15/03/19 13:04 Job start        26 C Testpattern
+ 15/03/19 13:04 Job done         
+ 15/03/19 13:04 Print done       
+ 15/03/19 13:03 Print start      
+ 15/03/19 13:03 Job start        26 C Testpattern
+ 15/03/19 13:03 Job done         
+ 15/03/19 13:03 Print done       
+ 15/03/19 13:03 Print start      
+ 15/03/19 13:03 Job start        26 C Testpattern
+ 15/03/19 13:03 Job done         
+ 15/03/19 13:03 Print done       
+ 15/03/19 13:02 Print start      
+ 15/03/19 13:02 Job start        26 C Testpattern
+ 15/03/19 12:55 Job done         
+ 15/03/19 12:55 Print done       
+ 15/03/19 12:54 Print start      
+ 15/03/19 12:54 Job start        26 C Testpattern
+ 15/03/19 12:54 Job done         
+ 15/03/19 12:54 Print done       
+ 15/03/19 12:53 Print start      
+ 15/03/19 12:53 Job start        26 C Testpattern
+ 15/03/19 12:53 Job done         
+ 15/03/19 12:53 Print done       
+ 15/03/19 12:52 Print start      
+ 15/03/19 12:52 Job start        26 C Testpattern
+ 15/03/19 12:52 Job done         
+ 15/03/19 12:52 Print done       
+ 15/03/19 12:51 Print start      
+ 15/03/19 12:51 Job start        26 C Testpattern
+ 15/03/19 12:50 Job done         
+ 15/03/19 12:50 Print done       
+ 15/03/19 12:49 Print start      
+ 15/03/19 12:49 Job start        26 C Testpattern
+ 15/03/19 12:47 Job done         
+ 15/03/19 12:47 Print done       
+ 15/03/19 12:46 Print start      
+ 15/03/19 12:46 Job start        26 C Testpattern
+ 15/03/19 12:44 Job done         
+ 15/03/19 12:44 Print done       
+ 15/03/19 12:43 Print start      
+ 15/03/19 12:43 Job start        26 C Testpattern
+ 15/03/19 12:42 Job done         
+ 15/03/19 12:42 Print done       
+ 15/03/19 12:41 Print start      
+ 15/03/19 12:41 Job start        26 C Testpattern
+ 15/03/19 12:39 Job done         
+ 15/03/19 12:39 Print done       
+ 15/03/19 12:38 Print start      
+ 15/03/19 12:38 Job start        26 C Testpattern
+ 15/03/19 12:35 Job done         
+ 15/03/19 12:35 Print done       
+ 15/03/19 12:34 Print start      
+ 15/03/19 12:34 Job start        26 C Testpattern
+ 15/03/19 12:33 Job done         
+ 15/03/19 12:33 Print done       
+ 15/03/19 12:32 Print start      
+ 15/03/19 12:32 Job start        26 C Testpattern
+ 15/03/19 12:31 Job done         
+ 15/03/19 12:31 Print done       
+ 15/03/19 12:30 Print start      
+ 15/03/19 12:30 Job start        26 C Testpattern
+ 15/03/19 12:28 Temperature      26 C
+ 15/03/19 12:25 Ink Circulate    Discharge
+ 15/03/19 11:34 Cartridge change No.6
+ 15/03/19 11:31 Cleaning         Powerful cleaning
+ 15/03/19 11:31 System setting   
+ 15/03/19 11:31 Setup done       Width:439mm Env.: 0.051
+ 15/03/19 11:28 Cleaning         Power on cleaning
+ 15/03/19 11:28 Sub power on     Service mode
+ 15/03/19 11:28 Main power on    Normal
+ 15/03/19 11:28 Temperature      25 C
+ 15/03/19 11:11 Temperature      26 C
+ 15/03/19 11:11 Sub power off    
+ 15/03/19 11:10 Job done         
+ 15/03/19 11:10 Print done       
+ 15/03/19 11:09 Print start      
+ 15/03/19 11:09 Job start        26 C Testpattern
+ 15/03/19 11:08 Setup done       Width:439mm Env.: 0.052
+ 15/03/19 11:03 Cleaning         Powerful cleaning
+ 15/03/19 11:02 Sub power on     Service mode
+ 15/03/19 11:02 Main power on    Normal
+ 15/03/19 11:02 Temperature      25 C
+ 15/03/19 10:50 Temperature      26 C
+ 15/03/19 10:50 Sub power off    
+ 15/03/19 10:43 Cleaning         Powerful cleaning
+ 15/03/19 10:43 System setting   
+ 15/03/19 10:42 Job done         
+ 15/03/19 10:42 Print done       
+ 15/03/19 10:39 Print start      
+ 15/03/19 10:39 Job start        26 C Testpattern
+ 15/03/19 10:39 Setup done       Width:439mm Env.: 0.052
+ 15/03/19 10:38 Sub power on     Service mode
+ 15/03/19 10:37 Main power on    Normal
+ 15/03/19 10:37 Internal error   
+ 15/03/19 10:37 Temperature      26 C
+ 15/03/19 10:35 Service call     No:104
+ 15/03/19 10:22 System setting   
+ 15/03/19 10:19 Job done         
+ 15/03/19 10:19 Print done       
+ 15/03/19 10:17 Print start      
+ 15/03/19 10:17 Job start        26 C Testpattern
+ 15/03/19 10:14 Setup done       Width:439mm Env.: 0.053
+ 15/03/19 10:13 Sub power on     Service mode
+ 15/03/19 10:03 Temperature      26 C
+ 15/03/19 10:03 Sub power off    
+ 15/03/19 10:02 Sub power on     Service mode
+ 15/03/19 09:52 Temperature      27 C
+ 15/03/19 09:52 Sub power off    
+ 15/03/19 09:49 Job done         
+ 15/03/19 09:49 Print done       
+ 15/03/19 09:48 Print start      
+ 15/03/19 09:48 Job start        25 C Testpattern
+ 15/03/19 09:48 System setting   
+ 15/03/19 09:46 Setup done       Width:439mm Env.: 0.051
+ 15/03/19 09:45 Sub power on     Service mode
+ 15/03/19 09:45 Temperature      26 C
+ 15/03/19 09:44 Sub power off    
+ 15/03/19 09:44 Job done         
+ 15/03/19 09:44 Print done       
+ 15/03/19 09:42 Print start      
+ 15/03/19 09:42 Job start        25 C Testpattern
+ 15/03/19 09:42 User setting     
+ 15/03/19 09:41 User setting     
+ 15/03/19 09:41 User setting     
+ 15/03/19 09:41 System setting   
+ 15/03/19 09:40 Setup done       Width:444mm Env.: 0.050
+ 15/03/19 09:39 User setting     
+ 15/03/19 09:38 Sub power on     Normal
+ 15/03/19 09:35 Cartridge change No.6
+ 15/03/19 09:11 Temperature      28 C
+ 15/03/19 08:11 Temperature      28 C
+ 15/03/19 07:11 Temperature      28 C
+ 15/03/19 06:11 Temperature      28 C
+ 15/03/19 05:11 Temperature      28 C
+ 15/03/19 04:11 Temperature      28 C
+ 15/03/19 03:11 Temperature      28 C
+ 15/03/19 02:11 Temperature      28 C
+ 15/03/19 02:11 Sub power off    
+ 15/03/19 02:11 Cleaning         Self flushing
+ 15/03/19 02:10 Temperature      27 C
+ 15/03/19 02:10 Sub power on     Normal
+ 15/03/19 01:10 Temperature      27 C
+ 15/03/19 00:10 Temperature      27 C
+ 15/03/18 23:10 Temperature      27 C
+ 15/03/18 22:10 Temperature      27 C
+ 15/03/18 21:10 Temperature      27 C
+ 15/03/18 20:10 Temperature      27 C
+ 15/03/18 19:10 Temperature      27 C
+ 15/03/18 18:10 Temperature      27 C
+ 15/03/18 18:10 Sub power off    
+ 15/03/18 18:10 Cleaning         Self flushing
+ 15/03/18 18:10 Temperature      29 C
+ 15/03/18 18:10 Sub power on     Normal
+ 15/03/18 17:10 Temperature      29 C
+ 15/03/18 16:10 Temperature      29 C
+ 15/03/18 15:10 Temperature      29 C
+ 15/03/18 14:10 Temperature      29 C
+ 15/03/18 13:10 Temperature      29 C
+ 15/03/18 12:10 Temperature      29 C
+ 15/03/18 11:10 Temperature      29 C
+ 15/03/18 10:10 Temperature      29 C
+ 15/03/18 10:10 Sub power off    
+ 15/03/18 10:03 Job done         
+ 15/03/18 10:03 Cutting done     
+ 15/03/18 09:55 Temperature      26 C
+ 15/03/18 09:29 Cutting start    
+ 15/03/18 09:29 Print done       
+ 15/03/18 09:18 Print start      
+ 15/03/18 09:17 Job start        28 C 
+ 15/03/18 09:15 System setting   
+ 15/03/18 09:09 Setup done       Width:479mm Env.: 0.056
+ 15/03/18 09:08 Sub power on     Normal
+ 15/03/18 08:55 Temperature      28 C
+ 15/03/18 08:55 Sub power off    
+ 15/03/18 08:55 Cleaning         Self flushing
+ 15/03/18 08:55 Temperature      28 C
+ 15/03/18 08:55 Sub power on     Normal
+ 15/03/18 07:55 Temperature      28 C
+ 15/03/18 06:55 Temperature      28 C
+ 15/03/18 05:55 Temperature      28 C
+ 15/03/18 04:55 Temperature      28 C
+ 15/03/18 03:55 Temperature      28 C
+ 15/03/18 02:55 Temperature      28 C
+ 15/03/18 01:55 Temperature      28 C
+ 15/03/18 00:55 Temperature      28 C
+ 15/03/18 00:55 Sub power off    
+ 15/03/18 00:55 Cleaning         Self flushing
+ 15/03/18 00:54 Temperature      29 C
+ 15/03/18 00:54 Sub power on     Normal
+ 15/03/17 23:54 Temperature      29 C
+ 15/03/17 22:54 Temperature      29 C
+ 15/03/17 21:54 Temperature      29 C
+ 15/03/17 20:54 Temperature      29 C
+ 15/03/17 19:54 Temperature      29 C
+ 15/03/17 18:54 Temperature      29 C
+ 15/03/17 17:54 Temperature      29 C
+ 15/03/17 16:54 Temperature      29 C
+ 15/03/17 16:54 Sub power off    
+ 15/03/17 16:54 Job done         
+ 15/03/17 16:54 Cutting done     
+ 15/03/17 16:20 Cutting start    
+ 15/03/17 16:20 Print done       
+ 15/03/17 16:12 User setting     
+ 15/03/17 16:08 Print start      
+ 15/03/17 16:08 Job start        27 C 
+ 15/03/17 16:02 Job done         
+ 15/03/17 16:02 Cutting done     
+ 15/03/17 15:57 Temperature      27 C
+ 15/03/17 15:06 Cutting start    
+ 15/03/17 15:06 Print done       
+ 15/03/17 14:57 Temperature      28 C
+ 15/03/17 14:48 Print start      
+ 15/03/17 14:48 Job start        28 C 
+ 15/03/17 14:46 System setting   
+ 15/03/17 14:45 Setup done       Width:479mm Env.: 0.041
+ 15/03/17 14:44 Cancel done      
+ 15/03/17 14:44 Job done         
+ 15/03/17 14:44 Cancel start     User cancel
+ 15/03/17 14:05 Cutting start    
+ 15/03/17 14:05 Print done       
+ 15/03/17 13:57 Temperature      28 C
+ 15/03/17 13:47 Print start      
+ 15/03/17 13:47 Job start        28 C 
+ 15/03/17 13:34 Job done         
+ 15/03/17 13:34 Cutting done     
+ 15/03/17 13:33 Cutting start    
+ 15/03/17 13:33 Job start        29 C Testpattern
+ 15/03/17 13:33 Job done         
+ 15/03/17 13:33 Print done       
+ 15/03/17 13:32 Print start      
+ 15/03/17 13:32 Job start        29 C Testpattern
+ 15/03/17 13:31 User setting     
+ 15/03/17 13:31 User setting     
+ 15/03/17 13:31 User setting     
+ 15/03/17 13:30 System setting   
+ 15/03/17 13:30 Setup done       Width:484mm Env.: 0.057
+ 15/03/17 13:26 User setting     
+ 15/03/17 13:23 Cleaning         Power on cleaning
+ 15/03/17 13:23 Sub power on     Normal
+ 15/03/17 12:57 Temperature      28 C
+ 15/03/17 11:57 Temperature      28 C
+ 15/03/17 10:57 Temperature      28 C
+ 15/03/17 09:57 Temperature      28 C
+ 15/03/17 08:57 Temperature      28 C
+ 15/03/17 08:57 Sub power off    
+ 15/03/17 08:57 Cleaning         Self flushing
+ 15/03/17 08:56 Temperature      28 C
+ 15/03/17 08:56 Sub power on     Normal
+ 15/03/17 07:56 Temperature      28 C
+ 15/03/17 06:56 Temperature      28 C
+ 15/03/17 05:56 Temperature      28 C
+ 15/03/17 04:56 Temperature      28 C
+ 15/03/17 03:56 Temperature      28 C
+ 15/03/17 02:56 Temperature      28 C
+ 15/03/17 01:56 Temperature      28 C
+ 15/03/17 00:56 Temperature      28 C
+ 15/03/17 00:56 Sub power off    
+ 15/03/17 00:56 Cleaning         Self flushing
+ 15/03/17 00:56 Temperature      28 C
+ 15/03/17 00:56 Sub power on     Normal
+ 15/03/16 23:56 Temperature      28 C
+ 15/03/16 22:56 Temperature      28 C
+ 15/03/16 21:56 Temperature      28 C
+ 15/03/16 20:56 Temperature      28 C
+ 15/03/16 19:56 Temperature      28 C
+ 15/03/16 18:56 Temperature      28 C
+ 15/03/16 17:56 Temperature      28 C
+ 15/03/16 16:56 Temperature      28 C
+ 15/03/16 16:56 Sub power off    
+ 15/03/16 16:56 Cleaning         Self flushing
+ 15/03/16 16:55 Temperature      27 C
+ 15/03/16 16:55 Sub power on     Normal
+ 15/03/16 15:55 Temperature      27 C
+ 15/03/16 14:55 Temperature      27 C
+ 15/03/16 13:55 Temperature      27 C
+ 15/03/16 12:55 Temperature      27 C
+ 15/03/16 11:55 Temperature      27 C
+ 15/03/16 10:55 Temperature      27 C
+ 15/03/16 09:55 Temperature      27 C
+ 15/03/16 08:55 Temperature      27 C
+ 15/03/16 08:55 Sub power off    
+ 15/03/16 08:55 Cleaning         Self flushing
+ 15/03/16 08:55 Temperature      28 C
+ 15/03/16 08:55 Sub power on     Normal
+ 15/03/16 07:55 Temperature      28 C
+ 15/03/16 06:55 Temperature      28 C
+ 15/03/16 05:55 Temperature      28 C
+ 15/03/16 04:55 Temperature      28 C
+ 15/03/16 03:55 Temperature      28 C
+ 15/03/16 02:55 Temperature      28 C
+ 15/03/16 01:55 Temperature      28 C
+ 15/03/16 00:55 Temperature      28 C
+ 15/03/16 00:55 Sub power off    
+ 15/03/16 00:54 Cleaning         Self flushing
+ 15/03/16 00:54 Temperature      28 C
+ 15/03/16 00:54 Sub power on     Normal
+ 15/03/15 23:54 Temperature      28 C
+ 15/03/15 22:54 Temperature      28 C
+ 15/03/15 21:54 Temperature      28 C
+ 15/03/15 20:54 Temperature      28 C
+ 15/03/15 19:54 Temperature      28 C
+ 15/03/15 18:54 Temperature      28 C
+ 15/03/15 17:54 Temperature      28 C
+ 15/03/15 16:54 Temperature      28 C
+ 15/03/15 16:54 Sub power off    
+ 15/03/15 16:54 Cleaning         Self flushing
+ 15/03/15 16:54 Temperature      28 C
+ 15/03/15 16:54 Sub power on     Normal
+ 15/03/15 15:54 Temperature      28 C
+ 15/03/15 14:54 Temperature      28 C
+ 15/03/15 13:54 Temperature      28 C
+ 15/03/15 12:54 Temperature      28 C
+ 15/03/15 11:54 Temperature      28 C
+ 15/03/15 10:54 Temperature      28 C
+ 15/03/15 09:54 Temperature      28 C
+ 15/03/15 08:54 Temperature      28 C
+ 15/03/15 08:53 Sub power off    
+ 15/03/15 08:53 Cleaning         Self flushing
+ 15/03/15 08:53 Temperature      28 C
+ 15/03/15 08:53 Sub power on     Normal
+ 15/03/15 07:53 Temperature      28 C
+ 15/03/15 06:53 Temperature      28 C
+ 15/03/15 05:53 Temperature      28 C
+ 15/03/15 04:53 Temperature      28 C
+ 15/03/15 03:53 Temperature      28 C
+ 15/03/15 02:53 Temperature      28 C
+ 15/03/15 01:53 Temperature      28 C
+ 15/03/15 00:53 Temperature      28 C
+ 15/03/15 00:53 Sub power off    
+ 15/03/15 00:53 Cleaning         Self flushing
+ 15/03/15 00:52 Temperature      29 C
+ 15/03/15 00:52 Sub power on     Normal
+ 15/03/14 23:52 Temperature      29 C
+ 15/03/14 22:52 Temperature      29 C
+ 15/03/14 21:52 Temperature      29 C
+ 15/03/14 20:52 Temperature      29 C
+ 15/03/14 19:52 Temperature      29 C
+ 15/03/14 18:52 Temperature      29 C
+ 15/03/14 17:52 Temperature      29 C
+ 15/03/14 16:52 Temperature      29 C
+ 15/03/14 16:52 Sub power off    
+ 15/03/14 16:52 Job done         
+ 15/03/14 16:52 Print done       
+ 15/03/14 16:51 Print start      
+ 15/03/14 16:51 Job start        27 C Testpattern
+ 15/03/14 16:47 Ink Circulate    Discharge
+ 15/03/14 16:47 System setting   
+ 15/03/14 16:46 Job done         
+ 15/03/14 16:46 Print done       
+ 15/03/14 16:45 Print start      
+ 15/03/14 16:45 Job start        26 C Testpattern
+ 15/03/14 16:45 Cartridge change No.6
+ 15/03/14 16:44 Job done         
+ 15/03/14 16:44 Print done       
+ 15/03/14 16:43 Print start      
+ 15/03/14 16:43 Job start        26 C Testpattern
+ 15/03/14 16:43 Setup done       Width:438mm Env.: 0.034
+ 15/03/14 16:42 Sub power on     Normal
+ 15/03/14 16:37 Temperature      28 C
+ 15/03/14 16:36 Sub power off    
+ 15/03/14 16:36 Cancel done      
+ 15/03/14 16:36 Job done         
+ 15/03/14 16:36 Cancel start     User cancel
+ 15/03/14 16:35 Print start      
+ 15/03/14 16:35 Job start        26 C 
+ 15/03/14 16:35 Job done         
+ 15/03/14 16:35 Print done       
+ 15/03/14 16:29 Temperature      26 C
+ 15/03/14 16:29 Print start      
+ 15/03/14 16:29 Job start        26 C 
+ 15/03/14 16:28 Job done         
+@DONE@

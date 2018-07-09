@@ -1,0 +1,597 @@
+Model                 : LEF-12
+Version               : 2.20
+Serial No.            : ZBG1188
+Date                  : 2015/03/30 23:27
+IP Address            : 192.168.002.002
+Subnet Mask           : 255.255.255.000
+Gateway Address       : 000.000.000.000
+MAC Address           : 00:40:AB:01:13:A6
+Ink type              : ECO-UV CMYKGlW
+Ink remain(1-6)       :  43/ 95/ 96/ 95/ 47/ 50
+Head Temperature      : 27C /  80.6F
+Ambience Temperature  : 27C /  80.6F
+Empty mode            : Stop
+Clearance Mode        : RE-ADJUST
+Full width S          : OFF
+Print continue        : Disable
+Length unit           : mm
+Temperature unit      : C
+Menu language         : English
+Mist fan power (F/R)  : HIGH/ HIGH
+Sleep                 : Enable
+Sleep interval        :  30 min
+Periodic cleaning     :  NONE  
+Preset name           : MESA 3         
+Set Position Type     : LOWER RIGHT
+Full width S          : OFF
+Print continue        : Disable
+Height                :  87.6 mm
+Start Position (Scan) : 119.8 mm
+               (Feed) :   0.0 mm
+Print Area (Width)    : 185.1 mm
+           (Length)   : 280.0 mm
+Preset name           : A              
+Set Position Type     : LOWER RIGHT
+Full width S          : OFF
+Print continue        : Disable
+Height                :  86.3 mm
+Start Position (Scan) : 127.6 mm
+               (Feed) :  49.6 mm
+Print Area (Width)    :  51.5 mm
+           (Length)   :  27.6 mm
+Preset name           : GABARITO       
+Set Position Type     : LOWER RIGHT
+Full width S          : OFF
+Print continue        : Disable
+Height                :  83.0 mm
+Start Position (Scan) :   0.0 mm
+               (Feed) :   0.0 mm
+Print Area (Width)    : 287.5 mm
+           (Length)   : 262.8 mm
+Preset name           : PRESETTING4
+Set Position Type     : LOWER RIGHT
+Full width S          : FULL
+Print continue        : Disable
+Height                :   0.0 mm
+Start Position (Scan) :   0.0 mm
+               (Feed) :   0.0 mm
+Print Area (Width)    : 305.0 mm
+           (Length)   : 280.0 mm
+Preset name           : PRESETTING5
+Set Position Type     : LOWER RIGHT
+Full width S          : FULL
+Print continue        : Disable
+Height                :   0.0 mm
+Start Position (Scan) :   0.0 mm
+               (Feed) :   0.0 mm
+Print Area (Width)    : 305.0 mm
+           (Length)   : 280.0 mm
+Preset name           : PRESETTING6
+Set Position Type     : LOWER RIGHT
+Full width S          : FULL
+Print continue        : Disable
+Height                :   0.0 mm
+Start Position (Scan) :   0.0 mm
+               (Feed) :   0.0 mm
+Print Area (Width)    : 305.0 mm
+           (Length)   : 280.0 mm
+Preset name           : PRESETTING7
+Set Position Type     : LOWER RIGHT
+Full width S          : FULL
+Print continue        : Disable
+Height                :   0.0 mm
+Start Position (Scan) :   0.0 mm
+               (Feed) :   0.0 mm
+Print Area (Width)    : 305.0 mm
+           (Length)   : 280.0 mm
+Preset name           : PRESETTING8
+Set Position Type     : LOWER RIGHT
+Full width S          : OFF
+Print continue        : Disable
+Height                :  97.5 mm
+Start Position (Scan) :  43.9 mm
+               (Feed) :  35.9 mm
+Print Area (Width)    : 201.1 mm
+           (Length)   : 121.9 mm
+Head rank H1          : 6BY3538RVUXYXUV ............ 00B..E
+          H2          : 77X3839SVTXXYTU ............ 00D..E
+          H3          : 79Y3D3FRWSXYXTU ............ 001..E
+                      :  H1     H2     H3   
+Head hori.(DT1)       :  -3.5          -3.5 
+          (DT3)       :  -4            -4   
+          (DT6)       :  -3.5          -3.5 
+          (DT8)       :  -4            -4   
+Dip SW                : 1000
+System SW page( 1- 4) : 00000000 00000000 00000010 00000000 
+System SW page( 5- 8) : 00000000 00000000 00000000 00000000 
+System SW page( 9-12) : 00000000 00000000 00000000 00000000 
+System SW page(13-16) : 00000000 00000000 00000000 00000001 
+Limit position        :      16.5 mm
+Maximum position      :     635.6 mm
+Calibration default   :      0.00 %
+Encoder position(L)   :     457.7 mm
+Encoder position(R)   :     152.7 mm
+Maintenance request   : NONE
+Booter version        : 1.20
+Battery               :   Charged
+Periodic CL. degree   : LIGHT
+Drain liquid volume   : 84.8 cc
+Standard head         : 2
+Flushing pos adjust   : -1.80 mm
+Marker pos adjust S   : +0.1 mm
+Marker pos adjust F   : +0.0 mm
+Print Area adjust S   : -0.4 mm
+Print Area adjust F   : -1.0 mm
+Model                  : LEF-12
+Version                : 2.20
+Serial No.             : ZBG1188
+Date                   : 2015/03/30 23:27
+==== Motor group ====
+Motor scan   (trip/total [clear]):        302/        302 hours [0]
+Motor feed   (trip/total [clear]):        191/        191 hours [0]
+Motor height (trip/total [clear]):         11/         11 hours [0]
+Pump Times A (trip/total [clear]):    109,937/    109,937 times [0]
+Pump Times B (trip/total [clear]):     87,722/     87,722 times [0]
+Pump TimesCIR(trip/total [clear]):      7,796/      7,796 times [0]
+==== Head group ====
+Shot Cnt.  1 (trip/total [clear]):  2,373,131/  2,373,131 K times/nozzle [0]
+Shot Cnt.  2 (trip/total [clear]):    326,760/    326,760 K times/nozzle [0]
+Shot Cnt.  3 (trip/total [clear]):    313,708/    519,109 K times/nozzle [1]
+Shot Cnt.  4 (trip/total [clear]):    207,745/    641,265 K times/nozzle [1]
+Shot Cnt.  5 (trip/total [clear]):    829,815/    829,815 K times/nozzle [0]
+Shot Cnt.  6 (trip/total [clear]):    396,022/    396,022 K times/nozzle [0]
+                       :     H1     H2     H3
+Wiping count for head  :  2,957    669    669 times
+Rubbing count for head :     29     35     35 times
+Headrank set count     :      0      1      0 times
+Auto cleaning count    :  2,004    226    226 times
+Normal cleaning count  :      4      3      3 times
+Medium cleaning count  :      1      2      2 times
+Powerful cleaning count:      0      2      2 times
+Ink renewal            :      0      0      0 times
+==== Maintenance group ====
+Maintenance Count      :     94 times
+Total time             :      3 hours
+Printing time          :      0 hours
+==== Wiper group ====
+Wiping count           :     13 times
+Rubbing count          :      0 times
+Wiper replace count    :      1 times
+==== Print group ====
+Printing time          :       1,153 hours
+Print pages            :       7,964 pages
+==== Ink group ====
+Cartridge change(1-6)  :      4      6      4      4      9     25 times
+Change ink type        :           0 times
+Ink Discharge 1        :    165 times
+Ink Discharge 2        :     32 times
+Ink Discharge 3        :     60 times
+==== Error group ====
+Service call count     :     11 times
+Service call history   : 0230 0230 0231 0231 0230
+Motor error  (scan)    :      1 times
+Low temperature error  :      0 times
+High temperature error :      0 times
+Emergency capping      :      0 times
+Start uncapped         :      1 times
+==== System group ====
+Power on count         :    939 times
+Power on time          :  2,397 hours
+Sleep time             :    221 hours
+Peck used count        :      0 times
+Net fault count(pon)   :      0 times
+Net fault count(cfg)   :      0 times
+==== UV Lamp group ====
+UV Lamp On Time        :      30,886 min  
+UV Lamp On count       :   2,187,025 times
+==== Fan group ====
+Mist Fan Front time    :      0 hours
+Mist Fan Rear time     :      0 hours
+Filter replace count   :      2 times
+
+Model                  : LEF-12
+Version                : 2.20
+Serial No.             : ZBG1188
+No:          SERIAL/  INK TYPE/  CAP./LOT No/   CONSUM./           TIME/INS./    FLAG
+ 1:14d7f16806000078/     EUV-C/ 200cc/4701B / 114.460cc/0y035d01h19m54s/   1/00000000
+ 2:1476246906000010/     EUV-M/ 200cc/4528B /   9.742cc/0y003d01h15m27s/   1/00000000
+ 3:1475195f06000060/     EUV-Y/ 200cc/4327B /   8.472cc/0y003d01h05m34s/   1/00000000
+ 4:14d53a620600005f/     EUV-K/ 200cc/4811B /  10.573cc/0y003d01h15m22s/   1/00000000
+ 5:14b53c6a0600001c/    EUV-Gl/ 200cc/4421B / 105.122cc/0y021d02h37m49s/   1/00000000
+ 6:14bb309a0600005f/     EUV-W/ 200cc/4A07B / 100.036cc/0y005d02h44m17s/   2/00000000
+Model                  : LEF-12
+Version                : 2.20
+Serial No.             : ZBG1188
+Date                   : 2015/03/30 23:27
+Last event             : 72107
++--------+-----+----------------+------------------------------------+
+ Date     Time  Event            Information
++--------+-----+----------------+------------------------------------+
+ 15/03/30 23:26 Firmware update  2.10->2.20
+ 15/03/30 23:26 Main power on    Normal
+ 15/03/30 23:26 Temperature      26 C
+ 15/03/30 23:22 Sub power on     Version-up mode
+ 15/03/30 23:21 Temperature      26 C
+ 15/03/30 23:21 Sub power off    
+ 15/03/30 23:18 Job done         
+ 15/03/30 23:18 Print done       
+ 15/03/30 23:16 Print start      
+ 15/03/30 23:16 Job start        29 C Testpattern
+ 15/03/30 23:16 Setup done       W:283.9mm L:260.9mm H:101.0mm
+ 15/03/30 23:11 Sub power on     Normal
+ 15/03/30 23:03 Temperature      26 C
+ 15/03/30 23:03 Sub power off    
+ 15/03/30 22:41 Sub power on     Service mode
+ 15/03/30 22:35 Temperature      26 C
+ 15/03/30 22:35 Sub power off    
+ 15/03/30 22:31 Cleaning         Medium cleaning
+ 15/03/30 22:25 Sub power on     Service mode
+ 15/03/30 22:24 Temperature      26 C
+ 15/03/30 22:24 Sub power off    
+ 15/03/30 22:23 Sub power on     Service mode
+ 15/03/30 22:14 Temperature      26 C
+ 15/03/30 22:14 Sub power off    
+ 15/03/30 22:12 Sub power on     Service mode
+ 15/03/30 22:07 Main power on    Normal
+ 15/03/30 22:07 Temperature      25 C
+ 15/03/30 21:05 Temperature      30 C
+ 15/03/30 21:05 Sub power off    
+ 15/03/30 20:59 Job done         
+ 15/03/30 20:59 Print done       
+ 15/03/30 20:54 Temperature      32 C
+ 15/03/30 20:50 Print start      
+ 15/03/30 20:50 Job start        31 C 
+ 15/03/30 20:46 Setup done       W:305.0mm L:280.0mm H:79.6mm
+ 15/03/30 20:46 Cancel done      
+ 15/03/30 20:46 Cancel start     User cancel
+ 15/03/30 20:46 Setup done       W:305.0mm L:280.0mm H:80.4mm
+ 15/03/30 20:44 Cancel done      
+ 15/03/30 20:44 Cancel start     User cancel
+ 15/03/30 20:33 Job done         
+ 15/03/30 20:33 Print done       
+ 15/03/30 20:32 Print start      
+ 15/03/30 20:32 Job start        32 C Testpattern
+ 15/03/30 20:32 Setup done       W:305.0mm L:280.0mm H:99.3mm
+ 15/03/30 20:30 Cancel done      
+ 15/03/30 20:30 Cancel start     User cancel
+ 15/03/30 20:21 Job done         
+ 15/03/30 20:21 Print done       
+ 15/03/30 20:20 Print start      
+ 15/03/30 20:20 Job start        32 C Testpattern
+ 15/03/30 20:20 Setup done       W:305.0mm L:280.0mm H:99.3mm
+ 15/03/30 20:13 Cleaning         Power on cleaning
+ 15/03/30 20:13 Sub power on     Normal
+ 15/03/30 19:54 Temperature      30 C
+ 15/03/30 18:54 Temperature      30 C
+ 15/03/30 17:54 Temperature      30 C
+ 15/03/30 16:54 Temperature      30 C
+ 15/03/30 15:54 Temperature      30 C
+ 15/03/30 14:54 Temperature      30 C
+ 15/03/30 14:53 Sub power off    
+ 15/03/30 14:53 Cleaning         Self flushing
+ 15/03/30 14:53 Temperature      31 C
+ 15/03/30 14:53 Sub power on     Normal
+ 15/03/30 13:53 Temperature      31 C
+ 15/03/30 12:53 Temperature      31 C
+ 15/03/30 11:53 Temperature      31 C
+ 15/03/30 10:53 Temperature      31 C
+ 15/03/30 09:53 Temperature      31 C
+ 15/03/30 08:53 Temperature      31 C
+ 15/03/30 07:53 Temperature      31 C
+ 15/03/30 06:53 Temperature      31 C
+ 15/03/30 06:53 Sub power off    
+ 15/03/30 06:53 Cleaning         Self flushing
+ 15/03/30 06:52 Temperature      30 C
+ 15/03/30 06:52 Sub power on     Normal
+ 15/03/30 05:52 Temperature      30 C
+ 15/03/30 04:52 Temperature      30 C
+ 15/03/30 03:52 Temperature      30 C
+ 15/03/30 02:52 Temperature      30 C
+ 15/03/30 01:52 Temperature      30 C
+ 15/03/30 00:52 Temperature      30 C
+ 15/03/29 23:52 Temperature      30 C
+ 15/03/29 22:52 Temperature      30 C
+ 15/03/29 22:52 Sub power off    
+ 15/03/29 22:52 Cleaning         Self flushing
+ 15/03/29 22:51 Temperature      30 C
+ 15/03/29 22:51 Sub power on     Normal
+ 15/03/29 21:51 Temperature      30 C
+ 15/03/29 20:51 Temperature      30 C
+ 15/03/29 19:51 Temperature      30 C
+ 15/03/29 18:51 Temperature      30 C
+ 15/03/29 17:51 Temperature      30 C
+ 15/03/29 16:51 Temperature      30 C
+ 15/03/29 15:51 Temperature      30 C
+ 15/03/29 14:51 Temperature      30 C
+ 15/03/29 14:51 Sub power off    
+ 15/03/29 14:51 Cleaning         Self flushing
+ 15/03/29 14:51 Temperature      31 C
+ 15/03/29 14:51 Sub power on     Normal
+ 15/03/29 13:51 Temperature      31 C
+ 15/03/29 12:51 Temperature      31 C
+ 15/03/29 11:51 Temperature      31 C
+ 15/03/29 10:51 Temperature      31 C
+ 15/03/29 09:51 Temperature      31 C
+ 15/03/29 08:51 Temperature      31 C
+ 15/03/29 07:51 Temperature      31 C
+ 15/03/29 06:51 Temperature      31 C
+ 15/03/29 06:51 Sub power off    
+ 15/03/29 06:50 Cleaning         Self flushing
+ 15/03/29 06:50 Temperature      30 C
+ 15/03/29 06:50 Sub power on     Normal
+ 15/03/29 05:50 Temperature      30 C
+ 15/03/29 04:50 Temperature      30 C
+ 15/03/29 03:50 Temperature      30 C
+ 15/03/29 02:50 Temperature      30 C
+ 15/03/29 01:50 Temperature      30 C
+ 15/03/29 00:50 Temperature      30 C
+ 15/03/28 23:50 Temperature      30 C
+ 15/03/28 22:50 Temperature      30 C
+ 15/03/28 22:50 Sub power off    
+ 15/03/28 22:50 Cleaning         Self flushing
+ 15/03/28 22:49 Temperature      29 C
+ 15/03/28 22:49 Sub power on     Normal
+ 15/03/28 21:49 Temperature      29 C
+ 15/03/28 20:49 Temperature      29 C
+ 15/03/28 19:49 Temperature      29 C
+ 15/03/28 18:49 Temperature      29 C
+ 15/03/28 17:49 Temperature      29 C
+ 15/03/28 16:49 Temperature      29 C
+ 15/03/28 15:49 Temperature      29 C
+ 15/03/28 14:49 Temperature      29 C
+ 15/03/28 14:49 Sub power off    
+ 15/03/28 14:49 Cleaning         Self flushing
+ 15/03/28 14:48 Temperature      31 C
+ 15/03/28 14:48 Sub power on     Normal
+ 15/03/28 13:48 Temperature      31 C
+ 15/03/28 12:48 Temperature      31 C
+ 15/03/28 11:49 Temperature      31 C
+ 15/03/28 10:49 Temperature      31 C
+ 15/03/28 09:49 Temperature      31 C
+ 15/03/28 08:49 Temperature      31 C
+ 15/03/28 07:49 Temperature      31 C
+ 15/03/28 06:49 Temperature      31 C
+ 15/03/28 06:48 Sub power off    
+ 15/03/28 06:48 Job done         
+ 15/03/28 06:48 Print done       
+ 15/03/28 06:37 Temperature      33 C
+ 15/03/28 06:33 Print start      
+ 15/03/28 06:33 Job start        33 C 
+ 15/03/28 06:33 Setup done       W:305.0mm L:280.0mm H:83.7mm
+ 15/03/28 06:33 Cancel done      
+ 15/03/28 06:33 Cancel start     User cancel
+ 15/03/28 06:32 Setup done       W:305.0mm L:280.0mm H:84.6mm
+ 15/03/28 06:31 Cancel done      
+ 15/03/28 06:31 Cancel start     User cancel
+ 15/03/28 06:30 Job done         
+ 15/03/28 06:30 Print done       
+ 15/03/28 06:16 Print start      
+ 15/03/28 06:16 Job start        33 C 
+ 15/03/28 06:16 Setup done       W:305.0mm L:280.0mm H:83.6mm
+ 15/03/28 06:15 Cancel done      
+ 15/03/28 06:15 Cancel start     User cancel
+ 15/03/28 06:15 Setup done       W:305.0mm L:280.0mm H:84.5mm
+ 15/03/28 06:13 Cancel done      
+ 15/03/28 06:13 Cancel start     User cancel
+ 15/03/28 06:12 Job done         
+ 15/03/28 06:12 Print done       
+ 15/03/28 05:59 Print start      
+ 15/03/28 05:58 Job start        33 C 
+ 15/03/28 05:58 Setup done       W:305.0mm L:280.0mm H:82.5mm
+ 15/03/28 05:57 Cancel done      
+ 15/03/28 05:57 Cancel start     User cancel
+ 15/03/28 05:57 Setup done       W:305.0mm L:280.0mm H:83.5mm
+ 15/03/28 05:56 Cancel done      
+ 15/03/28 05:56 Cancel start     User cancel
+ 15/03/28 05:55 Job done         
+ 15/03/28 05:55 Print done       
+ 15/03/28 05:41 Print start      
+ 15/03/28 05:41 Job start        33 C 
+ 15/03/28 05:41 Setup done       W:305.0mm L:280.0mm H:83.0mm
+ 15/03/28 05:40 Cancel done      
+ 15/03/28 05:40 Cancel start     User cancel
+ 15/03/28 05:40 Setup done       W:305.0mm L:280.0mm H:84.0mm
+ 15/03/28 05:40 Cancel done      
+ 15/03/28 05:40 Cancel start     User cancel
+ 15/03/28 05:37 Temperature      33 C
+ 15/03/28 05:37 Job done         
+ 15/03/28 05:37 Print done       
+ 15/03/28 05:23 Print start      
+ 15/03/28 05:23 Job start        33 C 
+ 15/03/28 05:23 Setup done       W:305.0mm L:280.0mm H:82.5mm
+ 15/03/28 05:22 Cancel done      
+ 15/03/28 05:22 Cancel start     User cancel
+ 15/03/28 05:22 Setup done       W:305.0mm L:280.0mm H:83.2mm
+ 15/03/28 05:20 Cancel done      
+ 15/03/28 05:20 Cancel start     User cancel
+ 15/03/28 05:18 Job done         
+ 15/03/28 05:18 Print done       
+ 15/03/28 05:04 Print start      
+ 15/03/28 05:04 Job start        33 C 
+ 15/03/28 04:59 Job done         
+ 15/03/28 04:59 Print done       
+ 15/03/28 04:45 Print start      
+ 15/03/28 04:45 Job start        33 C 
+ 15/03/28 04:45 Setup done       W:305.0mm L:280.0mm H:80.2mm
+ 15/03/28 04:45 Cancel done      
+ 15/03/28 04:45 Cancel start     User cancel
+ 15/03/28 04:44 Setup done       W:305.0mm L:280.0mm H:81.0mm
+ 15/03/28 04:43 Cancel done      
+ 15/03/28 04:43 Cancel start     User cancel
+ 15/03/28 04:41 Job done         
+ 15/03/28 04:41 Print done       
+ 15/03/28 04:37 Temperature      33 C
+ 15/03/28 04:27 Print start      
+ 15/03/28 04:27 Job start        33 C 
+ 15/03/28 04:26 Setup done       W:305.0mm L:280.0mm H:80.0mm
+ 15/03/28 04:26 Cancel done      
+ 15/03/28 04:26 Cancel start     User cancel
+ 15/03/28 04:26 Setup done       W:305.0mm L:280.0mm H:80.8mm
+ 15/03/28 04:21 Cancel done      
+ 15/03/28 04:21 Job done         
+ 15/03/28 04:20 Cancel start     User cancel
+ 15/03/28 03:56 Print start      
+ 15/03/28 03:56 Job start        32 C 
+ 15/03/28 03:54 Setup done       W:305.0mm L:280.0mm H:83.8mm
+ 15/03/28 03:54 Cancel done      
+ 15/03/28 03:53 Job done         
+ 15/03/28 03:53 Cancel start     User cancel
+ 15/03/28 03:45 Print start      
+ 15/03/28 03:45 Job start        32 C 
+ 15/03/28 03:40 Setup done       W:305.0mm L:280.0mm H:83.8mm
+ 15/03/28 03:40 Cancel done      
+ 15/03/28 03:40 Cancel start     User cancel
+ 15/03/28 03:40 Setup done       W:305.0mm L:280.0mm H:84.6mm
+ 15/03/28 03:37 Temperature      32 C
+ 15/03/28 03:36 Cancel done      
+ 15/03/28 03:36 Cancel start     User cancel
+ 15/03/28 03:33 Job done         
+ 15/03/28 03:33 Print done       
+ 15/03/28 03:25 Print start      
+ 15/03/28 03:25 Job start        32 C 
+ 15/03/28 03:24 Setup done       W:305.0mm L:280.0mm H:80.5mm
+ 15/03/28 03:24 Cancel done      
+ 15/03/28 03:24 Cancel start     User cancel
+ 15/03/28 03:24 Setup done       W:305.0mm L:280.0mm H:81.3mm
+ 15/03/28 03:21 Cancel done      
+ 15/03/28 03:21 Cancel start     User cancel
+ 15/03/28 03:09 Setup done       W:305.0mm L:280.0mm H:83.8mm
+ 15/03/28 03:09 Cancel done      
+ 15/03/28 03:09 Cancel start     User cancel
+ 15/03/28 03:09 Setup done       W:305.0mm L:280.0mm H:84.8mm
+ 15/03/28 03:04 Cancel done      
+ 15/03/28 03:03 Job done         
+ 15/03/28 03:03 Cancel start     User cancel
+ 15/03/28 02:41 Print start      
+ 15/03/28 02:41 Job start        32 C 
+ 15/03/28 02:37 Temperature      32 C
+ 15/03/28 02:34 Setup done       W:305.0mm L:280.0mm H:84.8mm
+ 15/03/28 02:34 Cancel done      
+ 15/03/28 02:34 Cancel start     User cancel
+ 15/03/28 02:34 Setup done       W:305.0mm L:280.0mm H:85.0mm
+ 15/03/28 02:34 Cancel done      
+ 15/03/28 02:34 Cancel start     User cancel
+ 15/03/28 02:34 Setup done       W:305.0mm L:280.0mm H:85.8mm
+ 15/03/28 02:32 Cancel done      
+ 15/03/28 02:32 Cancel start     User cancel
+ 15/03/28 02:28 Job done         
+ 15/03/28 02:28 Print done       
+ 15/03/28 01:50 Print start      
+ 15/03/28 01:50 Job start        31 C 
+ 15/03/28 01:49 Setup done       W:305.0mm L:280.0mm H:83.8mm
+ 15/03/28 01:44 Cancel done      
+ 15/03/28 01:44 Cancel start     User cancel
+ 15/03/28 01:44 Setup done       W:305.0mm L:280.0mm H:84.6mm
+ 15/03/28 01:42 Cancel done      
+ 15/03/28 01:42 Cancel start     User cancel
+ 15/03/28 01:37 Temperature      32 C
+ 15/03/28 01:33 Job done         
+ 15/03/28 01:33 Print done       
+ 15/03/28 01:25 Print start      
+ 15/03/28 01:25 Job start        32 C 
+ 15/03/28 01:22 Setup done       W:305.0mm L:280.0mm H:82.6mm
+ 15/03/28 01:22 Cancel done      
+ 15/03/28 01:22 Cancel start     User cancel
+ 15/03/28 01:22 Setup done       W:305.0mm L:280.0mm H:83.4mm
+ 15/03/28 01:21 Cancel done      
+ 15/03/28 01:21 Cancel start     User cancel
+ 15/03/28 01:18 Job done         
+ 15/03/28 01:18 Print done       
+ 15/03/28 01:09 Print start      
+ 15/03/28 01:09 Job start        32 C 
+ 15/03/28 01:08 Setup done       W:305.0mm L:280.0mm H:83.9mm
+ 15/03/28 01:07 Cancel done      
+ 15/03/28 01:07 Cancel start     User cancel
+ 15/03/28 01:07 Setup done       W:305.0mm L:280.0mm H:84.7mm
+ 15/03/28 01:06 Cancel done      
+ 15/03/28 01:06 Cancel start     User cancel
+ 15/03/28 00:47 Job done         
+ 15/03/28 00:47 Print done       
+ 15/03/28 00:39 Print start      
+ 15/03/28 00:39 Job start        32 C 
+ 15/03/28 00:37 Setup done       W:305.0mm L:280.0mm H:82.7mm
+ 15/03/28 00:37 Temperature      33 C
+ 15/03/28 00:36 Cancel done      
+ 15/03/28 00:36 Cancel start     User cancel
+ 15/03/28 00:36 Setup done       W:305.0mm L:280.0mm H:82.7mm
+ 15/03/28 00:36 Cancel done      
+ 15/03/28 00:36 Cancel start     User cancel
+ 15/03/28 00:36 Setup done       W:305.0mm L:280.0mm H:83.4mm
+ 15/03/28 00:35 Cancel done      
+ 15/03/28 00:35 Cancel start     User cancel
+ 15/03/28 00:32 Job done         
+ 15/03/28 00:32 Print done       
+ 15/03/28 00:24 Print start      
+ 15/03/28 00:24 Job start        32 C 
+ 15/03/28 00:22 Setup done       W:305.0mm L:280.0mm H:82.9mm
+ 15/03/28 00:22 Cancel done      
+ 15/03/28 00:22 Cancel start     User cancel
+ 15/03/28 00:22 Setup done       W:305.0mm L:280.0mm H:83.7mm
+ 15/03/28 00:18 Cancel done      
+ 15/03/28 00:18 Cancel start     User cancel
+ 15/03/28 00:15 Job done         
+ 15/03/28 00:15 Print done       
+ 15/03/28 00:06 Print start      
+ 15/03/28 00:06 Job start        32 C 
+ 15/03/28 00:05 Setup done       W:305.0mm L:280.0mm H:82.7mm
+ 15/03/28 00:04 Cancel done      
+ 15/03/28 00:04 Cancel start     User cancel
+ 15/03/28 00:04 Setup done       W:305.0mm L:280.0mm H:83.5mm
+ 15/03/28 00:03 Cancel done      
+ 15/03/28 00:03 Cancel start     User cancel
+ 15/03/27 23:55 Job done         
+ 15/03/27 23:55 Print done       
+ 15/03/27 23:46 Print start      
+ 15/03/27 23:46 Job start        32 C 
+ 15/03/27 23:42 Setup done       W:305.0mm L:280.0mm H:80.0mm
+ 15/03/27 23:42 Cancel done      
+ 15/03/27 23:42 Cancel start     User cancel
+ 15/03/27 23:42 Setup done       W:305.0mm L:280.0mm H:80.8mm
+ 15/03/27 23:37 Temperature      32 C
+ 15/03/27 23:37 Cancel done      
+ 15/03/27 23:37 Cancel start     User cancel
+ 15/03/27 23:33 Job done         
+ 15/03/27 23:33 Print done       
+ 15/03/27 23:26 Print start      
+ 15/03/27 23:26 Job start        32 C 
+ 15/03/27 23:24 Setup done       W:305.0mm L:280.0mm H:84.3mm
+ 15/03/27 23:24 Cancel done      
+ 15/03/27 23:24 Cancel start     User cancel
+ 15/03/27 23:24 Setup done       W:305.0mm L:280.0mm H:85.1mm
+ 15/03/27 23:22 Cancel done      
+ 15/03/27 23:22 Cancel start     User cancel
+ 15/03/27 23:19 Job done         
+ 15/03/27 23:19 Print done       
+ 15/03/27 23:11 Print start      
+ 15/03/27 23:11 Job start        32 C 
+ 15/03/27 23:09 Setup done       W:305.0mm L:280.0mm H:82.6mm
+ 15/03/27 23:09 Cancel done      
+ 15/03/27 23:09 Cancel start     User cancel
+ 15/03/27 23:09 Setup done       W:305.0mm L:280.0mm H:83.5mm
+ 15/03/27 23:07 Cancel done      
+ 15/03/27 23:07 Cancel start     User cancel
+ 15/03/27 23:04 Job done         
+ 15/03/27 23:04 Print done       
+ 15/03/27 22:56 Print start      
+ 15/03/27 22:56 Job start        32 C 
+ 15/03/27 22:55 Setup done       W:305.0mm L:280.0mm H:82.5mm
+ 15/03/27 22:54 Cancel done      
+ 15/03/27 22:54 Cancel start     User cancel
+ 15/03/27 22:54 Setup done       W:305.0mm L:280.0mm H:83.3mm
+ 15/03/27 22:54 Cancel done      
+ 15/03/27 22:54 Cancel start     User cancel
+ 15/03/27 22:52 Setup done       W:305.0mm L:280.0mm H:82.3mm
+ 15/03/27 22:51 Cancel done      
+ 15/03/27 22:51 Cancel start     User cancel
+ 15/03/27 22:49 Job done         
+ 15/03/27 22:49 Print done       
+ 15/03/27 22:37 Temperature      33 C
+ 15/03/27 22:20 Print start      
+ 15/03/27 22:20 Job start        32 C 
+ 15/03/27 22:18 Setup done       W:305.0mm L:280.0mm H:84.8mm
+ 15/03/27 22:17 Cancel done      
+ 15/03/27 22:17 Job done         
+ 15/03/27 22:17 Cancel start     User cancel
+ 15/03/27 22:16 Print start      
+
+@DONE@

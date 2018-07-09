@@ -1,0 +1,676 @@
+Model                 : RE-640
+Version               : 1.70
+Serial No.            : KBE0893
+Date                  : 2014/06/18 16:07
+IP Address            : 192.168.001.005
+Subnet Mask           : 255.255.255.000
+Gateway Address       : 000.000.000.000
+MAC Address           : 00:40:AB:7F:04:D1
+Ink type              : Pigment 4Color
+Ink remain(1-4)       :   0/  0/  0/  0
+Ink remain(5-8)       :   0/  0/  0/  0
+Head height           : High
+Head Temperature      : 26C /  78.8F
+Heater temp.(PRINT)   : 29C /  84F
+Heater temp.(DRYER)   : 25C /  76F
+Sheet type            : Opaque
+Empty mode            : Stop
+Calibration           : -0.20 %
+Full width scanning   : OFF
+Scan interval         :  0.0 sec
+Length unit           : mm
+Temperature unit      : C
+Menu language         : English
+Sleep interval        :  30 min
+Sheet remain          : 0.0m
+Periodic cleaning     :  NONE  
+Vacuum power          : Auto
+Heater setting(PRINT) : 30C /  86F
+Heater setting(DRYER) : 30C /  86F
+Feed for dry          : Disable
+Preheating            : OFF
+Drying Time           :   0 min
+Set remain at loading : Disable
+Bi-dir. simple        :   0  
+Bi-dir. adjust No.1   :  +1  
+No.2                  :   0  
+No.3                  :  +2  
+               No.4   :  -1  
+No.5                  :   0  
+No.6                  :   0  
+Media Release         : Disable
+Sheet Width           : 1625.0 mm
+Side Margin           : 5mm
+Sheet Pos(R)          :    0.0 mm
+Sheet Pos(L)          : 1625.6 mm
+Preset name           : NAME1
+Calibration           :  0.00 %
+Heater setting(PRINT) : OFF
+Heater setting(DRYER) : OFF
+Feed for dry          : Disable
+Bi-dir. simple        :   0  
+Scan interval   :  0.0 sec
+Sheet type      : Opaque
+Full width S    : OFF
+Preheating      : Off
+Vacuum power    : Auto
+Media Release : Disable
+Side Margin   : 10mm
+Drying Time   :   0 min
+Sheet Width   :    1625.0 mm
+Sheet Pos(R)  :       0.0 mm
+Sheet Pos(L)  :    1625.6 mm
+Bi-dir. Adjust No.1   :   0   
+No.2            :   0   
+No.3          :   0   
+No.4          :   0   
+               No.5   :   0   
+No.6            :   0   
+Preset name           : NAME2
+Calibration           :  0.00 %
+Heater setting(PRINT) : OFF
+Heater setting(DRYER) : OFF
+Feed for dry          : Disable
+Bi-dir. simple        :   0  
+Scan interval   :  0.0 sec
+Sheet type      : Opaque
+Full width S    : OFF
+Preheating      : Off
+Vacuum power    : Auto
+Media Release : Disable
+Side Margin   : 10mm
+Drying Time   :   0 min
+Sheet Width   :    1625.0 mm
+Sheet Pos(R)  :       0.0 mm
+Sheet Pos(L)  :    1625.6 mm
+Bi-dir. Adjust No.1   :   0   
+No.2            :   0   
+No.3          :   0   
+No.4          :   0   
+               No.5   :   0   
+No.6            :   0   
+Preset name           : NAME3
+Calibration           :  0.00 %
+Heater setting(PRINT) : OFF
+Heater setting(DRYER) : OFF
+Feed for dry          : Disable
+Bi-dir. simple        :   0  
+Scan interval   :  0.0 sec
+Sheet type      : Opaque
+Full width S    : OFF
+Preheating      : Off
+Vacuum power    : Auto
+Media Release : Disable
+Side Margin   : 10mm
+Drying Time   :   0 min
+Sheet Width   :    1625.0 mm
+Sheet Pos(R)  :       0.0 mm
+Sheet Pos(L)  :    1625.6 mm
+Bi-dir. Adjust No.1   :   0   
+No.2            :   0   
+No.3          :   0   
+No.4          :   0   
+               No.5   :   0   
+No.6            :   0   
+Preset name           : NAME4
+Calibration           :  0.00 %
+Heater setting(PRINT) : OFF
+Heater setting(DRYER) : OFF
+Feed for dry          : Disable
+Bi-dir. simple        :   0  
+Scan interval   :  0.0 sec
+Sheet type      : Opaque
+Full width S    : OFF
+Preheating      : Off
+Vacuum power    : Auto
+Media Release : Disable
+Side Margin   : 10mm
+Drying Time   :   0 min
+Sheet Width   :    1625.0 mm
+Sheet Pos(R)  :       0.0 mm
+Sheet Pos(L)  :    1625.6 mm
+Bi-dir. Adjust No.1   :   0   
+No.2            :   0   
+No.3          :   0   
+No.4          :   0   
+               No.5   :   0   
+No.6            :   0   
+Preset name           : NAME5
+Calibration           :  0.00 %
+Heater setting(PRINT) : OFF
+Heater setting(DRYER) : OFF
+Feed for dry          : Disable
+Bi-dir. simple        :   0  
+Scan interval   :  0.0 sec
+Sheet type      : Opaque
+Full width S    : OFF
+Preheating      : Off
+Vacuum power    : Auto
+Media Release : Disable
+Side Margin   : 10mm
+Drying Time   :   0 min
+Sheet Width   :    1625.0 mm
+Sheet Pos(R)  :       0.0 mm
+Sheet Pos(L)  :    1625.6 mm
+Bi-dir. Adjust No.1   :   0   
+No.2            :   0   
+No.3          :   0   
+No.4          :   0   
+               No.5   :   0   
+No.6            :   0   
+Preset name           : NAME6
+Calibration           :  0.00 %
+Heater setting(PRINT) : OFF
+Heater setting(DRYER) : OFF
+Feed for dry          : Disable
+Bi-dir. simple        :   0  
+Scan interval   :  0.0 sec
+Sheet type      : Opaque
+Full width S    : OFF
+Preheating      : Off
+Vacuum power    : Auto
+Media Release : Disable
+Side Margin   : 10mm
+Drying Time   :   0 min
+Sheet Width   :    1625.0 mm
+Sheet Pos(R)  :       0.0 mm
+Sheet Pos(L)  :    1625.6 mm
+Bi-dir. Adjust No.1   :   0   
+No.2            :   0   
+No.3          :   0   
+No.4          :   0   
+               No.5   :   0   
+No.6            :   0   
+Preset name           : NAME7
+Calibration           :  0.00 %
+Heater setting(PRINT) : OFF
+Heater setting(DRYER) : OFF
+Feed for dry          : Disable
+Bi-dir. simple        :   0  
+Scan interval   :  0.0 sec
+Sheet type      : Opaque
+Full width S    : OFF
+Preheating      : Off
+Vacuum power    : Auto
+Media Release : Disable
+Side Margin   : 10mm
+Drying Time   :   0 min
+Sheet Width   :    1625.0 mm
+Sheet Pos(R)  :       0.0 mm
+Sheet Pos(L)  :    1625.6 mm
+Bi-dir. Adjust No.1   :   0   
+No.2            :   0   
+No.3          :   0   
+No.4          :   0   
+               No.5   :   0   
+No.6            :   0   
+Preset name           : NAME8
+Calibration           :  0.00 %
+Heater setting(PRINT) : OFF
+Heater setting(DRYER) : OFF
+Feed for dry          : Disable
+Bi-dir. simple        :   0  
+Scan interval   :  0.0 sec
+Sheet type      : Opaque
+Full width S    : OFF
+Preheating      : Off
+Vacuum power    : Auto
+Media Release : Disable
+Side Margin   : 10mm
+Drying Time   :   0 min
+Sheet Width   :    1625.0 mm
+Sheet Pos(R)  :       0.0 mm
+Sheet Pos(L)  :    1625.6 mm
+Bi-dir. Adjust No.1   :   0   
+No.2            :   0   
+No.3          :   0   
+No.4          :   0   
+               No.5   :   0   
+No.6            :   0   
+Head rank             : 18D8C7779888983849191T0W
+Head bi
+ Pigment Factory:
+  No.1  : +16.5 
+  No.2  :  +5.5 
+  No.3  : +24.5 
+  No.4  : +11.5 
+ Pigment:
+  No.1  : +17   
+  No.2  : +18   
+  No.3  :  +6   
+  No.4  :  +5   
+  No.5  : +26   
+  No.6  : +29   
+  No.7  : +12   
+  No.8  :  +9.5 
+ Max    :
+  No.1  : +17.5 
+  No.2  : +14   
+  No.3  : +12   
+  No.4  : +15.5 
+  No.5  : +12.5 
+  No.6  :  +7   
+  No.7  : +10   
+  No.8  :  +4   
+  No.9  :  +6   
+  No.10 :  +4.5 
+  No.11 : +25   
+  No.12 : +19.5 
+  No.13 : +19.5 
+  No.14 : +23.5 
+  No.15 : +19.5 
+  No.16 : +11.5 
+  No.17 : +15   
+  No.18 :  +8   
+  No.19 : +10   
+  No.20 :  +8   
+Dip SW                : 0110
+System SW page( 1- 4) : 00000000 00000000 00000000 01000000 
+System SW page( 5- 8) : 00000000 00000000 00000000 00000000 
+System SW page( 9-12) : 00000000 00000000 00000000 00000000 
+System SW page(13-16) : 00000000 00000000 00000000 00000000 
+Ink Mode              : Pigment
+Limit position        :      22.1 mm
+Cutter down position  :    2016.5 mm
+Calibration default   :     -0.27 %
+Encoder position(L)   :    1804.7 mm
+Encoder position(R)   :     179.1 mm
+Maintenance request   : NONE
+Booter version        : 1.20
+Battery               :   Charged
+Periodic CL. degree   : LIGHT
+Set sheet position    : 0 - 1625
+Drain liquid volume   : 27100.3 cc
+Standard head         : 1
+Flushing pos adjust   : -0.30 mm
+Heater adjust(PRINT)  :   0C
+Heater adjust(DRYER)  :   0C
+Preheat temperature   : 30C
+Heating timeout       : 20 min
+Model                  : RE-640
+Version                : 1.70
+Serial No.             : KBE0893
+Date                   : 2014/06/18 16:07
+==== Motor group ====
+Motor feed   (trip/total [clear]):         56/         56 hours [0]
+Motor scan   (trip/total [clear]):      1,003/      1,003 hours [0]
+Pump Times   (trip/total [clear]):    221,498/    221,498 times [0]
+==== Head group ====
+Shot Cnt.  1 (trip/total [clear]):  4,890,878/ 14,719,562 K shots/nozzle [1]
+Shot Cnt.  2 (trip/total [clear]):  4,134,145/  8,935,400 K shots/nozzle [1]
+Shot Cnt.  3 (trip/total [clear]):  5,123,757/  9,416,022 K shots/nozzle [1]
+Shot Cnt.  4 (trip/total [clear]):  5,348,324/ 10,523,701 K shots/nozzle [1]
+Shot Cnt.  5 (trip/total [clear]):  5,335,505/ 10,503,275 K shots/nozzle [1]
+Shot Cnt.  6 (trip/total [clear]):  5,144,188/  9,448,654 K shots/nozzle [1]
+Shot Cnt.  7 (trip/total [clear]):  4,127,150/  8,925,959 K shots/nozzle [1]
+Shot Cnt.  8 (trip/total [clear]):  4,901,387/ 14,735,070 K shots/nozzle [1]
+                       :     H1
+Wiping count for head  :  1,580 times
+Headrank set count     :      1 times
+Auto cleaning count    :    325 times
+Normal cleaning count  :     61 times
+Medium cleaning count  :     94 times
+Powerful cleaning count:    171 times
+Super cleaning count   :    103 times
+==== Maintenance group ====
+Maintenance Count      :      2 times
+Total time             :  1,015 hours
+Printing time          :    218 hours
+==== Wiper group ====
+Wiping count           :    520 times
+Wiper replace count    :      1 times
+Felt Wiping count      :    518 times
+Felt Wipe replace count:      1 times
+==== Print group ====
+Printing time          :       1,269 hours
+Print pages            :       1,126 pages
+==== Ink group ====
+Cartridge change(1-4)  :      0      0      0      0 times
+Cartridge change(5-8)  :      0      0      0      0 times
+Change ink type        :           0 times
+==== Error group ====
+Service call count     :      0 times
+Service call history   : **** **** **** **** ****
+Motor error  (feed)    :    359 times
+Motor error  (scan)    :      0 times
+Low temperature error  :      0 times
+High temperature error :      0 times
+Emergency capping      :      1 times
+Start uncapped         :      0 times
+==== System group ====
+Power on count         :     80 times
+Power on time          :  1,427 hours
+Sleep time             :  2,576 hours
+Sheet cut count        :      9 times
+Peck used count        :      0 times
+Net fault count(pon)   :      0 times
+Net fault count(cfg)   :      0 times
+==== Heater group ====        PRINT      DRYER
+Heater used time       :        325        325 hours
+
+Model                  : RE-640
+Version                : 1.70
+Serial No.             : KBE0893
+No:          SERIAL/  INK TYPE/  CAP./LOT No/   CONSUM./           TIME/INS./    FLAG
+ 1:14359ad205000030/     PIG Y/ 200cc/10806A/17986.172cc/0y235d12h07m40s/  19/00000000
+ 2:143ce7d1050000af/     PIG Y/ 200cc/10806A/17998.950cc/0y235d12h07m39s/  35/00000000
+ 3:14f872d205000001/     PIG C/ 200cc/10910A/19969.512cc/0y234d19h06m22s/  20/00000000
+ 4:142616d305000057/     PIG C/ 200cc/10910A/19915.255cc/0y234d19h06m23s/  20/00000000
+ 5:14eca6d2050000c7/     PIG K/ 200cc/10616A/20803.464cc/0y234d17h34m23s/  25/00000000
+ 6:14badbd2050000da/     PIG K/ 200cc/10616A/20773.386cc/0y234d17h34m22s/  25/00000000
+ 7:145d70d3050000ba/     PIG M/ 200cc/10810A/28503.208cc/0y235d06h24m26s/  12/00000001
+ 8:14e8a0d205000087/     PIG M/ 200cc/10810A/28478.927cc/0y235d06h24m26s/  12/00000001
+Model                  : RE-640
+Version                : 1.70
+Serial No.             : KBE0893
+Date                   : 2014/06/18 16:07
+Last event             : 12191
++--------+-----+----------------+------------------------------------+
+ Date     Time  Event            Information
++--------+-----+----------------+------------------------------------+
+ 14/06/18 15:48 Print done       
+ 14/06/18 15:47 Print start      
+ 14/06/18 15:47 Job start        27 C Testpattern
+ 14/06/18 15:47 Print done       
+ 14/06/18 15:45 Print start      
+ 14/06/18 15:45 Job start        27 C Testpattern
+ 14/06/18 15:43 Sub power on     Service mode
+ 14/06/18 15:43 Main power on    Normal
+ 14/06/18 15:43 Temperature      27 C
+ 14/06/18 15:16 Temperature      28 C
+ 14/06/18 15:16 Sub power off    
+ 14/06/18 15:16 Cancel done      
+ 14/06/18 15:14 Cancel start     User cancel
+ 14/06/18 15:13 Print start      
+ 14/06/18 15:13 Job start        29 C 
+ 14/06/18 15:13 Print done       
+ 14/06/18 15:05 Temperature      29 C
+ 14/06/18 14:05 Temperature      29 C
+ 14/06/18 13:05 Temperature      28 C
+ 14/06/18 12:49 Print start      
+ 14/06/18 12:49 Job start        28 C 
+ 14/06/18 12:49 Print done       
+ 14/06/18 12:05 Temperature      29 C
+ 14/06/18 11:05 Temperature      28 C
+ 14/06/18 10:29 Print start      
+ 14/06/18 10:29 Job start        27 C 
+ 14/06/18 10:21 Print done       
+ 14/06/18 10:05 Temperature      28 C
+ 14/06/18 09:05 Temperature      27 C
+ 14/06/18 08:05 Temperature      25 C
+ 14/06/18 08:01 Print start      
+ 14/06/18 08:00 Job start        25 C 
+ 14/06/18 08:00 Print done       
+ 14/06/18 07:56 Print start      
+ 14/06/18 07:56 Job start        25 C 
+ 14/06/18 07:49 Cancel done      
+ 14/06/18 07:49 Cancel start     Pinch lever up
+ 14/06/18 07:36 Sleep out        
+ 14/06/18 07:05 Temperature      25 C
+ 14/06/18 06:05 Temperature      25 C
+ 14/06/18 05:05 Temperature      25 C
+ 14/06/18 04:05 Temperature      25 C
+ 14/06/18 03:05 Temperature      25 C
+ 14/06/18 02:05 Temperature      25 C
+ 14/06/18 01:05 Temperature      25 C
+ 14/06/18 00:05 Temperature      26 C
+ 14/06/17 23:05 Temperature      26 C
+ 14/06/17 22:05 Temperature      26 C
+ 14/06/17 21:05 Temperature      26 C
+ 14/06/17 20:05 Temperature      26 C
+ 14/06/17 19:05 Temperature      27 C
+ 14/06/17 18:05 Temperature      29 C
+ 14/06/17 17:05 Temperature      28 C
+ 14/06/17 17:04 Sleep in         
+ 14/06/17 16:35 Print done       
+ 14/06/17 16:05 Temperature      29 C
+ 14/06/17 15:05 Temperature      29 C
+ 14/06/17 14:22 Print start      
+ 14/06/17 14:22 Job start        29 C 
+ 14/06/17 14:22 Print done       
+ 14/06/17 14:05 Temperature      29 C
+ 14/06/17 13:05 Temperature      29 C
+ 14/06/17 12:08 Print start      
+ 14/06/17 12:08 Job start        28 C 
+ 14/06/17 12:05 Temperature      28 C
+ 14/06/17 12:02 Print done       
+ 14/06/17 11:05 Temperature      29 C
+ 14/06/17 10:48 Print start      
+ 14/06/17 10:48 Job start        28 C 
+ 14/06/17 10:31 Print done       
+ 14/06/17 10:29 Print start      
+ 14/06/17 10:29 Job start        27 C 
+ 14/06/17 10:29 Sleep out        
+ 14/06/17 10:29 Sleep in         
+ 14/06/17 10:05 Temperature      27 C
+ 14/06/17 10:00 Print done       
+ 14/06/17 09:57 Print start      
+ 14/06/17 09:57 Job start        27 C 
+ 14/06/17 09:57 Print done       
+ 14/06/17 09:55 Print start      
+ 14/06/17 09:55 Job start        27 C 
+ 14/06/17 09:34 Print done       
+ 14/06/17 09:31 Print start      
+ 14/06/17 09:31 Job start        28 C 
+ 14/06/17 09:31 Print done       
+ 14/06/17 09:29 Print start      
+ 14/06/17 09:29 Job start        28 C 
+ 14/06/17 09:29 Print done       
+ 14/06/17 09:26 Print start      
+ 14/06/17 09:26 Job start        28 C 
+ 14/06/17 09:26 Print done       
+ 14/06/17 09:05 Temperature      28 C
+ 14/06/17 08:05 Temperature      27 C
+ 14/06/17 07:35 Print start      
+ 14/06/17 07:35 Job start        24 C 
+ 14/06/17 07:35 Sleep out        
+ 14/06/17 07:05 Temperature      25 C
+ 14/06/17 06:05 Temperature      25 C
+ 14/06/17 05:05 Temperature      25 C
+ 14/06/17 04:05 Temperature      25 C
+ 14/06/17 03:05 Temperature      25 C
+ 14/06/17 02:05 Temperature      26 C
+ 14/06/17 01:05 Temperature      26 C
+ 14/06/17 00:05 Temperature      26 C
+ 14/06/16 23:05 Temperature      26 C
+ 14/06/16 22:05 Temperature      27 C
+ 14/06/16 21:05 Temperature      28 C
+ 14/06/16 20:05 Temperature      29 C
+ 14/06/16 19:28 Sleep in         
+ 14/06/16 19:05 Temperature      28 C
+ 14/06/16 18:59 Print done       
+ 14/06/16 18:05 Temperature      29 C
+ 14/06/16 17:13 Print start      
+ 14/06/16 17:13 Job start        29 C 
+ 14/06/16 17:13 Sleep out        
+ 14/06/16 17:05 Temperature      29 C
+ 14/06/16 16:35 Sleep in         
+ 14/06/16 16:05 Sub power on     Normal
+ 14/06/16 16:05 Main power on    Normal
+ 14/06/16 16:05 Temperature      29 C
+ 14/06/16 16:05 Cancel done      
+ 14/06/16 16:05 Cancel start     Pinch lever up
+ 14/06/16 16:05 Sleep out        
+ 14/06/16 16:01 Sleep in         
+ 14/06/16 15:51 Temperature      29 C
+ 14/06/16 15:32 Print done       
+ 14/06/16 15:30 Print start      
+ 14/06/16 15:30 Job start        29 C 
+ 14/06/16 15:30 Sleep out        
+ 14/06/16 15:28 Sleep in         
+ 14/06/16 14:59 Print done       
+ 14/06/16 14:51 Temperature      29 C
+ 14/06/16 14:49 Print start      
+ 14/06/16 14:49 Job start        29 C 
+ 14/06/16 14:35 Cancel done      
+ 14/06/16 14:35 Cancel start     Pinch lever up
+ 14/06/16 14:23 Print done       
+ 14/06/16 13:51 Temperature      30 C
+ 14/06/16 13:30 Print start      
+ 14/06/16 13:30 Job start        29 C 
+ 14/06/16 13:30 Print done       
+ 14/06/16 13:29 Print start      
+ 14/06/16 13:29 Job start        29 C 
+ 14/06/16 13:29 Print done       
+ 14/06/16 13:07 Cleaning         Powerful cleaning
+ 14/06/16 12:51 Temperature      29 C
+ 14/06/16 11:51 Temperature      29 C
+ 14/06/16 11:32 Print start      
+ 14/06/16 11:32 Job start        29 C 
+ 14/06/16 11:30 Print done       
+ 14/06/16 10:51 Temperature      29 C
+ 14/06/16 09:51 Temperature      29 C
+ 14/06/16 09:42 Print start      
+ 14/06/16 09:42 Job start        28 C 
+ 14/06/16 09:42 Print done       
+ 14/06/16 08:51 Temperature      27 C
+ 14/06/16 08:45 Print start      
+ 14/06/16 08:45 Job start        28 C 
+ 14/06/16 08:45 Print done       
+ 14/06/16 07:51 Temperature      24 C
+ 14/06/16 07:48 Print start      
+ 14/06/16 07:48 Job start        24 C 
+ 14/06/16 07:48 Sleep out        
+ 14/06/16 06:51 Temperature      24 C
+ 14/06/16 05:51 Temperature      24 C
+ 14/06/16 04:51 Temperature      24 C
+ 14/06/16 03:51 Temperature      24 C
+ 14/06/16 02:51 Temperature      24 C
+ 14/06/16 01:51 Temperature      25 C
+ 14/06/16 00:51 Temperature      25 C
+ 14/06/15 23:51 Temperature      25 C
+ 14/06/15 22:51 Temperature      25 C
+ 14/06/15 21:51 Temperature      25 C
+ 14/06/15 20:51 Temperature      25 C
+ 14/06/15 19:51 Temperature      25 C
+ 14/06/15 18:51 Temperature      25 C
+ 14/06/15 17:51 Temperature      25 C
+ 14/06/15 16:51 Temperature      25 C
+ 14/06/15 15:51 Temperature      25 C
+ 14/06/15 14:51 Temperature      25 C
+ 14/06/15 13:51 Temperature      25 C
+ 14/06/15 12:51 Temperature      25 C
+ 14/06/15 11:51 Temperature      25 C
+ 14/06/15 10:51 Temperature      25 C
+ 14/06/15 09:51 Temperature      25 C
+ 14/06/15 08:51 Temperature      25 C
+ 14/06/15 07:51 Temperature      25 C
+ 14/06/15 06:51 Temperature      25 C
+ 14/06/15 05:51 Temperature      25 C
+ 14/06/15 04:51 Temperature      25 C
+ 14/06/15 03:51 Temperature      25 C
+ 14/06/15 02:51 Temperature      25 C
+ 14/06/15 01:51 Temperature      26 C
+ 14/06/15 00:51 Temperature      26 C
+ 14/06/14 23:51 Temperature      26 C
+ 14/06/14 22:51 Temperature      26 C
+ 14/06/14 21:51 Temperature      26 C
+ 14/06/14 20:51 Temperature      26 C
+ 14/06/14 19:51 Temperature      26 C
+ 14/06/14 18:51 Temperature      26 C
+ 14/06/14 17:51 Temperature      26 C
+ 14/06/14 16:51 Temperature      26 C
+ 14/06/14 15:51 Temperature      26 C
+ 14/06/14 14:51 Temperature      25 C
+ 14/06/14 13:51 Temperature      25 C
+ 14/06/14 12:51 Temperature      25 C
+ 14/06/14 11:51 Temperature      25 C
+ 14/06/14 10:51 Temperature      25 C
+ 14/06/14 09:51 Temperature      25 C
+ 14/06/14 08:51 Temperature      25 C
+ 14/06/14 07:51 Temperature      25 C
+ 14/06/14 06:51 Temperature      25 C
+ 14/06/14 05:51 Temperature      25 C
+ 14/06/14 04:51 Temperature      25 C
+ 14/06/14 03:51 Temperature      25 C
+ 14/06/14 02:51 Temperature      26 C
+ 14/06/14 01:51 Temperature      26 C
+ 14/06/14 00:51 Temperature      26 C
+ 14/06/13 23:51 Temperature      26 C
+ 14/06/13 22:51 Temperature      26 C
+ 14/06/13 21:51 Temperature      26 C
+ 14/06/13 20:51 Temperature      27 C
+ 14/06/13 19:51 Temperature      28 C
+ 14/06/13 18:50 Temperature      29 C
+ 14/06/13 17:50 Temperature      29 C
+ 14/06/13 17:17 Sleep in         
+ 14/06/13 16:50 Temperature      30 C
+ 14/06/13 16:48 Print done       
+ 14/06/13 15:50 Temperature      30 C
+ 14/06/13 15:39 Print start      
+ 14/06/13 15:39 Job start        30 C 
+ 14/06/13 15:39 Print done       
+ 14/06/13 14:50 Temperature      29 C
+ 14/06/13 14:44 Cleaning         Powerful cleaning
+ 14/06/13 14:42 Print start      
+ 14/06/13 14:42 Job start        29 C 
+ 14/06/13 14:42 Print done       
+ 14/06/13 13:50 Temperature      29 C
+ 14/06/13 13:41 Print start      
+ 14/06/13 13:41 Job start        28 C 
+ 14/06/13 13:03 Print done       
+ 14/06/13 13:01 Print start      
+ 14/06/13 13:01 Job start        29 C 
+ 14/06/13 13:01 Sleep out        
+ 14/06/13 12:50 Temperature      29 C
+ 14/06/13 12:31 Sleep in         
+ 14/06/13 11:50 Temperature      28 C
+ 14/06/13 11:50 Cancel done      
+ 14/06/13 11:50 Cancel start     Media end
+ 14/06/13 11:41 Print start      
+ 14/06/13 11:41 Job start        28 C 
+ 14/06/13 11:35 Print done       
+ 14/06/13 10:50 Temperature      28 C
+ 14/06/13 09:50 Temperature      27 C
+ 14/06/13 09:48 Print start      
+ 14/06/13 09:48 Job start        27 C 
+ 14/06/13 09:48 Print done       
+ 14/06/13 08:50 Temperature      27 C
+ 14/06/13 07:50 Temperature      25 C
+ 14/06/13 07:45 Print start      
+ 14/06/13 07:45 Job start        24 C 
+ 14/06/13 07:41 Print done       
+ 14/06/13 07:40 Print start      
+ 14/06/13 07:40 Job start        24 C Testpattern
+ 14/06/13 07:36 Sleep out        
+ 14/06/13 06:50 Temperature      24 C
+ 14/06/13 05:50 Temperature      24 C
+ 14/06/13 04:50 Temperature      24 C
+ 14/06/13 03:50 Temperature      24 C
+ 14/06/13 02:50 Temperature      25 C
+ 14/06/13 01:50 Temperature      25 C
+ 14/06/13 00:50 Temperature      25 C
+ 14/06/12 23:50 Temperature      25 C
+ 14/06/12 22:50 Temperature      25 C
+ 14/06/12 21:50 Temperature      25 C
+ 14/06/12 20:50 Temperature      25 C
+ 14/06/12 19:50 Temperature      25 C
+ 14/06/12 18:50 Temperature      25 C
+ 14/06/12 17:50 Temperature      25 C
+ 14/06/12 16:50 Temperature      25 C
+ 14/06/12 15:50 Temperature      25 C
+ 14/06/12 14:50 Temperature      24 C
+ 14/06/12 13:50 Temperature      24 C
+ 14/06/12 12:50 Temperature      24 C
+ 14/06/12 11:50 Temperature      23 C
+ 14/06/12 10:50 Temperature      23 C
+ 14/06/12 09:50 Temperature      23 C
+ 14/06/12 08:50 Temperature      23 C
+ 14/06/12 07:50 Temperature      23 C
+ 14/06/12 06:50 Temperature      23 C
+ 14/06/12 05:50 Temperature      24 C
+ 14/06/12 04:50 Temperature      24 C
+ 14/06/12 03:50 Temperature      24 C
+ 14/06/12 02:50 Temperature      24 C
+ 14/06/12 01:50 Temperature      24 C
+ 14/06/12 00:50 Temperature      24 C
+ 14/06/11 23:50 Temperature      25 C
+ 14/06/11 22:50 Temperature      25 C
+ 14/06/11 21:50 Temperature      25 C
+ 14/06/11 20:50 Temperature      25 C
+ 14/06/11 19:50 Temperature      26 C
+ 14/06/11 18:50 Temperature      27 C
+ 14/06/11 17:50 Temperature      27 C
+ 14/06/11 17:48 Sleep in         
+
+@DONE@

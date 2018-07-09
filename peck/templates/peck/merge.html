@@ -1,0 +1,17 @@
+{% extends 'peck/base.html' %}
+
+{% block corpo %}
+<div id="frame_top">
+        
+{% if detalhe_peck %}
+        <ul>
+        {% for d in detalhe_peck %}
+            <li>{{ d }}</li>
+        {% endfor %}
+        </ul>
+    {% else %}
+        <p>Falha nos dados.</p>
+    {% endif %}
+
+</div>
+{% endblock %}

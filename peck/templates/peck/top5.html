@@ -1,0 +1,35 @@
+{% extends 'peck/index.html' %}
+
+{% block top5 %}
+<div id="frame_top">
+    <table>
+            <tr>
+                    <th>Cliente</th>
+                    <th>Id</th>
+                    <th>Serial</th>
+                    <th>Tinta</th>
+                    <th>Qte Pecks</th>
+            </tr>
+        {% for maq in listao.cli %}
+            <tr>
+                    <td>{{ maq.client }}</td>
+                    <td>{{ maq.machine_id }}</td>
+                    <!-- <td><a href="../../../peck/report/{{ maq.serial }}/"/>{{ maq.serial }}</a></td> -->
+                    <td><a href="{ url 'report' maq.serial %}/"/>{{ maq.serial }}</a></td>
+                    <td>{{ maq.typtinta }}</td>
+                    {% for key, value in listao.pec.items %}
+                        {% if key == maq.serial %}
+                        <td>{{ value }}</td>
+                        {% endif %}
+                    {% endfor %}
+            </tr>
+        {% empty %}
+            <tr>
+                    <td> Base de dados VAZIA!!</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+            </tr>
+        {% endfor %}
+    </table>
+{% endblock %}

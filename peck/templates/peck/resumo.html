@@ -1,0 +1,45 @@
+{% extends 'peck/base.html' %}
+
+{% block corpo %}
+    <div id="top">
+        <h2>Dados de Identificação:</h2>
+        <p>Cliente: {{ res.nome }}</p>
+        <p>No Serie: {{ res.serial }}</p>
+        <p>Modelo: {{ res.modelo }}</p>
+        <p>Tipo de Tinta: {{ res.ink }}</p>
+        {% if res.install %}
+            <p>Data da Instalação: {{ res.install }}</p>
+            <p>Tempo de Operação: {{ res.optime }}</p>
+        {% endif %}
+    </div>
+    <div id="esq">
+        <h2>Historico do Firmware:</h2>
+        <table>
+                <tr>
+                        <th>Data</th>
+                        <th>Version</th>
+                </tr>
+            {% for rep in lista_pecks %}
+                <tr>
+                        <td><a href="{% url 'detailspeck' repo.pk %}">{{ repo.data|date:'d-m-Y' }}</a></td>
+                        <td>{{ repo.firm }}</td>
+                </tr>
+            {% endfor %}
+        </table>
+    </div>
+    <div id="dir">
+        <h2>Historico da Carga da Bateria:</h2>
+        <table>
+                <tr>
+                        <th>Data</th>
+                        <th>Version</th>
+                </tr>
+            {% for rep in lista_pecks %}
+                <tr>
+                        <td><a href="{% url 'detailspeck' rep.pk %}/">{{ rep.data|date:'d-m-Y' }}</a></td>
+                        <td>{{ rep.bat }}</td>
+                </tr>
+            {% endfor %}
+        </table>
+    </div>
+{% endblock %}

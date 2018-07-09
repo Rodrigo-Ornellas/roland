@@ -1,0 +1,43 @@
+{% extends 'peck/base.html' %}
+
+{% block corpo %}
+<div id="home">
+    <div class="meio">
+            <h2>PECK file upload</h2>
+
+            <form method="POST" action="{% url 'peck:uploadfile' %}" enctype="multipart/form-data">
+                {% csrf_token %}
+                {{ form.as_p }}
+                <input type="file" name="file" id="file" />
+                <input type="submit" value="Upload" class="btn"/>
+            </form>
+    </div>
+
+    <div class="meio">
+        {% if not busca %}
+                <h2>Search for CLIENTs or SERIAL Number</h2>
+                <form method="get" action="{% url 'peck:search' %}">
+                    Client(s): <input type="text" name="q" >
+                    <input type="submit" value="buscar" >
+                </form>
+        {% else %}
+                <h2>List of CLIENTs or SERIAL Numbers:</h2>
+                <table>
+                        <tr>
+                                <th>Client</th>
+                                <th>Serial</th>
+                                <th>Id</th>
+                        </tr>
+                    {% for maq in busca %}
+                        <tr>
+                                <td>{{ maq.client }}</td>
+                                <!-- <td><a href="../../../peck/report/{{ maq.serial }}/"/>{{ maq.serial }}</a></td> -->
+                                <td><a href="{% url 'peck:report' maq.serial %}"/>{{ maq.serial }}</a></td>
+                                <td>{{ maq.machine_id }}</td>
+                        </tr>
+                    {% endfor %}
+                </table>
+        {% endif %}
+    </div>
+</div>
+{% endblock %}

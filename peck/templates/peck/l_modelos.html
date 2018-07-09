@@ -1,0 +1,35 @@
+{% extends 'peck/base.html' %}
+
+{% block corpo %}
+<div id="frame_top">
+    <h2>Lista de Modelos</h2>
+    <table>
+            <tr>
+                    <th>Modelo</th>
+                    <th>Qte Cabeças</th>
+                    <th>Vida Motor Scan</th>
+                    <th>Vida Bomba</th>
+                    <th>Vida Felt</th>
+                    <th>Vida Tubulação</th>
+                    <th>Vida Wiper</th>
+                    <th>Vida Lampada UV</th>
+            </tr>
+        {% for repo in lista_modelos %}
+            <tr>
+                    <td>{{ repo.modelo }}</td>
+                    <td>{{ repo.qtecab }}</td>
+                    <td>{{ repo.scan }}</td>
+                    <td>{{ repo.pump }}</td>
+                    <td>{{ repo.felt }}</td>
+                    <td>{{ repo.tube }}</td>
+                    <td>{{ repo.wipe }}</td>
+                    <td>{{ repo.uvlamp }}</td>
+            </tr>
+        {% empty %}
+            <tr>
+                    <td> Base de dados VAZIA!!</td>
+            </tr>
+        {% endfor %}
+    </table>
+</div>
+{% endblock %}

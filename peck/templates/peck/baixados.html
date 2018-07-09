@@ -1,0 +1,34 @@
+{% extends 'peck/base.html' %}
+
+{% block corpo %}
+<div id="frame_top">
+    <h2>Lista de Arquivos do GMAIL</h2> 
+    
+    <p>{% now "SHORT_DATETIME_FORMAT" %}</p>
+    {% if pecks %}
+        <br>
+        <h3>Arquivos Baixados com Sucesso</h3>
+        <table>
+        {% for f in pecks.down %}
+            <tr>
+                <td>{{ f }}</td>
+                <!-- <td><a id="menuP" href="../../../peck/uploaded/{{ f }}"> Inputar </a></td> -->
+                <td><a id="menuP" href="{% url 'vertxt' f %}"> Inputar </a></td>
+            </tr>
+        {% endfor %}
+        </table>
+        <p>-----------------------------------------------</p>
+        <br>
+        <h3>Arquivos NAO Baixados</h3>
+        {% for b in pecks.bad %}
+        <ul>
+            <li>{{ b }}</li>
+        </ul>
+        {% endfor %}
+
+    {% else %}
+        <p>-----------------------------------------------</p>
+        <p>Sem arquivos > {% now "SHORT_DATETIME_FORMAT" %}</p>
+    {% endif %}
+</div>
+{% endblock %}

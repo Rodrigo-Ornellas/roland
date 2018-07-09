@@ -1,0 +1,722 @@
+Model                 : RE-640
+Version               : 1.90
+Serial No.            : KAZ0311
+Date                  : 2015/02/02 16:22
+IP Address            : 192.168.001.002
+Subnet Mask           : 255.255.255.000
+Gateway Address       : 000.000.000.000
+MAC Address           : 00:40:AB:7F:01:6E
+Ink type              : Pigment 4Color
+Ink remain(1-4)       :   0/  0/  0/  0
+Ink remain(5-8)       :   0/  0/  0/  0
+Head height           : High
+Head Temperature      : 26C /  78.8F
+Heater temp.(PRINT)   : 43C / 108F
+Heater temp.(DRYER)   : 45C / 112F
+Sheet type            : Opaque
+Empty mode            : Stop
+Calibration           : -0.80 %
+Full width scanning   : OFF
+Scan interval         :  0.0 sec
+Length unit           : mm
+Temperature unit      : C
+Menu language         : English
+Sleep interval        :  30 min
+Sheet remain          : 0.0m
+Periodic cleaning     :  30min 
+Vacuum power          : 90 %
+Heater setting(PRINT) : 43C / 108F
+Heater setting(DRYER) : 45C / 112F
+Feed for dry          : Disable
+Preheating            : PREHEAT
+Drying Time           :   0 min
+Set remain at loading : Disable
+Bi-dir. simple        :   0  
+Bi-dir. adjust No.1   :  -0.5
+No.2                  :  +1  
+No.3                  :  +4.5
+               No.4   :  +1  
+No.5                  :  +1  
+No.6                  :  +2.5
+Media Release         : Disable
+Sheet Width           : 1625.0 mm
+Side Margin           : 5mm
+Sheet Pos(R)          :    0.0 mm
+Sheet Pos(L)          : 1625.6 mm
+Preset name           : PAPEL          
+Calibration           : -0.20 %
+Heater setting(PRINT) : OFF
+Heater setting(DRYER) : OFF
+Feed for dry          : Disable
+Bi-dir. simple        :   0  
+Scan interval   :  0.0 sec
+Sheet type      : Opaque
+Full width S    : OFF
+Preheating      : Off
+Vacuum power    : Auto
+Media Release : Disable
+Side Margin   : 5mm
+Drying Time   :   0 min
+Sheet Width   :    1625.0 mm
+Sheet Pos(R)  :       0.0 mm
+Sheet Pos(L)  :    1625.6 mm
+Bi-dir. Adjust No.1   :   0   
+No.2            :   0   
+No.3          :   0   
+No.4          :   0   
+               No.5   :   0   
+No.6            :   0   
+Preset name           : NAME2
+Calibration           :  0.00 %
+Heater setting(PRINT) : OFF
+Heater setting(DRYER) : OFF
+Feed for dry          : Disable
+Bi-dir. simple        :   0  
+Scan interval   :  0.0 sec
+Sheet type      : Opaque
+Full width S    : OFF
+Preheating      : Off
+Vacuum power    : Auto
+Media Release : Disable
+Side Margin   : 10mm
+Drying Time   :   0 min
+Sheet Width   :    1625.0 mm
+Sheet Pos(R)  :       0.0 mm
+Sheet Pos(L)  :    1625.6 mm
+Bi-dir. Adjust No.1   :   0   
+No.2            :   0   
+No.3          :   0   
+No.4          :   0   
+               No.5   :   0   
+No.6            :   0   
+Preset name           : NAME3
+Calibration           :  0.00 %
+Heater setting(PRINT) : OFF
+Heater setting(DRYER) : OFF
+Feed for dry          : Disable
+Bi-dir. simple        :   0  
+Scan interval   :  0.0 sec
+Sheet type      : Opaque
+Full width S    : OFF
+Preheating      : Off
+Vacuum power    : Auto
+Media Release : Disable
+Side Margin   : 10mm
+Drying Time   :   0 min
+Sheet Width   :    1625.0 mm
+Sheet Pos(R)  :       0.0 mm
+Sheet Pos(L)  :    1625.6 mm
+Bi-dir. Adjust No.1   :   0   
+No.2            :   0   
+No.3          :   0   
+No.4          :   0   
+               No.5   :   0   
+No.6            :   0   
+Preset name           : NAME4
+Calibration           :  0.00 %
+Heater setting(PRINT) : OFF
+Heater setting(DRYER) : OFF
+Feed for dry          : Disable
+Bi-dir. simple        :   0  
+Scan interval   :  0.0 sec
+Sheet type      : Opaque
+Full width S    : OFF
+Preheating      : Off
+Vacuum power    : Auto
+Media Release : Disable
+Side Margin   : 10mm
+Drying Time   :   0 min
+Sheet Width   :    1625.0 mm
+Sheet Pos(R)  :       0.0 mm
+Sheet Pos(L)  :    1625.6 mm
+Bi-dir. Adjust No.1   :   0   
+No.2            :   0   
+No.3          :   0   
+No.4          :   0   
+               No.5   :   0   
+No.6            :   0   
+Preset name           : NAME5
+Calibration           :  0.00 %
+Heater setting(PRINT) : OFF
+Heater setting(DRYER) : OFF
+Feed for dry          : Disable
+Bi-dir. simple        :   0  
+Scan interval   :  0.0 sec
+Sheet type      : Opaque
+Full width S    : OFF
+Preheating      : Off
+Vacuum power    : Auto
+Media Release : Disable
+Side Margin   : 10mm
+Drying Time   :   0 min
+Sheet Width   :    1625.0 mm
+Sheet Pos(R)  :       0.0 mm
+Sheet Pos(L)  :    1625.6 mm
+Bi-dir. Adjust No.1   :   0   
+No.2            :   0   
+No.3          :   0   
+No.4          :   0   
+               No.5   :   0   
+No.6            :   0   
+Preset name           : NAME6
+Calibration           :  0.00 %
+Heater setting(PRINT) : OFF
+Heater setting(DRYER) : OFF
+Feed for dry          : Disable
+Bi-dir. simple        :   0  
+Scan interval   :  0.0 sec
+Sheet type      : Opaque
+Full width S    : OFF
+Preheating      : Off
+Vacuum power    : Auto
+Media Release : Disable
+Side Margin   : 10mm
+Drying Time   :   0 min
+Sheet Width   :    1625.0 mm
+Sheet Pos(R)  :       0.0 mm
+Sheet Pos(L)  :    1625.6 mm
+Bi-dir. Adjust No.1   :   0   
+No.2            :   0   
+No.3          :   0   
+No.4          :   0   
+               No.5   :   0   
+No.6            :   0   
+Preset name           : NAME7
+Calibration           :  0.00 %
+Heater setting(PRINT) : OFF
+Heater setting(DRYER) : OFF
+Feed for dry          : Disable
+Bi-dir. simple        :   0  
+Scan interval   :  0.0 sec
+Sheet type      : Opaque
+Full width S    : OFF
+Preheating      : Off
+Vacuum power    : Auto
+Media Release : Disable
+Side Margin   : 10mm
+Drying Time   :   0 min
+Sheet Width   :    1625.0 mm
+Sheet Pos(R)  :       0.0 mm
+Sheet Pos(L)  :    1625.6 mm
+Bi-dir. Adjust No.1   :   0   
+No.2            :   0   
+No.3          :   0   
+No.4          :   0   
+               No.5   :   0   
+No.6            :   0   
+Preset name           : NAME8
+Calibration           :  0.00 %
+Heater setting(PRINT) : OFF
+Heater setting(DRYER) : OFF
+Feed for dry          : Disable
+Bi-dir. simple        :   0  
+Scan interval   :  0.0 sec
+Sheet type      : Opaque
+Full width S    : OFF
+Preheating      : Off
+Vacuum power    : Auto
+Media Release : Disable
+Side Margin   : 10mm
+Drying Time   :   0 min
+Sheet Width   :    1625.0 mm
+Sheet Pos(R)  :       0.0 mm
+Sheet Pos(L)  :    1625.6 mm
+Bi-dir. Adjust No.1   :   0   
+No.2            :   0   
+No.3          :   0   
+No.4          :   0   
+               No.5   :   0   
+No.6            :   0   
+Head rank             : 192937E7C8D8F87879B9CQ0A
+Head bi
+ Pigment Factory:
+  No.1  : +16   
+  No.2  :  +5.5 
+  No.3  : +26   
+  No.4  : +10.5 
+ Pigment:
+  No.1  : +16.5 
+  No.2  : +19.5 
+  No.3  :  +6   
+  No.4  :  +5   
+  No.5  : +27.5 
+  No.6  : +30.5 
+  No.7  : +11   
+  No.8  :  +9   
+ Max    :
+  No.1  : +18   
+  No.2  : +14.5 
+  No.3  : +12.5 
+  No.4  : +16   
+  No.5  : +13   
+  No.6  :  +7.5 
+  No.7  : +10.5 
+  No.8  :  +4.5 
+  No.9  :  +6.5 
+  No.10 :  +5   
+  No.11 : +26   
+  No.12 : +20.5 
+  No.13 : +20.5 
+  No.14 : +24.5 
+  No.15 : +20.5 
+  No.16 : +12   
+  No.17 : +15.5 
+  No.18 :  +8.5 
+  No.19 : +10.5 
+  No.20 :  +8.5 
+Dip SW                : 0110
+System SW page( 1- 4) : 00000000 00000000 00000000 01000000 
+System SW page( 5- 8) : 00000000 00000000 00000000 00000000 
+System SW page( 9-12) : 00000000 00000000 00000000 00000000 
+System SW page(13-16) : 00000000 00000000 00000000 00000000 
+Ink Mode              : Pigment
+Limit position        :      22.3 mm
+Cutter down position  :    2017.7 mm
+Calibration default   :     +0.60 %
+Encoder position(L)   :    1804.7 mm
+Encoder position(R)   :     179.1 mm
+Maintenance request   : NONE
+Booter version        : 1.20
+Battery               :   Charged
+Periodic CL. degree   : LIGHT
+Pre-Print CL.         : Enable
+CL Flushing           : Default
+Periodic FL.          : Enable
+Set sheet position    : 0 - 1625
+Drain liquid volume   : 19.9 cc
+Standard head         : 1
+Flushing pos adjust   :  0.60 mm
+Heater adjust(PRINT)  :   0C
+Heater adjust(DRYER)  :   0C
+Preheat temperature   : 30C
+Heating timeout       : 20 min
+Model                  : RE-640
+Version                : 1.90
+Serial No.             : KAZ0311
+Date                   : 2015/02/02 16:22
+==== Motor group ====
+Motor feed   (trip/total [clear]):        186/        186 hours [0]
+Motor scan   (trip/total [clear]):      3,314/      3,314 hours [0]
+Pump Times   (trip/total [clear]):    120,303/    882,637 times [2]
+==== Head group ====
+Shot Cnt.  1 (trip/total [clear]):  3,298,512/ 11,622,296 K times/nozzle [8]
+Shot Cnt.  2 (trip/total [clear]):  1,491,952/ 24,994,815 K times/nozzle [8]
+Shot Cnt.  3 (trip/total [clear]):  1,460,616/  7,256,745 K times/nozzle [8]
+Shot Cnt.  4 (trip/total [clear]):  2,168,201/ 25,548,861 K times/nozzle [8]
+Shot Cnt.  5 (trip/total [clear]):  2,167,422/ 25,513,000 K times/nozzle [8]
+Shot Cnt.  6 (trip/total [clear]):  1,463,238/  7,353,948 K times/nozzle [8]
+Shot Cnt.  7 (trip/total [clear]):  1,492,618/ 24,961,801 K times/nozzle [8]
+Shot Cnt.  8 (trip/total [clear]):  3,299,623/ 11,725,714 K times/nozzle [8]
+                       :     H1
+Wiping count for head  :  2,373 times
+Headrank set count     :     12 times
+Auto cleaning count    :  1,330 times
+Normal cleaning count  :     41 times
+Medium cleaning count  :     71 times
+Powerful cleaning count:     53 times
+Super cleaning count   :     47 times
+Ink renewal            :      1 times
+==== Maintenance group ====
+Maintenance Count      :     17 times
+Total time             :    680 hours
+Printing time          :     38 hours
+==== Wiper group ====
+Wiping count           :    941 times
+Wiper replace count    :      0 times
+Felt Wiping count      :  1,692 times
+Felt Wipe replace count:      2 times
+==== Print group ====
+Printing time          :       4,355 hours
+Print pages            :       3,656 pages
+==== Ink group ====
+Cartridge change(1-4)  :      0      0      0      0 times
+Cartridge change(5-8)  :      0      0      0      0 times
+Change ink type        :           0 times
+==== Error group ====
+Service call count     :     13 times
+Service call history   : 0109 0109 0109 0109 0109
+Motor error  (feed)    :     56 times
+Motor error  (scan)    :     23 times
+Low temperature error  :      0 times
+High temperature error :      1 times
+Emergency capping      :      3 times
+Start uncapped         :     41 times
+==== System group ====
+Power on count         :    379 times
+Power on time          :  4,940 hours
+Sleep time             :  7,210 hours
+Sheet cut count        :    165 times
+Peck used count        :      0 times
+Net fault count(pon)   :      0 times
+Net fault count(cfg)   :      0 times
+==== Heater group ====        PRINT      DRYER
+Heater used time       :      1,721      1,785 hours
+
+Model                  : RE-640
+Version                : 1.90
+Serial No.             : KAZ0311
+No:          SERIAL/  INK TYPE/  CAP./LOT No/   CONSUM./           TIME/INS./    FLAG
+ 1:1481563d060000df/     PIG Y/ 200cc/ 1806A/3082.934cc/0y122d12h08m26s/  22/00000000
+ 2:1490953d060000df/     PIG Y/ 200cc/ 1806A/3272.466cc/0y136d09h54m55s/  25/00000000
+ 3:140316d30500000a/     PIG C/ 200cc/ 1910A/3172.115cc/0y121d19h15m58s/  24/00000000
+ 4:1475893d06000040/     PIG C/ 200cc/ 1910A/5165.634cc/0y133d19h38m57s/  31/00000000
+ 5:14f9df3c06000051/     PIG K/ 200cc/ 1616A/4342.814cc/0y121d17h24m44s/  27/00000000
+ 6:145502d3050000f5/     PIG K/ 200cc/ 1616A/4341.718cc/0y121d17h41m23s/  28/00000000
+ 7:14a6733d060000c6/     PIG M/ 200cc/ 1810A/7729.466cc/0y134d08h42m47s/  18/00000001
+ 8:14203ed305000023/     PIG M/ 200cc/ 1810A/10141.408cc/1y063d03h49m40s/  52/00000001
+Model                  : RE-640
+Version                : 1.90
+Serial No.             : KAZ0311
+Date                   : 2015/02/02 16:22
+Last event             : 40575
++--------+-----+----------------+------------------------------------+
+ Date     Time  Event            Information
++--------+-----+----------------+------------------------------------+
+ 15/02/02 16:18 Print done       
+ 15/02/02 16:17 Print start      
+ 15/02/02 16:17 Job start        25 C 
+ 15/02/02 16:15 Print done       
+ 15/02/02 16:14 Print start      
+ 15/02/02 16:14 Job start        25 C Testpattern
+ 15/02/02 15:54 Sub power on     Normal
+ 15/02/02 15:53 Temperature      25 C
+ 15/02/02 15:53 Sub power off    
+ 15/02/02 15:53 Print done       
+ 15/02/02 15:52 Print start      
+ 15/02/02 15:52 Job start        25 C Testpattern
+ 15/02/02 15:51 Print done       
+ 15/02/02 15:49 Print start      
+ 15/02/02 15:49 Job start        25 C Testpattern
+ 15/02/02 15:48 Print done       
+ 15/02/02 15:47 Print start      
+ 15/02/02 15:47 Job start        24 C Testpattern
+ 15/02/02 15:45 Cleaning         Medium cleaning
+ 15/02/02 15:44 Print done       
+ 15/02/02 15:43 Print start      
+ 15/02/02 15:43 Job start        25 C Testpattern
+ 15/02/02 15:42 Cancel done      
+ 15/02/02 15:42 Cancel start     Pinch lever up
+ 15/02/02 15:40 Sub power on     Service mode
+ 15/02/02 15:40 Main power on    Normal
+ 15/02/02 15:40 Temperature      24 C
+ 15/02/02 15:08 Temperature      25 C
+ 15/02/02 15:08 Sub power off    
+ 15/02/02 15:08 System setting   
+ 15/02/02 13:57 Set date         -> 15/02/02 14:57
+ 15/02/02 13:52 Sub power on     Service mode
+ 15/02/02 13:52 Main power on    Normal
+ 15/02/02 13:52 Temperature      26 C
+ 15/02/02 13:51 Sub power off    
+ 15/02/02 13:51 System setting   
+ 15/02/02 13:50 Sub power on     Limit initialize mode
+ 15/02/02 13:50 Temperature      26 C
+ 15/02/02 13:50 Sub power off    
+ 15/02/02 13:50 Sub power on     Service mode
+ 15/02/02 13:50 Main power on    Normal
+ 15/02/02 13:50 Temperature      26 C
+ 15/02/02 13:14 Cleaning         Normal cleaning
+ 15/02/02 13:09 Cleaning         Normal cleaning
+ 15/02/02 12:59 Cancel done      
+ 15/02/02 12:59 Cancel start     Pinch lever up
+ 15/02/02 12:56 Print done       
+ 15/02/02 12:54 Print start      
+ 15/02/02 12:54 Job start        31 C Testpattern
+ 15/02/02 12:53 Print done       
+ 15/02/02 12:52 Print start      
+ 15/02/02 12:52 Job start        31 C Testpattern
+ 15/02/02 12:51 Cancel done      
+ 15/02/02 12:51 Cancel start     User cancel
+ 15/02/02 12:49 Print start      
+ 15/02/02 12:49 Job start        32 C Testpattern
+ 15/02/02 12:42 Sub power on     Service mode
+ 15/02/02 12:41 Temperature      32 C
+ 15/02/02 12:41 Sub power off    
+ 15/02/02 12:39 Temperature      32 C
+ 15/02/02 12:28 Cancel done      
+ 15/02/02 12:27 Cancel start     Media end
+ 15/02/02 12:11 Cleaning         Periodic cleaning
+ 15/02/02 11:39 Cleaning         Periodic cleaning
+ 15/02/02 11:39 Temperature      33 C
+ 15/02/02 11:07 Cleaning         Periodic cleaning
+ 15/02/02 11:04 Print start      
+ 15/02/02 11:04 Job start        33 C 
+ 15/02/02 11:04 Print done       
+ 15/02/02 10:39 Temperature      33 C
+ 15/02/02 10:34 Cleaning         Periodic cleaning
+ 15/02/02 10:02 Cleaning         Periodic cleaning
+ 15/02/02 09:39 Temperature      33 C
+ 15/02/02 09:30 Cleaning         Periodic cleaning
+ 15/02/02 08:58 Cleaning         Periodic cleaning
+ 15/02/02 08:52 Print start      
+ 15/02/02 08:52 Job start        31 C 
+ 15/02/02 08:39 Temperature      31 C
+ 15/02/02 08:23 Print done       
+ 15/02/02 07:56 Cleaning         Periodic cleaning
+ 15/02/02 07:39 Temperature      33 C
+ 15/02/02 07:24 Cleaning         Periodic cleaning
+ 15/02/02 06:52 Cleaning         Periodic cleaning
+ 15/02/02 06:39 Temperature      32 C
+ 15/02/02 06:21 Cleaning         Periodic cleaning
+ 15/02/02 06:11 Print start      
+ 15/02/02 06:11 Job start        29 C 
+ 15/02/02 06:02 Print done       
+ 15/02/02 06:01 Print start      
+ 15/02/02 06:01 Job start        29 C Testpattern
+ 15/02/02 06:01 Sleep out        
+ 15/02/02 05:39 Temperature      29 C
+ 15/02/02 04:39 Temperature      29 C
+ 15/02/02 03:39 Temperature      29 C
+ 15/02/02 02:39 Temperature      29 C
+ 15/02/02 01:39 Temperature      29 C
+ 15/02/02 00:39 Temperature      29 C
+ 15/02/01 23:39 Temperature      29 C
+ 15/02/01 22:39 Temperature      29 C
+ 15/02/01 21:39 Temperature      29 C
+ 15/02/01 20:39 Temperature      29 C
+ 15/02/01 19:39 Temperature      29 C
+ 15/02/01 18:39 Temperature      29 C
+ 15/02/01 17:39 Temperature      29 C
+ 15/02/01 16:39 Temperature      29 C
+ 15/02/01 15:39 Temperature      29 C
+ 15/02/01 14:39 Temperature      29 C
+ 15/02/01 13:39 Temperature      29 C
+ 15/02/01 12:39 Temperature      29 C
+ 15/02/01 11:39 Temperature      29 C
+ 15/02/01 10:39 Temperature      29 C
+ 15/02/01 09:39 Temperature      28 C
+ 15/02/01 08:39 Temperature      28 C
+ 15/02/01 07:39 Temperature      28 C
+ 15/02/01 06:39 Temperature      28 C
+ 15/02/01 05:39 Temperature      28 C
+ 15/02/01 04:39 Temperature      28 C
+ 15/02/01 03:39 Temperature      28 C
+ 15/02/01 02:39 Temperature      28 C
+ 15/02/01 01:39 Temperature      29 C
+ 15/02/01 00:39 Temperature      29 C
+ 15/01/31 23:39 Temperature      29 C
+ 15/01/31 22:39 Temperature      29 C
+ 15/01/31 21:39 Temperature      29 C
+ 15/01/31 20:39 Temperature      29 C
+ 15/01/31 19:39 Temperature      29 C
+ 15/01/31 18:39 Temperature      29 C
+ 15/01/31 17:39 Temperature      29 C
+ 15/01/31 16:39 Temperature      29 C
+ 15/01/31 15:39 Temperature      29 C
+ 15/01/31 14:39 Temperature      29 C
+ 15/01/31 13:39 Temperature      29 C
+ 15/01/31 12:39 Temperature      29 C
+ 15/01/31 11:39 Temperature      28 C
+ 15/01/31 10:39 Temperature      28 C
+ 15/01/31 09:39 Temperature      28 C
+ 15/01/31 08:39 Temperature      28 C
+ 15/01/31 07:39 Temperature      28 C
+ 15/01/31 06:39 Temperature      29 C
+ 15/01/31 05:39 Temperature      29 C
+ 15/01/31 04:39 Temperature      29 C
+ 15/01/31 03:39 Temperature      29 C
+ 15/01/31 02:39 Temperature      29 C
+ 15/01/31 01:39 Temperature      29 C
+ 15/01/31 00:39 Temperature      29 C
+ 15/01/30 23:39 Temperature      30 C
+ 15/01/30 22:39 Temperature      30 C
+ 15/01/30 21:39 Temperature      31 C
+ 15/01/30 20:39 Temperature      32 C
+ 15/01/30 19:39 Temperature      34 C
+ 15/01/30 18:40 Sleep in         
+ 15/01/30 18:39 Temperature      35 C
+ 15/01/30 18:11 Print done       
+ 15/01/30 17:47 Cleaning         Periodic cleaning
+ 15/01/30 17:39 Temperature      36 C
+ 15/01/30 17:15 Cleaning         Periodic cleaning
+ 15/01/30 16:43 Cleaning         Periodic cleaning
+ 15/01/30 16:39 Temperature      35 C
+ 15/01/30 16:11 Cleaning         Periodic cleaning
+ 15/01/30 15:59 Print start      
+ 15/01/30 15:59 Job start        35 C 
+ 15/01/30 15:59 Print done       
+ 15/01/30 15:39 Temperature      35 C
+ 15/01/30 15:38 Cleaning         Periodic cleaning
+ 15/01/30 15:06 Cleaning         Periodic cleaning
+ 15/01/30 14:39 Temperature      33 C
+ 15/01/30 14:34 Cleaning         Periodic cleaning
+ 15/01/30 14:04 Print start      
+ 15/01/30 14:04 Job start        32 C 
+ 15/01/30 13:40 Cleaning         Power on cleaning
+ 15/01/30 13:39 Sub power on     Normal
+ 15/01/30 13:39 Main power on    Normal
+ 15/01/30 13:39 Temperature      33 C
+ 15/01/30 13:37 Service call     No:109
+ 15/01/30 13:37 Sub power on     Normal
+ 15/01/30 13:37 Main power on    Normal
+ 15/01/30 13:37 Temperature      33 C
+ 15/01/30 13:30 Error            Scan motor 00100010 220mm
+ 15/01/30 13:29 Cleaning         Periodic cleaning
+ 15/01/30 13:11 Print start      
+ 15/01/30 13:11 Job start        34 C 
+ 15/01/30 13:11 Print done       
+ 15/01/30 12:55 Cleaning         Periodic cleaning
+ 15/01/30 12:44 Temperature      34 C
+ 15/01/30 12:23 Cleaning         Periodic cleaning
+ 15/01/30 11:51 Cleaning         Periodic cleaning
+ 15/01/30 11:44 Temperature      33 C
+ 15/01/30 11:20 Cleaning         Periodic cleaning
+ 15/01/30 10:59 Print start      
+ 15/01/30 10:59 Job start        34 C 
+ 15/01/30 10:58 Print done       
+ 15/01/30 10:46 Cleaning         Periodic cleaning
+ 15/01/30 10:44 Temperature      34 C
+ 15/01/30 10:14 Cleaning         Periodic cleaning
+ 15/01/30 09:44 Temperature      33 C
+ 15/01/30 09:42 Cleaning         Periodic cleaning
+ 15/01/30 09:10 Cleaning         Periodic cleaning
+ 15/01/30 08:46 Print start      
+ 15/01/30 08:46 Job start        32 C 
+ 15/01/30 08:44 Temperature      32 C
+ 15/01/30 08:37 Print done       
+ 15/01/30 08:24 Cleaning         Periodic cleaning
+ 15/01/30 08:23 Print start      
+ 15/01/30 08:23 Job start        32 C 
+ 15/01/30 08:07 Print done       
+ 15/01/30 08:07 Print start      
+ 15/01/30 08:07 Job start        32 C 
+ 15/01/30 08:07 Print done       
+ 15/01/30 08:05 Print start      
+ 15/01/30 08:05 Job start        32 C 
+ 15/01/30 07:55 Cancel done      
+ 15/01/30 07:55 Cancel start     Media end
+ 15/01/30 07:44 Temperature      33 C
+ 15/01/30 07:24 Cleaning         Periodic cleaning
+ 15/01/30 06:52 Cleaning         Periodic cleaning
+ 15/01/30 06:44 Temperature      33 C
+ 15/01/30 06:20 Cleaning         Periodic cleaning
+ 15/01/30 05:55 Print start      
+ 15/01/30 05:55 Job start        29 C 
+ 15/01/30 05:52 Print done       
+ 15/01/30 05:45 Print start      
+ 15/01/30 05:45 Job start        29 C Testpattern
+ 15/01/30 05:45 Sleep out        
+ 15/01/30 05:44 Temperature      29 C
+ 15/01/30 04:44 Temperature      30 C
+ 15/01/30 03:44 Temperature      30 C
+ 15/01/30 02:44 Temperature      30 C
+ 15/01/30 01:44 Temperature      30 C
+ 15/01/30 00:44 Temperature      31 C
+ 15/01/29 23:44 Temperature      31 C
+ 15/01/29 22:44 Temperature      32 C
+ 15/01/29 21:44 Temperature      34 C
+ 15/01/29 20:44 Temperature      35 C
+ 15/01/29 20:25 Sleep in         
+ 15/01/29 19:56 Print done       
+ 15/01/29 19:48 Cleaning         Periodic cleaning
+ 15/01/29 19:44 Temperature      37 C
+ 15/01/29 19:16 Cleaning         Periodic cleaning
+ 15/01/29 18:44 Cleaning         Periodic cleaning
+ 15/01/29 18:44 Temperature      37 C
+ 15/01/29 18:24 Print start      
+ 15/01/29 18:24 Job start        36 C 
+ 15/01/29 18:24 Print done       
+ 15/01/29 18:11 Cleaning         Periodic cleaning
+ 15/01/29 18:03 Print start      
+ 15/01/29 18:03 Job start        35 C 
+ 15/01/29 18:02 Print done       
+ 15/01/29 17:44 Temperature      35 C
+ 15/01/29 17:37 Cleaning         Periodic cleaning
+ 15/01/29 17:05 Cleaning         Periodic cleaning
+ 15/01/29 16:44 Temperature      35 C
+ 15/01/29 16:33 Cleaning         Periodic cleaning
+ 15/01/29 16:17 Print start      
+ 15/01/29 16:17 Job start        33 C 
+ 15/01/29 16:13 Print done       
+ 15/01/29 15:55 Cleaning         Periodic cleaning
+ 15/01/29 15:44 Temperature      35 C
+ 15/01/29 15:23 Cleaning         Periodic cleaning
+ 15/01/29 14:51 Cleaning         Periodic cleaning
+ 15/01/29 14:44 Temperature      35 C
+ 15/01/29 14:27 Print start      
+ 15/01/29 14:27 Job start        34 C 
+ 15/01/29 14:27 Print done       
+ 15/01/29 14:18 Cleaning         Periodic cleaning
+ 15/01/29 13:46 Cleaning         Periodic cleaning
+ 15/01/29 13:44 Temperature      34 C
+ 15/01/29 13:14 Cleaning         Periodic cleaning
+ 15/01/29 12:44 Temperature      34 C
+ 15/01/29 12:42 Cleaning         Periodic cleaning
+ 15/01/29 12:17 Print start      
+ 15/01/29 12:17 Job start        33 C 
+ 15/01/29 12:17 Print done       
+ 15/01/29 12:09 Cleaning         Periodic cleaning
+ 15/01/29 11:44 Temperature      33 C
+ 15/01/29 11:37 Cleaning         Periodic cleaning
+ 15/01/29 11:05 Cleaning         Periodic cleaning
+ 15/01/29 10:44 Temperature      34 C
+ 15/01/29 10:33 Cleaning         Periodic cleaning
+ 15/01/29 10:18 Print start      
+ 15/01/29 10:18 Job start        34 C 
+ 15/01/29 10:18 Print done       
+ 15/01/29 10:00 Cleaning         Periodic cleaning
+ 15/01/29 09:44 Temperature      34 C
+ 15/01/29 09:28 Cleaning         Periodic cleaning
+ 15/01/29 08:56 Cleaning         Periodic cleaning
+ 15/01/29 08:44 Temperature      33 C
+ 15/01/29 08:23 Cleaning         Medium cleaning
+ 15/01/29 08:06 Cleaning         Periodic cleaning
+ 15/01/29 08:05 Print start      
+ 15/01/29 08:04 Job start        33 C 
+ 15/01/29 08:04 Print done       
+ 15/01/29 07:44 Temperature      33 C
+ 15/01/29 07:33 Cleaning         Periodic cleaning
+ 15/01/29 07:01 Print start      
+ 15/01/29 07:01 Job start        29 C 
+ 15/01/29 06:54 Print done       
+ 15/01/29 06:52 Print start      
+ 15/01/29 06:52 Job start        29 C Testpattern
+ 15/01/29 06:45 Cleaning         Power on cleaning
+ 15/01/29 06:44 Sub power on     Normal
+ 15/01/29 06:44 Main power on    Normal
+ 15/01/29 06:44 Temperature      29 C
+ 15/01/29 06:42 Error            Scan motor 00100010 5mm
+ 15/01/29 06:42 Sleep out        
+ 15/01/29 06:39 Temperature      29 C
+ 15/01/29 06:33 Sleep in         
+ 15/01/29 06:03 Sleep out        
+ 15/01/29 05:39 Temperature      29 C
+ 15/01/29 04:39 Temperature      29 C
+ 15/01/29 03:39 Temperature      29 C
+ 15/01/29 02:39 Temperature      30 C
+ 15/01/29 01:39 Temperature      30 C
+ 15/01/29 00:39 Temperature      30 C
+ 15/01/28 23:39 Temperature      30 C
+ 15/01/28 22:39 Temperature      31 C
+ 15/01/28 21:39 Temperature      32 C
+ 15/01/28 20:39 Temperature      34 C
+ 15/01/28 19:39 Temperature      35 C
+ 15/01/28 19:35 Sleep in         
+ 15/01/28 19:06 Cancel done      
+ 15/01/28 19:05 Cancel start     Media end
+ 15/01/28 18:39 Temperature      36 C
+ 15/01/28 18:33 Cleaning         Periodic cleaning
+ 15/01/28 18:08 Print start      
+ 15/01/28 18:08 Job start        35 C 
+ 15/01/28 18:08 Print done       
+ 15/01/28 18:00 Cleaning         Periodic cleaning
+ 15/01/28 17:39 Temperature      35 C
+ 15/01/28 17:28 Cleaning         Periodic cleaning
+ 15/01/28 16:56 Cleaning         Periodic cleaning
+ 15/01/28 16:39 Temperature      35 C
+ 15/01/28 16:24 Cleaning         Periodic cleaning
+ 15/01/28 15:58 Print start      
+ 15/01/28 15:58 Job start        33 C 
+ 15/01/28 15:53 Print done       
+ 15/01/28 15:47 Cleaning         Periodic cleaning
+ 15/01/28 15:39 Temperature      35 C
+ 15/01/28 15:15 Cleaning         Periodic cleaning
+ 15/01/28 14:43 Cleaning         Periodic cleaning
+ 15/01/28 14:39 Temperature      34 C
+ 15/01/28 14:33 Print start      
+ 15/01/28 14:33 Job start        33 C 
+ 15/01/28 14:28 Print done       
+ 15/01/28 14:25 Print start      
+ 15/01/28 14:24 Job start        35 C 
+ 15/01/28 14:24 Print done       
+
+@DONE@

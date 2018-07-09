@@ -1,0 +1,822 @@
+Model                 : VS-540
+Version               : 4.60
+Serial No.            : ZAR3010
+Date                  : 2015/01/09 18:03
+IP Address            : 192.168.001.010
+Subnet Mask           : 255.255.255.000
+Gateway Address       : 000.000.000.000
+MAC Address           : 00:40:AB:00:DE:07
+Ink type              : E-SOL Max 4Color
+Ink remain(1-4)       :   0/  0/  0/  0
+Ink remain(5-8)       :   0/  0/  0/  0
+Head height           : Low
+Head Temperature      : 31C /  87.8F
+Heater temp.(PRINT)   : 35C /  94F
+Heater temp.(DRYER)   : 38C / 100F
+Edge detection        : Enable
+Empty mode            : Stop
+Calibration           : -0.30 %
+Full width scanning   : FULL
+Scan interval         :  0.0 sec
+Length unit           : mm
+Temperature unit      : C
+Menu language         : English
+Sleep interval        :  30 min
+Sheet remain          : 0.0m
+Periodic cleaning     : 360min 
+Vacuum power          : 100 %
+Heater setting(PRINT) : 35C /  94F
+Heater setting(DRYER) : 38C / 100F
+Feed for dry          : Enable
+Preheating            : PREHEAT
+Drying Time           :   0 min
+Option Dryer          : Disable
+Set remain at loading : Disable
+Bi-dir. simple        :  +1  
+Bi-dir. adjust No.1   :  -1  
+        No.2   :  -1  
+        No.3   :  -2  
+        No.4   :  +1  
+        No.5   :  -0.5
+               No.6   :  -1  
+        No.7   :  -1.5
+        No.8   :  -1  
+        No.9   :  +1  
+        No.10  :   0  
+               No.11  :  +2.5
+        No.12  :  +1  
+Tool parameter        : 
+  Force               :  90 gf
+  Velocity            :  30 cm/s
+  Offset              : 0.250 mm
+  Up velocity         :  30 cm/s
+Cutting calib. (F/S)  :   0.00/  0.00 %
+Print-cut adjust (F/S):  -0.05/ -0.30 mm
+Crop-cut adjust (F/S) :   0.00/  0.00 mm
+Cutting priority      : Command
+Prefeed               : Disable
+Auto Env Match        : Enable
+Media Release         : Disable
+Preset name           : V8             
+Calibration           : -0.20 %
+Heater setting(PRINT) : 33C /  90F
+Heater setting(DRYER) : 38C / 100F
+Feed for dry          : Enable
+Bi-dir. simple        :   0  
+Scan interval   :  0.0 sec
+Edge detection  : Enable
+Full width S    : OFF
+Preheating      : Preheat
+Vacuum power    : Auto
+Force         :  50 gf
+Velocity      :  30 cm/s
+Offset        : 0.250 mm
+Up velocity   :  30 cm/s
+Drying Time   :   1 min
+Cutting calib. (F/S)  :   0.00/  0.00 %
+Print-cut adjust (F/S):  -0.10/ -0.20 mm
+Crop-cut adjust (F/S) :   0.00/  0.00 mm
+Media Release         : Disable
+Bi-dir. Adjust No.1   :   0   
+        No.2   :   0   
+        No.3   :   0   
+        No.4   :   0   
+        No.5   :   0   
+               No.6   :   0   
+        No.7   :   0   
+        No.8   :   0   
+        No.9   :   0   
+        No.10  :   0   
+               No.11  :   0   
+        No.12  :   0   
+Preset name           : NAME2
+Calibration           :  0.00 %
+Heater setting(PRINT) : 35C /  94F
+Heater setting(DRYER) : 40C / 104F
+Feed for dry          : Disable
+Bi-dir. simple        :   0  
+Scan interval   :  0.0 sec
+Edge detection  : Enable
+Full width S    : FULL
+Preheating      : Preheat
+Vacuum power    : Auto
+Force         :  50 gf
+Velocity      :  30 cm/s
+Offset        : 0.250 mm
+Up velocity   :  30 cm/s
+Drying Time   :   0 min
+Cutting calib. (F/S)  :   0.00/  0.00 %
+Print-cut adjust (F/S):   0.00/  0.00 mm
+Crop-cut adjust (F/S) :   0.00/  0.00 mm
+Media Release         : Disable
+Bi-dir. Adjust No.1   :   0   
+        No.2   :   0   
+        No.3   :   0   
+        No.4   :   0   
+        No.5   :   0   
+               No.6   :   0   
+        No.7   :   0   
+        No.8   :   0   
+        No.9   :   0   
+        No.10  :   0   
+               No.11  :   0   
+        No.12  :   0   
+Preset name           : NAME3
+Calibration           :  0.00 %
+Heater setting(PRINT) : 35C /  94F
+Heater setting(DRYER) : 40C / 104F
+Feed for dry          : Disable
+Bi-dir. simple        :   0  
+Scan interval   :  0.0 sec
+Edge detection  : Enable
+Full width S    : FULL
+Preheating      : Preheat
+Vacuum power    : Auto
+Force         :  50 gf
+Velocity      :  30 cm/s
+Offset        : 0.250 mm
+Up velocity   :  30 cm/s
+Drying Time   :   0 min
+Cutting calib. (F/S)  :   0.00/  0.00 %
+Print-cut adjust (F/S):   0.00/  0.00 mm
+Crop-cut adjust (F/S) :   0.00/  0.00 mm
+Media Release         : Disable
+Bi-dir. Adjust No.1   :   0   
+        No.2   :   0   
+        No.3   :   0   
+        No.4   :   0   
+        No.5   :   0   
+               No.6   :   0   
+        No.7   :   0   
+        No.8   :   0   
+        No.9   :   0   
+        No.10  :   0   
+               No.11  :   0   
+        No.12  :   0   
+Preset name           : NAME4
+Calibration           :  0.00 %
+Heater setting(PRINT) : 35C /  94F
+Heater setting(DRYER) : 40C / 104F
+Feed for dry          : Disable
+Bi-dir. simple        :   0  
+Scan interval   :  0.0 sec
+Edge detection  : Enable
+Full width S    : FULL
+Preheating      : Preheat
+Vacuum power    : Auto
+Force         :  50 gf
+Velocity      :  30 cm/s
+Offset        : 0.250 mm
+Up velocity   :  30 cm/s
+Drying Time   :   0 min
+Cutting calib. (F/S)  :   0.00/  0.00 %
+Print-cut adjust (F/S):   0.00/  0.00 mm
+Crop-cut adjust (F/S) :   0.00/  0.00 mm
+Media Release         : Disable
+Bi-dir. Adjust No.1   :   0   
+        No.2   :   0   
+        No.3   :   0   
+        No.4   :   0   
+        No.5   :   0   
+               No.6   :   0   
+        No.7   :   0   
+        No.8   :   0   
+        No.9   :   0   
+        No.10  :   0   
+               No.11  :   0   
+        No.12  :   0   
+Preset name           : NAME5
+Calibration           :  0.00 %
+Heater setting(PRINT) : 35C /  94F
+Heater setting(DRYER) : 40C / 104F
+Feed for dry          : Disable
+Bi-dir. simple        :   0  
+Scan interval   :  0.0 sec
+Edge detection  : Enable
+Full width S    : FULL
+Preheating      : Preheat
+Vacuum power    : Auto
+Force         :  50 gf
+Velocity      :  30 cm/s
+Offset        : 0.250 mm
+Up velocity   :  30 cm/s
+Drying Time   :   0 min
+Cutting calib. (F/S)  :   0.00/  0.00 %
+Print-cut adjust (F/S):   0.00/  0.00 mm
+Crop-cut adjust (F/S) :   0.00/  0.00 mm
+Media Release         : Disable
+Bi-dir. Adjust No.1   :   0   
+        No.2   :   0   
+        No.3   :   0   
+        No.4   :   0   
+        No.5   :   0   
+               No.6   :   0   
+        No.7   :   0   
+        No.8   :   0   
+        No.9   :   0   
+        No.10  :   0   
+               No.11  :   0   
+        No.12  :   0   
+Preset name           : NAME6
+Calibration           :  0.00 %
+Heater setting(PRINT) : 35C /  94F
+Heater setting(DRYER) : 40C / 104F
+Feed for dry          : Disable
+Bi-dir. simple        :   0  
+Scan interval   :  0.0 sec
+Edge detection  : Enable
+Full width S    : FULL
+Preheating      : Preheat
+Vacuum power    : Auto
+Force         :  50 gf
+Velocity      :  30 cm/s
+Offset        : 0.250 mm
+Up velocity   :  30 cm/s
+Drying Time   :   0 min
+Cutting calib. (F/S)  :   0.00/  0.00 %
+Print-cut adjust (F/S):   0.00/  0.00 mm
+Crop-cut adjust (F/S) :   0.00/  0.00 mm
+Media Release         : Disable
+Bi-dir. Adjust No.1   :   0   
+        No.2   :   0   
+        No.3   :   0   
+        No.4   :   0   
+        No.5   :   0   
+               No.6   :   0   
+        No.7   :   0   
+        No.8   :   0   
+        No.9   :   0   
+        No.10  :   0   
+               No.11  :   0   
+        No.12  :   0   
+Preset name           : NAME7
+Calibration           :  0.00 %
+Heater setting(PRINT) : 35C /  94F
+Heater setting(DRYER) : 40C / 104F
+Feed for dry          : Disable
+Bi-dir. simple        :   0  
+Scan interval   :  0.0 sec
+Edge detection  : Enable
+Full width S    : FULL
+Preheating      : Preheat
+Vacuum power    : Auto
+Force         :  50 gf
+Velocity      :  30 cm/s
+Offset        : 0.250 mm
+Up velocity   :  30 cm/s
+Drying Time   :   0 min
+Cutting calib. (F/S)  :   0.00/  0.00 %
+Print-cut adjust (F/S):   0.00/  0.00 mm
+Crop-cut adjust (F/S) :   0.00/  0.00 mm
+Media Release         : Disable
+Bi-dir. Adjust No.1   :   0   
+        No.2   :   0   
+        No.3   :   0   
+        No.4   :   0   
+        No.5   :   0   
+               No.6   :   0   
+        No.7   :   0   
+        No.8   :   0   
+        No.9   :   0   
+        No.10  :   0   
+               No.11  :   0   
+        No.12  :   0   
+Preset name           : NAME8
+Calibration           :  0.00 %
+Heater setting(PRINT) : 35C /  94F
+Heater setting(DRYER) : 40C / 104F
+Feed for dry          : Disable
+Bi-dir. simple        :   0  
+Scan interval   :  0.0 sec
+Edge detection  : Enable
+Full width S    : FULL
+Preheating      : Preheat
+Vacuum power    : Auto
+Force         :  50 gf
+Velocity      :  30 cm/s
+Offset        : 0.250 mm
+Up velocity   :  30 cm/s
+Drying Time   :   0 min
+Cutting calib. (F/S)  :   0.00/  0.00 %
+Print-cut adjust (F/S):   0.00/  0.00 mm
+Crop-cut adjust (F/S) :   0.00/  0.00 mm
+Media Release         : Disable
+Bi-dir. Adjust No.1   :   0   
+        No.2   :   0   
+        No.3   :   0   
+        No.4   :   0   
+        No.5   :   0   
+               No.6   :   0   
+        No.7   :   0   
+        No.8   :   0   
+        No.9   :   0   
+        No.10  :   0   
+               No.11  :   0   
+        No.12  :   0   
+Head rank             : 39291797C8D8F858A9996S0B
+Head bi
+ Pigment:
+  No.1  : +15.5 
+  No.2  :  +7   
+  No.3  : +27.5 
+  No.4  : +11.5 
+ Max    :
+  No.1  : +19   
+  No.2  : +15.5 
+  No.3  : +15.5 
+  No.4  : +19   
+  No.5  : +16   
+  No.6  :  +9   
+  No.7  : +12.5 
+  No.8  :  +6   
+  No.9  :  +8   
+  No.10 :  +6   
+  No.11 : +31   
+  No.12 : +26.5 
+  No.13 : +23   
+  No.14 : +32   
+  No.15 : +29   
+  No.16 : +14   
+  No.17 : +19   
+  No.18 : +13   
+  No.19 : +14   
+  No.20 : +13.5 
+Dip SW                : 0000
+System SW page( 1- 4) : 00000000 00000000 00000000 00000000 
+System SW page( 5- 8) : 00000000 00000000 00000000 00000000 
+System SW page( 9-12) : 00000000 00000000 00000000 00000000 
+System SW page(13-16) : 00000000 00000000 00000000 00010000 
+Ink Mode              : E-SOL Max4COLOR
+Limit position        :      25.6 mm
+Cutter down position  :    1757.8 mm
+Calibration default   :     -0.16 %
+Encoder position(L)   :    1549.7 mm
+Encoder position(R)   :     178.1 mm
+Maintenance request   : NONE
+Booter version        : 1.20
+Battery               :   Charged
+Periodic CL. degree   : LIGHT
+Drain liquid volume   : 1486.7 cc
+Standard head         : 1
+Flushing pos adjust   : -0.10 mm
+Heater adjust(PRINT)  :   0C
+Heater adjust(DRYER)  :   0C
+Preheat temperature   : 30C
+Heating timeout       : 20 min
+Feed for dry len (OPT): 100 mm
+Encoder calibration   :    +0.123 %
+Force adjust 30gf     : 16
+Force adjust 200gf    : 52
+Crop-tool adjust (F/S):  +0.20/   0.00 mm
+Print-cut adjust (F/S):  -0.20/  -0.40 mm
+Crop sensor adjust    :   0
+Model                  : VS-540
+Version                : 4.60
+Serial No.             : ZAR3010
+Date                   : 2015/01/09 18:03
+==== Motor group ====
+Motor feed   (trip/total [clear]):        216/        216 hours [0]
+Motor scan   (trip/total [clear]):      1,358/      1,358 hours [0]
+Pump Times   (trip/total [clear]):         26/    198,749 times [1]
+Pump TimesCIR(trip/total [clear]):        610/        610 times [0]
+==== Head group ====
+Shot Cnt.  1 (trip/total [clear]):         97/  9,109,240 K times/nozzle [1]
+Shot Cnt.  2 (trip/total [clear]):         82/  8,262,957 K times/nozzle [1]
+Shot Cnt.  3 (trip/total [clear]):         75/  4,649,412 K times/nozzle [1]
+Shot Cnt.  4 (trip/total [clear]):         96/  3,367,231 K times/nozzle [1]
+Shot Cnt.  5 (trip/total [clear]):         96/  3,364,360 K times/nozzle [1]
+Shot Cnt.  6 (trip/total [clear]):         74/  4,646,313 K times/nozzle [1]
+Shot Cnt.  7 (trip/total [clear]):         83/  8,266,246 K times/nozzle [1]
+Shot Cnt.  8 (trip/total [clear]):         98/  9,118,618 K times/nozzle [1]
+                       :     H1
+Wiping count for head  :  2,741 times
+Headrank set count     :      1 times
+Auto cleaning count    :    966 times
+Normal cleaning count  :     66 times
+Medium cleaning count  :    107 times
+Powerful cleaning count:    148 times
+==== Maintenance group ====
+Maintenance Count      :     80 times
+Total time             :     50 hours
+Printing time          :      5 hours
+==== Wiper group ====
+Wiping count           :     65 times
+Wiper replace count    :      3 times
+Felt Wiping count      :     76 times
+Felt Wipe replace count:      2 times
+==== Print group ====
+Printing time          :       1,855 hours
+Print pages            :       9,867 pages
+==== Ink group ====
+Cartridge change(1-4)  :      5      5      4      4 times
+Cartridge change(5-8)  :      2      2      8      7 times
+Change ink type        :           0 times
+Ink Circulation        :      0 times
+Ink Discharge (1-3)    :      0 times      0 times      0 times
+==== Error group ====
+Service call count     :      1 times
+Service call history   : 0110 **** **** **** ****
+Motor error  (feed)    :      7 times
+Motor error  (scan)    :     28 times
+Low temperature error  :      0 times
+High temperature error :      0 times
+Emergency capping      :      0 times
+Start uncapped         :     41 times
+==== System group ====
+Power on count         :    715 times
+Power on time          :  3,811 hours
+Sleep time             :  7,959 hours
+Sheet cut count        :  5,771 times
+Peck used count        :      0 times
+Net fault count(pon)   :      0 times
+Net fault count(cfg)   :      0 times
+==== Heater group ====        PRINT      DRYER
+Heater used time       :      1,310      1,310 hours
+==== Cutting group ====
+Cutting time           :         158 hours
+Disconnect carr. count :       6,962 times
+
+Model                  : VS-540
+Version                : 4.60
+Serial No.             : ZAR3010
+No:          SERIAL/  INK TYPE/  CAP./LOT No/   CONSUM./           TIME/INS./    FLAG
+ 1:146f5120050000f5/     Max Y/ 200cc/1A17A/ 12500.209cc/1y330d00h08m44s/   2/00000001
+ 2:145d582005000085/     Max Y/ 200cc/1A17A/ 12499.047cc/1y330d00h01m55s/   2/00000001
+ 3:147e132705000075/     Max C/ 200cc/1B22A/ 6971.810cc/1y343d15h11m26s/   2/00000001
+ 4:14781c27050000a8/     Max C/ 200cc/1B22A/ 6981.238cc/1y344d12h29m04s/   2/00000001
+ 5:1489a744050000ca/     Max K/ 200cc/2113A/ 5952.355cc/2y013d01h27m26s/   2/00000001
+ 6:149d383205000034/     Max K/ 200cc/2113A/ 5940.511cc/2y010d18h53m35s/   2/00000001
+ 7:14e995440500000e/     Max M/ 200cc/2213A/ 14277.713cc/1y332d19h30m13s/   2/00000001
+ 8:1477c54d050000aa/     Max M/ 200cc/2213A/ 14256.878cc/1y332d18h59m16s/   2/00000001
+Model                  : VS-540
+Version                : 4.60
+Serial No.             : ZAR3010
+Date                   : 2015/01/09 18:03
+Last event             : 86827
++--------+-----+----------------+------------------------------------+
+ Date     Time  Event            Information
++--------+-----+----------------+------------------------------------+
+ 15/01/09 17:59 Job done         
+ 15/01/09 17:59 Print done       
+ 15/01/09 17:57 Print start      
+ 15/01/09 17:57 Job start        31 C 
+ 15/01/09 17:57 User setting     
+ 15/01/09 17:52 Job done         
+ 15/01/09 17:52 Print done       
+ 15/01/09 17:51 Print start      
+ 15/01/09 17:51 Job start        31 C Testpattern
+ 15/01/09 17:51 Job done         
+ 15/01/09 17:51 Print done       
+ 15/01/09 17:50 Print start      
+ 15/01/09 17:50 Job start        31 C Testpattern
+ 15/01/09 17:49 Job done         
+ 15/01/09 17:49 Print done       
+ 15/01/09 17:48 Print start      
+ 15/01/09 17:48 Job start        31 C Testpattern
+ 15/01/09 17:48 Job done         
+ 15/01/09 17:48 Print done       
+ 15/01/09 17:47 Print start      
+ 15/01/09 17:47 Job start        31 C Testpattern
+ 15/01/09 17:44 System setting   
+ 15/01/09 17:44 Setup done       Width:505mm Env.: 0.123
+ 15/01/09 17:42 Sub power on     Service mode
+ 15/01/09 17:42 Main power on    Normal
+ 15/01/09 17:42 Temperature      31 C
+ 15/01/09 15:40 Temperature      31 C
+ 15/01/09 15:40 Sub power off    
+ 15/01/09 15:38 Job done         
+ 15/01/09 15:38 Print done       
+ 15/01/09 15:34 Print start      
+ 15/01/09 15:34 Job start        29 C 
+ 15/01/09 15:31 Temperature      29 C
+ 15/01/09 15:30 User setting     
+ 15/01/09 15:28 Job done         
+ 15/01/09 15:28 Print done       
+ 15/01/09 15:28 Print start      
+ 15/01/09 15:28 Job start        30 C Testpattern
+ 15/01/09 15:28 Job done         
+ 15/01/09 15:28 Print done       
+ 15/01/09 15:28 Print start      
+ 15/01/09 15:28 Job start        30 C Testpattern
+ 15/01/09 15:28 Job done         
+ 15/01/09 15:28 Print done       
+ 15/01/09 15:27 Print start      
+ 15/01/09 15:27 Job start        30 C Testpattern
+ 15/01/09 15:27 Job done         
+ 15/01/09 15:27 Print done       
+ 15/01/09 15:27 Print start      
+ 15/01/09 15:27 Job start        30 C Testpattern
+ 15/01/09 15:27 Job done         
+ 15/01/09 15:27 Print done       
+ 15/01/09 15:27 Print start      
+ 15/01/09 15:27 Job start        30 C Testpattern
+ 15/01/09 15:27 Job done         
+ 15/01/09 15:27 Print done       
+ 15/01/09 15:27 Print start      
+ 15/01/09 15:27 Job start        30 C Testpattern
+ 15/01/09 15:27 Job done         
+ 15/01/09 15:27 Print done       
+ 15/01/09 15:26 Print start      
+ 15/01/09 15:26 Job start        30 C Testpattern
+ 15/01/09 15:26 Job done         
+ 15/01/09 15:26 Print done       
+ 15/01/09 15:26 Print start      
+ 15/01/09 15:26 Job start        30 C Testpattern
+ 15/01/09 15:26 Job done         
+ 15/01/09 15:26 Print done       
+ 15/01/09 15:26 Print start      
+ 15/01/09 15:26 Job start        30 C Testpattern
+ 15/01/09 15:26 Job done         
+ 15/01/09 15:26 Print done       
+ 15/01/09 15:26 Print start      
+ 15/01/09 15:26 Job start        30 C Testpattern
+ 15/01/09 15:26 Job done         
+ 15/01/09 15:26 Print done       
+ 15/01/09 15:26 Print start      
+ 15/01/09 15:26 Job start        30 C Testpattern
+ 15/01/09 15:26 Job done         
+ 15/01/09 15:26 Print done       
+ 15/01/09 15:25 Print start      
+ 15/01/09 15:25 Job start        30 C Testpattern
+ 15/01/09 15:25 Job done         
+ 15/01/09 15:25 Print done       
+ 15/01/09 15:24 Print start      
+ 15/01/09 15:24 Job start        30 C Testpattern
+ 15/01/09 15:23 Job done         
+ 15/01/09 15:23 Print done       
+ 15/01/09 15:23 Print start      
+ 15/01/09 15:23 Job start        30 C Testpattern
+ 15/01/09 15:22 System setting   
+ 15/01/09 15:20 Job done         
+ 15/01/09 15:20 Print done       
+ 15/01/09 15:20 Print start      
+ 15/01/09 15:20 Job start        30 C Testpattern
+ 15/01/09 15:20 Job done         
+ 15/01/09 15:20 Print done       
+ 15/01/09 15:19 Print start      
+ 15/01/09 15:19 Job start        30 C Testpattern
+ 15/01/09 15:19 Job done         
+ 15/01/09 15:19 Print done       
+ 15/01/09 15:19 Print start      
+ 15/01/09 15:19 Job start        30 C Testpattern
+ 15/01/09 15:19 Job done         
+ 15/01/09 15:19 Print done       
+ 15/01/09 15:19 Print start      
+ 15/01/09 15:19 Job start        30 C Testpattern
+ 15/01/09 15:19 Job done         
+ 15/01/09 15:19 Print done       
+ 15/01/09 15:18 Print start      
+ 15/01/09 15:18 Job start        30 C Testpattern
+ 15/01/09 15:18 Job done         
+ 15/01/09 15:18 Print done       
+ 15/01/09 15:18 Print start      
+ 15/01/09 15:18 Job start        30 C Testpattern
+ 15/01/09 15:18 Job done         
+ 15/01/09 15:18 Print done       
+ 15/01/09 15:18 Print start      
+ 15/01/09 15:18 Job start        30 C Testpattern
+ 15/01/09 15:18 Job done         
+ 15/01/09 15:18 Print done       
+ 15/01/09 15:18 Print start      
+ 15/01/09 15:18 Job start        30 C Testpattern
+ 15/01/09 15:18 Job done         
+ 15/01/09 15:18 Print done       
+ 15/01/09 15:18 Print start      
+ 15/01/09 15:18 Job start        30 C Testpattern
+ 15/01/09 15:18 Job done         
+ 15/01/09 15:18 Print done       
+ 15/01/09 15:16 Print start      
+ 15/01/09 15:16 Job start        30 C Testpattern
+ 15/01/09 15:16 Job done         
+ 15/01/09 15:16 Print done       
+ 15/01/09 15:16 Print start      
+ 15/01/09 15:16 Job start        30 C Testpattern
+ 15/01/09 15:16 Job done         
+ 15/01/09 15:16 Print done       
+ 15/01/09 15:16 Print start      
+ 15/01/09 15:16 Job start        30 C Testpattern
+ 15/01/09 15:16 Job done         
+ 15/01/09 15:16 Print done       
+ 15/01/09 15:15 Print start      
+ 15/01/09 15:15 Job start        30 C Testpattern
+ 15/01/09 15:15 Job done         
+ 15/01/09 15:15 Print done       
+ 15/01/09 15:15 Print start      
+ 15/01/09 15:15 Job start        30 C Testpattern
+ 15/01/09 15:15 Job done         
+ 15/01/09 15:15 Print done       
+ 15/01/09 15:15 Print start      
+ 15/01/09 15:15 Job start        31 C Testpattern
+ 15/01/09 15:15 Job done         
+ 15/01/09 15:15 Print done       
+ 15/01/09 15:15 Print start      
+ 15/01/09 15:15 Job start        30 C Testpattern
+ 15/01/09 15:15 Job done         
+ 15/01/09 15:15 Print done       
+ 15/01/09 15:14 Print start      
+ 15/01/09 15:14 Job start        30 C Testpattern
+ 15/01/09 15:14 Job done         
+ 15/01/09 15:14 Print done       
+ 15/01/09 15:14 Print start      
+ 15/01/09 15:14 Job start        31 C Testpattern
+ 15/01/09 15:14 Job done         
+ 15/01/09 15:14 Print done       
+ 15/01/09 15:14 Print start      
+ 15/01/09 15:14 Job start        31 C Testpattern
+ 15/01/09 15:14 Job done         
+ 15/01/09 15:14 Print done       
+ 15/01/09 15:14 Print start      
+ 15/01/09 15:13 Job start        31 C Testpattern
+ 15/01/09 15:13 Job done         
+ 15/01/09 15:13 Print done       
+ 15/01/09 15:12 Print start      
+ 15/01/09 15:12 Job start        31 C Testpattern
+ 15/01/09 15:11 Job done         
+ 15/01/09 15:11 Print done       
+ 15/01/09 15:11 Print start      
+ 15/01/09 15:11 Job start        31 C Testpattern
+ 15/01/09 15:10 Job done         
+ 15/01/09 15:10 Print done       
+ 15/01/09 15:10 Print start      
+ 15/01/09 15:10 Job start        31 C Testpattern
+ 15/01/09 15:09 Job done         
+ 15/01/09 15:09 Print done       
+ 15/01/09 15:08 Print start      
+ 15/01/09 15:08 Job start        31 C Testpattern
+ 15/01/09 15:08 Job done         
+ 15/01/09 15:08 Print done       
+ 15/01/09 15:07 Print start      
+ 15/01/09 15:07 Job start        31 C Testpattern
+ 15/01/09 15:07 Job done         
+ 15/01/09 15:07 Print done       
+ 15/01/09 15:06 Print start      
+ 15/01/09 15:06 Job start        31 C Testpattern
+ 15/01/09 15:01 Job done         
+ 15/01/09 15:01 Print done       
+ 15/01/09 15:00 Print start      
+ 15/01/09 15:00 Job start        30 C Testpattern
+ 15/01/09 14:59 Job done         
+ 15/01/09 14:59 Print done       
+ 15/01/09 14:58 Print start      
+ 15/01/09 14:58 Job start        30 C Testpattern
+ 15/01/09 14:54 Job done         
+ 15/01/09 14:54 Print done       
+ 15/01/09 14:53 Print start      
+ 15/01/09 14:53 Job start        29 C Testpattern
+ 15/01/09 14:52 System setting   
+ 15/01/09 14:49 Job done         
+ 15/01/09 14:49 Print done       
+ 15/01/09 14:49 Print start      
+ 15/01/09 14:49 Job start        29 C Testpattern
+ 15/01/09 14:45 Cleaning         Powerful cleaning
+ 15/01/09 14:45 Job done         
+ 15/01/09 14:45 Print done       
+ 15/01/09 14:44 Print start      
+ 15/01/09 14:44 Job start        29 C Testpattern
+ 15/01/09 14:42 Cleaning         Medium cleaning
+ 15/01/09 14:41 Cleaning         Medium cleaning
+ 15/01/09 14:38 System setting   
+ 15/01/09 14:32 Setup done       Width:506mm Env.: 0.125
+ 15/01/09 14:31 Sub power on     Service mode
+ 15/01/09 14:31 Main power on    Normal
+ 15/01/09 14:31 Temperature      29 C
+ 15/01/09 13:36 Temperature      30 C
+ 15/01/09 13:32 Temperature      31 C
+ 15/01/09 13:32 Sub power off    
+ 15/01/09 13:30 Job done         
+ 15/01/09 13:30 Print done       
+ 15/01/09 13:29 Print start      
+ 15/01/09 13:29 Job start        31 C Testpattern
+ 15/01/09 13:29 Job done         
+ 15/01/09 13:29 Print done       
+ 15/01/09 13:28 Print start      
+ 15/01/09 13:28 Job start        31 C Testpattern
+ 15/01/09 13:26 Cleaning         Medium cleaning
+ 15/01/09 13:26 Job done         
+ 15/01/09 13:26 Print done       
+ 15/01/09 13:25 Print start      
+ 15/01/09 13:25 Job start        31 C Testpattern
+ 15/01/09 13:23 Cleaning         Medium cleaning
+ 15/01/09 13:23 Job done         
+ 15/01/09 13:23 Print done       
+ 15/01/09 13:23 Print start      
+ 15/01/09 13:23 Job start        32 C Testpattern
+ 15/01/09 13:21 Cleaning         Medium cleaning
+ 15/01/09 13:21 System setting   
+ 15/01/09 13:21 Setup done       Width:506mm Env.: 0.117
+ 15/01/09 13:19 Sub power on     Service mode
+ 15/01/09 13:19 Main power on    Normal
+ 15/01/09 13:19 Temperature      32 C
+ 15/01/09 13:04 Temperature      34 C
+ 15/01/09 13:04 Sub power off    
+ 15/01/09 13:03 Job done         
+ 15/01/09 13:03 Print done       
+ 15/01/09 13:01 Print start      
+ 15/01/09 13:01 Job start        34 C Testpattern
+ 15/01/09 13:00 Job done         
+ 15/01/09 13:00 Print done       
+ 15/01/09 12:59 Print start      
+ 15/01/09 12:59 Job start        34 C Testpattern
+ 15/01/09 12:59 Job done         
+ 15/01/09 12:59 Print done       
+ 15/01/09 12:59 Print start      
+ 15/01/09 12:59 Job start        34 C Testpattern
+ 15/01/09 12:59 Job done         
+ 15/01/09 12:59 Print done       
+ 15/01/09 12:59 Print start      
+ 15/01/09 12:59 Job start        34 C Testpattern
+ 15/01/09 12:59 Job done         
+ 15/01/09 12:59 Print done       
+ 15/01/09 12:59 Print start      
+ 15/01/09 12:59 Job start        34 C Testpattern
+ 15/01/09 12:58 Job done         
+ 15/01/09 12:58 Print done       
+ 15/01/09 12:58 Print start      
+ 15/01/09 12:58 Job start        34 C Testpattern
+ 15/01/09 12:58 Job done         
+ 15/01/09 12:58 Print done       
+ 15/01/09 12:58 Print start      
+ 15/01/09 12:58 Job start        35 C Testpattern
+ 15/01/09 12:58 Job done         
+ 15/01/09 12:58 Print done       
+ 15/01/09 12:58 Print start      
+ 15/01/09 12:58 Job start        35 C Testpattern
+ 15/01/09 12:58 Job done         
+ 15/01/09 12:58 Print done       
+ 15/01/09 12:58 Print start      
+ 15/01/09 12:58 Job start        35 C Testpattern
+ 15/01/09 12:58 Job done         
+ 15/01/09 12:58 Print done       
+ 15/01/09 12:57 Print start      
+ 15/01/09 12:57 Job start        35 C Testpattern
+ 15/01/09 12:57 Job done         
+ 15/01/09 12:57 Print done       
+ 15/01/09 12:57 Print start      
+ 15/01/09 12:57 Job start        35 C Testpattern
+ 15/01/09 12:57 Job done         
+ 15/01/09 12:57 Print done       
+ 15/01/09 12:56 Print start      
+ 15/01/09 12:56 Job start        35 C Testpattern
+ 15/01/09 12:56 Job done         
+ 15/01/09 12:56 Print done       
+ 15/01/09 12:56 Print start      
+ 15/01/09 12:56 Job start        35 C Testpattern
+ 15/01/09 12:56 Job done         
+ 15/01/09 12:56 Print done       
+ 15/01/09 12:55 Print start      
+ 15/01/09 12:55 Job start        35 C Testpattern
+ 15/01/09 12:55 Job done         
+ 15/01/09 12:55 Print done       
+ 15/01/09 12:55 Print start      
+ 15/01/09 12:55 Job start        35 C Testpattern
+ 15/01/09 12:55 Job done         
+ 15/01/09 12:55 Print done       
+ 15/01/09 12:55 Print start      
+ 15/01/09 12:55 Job start        35 C Testpattern
+ 15/01/09 12:55 Job done         
+ 15/01/09 12:55 Print done       
+ 15/01/09 12:55 Print start      
+ 15/01/09 12:55 Job start        35 C Testpattern
+ 15/01/09 12:55 Job done         
+ 15/01/09 12:55 Print done       
+ 15/01/09 12:54 Print start      
+ 15/01/09 12:54 Job start        35 C Testpattern
+ 15/01/09 12:54 Job done         
+ 15/01/09 12:54 Print done       
+ 15/01/09 12:54 Print start      
+ 15/01/09 12:54 Job start        35 C Testpattern
+ 15/01/09 12:54 Job done         
+ 15/01/09 12:54 Print done       
+ 15/01/09 12:54 Print start      
+ 15/01/09 12:54 Job start        35 C Testpattern
+ 15/01/09 12:54 Job done         
+ 15/01/09 12:54 Print done       
+ 15/01/09 12:54 Print start      
+ 15/01/09 12:54 Job start        35 C Testpattern
+ 15/01/09 12:53 Job done         
+ 15/01/09 12:53 Print done       
+ 15/01/09 12:53 Print start      
+ 15/01/09 12:52 Job start        35 C Testpattern
+ 15/01/09 12:52 Job done         
+ 15/01/09 12:52 Print done       
+ 15/01/09 12:51 Print start      
+ 15/01/09 12:51 Job start        35 C Testpattern
+ 15/01/09 12:51 System setting   
+ 15/01/09 12:51 Setup done       Width:506mm Env.: 0.116
+ 15/01/09 12:49 Sub power on     Service mode
+ 15/01/09 12:30 Temperature      35 C
+ 15/01/09 12:30 Sub power off    
+ 15/01/09 12:27 Temperature      35 C
+ 15/01/09 12:23 Cancel done      
+ 15/01/09 12:23 Cancel start     Pinch lever up
+ 15/01/09 12:19 Job done         
+ 15/01/09 12:19 Cutting done     
+ 15/01/09 12:18 Cutting start    
+ 15/01/09 12:18 Print done       
+ 15/01/09 12:11 Print start      
+ 15/01/09 12:11 Job start        36 C 
+ 15/01/09 12:09 Job done         
+ 15/01/09 12:09 Print done       
+ 15/01/09 12:05 Print start      
+
+@DONE@

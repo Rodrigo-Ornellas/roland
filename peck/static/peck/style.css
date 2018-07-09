@@ -1,0 +1,458 @@
+@import url('https://fonts.googleapis.com/css?family=Rajdhani:300,400,500,600,700');
+
+body{
+    background-color: white;
+    font-family: "Rajdhani", "Arial", "Calibri", sans-serif;
+    font-size: 1rem;
+    margin: 0;
+}
+
+.wrapper{
+    margin: auto;
+
+    background-color: #f5eef8;
+    padding-left: 1%;
+
+    min-height: 500px;
+
+}
+
+nav{
+    background-color: grey;
+
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav h1
+{
+    color: white;
+    text-align: left;
+    font-size: 1.6rem;
+    margin: 0;
+    margin-left: 1rem;
+
+}
+
+nav ul{
+    list-style-type: none;
+    padding: 0;
+    margin-top: 0;
+
+}
+
+nav ul li
+{
+    text-align: center;
+
+    background-color: firebrick;
+    width: 100%;
+
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 0;
+
+    /* border-top: 1px solid white; */
+    font-weight: 700;
+}
+
+
+nav a:link, nav a:visited
+{
+    color: white;
+    text-decoration: none;
+}
+
+nav ul li:hover
+{
+    background-color: #fef9e7;
+}
+
+nav ul li:hover a
+{
+    color: black;
+}
+
+
+
+/*h1 a
+{
+    float: right;
+    width: 100px;
+    color: white;
+    font-weight: bolder;
+    text-decoration: none;
+    border-left: 1px solid white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    display: block;
+    text-align: center;
+    font-size: 0.5em;
+}*/
+
+
+main
+{
+    width: 100%;
+    margin-top:0;
+    padding-bottom:15px;
+    /*font-size: 0.8em;*/
+    /*display: table;*/
+    /* background-color: yellow;
+    border: 3px solid yellow; */
+    /*float: right;*/
+    /*clear: both;*/
+
+    min-height: 500px;
+}
+
+footer{
+    border-top: 1px solid grey;
+    background-color:  grey;
+    width: 100%;
+    height: 50px;
+
+    font-size: 0.8em;
+    padding-left: 1.3%;
+    color: white;
+    font-weight: 500;
+}
+
+/*=============  base.html CSS (up) ==================*/
+
+h2{
+    color: firebrick;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    font-size: 1.3em;
+}
+
+#home{
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+}
+
+.meio
+{
+    margin-top: 2%;
+    margin-right: 2%;
+    height: 10rem;
+
+    padding: 1rem;
+    width: 100%;
+
+    border: 1px solid black;
+}
+
+.top
+{
+    width: 100%;
+    /*float: left;*/
+    /*overflow: hidden; */
+    /*border: 3px solid yellow; */
+}
+
+/*=============  index.html CSS (up) ==================*/
+
+h3
+{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: darkgray;
+}
+
+table
+{
+    /*
+     table-layout: auto;
+    border-radius: 10px;
+    border: 1px solid gray;
+    width: 100%; */
+    /*border-collapse:separate;
+    border-spacing:15px; */
+    word-wrap:break-word;
+    display: inline-block;
+    vertical-align: text-top;
+    text-align: left;
+}
+
+th
+{
+    text-align: left;
+    font-size: 1.1em;
+}
+
+#hoje
+{
+    color: red;
+}
+
+li
+{
+    font-size: 1.0em;
+}
+
+
+#top_left
+{
+    width: 55%;
+    float: left;
+    overflow: hidden;
+}
+
+#top_right
+{
+    width: 20%;
+    float: right;
+    overflow: hidden;
+}
+
+#mid_left
+{
+    width: 49%;
+    float: left;
+    overflow: hidden;
+}
+
+#mid_right
+{
+    width: 49%;
+    float: right;
+    overflow: auto;
+}
+
+
+
+/* SUB-menu JAVASCRIPT
+http://javascript-array.com/scripts/simple_drop_down_menu/
+*/
+#m01 div
+{
+    position: absolute;
+    visibility: hidden;
+    margin: 0;
+    padding: 0;
+    background: #EAEBD8;
+    border: 1px solid #5970B2;
+}
+
+#m01 div a
+{
+    position: relative;
+    display: block;
+    margin: 0;
+    padding: 5px 10px;
+    width: auto;
+    /* white-space: nowrap; */
+    text-align: left;
+    text-decoration: none;
+    background: #EAEBD8;
+    color: #2875DE;
+    font: 11px arial;
+}
+
+#m01 div a:hover
+{
+    background: #49A3FF;
+    color: #FFF;
+}
+
+
+/* MODELO 1 > 3 COLUNAS (direita, meio e esquerda)
+ http://matthewjamestaylor.com/blog/equal-height-columns-4-column.htm
+ */
+#esq
+{
+    width: 30%;
+    /*background-color: yellow; /* #E2E1E9 */
+    /* top: 193px;
+    left: 0; */
+    padding-top: 0;
+    padding-right: 25px;
+    padding-bottom: 0;
+    padding-left: 0;
+    height: 700px;
+
+    float: left;
+    position: relative;
+    overflow: hidden;
+
+    /*border: 3px solid black;*/
+}
+
+#dir
+{
+    width: 34%;
+    /*background-color: blue; /* #E2E1E9 */
+    /*position: absolute;
+    /* top: 193px;
+    left: 652px; */
+    padding-top: 0;
+    padding-bottom: 0;
+    color: #000;
+    height: 700px;
+
+    float: right;
+    position: relative;
+    overflow: hidden;
+
+    /*border: 3px solid green;*/
+}
+
+
+
+#frame_top
+{
+    /* Conteudo DINAMICO da Aplicação
+    */
+
+    /* position: float;
+    top: 193px;
+    left: 0px;
+    width: 900px;
+
+    padding-top: 0px;
+    margin-right: auto;
+    margin-left: auto;
+
+    text-decoration: none; */
+    margin-top: 0px;
+}
+
+
+/* MODELO 4 > 2 colunas > esq + dir_resto */
+#dir_resto
+{
+    width: 60%;
+    background-color: #E2E1E9;
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 25px;
+    height: 850px;
+    color: #000;
+
+    float: left;
+    position: relative;
+    overflow: hidden;
+
+    /*border:1px solid blue;*/
+}
+
+/* MODELO 5 > 2 colunas > esq_grande + dir */
+#esq_grande
+{
+    width: 60%;
+    padding-top: 0;
+    padding-right: 25px;
+    padding-bottom: 0;
+    height: 500px;
+    color: #000;
+    float: left;
+    position: relative;
+    overflow: hidden;
+}
+
+/* MODELO 5 > 2 colunas > esq2 + dir2 */
+
+#esq2 {
+
+    width: 45%;
+    padding-top: 0;
+    padding-right: 25px;
+    padding-bottom: 0;
+    height: 500px;
+    color: #000;
+
+    float: left;
+    position: relative;
+    overflow: hidden;
+
+    /*border: 3px solid yellow;*/
+}
+
+#dir2 {
+    width: 50%;
+    /*background-color: blue; /* #E2E1E9 */
+    /*position: absolute;
+    /* top: 193px;
+    left: 652px; */
+    padding-top: 0;
+    padding-bottom: 0;
+    color: #000;
+    height: 500px;
+
+    float: left;
+    position: relative;
+    overflow: hidden;
+
+    /*border: 3px solid green; */
+}
+
+/* MODELO 6 > lista de DIVs - uma embaixo da outra */
+
+#lista1 {
+
+    width: 100%;
+
+    padding-top: 0px;
+    margin-right: auto;
+    margin-left: auto;
+
+    text-decoration: none; */
+    margin-top: 0px;
+
+    float: left;
+    position: relative;
+    overflow: hidden;
+}
+
+@media screen and (min-width: 500px)
+{
+    .wrapper
+    {
+        width: 900px;
+    }
+
+    nav, footer
+    {
+        margin-left: -1.3%;
+    }
+
+    nav ul
+    {
+        text-align: right;
+        display: flex;
+    }
+
+    nav ul li
+    {
+        /* display: inline-block; */
+        /* width: 100%; */
+        padding-left: .5rem;
+        padding-right: .5rem;
+        margin-left: .2rem;
+    }
+
+    .meio
+    {
+        width: 48%;
+    }
+
+/*    footer
+    {
+        width: 101.2%;
+    }*/
+
+}
+
+
+/*==========================================================*/
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}

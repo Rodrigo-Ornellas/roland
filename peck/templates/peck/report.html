@@ -1,0 +1,156 @@
+{% extends 'peck/base.html' %}
+
+{% block corpo %}
+    <h2>Detalhes do Peck Selecionado</h2>
+    <div id="top_left">
+        {% if detalhe_peck %}
+        <h3>Dados de Cadastro</h3>
+        <br>
+            <table>
+                <tr>
+                        <th>Cliente</th>
+                        <td>{{ detalhe_peck.mac.client }}</td>
+                </tr>
+                <tr>
+                        <th>Serial</th>
+                        <td>{{ detalhe_peck.pec1.serial }}</td>
+                </tr>
+                <tr>
+                        <th>Modelo</th>
+                        <td>{{ detalhe_peck.pec1.modelo }}</td>
+                </tr>
+                <tr>
+                        <th>Id da Maquina</th>
+                        <td>{{ detalhe_peck.mac.maquina }}</td>
+                </tr>
+                <tr>
+                        <th>Firmware</th>
+                        <td>{{ detalhe_peck.pec1.firm }}</td>
+                </tr>
+                <tr>
+                        <th>Data do Ultimo PECK</th>
+                        <td>{{ detalhe_peck.pec1.data|date:'d-m-Y' }}</td>
+                </tr>
+                <tr>
+                        <th>Ink Type</th>
+                        <td>{{ detalhe_peck.pec1.ink }}</td>
+                </tr>
+                <!-- <tr>
+                        <th>Estado da Bateria</th>
+                        <td>{{ detalhe_peck.pec1.bat }}</td>
+                </tr> -->
+            </table>
+           
+        {% else %}
+            <br/>
+            <p>{{ err.mensagem }}</p>
+        {% endif %}
+    </div>
+    <!-- http://www.tangowithdjango.com/book/chapters/templates_static.html -->
+    <div id="top_right" align="center">
+        <h3>Estado da Bateria</h3>
+        {% load staticfiles %}
+        <br>
+        {% if detalhe_peck.pec1.bat == "Charged" %}
+            <img src="{% static 'img/bat_verde.png' %}" alt="Bat Charged" height="70"> 
+        {% elif detalhe_peck.pec1.bat == "Half" %}
+            <img src="{% static 'img/bat_amarelo.png' %}" alt="Bat Half" height="70"> 
+        {% elif detalhe_peck.pec1.bat == "Empty" %}
+            <img src="{% static 'img/bat_vermelho.png' %}" alt="Bat Empty" height="70"> 
+        {% elif detalhe_peck.pec1.bat == "No Bat" %}
+            <img src="{% static 'img/bat_nobat.png' %}" alt="No Bat" height="70"> 
+        {% endif %}
+        
+    </div>
+
+{% if detalhe_peck.pec2 %}
+    <div id="mid_left">
+        <br>
+        <h3>Dados do Motor SCAN</h3>
+        <br>
+        <table>
+            <tr>
+                    <th>Scan Atual</th>
+                    <td>{{ detalhe_peck.pec1.scan }} horas</td>
+            </tr>
+            <tr>
+                    <th>Scan Anterior</th>
+                    <td>{{ detalhe_peck.pec2.scan }} horas</td>
+            </tr>
+            <tr>
+                    <th>Diferença Scan</th>
+                    <td>{{ detalhe_peck.scan.difscan}} horas de trabalho </td>
+                    <td> em {{ detalhe_peck.scan.difdays}} dias</td>
+            </tr>
+            <tr>
+                    <th>Media Diaria</th>
+                    <td>{{ detalhe_peck.scan.medscan}} horas/dia</td>
+            </tr>
+            <tr>
+                    <th>Vida Util</th>
+                    <td>{{ detalhe_peck.mod.scan }} horas</td>
+            </tr>
+            <tr>
+                    <th>Vida Utilizada</th>
+                    <td>{{ detalhe_peck.scan.percscan}} </td>
+            </tr>
+            <tr>
+                    <th>Data Aprox. da Troca</th>
+                    <td>{{ detalhe_peck.scan.proxima}}</td>
+                    <td id="hoje">{{ detalhe_peck.scan.obs }}</td>
+                    <!-- <td id="hoje"> / {{ detalhe_peck.conta.hoje|date:'M. d, Y' }}</td> -->
+            </tr>
+            <tr>
+                    <th>Horas Estimadas Scan Hoje</th>
+                    <td id="hoje">{{ detalhe_peck.scan.scanhoje}} horas</td>
+            </tr>
+        </table>
+    </div>    
+{% endif %}
+
+{% if detalhe_peck.pec2 %}
+    <div id="mid_right">
+        <br>
+        <h3>Dados da Bomba</h3>
+        <br>
+        <table>
+            <tr>
+                    <th>Bomba Atual</th>
+                    <td>{{ detalhe_peck.pec1.pump }} vezes</td>
+            </tr>
+            <tr>
+                    <th>Bomba Anterior</th>
+                    <td>{{ detalhe_peck.pec2.pump }} vezes</td>
+            </tr>
+            <tr>
+                    <th>Diferença</th>
+                    <td>{{ detalhe_peck.pump.difpump}} vezes</td>
+                    <td> e {{ detalhe_peck.pump.difdays}} dias</td>
+            </tr>
+            <tr>
+                    <th>Media Diaria</th>
+                    <td>{{ detalhe_peck.pump.medpump}} vezes/dia</td>
+            </tr>
+            <tr>
+                    <th>Vida Util</th>
+                    <td>{{ detalhe_peck.mod.pump }} vezes</td>
+            </tr>
+            <tr>
+                    <th>Vida Utilizada</th>
+                    <td>{{ detalhe_peck.pump.percpump}} </td>
+            </tr>
+            <tr>
+                    <th>Data Aprox. da Troca</th>
+                    <td>{{ detalhe_peck.pump.proxima}}</td>
+                    <td id="hoje">{{ detalhe_peck.pump.obs }}</td>
+                    <!-- <td id="hoje"> / {{ detalhe_peck.conta.hoje|date:'M. d, Y' }}</td> -->
+            </tr>
+            <tr>
+                    <th>Horas Estimadas Pump Hoje</th>
+                    <td id="hoje">{{ detalhe_peck.pump.hoje}} vezes</td>
+            </tr>
+        </table>
+    </div>    
+{% endif %}
+    
+{% endblock %}

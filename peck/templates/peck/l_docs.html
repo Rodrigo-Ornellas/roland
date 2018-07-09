@@ -1,0 +1,25 @@
+{% extends 'peck/base.html' %}
+
+{% block corpo %}
+{% load staticfiles %}
+<div id="frame_top">
+        <h2>Lista de Arquivos IMPORTADOS</h2> 
+    <table>
+        <tr>
+            <!-- <th>Upload Date</th> -->
+            <th>ID</th>
+            <th>Caminho do Arquivo</th>
+        </tr>
+    {% if documents %}
+        {% for doc in documents %}
+        <tr>
+            <td>{{ doc.id }}</td>
+            <td><a href="{% url 'listadocs' doc.docfile %}">{{ doc.docfile }}</a></td>
+        </tr>
+        {% endfor %}
+    {% else %}
+        <tr>Sem arquivos.</tr>
+    {% endif %}
+    </table>
+</div>
+{% endblock %}

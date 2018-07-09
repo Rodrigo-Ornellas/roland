@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+            <meta charset="utf-8"/>
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Roland DB</title>
+
+        {% load static %}
+            <link rel="stylesheet" type="text/css" href="{% static 'peck/style.css' %}" />
+</head>
+
+    <body>
+        <div class="wrapper">
+            <nav>
+              <h1>Roland DB</h1>
+                <ul>
+                    <li><a href="{% url 'peck:vhome' %}">Home</a></li>
+                    <li><a href="{% url 'peck:listapeck' %}">Pecks</a></li>
+                    <li><a href="{% url 'peck:listaclis' %}">Maquinas</a></li>
+                    <li><a href="{% url 'peck:vermodelos' %}">Modelos</a></li>
+                    <li><a href="{% url 'peck:baixar' %}">Baixar</a></li>
+                </ul>
+            </nav>
+            <main>
+
+                {% block corpo %}
+                                <!--  template -- lista.html -->
+                {% endblock corpo %}
+            </main>
+
+            <footer class="clearfix">
+                <p>designed by:<strong> Rodrigo Ornellas - Copyright 2017</strong></p>
+                <!-- <p>Visite nosso site <a href="http://www.amplytech.com.br">www.amplytech.com.br</a></p> -->
+            </footer> <!--  fecha 'footer' -->
+        </div>  <!-- ID=ALL -->
+    </body>
+</html>

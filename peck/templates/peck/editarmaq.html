@@ -1,0 +1,16 @@
+{% extends 'peck/base.html' %}
+
+{% block corpo %}
+<div id="frame_top">
+    <h2>Editando dados da MAQUINA</h2> 
+
+    <form action="{% url 'peck:editmaq' %}" method="post"> {% csrf_token %}
+    <ul>
+        {{ form.as_ul }}
+    </ul>
+    
+    <input type="submit" name="submit" value="editar">
+    </form>
+
+</div>
+{% endblock %}

@@ -1,0 +1,420 @@
+Model                 : RE-640
+Version               : 1.70
+Serial No.            : ZAW1123
+Date                  : 2014/07/22 11:54
+IP Address            : 192.168.002.002
+Subnet Mask           : 255.255.255.000
+Gateway Address       : 000.000.000.000
+MAC Address           : 00:40:AB:00:F1:2A
+Ink type              : E-SOL Max 4Color
+Ink remain(1-4)       :  76/ 65/  0/  0
+Ink remain(5-8)       :  36/ 30/ 76/ 83
+Head height           : High
+Head Temperature      : 24C /  75.2F
+Heater temp.(PRINT)   : 35C /  94F
+Heater temp.(DRYER)   : 42C / 106F
+Sheet type            : Opaque
+Empty mode            : Stop
+Calibration           : +0.80 %
+Full width scanning   : OFF
+Scan interval         :  0.0 sec
+Length unit           : mm
+Temperature unit      : C
+Menu language         : English
+Sleep interval        :  30 min
+Sheet remain          : 0.0m
+Periodic cleaning     :  NONE 
+Vacuum power          : 100 %
+Heater setting(PRINT) : 35C /  94F
+Heater setting(DRYER) : 42C / 106F
+Feed for dry          : Disable
+Preheating            : PREHEAT
+Drying Time           :   0 min
+Set remain at loading : Disable
+Bi-dir. simple        :  +2 
+Bi-dir. adjust No.1   :  -2 
+        No.2   :  -1 
+        No.3   :   0 
+        No.4   :   0 
+        No.5   :   0 
+               No.6   :  -2 
+        No.7   :  -2 
+        No.8   :   0 
+        No.9   :  -2 
+        No.10  :  +1 
+               No.11  :   0 
+        No.12  :   0 
+Media Release         : Disable
+Sheet Width           : 1625.0 mm
+Side Margin           : 10mm
+Sheet Pos(R)          :   62.2 mm
+Sheet Pos(L)          : 1625.6 mm
+Preset name           : LINHO         
+Calibration           : +0.20 %
+Heater setting(PRINT) : 35C /  94F
+Heater setting(DRYER) : 42C / 106F
+Feed for dry          : Disable
+Bi-dir. simple        :  +2 
+Scan interval   :  0.0 sec
+Sheet type      : Opaque
+Full width S    : MEDIA
+Preheating      : Preheat
+Vacuum power    : Auto
+Media Release : Disable
+Side Margin   : 10mm
+Drying Time   :   0 min
+Sheet Width   :    1625.0 mm
+Sheet Pos(R)  :      62.2 mm
+Sheet Pos(L)  :    1625.6 mm
+Bi-dir. Adjust No.1   :  -5  
+        No.2   :  -2  
+        No.3   :  -4  
+        No.4   :  -2  
+        No.5   :  -4  
+               No.6   :  -3  
+        No.7   :  -3  
+        No.8   :  -3  
+        No.9   :  -1.5
+        No.10  :  -1  
+               No.11  :   0  
+        No.12  :   0  
+Preset name           : NAPA          
+Calibration           : +0.80 %
+Heater setting(PRINT) : 35C /  94F
+Heater setting(DRYER) : 42C / 106F
+Feed for dry          : Disable
+Bi-dir. simple        :  +2 
+Scan interval   :  0.0 sec
+Sheet type      : Opaque
+Full width S    : OFF
+Preheating      : Preheat
+Vacuum power    : Auto
+Media Release : Disable
+Side Margin   : 10mm
+Drying Time   :   0 min
+Sheet Width   :    1625.0 mm
+Sheet Pos(R)  :      62.2 mm
+Sheet Pos(L)  :    1625.6 mm
+Bi-dir. Adjust No.1   :  -2  
+        No.2   :  -1  
+        No.3   :   0  
+        No.4   :   0  
+        No.5   :   0  
+               No.6   :  -2  
+        No.7   :  -2  
+        No.8   :   0  
+        No.9   :  -2  
+        No.10  :  +1  
+               No.11  :   0  
+        No.12  :   0  
+Preset name           : LONA FOSCA    
+Calibration           : +0.20 %
+Heater setting(PRINT) : 35C /  94F
+Heater setting(DRYER) : 42C / 106F
+Feed for dry          : Disable
+Bi-dir. simple        :  +2 
+Scan interval   :  0.0 sec
+Sheet type      : Opaque
+Full width S    : MEDIA
+Preheating      : Preheat
+Vacuum power    : Auto
+Media Release : Disable
+Side Margin   : 10mm
+Drying Time   :   0 min
+Sheet Width   :    1625.0 mm
+Sheet Pos(R)  :      62.2 mm
+Sheet Pos(L)  :    1625.6 mm
+Bi-dir. Adjust No.1   :  -5  
+        No.2   :  -2  
+        No.3   :  -4  
+        No.4   :  -2  
+        No.5   :  -4  
+               No.6   :  -3  
+        No.7   :  -3  
+        No.8   :  -3  
+        No.9   :  -1.5
+        No.10  :  -1  
+               No.11  :   0  
+        No.12  :   0  
+Preset name           : ADESIVO BRILHO
+Calibration           : +0.10 %
+Heater setting(PRINT) : 40C / 104F
+Heater setting(DRYER) : 45C / 112F
+Feed for dry          : Disable
+Bi-dir. simple        :  +2 
+Scan interval   :  0.0 sec
+Sheet type      : Opaque
+Full width S    : FULL
+Preheating      : Preheat
+Vacuum power    : Auto
+Media Release : Disable
+Side Margin   : 10mm
+Drying Time   :   0 min
+Sheet Width   :    1625.0 mm
+Sheet Pos(R)  :      62.2 mm
+Sheet Pos(L)  :    1625.6 mm
+Bi-dir. Adjust No.1   :  -6  
+        No.2   :  -3.5
+        No.3   :  -4.5
+        No.4   :   0  
+        No.5   :  -3  
+               No.6   :  -2  
+        No.7   :  -2.5
+        No.8   :  -1  
+        No.9   :  -1  
+        No.10  :  -1  
+               No.11  :  -2.5
+        No.12  :  -1  
+Preset name           : NAME5
+Calibration           :  0.00 %
+Heater setting(PRINT) : 35C /  94F
+Heater setting(DRYER) : 40C / 104F
+Feed for dry          : Disable
+Bi-dir. simple        :   0 
+Scan interval   :  0.0 sec
+Sheet type      : Opaque
+Full width S    : FULL
+Preheating      : Preheat
+Vacuum power    : Auto
+Media Release : Disable
+Side Margin   : 10mm
+Drying Time   :   0 min
+Sheet Width   :    1625.0 mm
+Sheet Pos(R)  :       0.0 mm
+Sheet Pos(L)  :    1625.6 mm
+Bi-dir. Adjust No.1   :   0  
+        No.2   :   0  
+        No.3   :   0  
+        No.4   :   0  
+        No.5   :   0  
+               No.6   :   0  
+        No.7   :   0  
+        No.8   :   0  
+        No.9   :   0  
+        No.10  :   0  
+               No.11  :   0  
+        No.12  :   0  
+Preset name           : NAME6
+Calibration           :  0.00 %
+Heater setting(PRINT) : 35C /  94F
+Heater setting(DRYER) : 40C / 104F
+Feed for dry          : Disable
+Bi-dir. simple        :   0 
+Scan interval   :  0.0 sec
+Sheet type      : Opaque
+Full width S    : FULL
+Preheating      : Preheat
+Vacuum power    : Auto
+Media Release : Disable
+Side Margin   : 10mm
+Drying Time   :   0 min
+Sheet Width   :    1625.0 mm
+Sheet Pos(R)  :       0.0 mm
+Sheet Pos(L)  :    1625.6 mm
+Bi-dir. Adjust No.1   :   0  
+        No.2   :   0  
+        No.3   :   0  
+        No.4   :   0  
+        No.5   :   0  
+               No.6   :   0  
+        No.7   :   0  
+        No.8   :   0  
+        No.9   :   0  
+        No.10  :   0  
+               No.11  :   0  
+        No.12  :   0  
+Preset name           : NAME7
+Calibration           :  0.00 %
+Heater setting(PRINT) : 35C /  94F
+Heater setting(DRYER) : 40C / 104F
+Feed for dry          : Disable
+Bi-dir. simple        :   0 
+Scan interval   :  0.0 sec
+Sheet type      : Opaque
+Full width S    : FULL
+Preheating      : Preheat
+Vacuum power    : Auto
+Media Release : Disable
+Side Margin   : 10mm
+Drying Time   :   0 min
+Sheet Width   :    1625.0 mm
+Sheet Pos(R)  :       0.0 mm
+Sheet Pos(L)  :    1625.6 mm
+Bi-dir. Adjust No.1   :   0  
+        No.2   :   0  
+        No.3   :   0  
+        No.4   :   0  
+        No.5   :   0  
+               No.6   :   0  
+        No.7   :   0  
+        No.8   :   0  
+        No.9   :   0  
+        No.10  :   0  
+               No.11  :   0  
+        No.12  :   0  
+Preset name           : NAME8
+Calibration           :  0.00 %
+Heater setting(PRINT) : 35C /  94F
+Heater setting(DRYER) : 40C / 104F
+Feed for dry          : Disable
+Bi-dir. simple        :   0 
+Scan interval   :  0.0 sec
+Sheet type      : Opaque
+Full width S    : FULL
+Preheating      : Preheat
+Vacuum power    : Auto
+Media Release : Disable
+Side Margin   : 10mm
+Drying Time   :   0 min
+Sheet Width   :    1625.0 mm
+Sheet Pos(R)  :       0.0 mm
+Sheet Pos(L)  :    1625.6 mm
+Bi-dir. Adjust No.1   :   0  
+        No.2   :   0  
+        No.3   :   0  
+        No.4   :   0  
+        No.5   :   0  
+               No.6   :   0  
+        No.7   :   0  
+        No.8   :   0  
+        No.9   :   0  
+        No.10  :   0  
+               No.11  :   0  
+        No.12  :   0  
+Head rank             : 18E907678878C7F859296T08
+Head bi
+ Pigment Factory:
+  No.1  : +14.5
+  No.2  :  +5  
+  No.3  : +21.5
+  No.4  :  +9  
+ Pigment:
+  No.1  : +15  
+  No.2  : +16.5
+  No.3  :  +5.5
+  No.4  :  +4  
+  No.5  : +23  
+  No.6  : +25  
+  No.7  :  +9.5
+  No.8  :  +7  
+ Max    :
+  No.1  : +18  
+  No.2  : +14.5
+  No.3  : +12.5
+  No.4  : +16  
+  No.5  : +13  
+  No.6  :  +7  
+  No.7  : +10  
+  No.8  :  +4  
+  No.9  :  +6  
+  No.10 :  +4.5
+  No.11 : +25  
+  No.12 : +19.5
+  No.13 : +19.5
+  No.14 : +23.5
+  No.15 : +19.5
+  No.16 : +11.5
+  No.17 : +15  
+  No.18 :  +8  
+  No.19 : +10  
+  No.20 :  +8  
+Dip SW                : 0110
+System SW page( 1- 4) : 00000000 00000000 00000000 00000000
+System SW page( 5- 8) : 00000000 00000000 00000000 00000000
+System SW page( 9-12) : 00000000 00000000 00000000 00000000
+System SW page(13-16) : 00000000 00000000 00000000 00000000
+Ink Mode              : E-SOL Max4COLOR
+Limit position        :      22.2 mm
+Cutter down position  :    2016.4 mm
+Calibration default   :     -0.23 %
+Encoder position(L)   :    1804.9 mm
+Encoder position(R)   :     179.3 mm
+Maintenance request   : NONE
+Booter version        : 1.20
+Battery               :   Charged
+Periodic CL. degree   : LIGHT
+Set sheet position    : 62 - 1625
+Drain liquid volume   : 1451.3 cc
+Standard head         : 1
+Flushing pos adjust   : -0.30 mm
+Heater adjust(PRINT)  :   0C
+Heater adjust(DRYER)  :   0C
+Preheat temperature   : 30C
+Heating timeout       : 20 min
+Model                  : RE-640
+Version                : 1.70
+Serial No.             : ZAW1123
+Date                   : 2014/07/22 11:54
+==== Motor group ====
+Motor feed   (trip/total [clear]):          7/          7 hours [0]
+Motor scan   (trip/total [clear]):        199/        199 hours [0]
+Pump Times   (trip/total [clear]):     30,164/     30,164 times [0]
+==== Head group ====
+Shot Cnt.  1 (trip/total [clear]):  1,321,014/  1,321,014 K shots/nozzle [0]
+Shot Cnt.  2 (trip/total [clear]):    958,029/    958,029 K shots/nozzle [0]
+Shot Cnt.  3 (trip/total [clear]):    823,339/    823,339 K shots/nozzle [0]
+Shot Cnt.  4 (trip/total [clear]):    529,542/    529,542 K shots/nozzle [0]
+Shot Cnt.  5 (trip/total [clear]):    530,042/    530,042 K shots/nozzle [0]
+Shot Cnt.  6 (trip/total [clear]):    823,139/    823,139 K shots/nozzle [0]
+Shot Cnt.  7 (trip/total [clear]):    957,459/    957,459 K shots/nozzle [0]
+Shot Cnt.  8 (trip/total [clear]):  1,319,850/  1,319,850 K shots/nozzle [0]
+                       :     H1
+Wiping count for head  :    492 times
+Headrank set count     :      0 times
+Auto cleaning count    :    698 times
+Normal cleaning count  :      4 times
+Medium cleaning count  :      1 times
+Powerful cleaning count:      1 times
+Super cleaning count   :      0 times
+==== Maintenance group ====
+Maintenance Count      :     40 times
+Total time             :  1,600 hours
+Printing time          :     62 hours
+==== Wiper group ====
+Wiping count           :     64 times
+Wiper replace count    :     32 times
+Felt Wiping count      :     68 times
+Felt Wipe replace count:      5 times
+==== Print group ====
+Printing time          :         259 hours
+Print pages            :       1,823 pages
+==== Ink group ====
+Cartridge change(1-4)  :      4      3      2      1 times
+Cartridge change(5-8)  :      1      2      4      3 times
+Change ink type        :           0 times
+==== Error group ====
+Service call count     :      0 times
+Service call history   : **** **** **** **** ****
+Motor error  (feed)    :      6 times
+Motor error  (scan)    :     18 times
+Low temperature error  :      0 times
+High temperature error :      0 times
+Emergency capping      :      2 times
+Start uncapped         :     26 times
+==== System group ====
+Power on count         :    994 times
+Power on time          :    681 hours
+Sleep time             :    888 hours
+Sheet cut count        :     12 times
+Peck used count        :      0 times
+Net fault count(pon)   :      0 times
+Net fault count(cfg)   :      0 times
+==== Heater group ====        PRINT      DRYER
+Heater used time       :        221        221 hours
+Model                  : RE-640
+Version                : 1.70
+Serial No.             : ZAW1123
+No:          SERIAL/  INK TYPE/  CAP./LOT No/   CONSUM./           TIME/INS./    FLAG
+ 1:142901ef05000004/     Max Y/ 400cc/30808C/  97.444cc/0y027d18h13m37s/   1/00000000
+ 2:14a8a1f9050000db/     Max Y/ 400cc/30807C/ 138.506cc/0y041d00h57m35s/   2/00000000
+ 3:14e39fca050000b0/     Max C/ 400cc/30212A/ 449.635cc/0y126d21h03m48s/   5/00000000
+ 4:14119ccc050000eb/     Max C/ 400cc/30212B/ 446.253cc/0y126d18h45m04s/   5/00000000
+ 5:146d4dd505000036/     Max K/ 400cc/30506A/ 257.107cc/0y109d20h38m15s/   4/00000000
+ 6:14be70d5050000c3/     Max K/ 400cc/30506A/ 281.487cc/0y112d19h07m56s/   4/00000000
+ 7:142717ec0500007f/     Max M/ 400cc/30909C/  96.629cc/0y019d19h06m51s/   1/00000000
+ 8:14f13fec050000cf/     Max M/ 400cc/30909C/  66.703cc/0y008d01h31m03s/   1/00000000
+Model                  : RE-640
+Version                : 1.70
+Serial No.             : ZAW1123
+Date                   : 2014/07/22 11:54
+Last event             : 20065
