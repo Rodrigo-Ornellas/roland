@@ -122,7 +122,7 @@ USE_TZ = True
 STATIC_URL = '/static/'
 
 # To access the MEDIA_URL in template you must add django.template.context_processors.media to your context_processeors inside the TEMPLATES config.
-MEDIA_URL = '/media/'
+MEDIA_URL = '/uploaded/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'uploaded')
 
 # http://www.anjuke.tech/questions/5102469/how-to-solve-empty-static-prefix-not-permitted-error-in-django

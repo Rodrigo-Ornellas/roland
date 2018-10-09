@@ -7,7 +7,9 @@ from django.template import RequestContext
 from django.conf import settings
 from django.views.generic.edit import UpdateView
 from django.views import generic
+from django.views.generic import FormView, DetailView, ListView
 from django.core.files.storage import FileSystemStorage
+from django.core.urlresolvers import reverse
 
 # from django.urls import path, register_converter, reverse, re_path
 # from django.core.context_processors import csrf
@@ -25,10 +27,7 @@ import os
 import sys
 import re
 
-
-from datetime import datetime
-
-# ============================================================================================
+#==================================================================
 # 1) HOME view
 def index(request):
     lista_pecks = Peck.objects.all().order_by('id')
@@ -36,7 +35,7 @@ def index(request):
     template = 'peck/index.html'
     return render(request, template, context, content_type="text/html")
 
-# ============================================================================================
+#==================================================================
 # 2) Meta
 # def dmeta(request):
 #     # exercicio django book chapter 7
@@ -56,7 +55,7 @@ def index(request):
 #         html.append('<tr><td>%s</td><td>%s</td></tr>' % (k, values[k]))
 #     return HttpResponse('<table>%s</table>' % '\n'.join(html))
 
-# ============================================================================================
+#==================================================================
 # 3) Busca de Cliente
 def search_cli(request):
     if 'query' in request.GET and request.GET['query']:
@@ -70,7 +69,7 @@ def search_cli(request):
     else:
         return HttpResponse('ERRO 004: VIEW: search_cli > Nenhum cliente ou serial encontrado.')
 
-# ============================================================================================
+#==================================================================
 # 4) Downloads attachment files from GMAIL account
 def baixar(request):
     # Dados de Login e DEFINICOES de VARIAVEIS
@@ -90,10 +89,10 @@ def baixar(request):
 
     #userName = raw_input('Enter your GMail username:')
     #passwd = getpass.getpass('Enter your password: ')
-    userName = "adm.amplytech@gmail.com"                #"ornellas.rodrigo@gmail.com"
-    passwd = "76504591"                                #"ro292722="
-    pastaemail = "peck"                                 #'amply'
-    detach_dir = os.path.join(settings.ROOTDIR, 'templates')                       #diretorio local onde serão baixados os arquivos
+    userName = "ornellas.rodrigo@gmail.com"
+    passwd = "adrianna3="
+    pastaemail = "amply"
+    detach_dir = os.path.join(settings.ROOTDIR, 'templates')      #diretorio local onde serão baixados os arquivos
     pastalocal = 'uploaded'                     # esta pasta não pode ter mais do que um diretorio e nem barra antes ou depois
 
     #print detach_dir
@@ -182,7 +181,7 @@ def baixar(request):
     template = 'peck/baixados.html'
     return render(request, template, context, content_type="text/html")
 
-# ============================================================================================
+#==================================================================
 # 5) View para apresentar arquivo PECK em formato texto
 def vertxt(request, peckfile):
     content = peckfile
@@ -190,7 +189,7 @@ def vertxt(request, peckfile):
     #html = "<html><body>content %s.</body></html>" % content
     #return HttpResponse(html, content_type='text/plain')
 
-# ============================================================================================
+#==================================================================
 # 6) List of clients
 def l_clis(request):
     allpec = Peck.objects.all()
@@ -214,7 +213,7 @@ def l_clis(request):
     template = 'peck/l_clientes.html'
     return render(request, template, context, content_type="text/html")
 
-# ============================================================================================
+#==================================================================
 # 7) List of Modelos
 def l_mod(request):
     lista_modelos = Modelos.objects.all()
@@ -222,7 +221,7 @@ def l_mod(request):
     template = 'peck/l_modelos.html'
     return render(request, template, context, content_type="text/html")
 
-# ============================================================================================
+#==================================================================
 # 9) List of Documents
 def l_docs(request):
     documents = PeckMachine.objects.all()
@@ -230,16 +229,16 @@ def l_docs(request):
     context = {'documents': documents}
     return render(request, template, context, content_type="text/html")
 
-# ============================================================================================
+#==================================================================
 #def l_maqs(request):
 #    maq = Machine.objects.all()
 #    template = 'peck/l_maqs.html'
 #    context = {'maq': maq}
 #    return render(request, template, context)
 
-# ============================================================================================
+#==================================================================
 # 12) Detalhes do peck report selecionado
-def d_pecks(request, peck_id, doc=None):
+def d_pecks(request, peck_id):
     # d_pecks(request, newdoc.id, newdoc)
     # Pegando os valores no banco de dados
     peck = Peck.objects.get(pk=int(peck_id))
@@ -250,7 +249,7 @@ def d_pecks(request, peck_id, doc=None):
     detalhe_peck = {}
     detalhe_peck ['pec'] = peck
     detalhe_peck ['mac'] = maq
-    detalhe_peck ['doc'] = doc
+    # detalhe_peck ['doc'] = doc
 
     # Envio dos dados para a pagina HTML
     context = {'detalhe_peck': detalhe_peck}
@@ -258,23 +257,24 @@ def d_pecks(request, peck_id, doc=None):
     return render(request, template, context, content_type="text/html")
 
 
-# ============================================================================================
+#==================================================================
 # 13) list all peck reports
 def l_pecks(request):
     arqs = {}
     lista_pecks = {}
-    pecs = Peck.objects.all()
-    for x in pecs:
-        arqs[x.serial] = PeckMachine.objects.get(pk=int(x.pk)).docfile
+    # pecs = Peck.objects.all()
+    lista_pecks = Peck.objects.all()
+    # for x in pecs:
+        # arqs[x.serial] = Peck.objects.get(pk=int(x.pk)).docfile
 
-    lista_pecks['pecs'] = pecs
-    lista_pecks['arqs'] = arqs
+    # lista_pecks['pecs'] = pecs
+    # lista_pecks['arqs'] = arqs
     context = {'lista_pecks': lista_pecks}
     template = 'peck/l_pecks.html'
     return render(request, template, context, content_type="text/html")
 
 
-# ============================================================================================
+#==================================================================
 # 15) List of Firmware in the Database
 def lista_firm(request, ser):
     listafirmw = Peck.objects.filter(serial=str(ser)).order_by('-data')[:5]
@@ -527,7 +527,7 @@ def parsepk(filepath):
     hcount = 0
     heads = 0
     conta = 0
-    controle = 15
+    controle = 14
     err = ""
 
     # return VARIABLES 1
@@ -540,10 +540,9 @@ def parsepk(filepath):
     # return VARIABLES 2
     hfeed = ""
     hscan = ""
-    pump = False
     tpump = ""
     hclean = ""
-    hlimp = ""
+    tlimp = ""
     hwipe = ""
     botliq = ""
     batst = ""
@@ -556,23 +555,23 @@ def parsepk(filepath):
         tst = linha.split(sep1)
 
         # 1
-        print conta
+        # print conta
         if (linha.startswith("Model") or linha.startswith("MODEL") ) and conta < controle and modelo == "":
             modelo = tst[1].strip()
-            print (str(conta) + " > modelo > " + modelo)
+            # print (str(conta) + " > 1-modelo > " + modelo)
             conta = conta + 1
 
         # 2
         elif (linha.startswith("Version") or linha.startswith("VERSION") or linha.startswith("  MAIN") or linha.startswith("FirmwareVer") ) and conta < controle and firmware == "":
             firmware = tst[1].strip()
             conta = conta + 1
-            print (str(conta) + " > versao > " + firmware)
+            # print (str(conta) + " > 2-versao > " + firmware)
 
         # 3
         elif ( linha.startswith("Serial N") or linha.startswith("SERIAL N") ) and conta < controle and serial == "":
             serial = tst[1].strip()
             conta = conta + 1
-            print (str(conta) + " > serial > " + serial)
+            # print (str(conta) + " > 3-serial > " + serial)
 
         # 4
         elif ( linha.startswith("CurrentDate") or linha.startswith("Date") or linha.startswith("DATE") or linha.startswith("  DATE") ) and conta < controle and data == "":
@@ -583,16 +582,16 @@ def parsepk(filepath):
                     data = dt.replace("/", "-")
                     data = datetime.strptime(data, '%Y-%m-%d').date()
             conta = conta + 1
-            print (str(conta) + " > data > " + str(data))
+            # print (str(conta) + " > 4-data > " + str(data))
 
         # 5
         elif ( linha.startswith("InkMode") or linha.startswith("Ink type") or linha.startswith("INK TYPE") or linha.startswith("  INK TYPE") ) and conta < controle and ink == "":
             ink = tst[1].strip()
             conta = conta + 1
-            print (str(conta) + " > tinta > " + ink)
+            # print (str(conta) + " > 5-tinta > " + ink)
 
         # 6
-        elif ( linha.startswith("HeadRank") or linha.startswith("Head rank") or linha.startswith("HEAD RANK") or linha.startswith("  HEAD RANK") ) and conta < controle:
+        elif ( linha.startswith("HeadRank") or linha.startswith("Head rank") or linha.startswith("HEAD RANK") or linha.startswith("  HEAD RANK") ) and conta < controle and heads == 0:
             tst = tst[1].strip()
             rank.append(tst)
             try:
@@ -619,14 +618,14 @@ def parsepk(filepath):
             else:
                 hfeed = tst[0].strip()
             conta = conta + 1
-            print (str(conta) + " > hfeed > " + hfeed)
+            # print (str(conta) + " > 8-hfeed > " + hfeed)
 
         #9
         elif ( linha.startswith("Motor scan") or linha.startswith("  MOTOR SCAN") )and conta < controle and hscan == "":
             tst = tst[1].split("/")
             hscan = tst[0].strip().replace(",", "")
             conta = conta + 1
-            print (str(conta) + " > hscan > " + hscan)
+            # print (str(conta) + " > 9-hscan > " + hscan)
 
         #10
         elif (linha.startswith("Pump Times ") or linha.startswith("  PUMP TIMES") ) and conta < controle and tpump == "":
@@ -634,20 +633,28 @@ def parsepk(filepath):
             tst = tst[1].split("/")
             tpump = tst[0].strip().replace(",", "")
             conta = conta + 1
-            print (str(conta) + " > tpump > " + tpump)
+            # print (str(conta) + " > 10-tpump > " + tpump)
 
         #11
         elif (linha.startswith("Maintenance Count") or linha.startswith("EnhancedMaintenance c") or linha.startswith("  MAINTENACE COUNT") ) and conta < controle and hclean == "":
             hclean = tst[1].strip().split(" ")[0]
             # print hclean
             conta = conta + 1
-            print (str(conta) + " > hclean > " + hclean)
+            # print (str(conta) + " > 11-hclean > " + hclean)
 
-        #12
-        elif (linha.startswith("Total time") or linha.startswith("ElapsedSinceManualCl") or linha.startswith("  TOTAL TIME") ) and conta < controle and hlimp == "":
-            hlimp = tst[1].strip().split(" ")[0].replace(",", "")
+        # TESTING
+        elif ( linha.startswith("Total time") or linha.startswith("ElapsedSinceManualCl") or linha.startswith("  TOTAL TIME")) and conta < controle and tlimp == ""  :
+            # print "linha> " + linha
+            # print "conta> " + str(conta)
+            # print "hlimp> " + str(tlimp)
+            # print "A> " + str(tst)
+            # print "B> " + str(tst[1])
+            # print "C> " + str(tst[1].strip())
+            # print "D> " + str(tst[1].strip().split(" "))
+            # print "E> " + str(tst[1].strip().split(" ")[0])
+            tlimp = tst[1].strip().split(" ")[0] # .replace(",", "")
             conta = conta + 1
-            print (str(conta) + " > hlimp > " + hlimp)
+            # print (str(conta) + " > 12-hlimp > " + hlimp)
 
         #13
         elif ( linha.startswith("Wiping count") or linha.startswith("  WIPING COUNT") or re.findall('\\bWipe\\b', linha) ) and conta < controle and hwipe == "":
@@ -660,7 +667,7 @@ def parsepk(filepath):
                 hwipe = tst[0]
 
             conta = conta + 1
-            print (str(conta) + " > hwipe > " + hwipe)
+            # print (str(conta) + " > 13-hwipe > " + hwipe)
 
         #14
         elif (linha.startswith("DrainLiq") or linha.startswith("Drain liq") or linha.startswith("  DRAIN LIQ") ) and conta < controle and botliq == "":
@@ -672,7 +679,7 @@ def parsepk(filepath):
             else:
                 botliq = tst[0]
             conta = conta + 1
-            print (str(conta) + " > botliq > " + botliq)
+            # print (str(conta) + " > 14-botliq > " + botliq)
 
         #15
         elif (lin == totlin - 2 or linha.startswith("Battery") or linha.startswith("  BATTERY") ) and conta < controle and batst == "":
@@ -681,44 +688,47 @@ def parsepk(filepath):
             else:
                 batst = tst[1].strip()
             conta = conta + 1
-            print (str(conta) + " > batst > " + batst)
+            # print (str(conta) + " > 15-batst > " + batst)
 
 
         elif conta >= controle:
-            print "entrou no final"
             fname.close()
-            if (modelo != "" and firmware != "" and serial != "" and data != "" and ink != "" and heads != "" and rank != "" and hfeed != "" and hscan != "" and tpump != "" and hclean != "" and hlimp != "" and hwipe != "" and botliq != "" and batst != ""):
-                return (modelo, firmware, serial, data, ink, heads, rank, hfeed, hscan, tpump, hclean, hlimp, hwipe, botliq, batst, err)
+            print ('<0  modelo > ' +  str(modelo))
+            print ('<1  firmware > ' +  str(firmware))
+            print ('<2  serial > ' +  str(serial))
+            print ('<3  data > ' +  str(data))
+            print ('<4  ink > ' +  str(ink))
+            print ('<5  heads > ' +  str(heads))
+            print ('<6  rank > ' +  str(rank))
+            print ('<7  hfeed > ' +  str(hfeed))
+            print ('<8  hscan > ' +  str(hscan))
+            print ('<9  tpump > ' +  str(tpump))
+            print ('<10 hclean > ' +  str(hclean))
+            print ('<11 hlimp > ' +  str(tlimp))
+            print ('<12 hwipe > ' +  str(hwipe))
+            print ('<13 botliq > ' +  str(botliq))
+            print ('<14 batst > ' +  str(batst))
+            print ('<15 err > ' +  str(err))
+            print ('<16 file > ' +  str(filepath))
+
+
+            if (modelo != "" and firmware != "" and serial != "" and data != "" and ink != "" and hfeed != "" and hscan != "" and tpump != "" and hclean != "" and tlimp != "" and hwipe != "" and botliq != "" and batst != ""):
+                    err = ""
+                    return (modelo, firmware, serial, data, ink, heads, rank, hfeed, hscan, tpump, hclean, tlimp, hwipe, botliq, batst, err)
             else:
-                err = "ERRO 002: VIEW: parsepk > Durante o PARSING do PECK foi encontrado um erro."
-                print err
-                return (modelo, firmware, serial, data, ink, heads, rank, hfeed, hscan, tpump, hclean, hlimp, hwipe, botliq, batst, err)
-
-
-            # 0  > modelo,
-            # 1  > firmware,
-            # 2  > serial,
-            # 3  > data,
-            # 4  > ink,
-            # 5  > heads,
-            # 6  > rank,
-            # 7  > hfeed,
-            # 8  > hscan,
-            # 9  > tpump,
-            # 10 > hclean,
-            # 11 > hlimp,
-            # 12 > hwipe,
-            # 13 > botliq,
-            # 14 > batst
-            # 15 > err
-
-
+                    err = "ERRO 002: VIEW: parsepk > Durante o PARSING do PECK foi encontrado um erro."
+                    return (modelo, firmware, serial, data, ink, heads, rank, hfeed, hscan, tpump, hclean, tlimp, hwipe, botliq, batst, err)
 
 # 10) MAIN METHOD: Upload PECK file to the Database
 
 
 def sobe_arq(request):
 	# calls the METHOD parsepk
+    # template_name = 'peck/index.html'
+    # form_class = PeckForm
+    #
+    # def form_valid(self, form):
+    #     myfile =
 
     # Variables
     # ========================================================================
@@ -730,13 +740,14 @@ def sobe_arq(request):
     context = []
     template = ""
 
-    # print myfile                # /Users/rod/projects/amply/uploaded/DEKA.txt
-    # print settings.MEDIA_ROOT   # /Users/rod/projects/amply/uploaded
-    # print settings.MEDIA_URL    # /media/
-    # print settings.BASE_DIR     # /Users/rod/projects/amply
-
     # http://stackoverflow.com/questions/5871730/need-a-minimal-django-file-upload-example
     # https://boostlog.io/@nixus89896/upload-files-in-django-5b27594344deba00540468bf
+    # https://www.codepool.biz/django-upload-file.html
+    # https://godjango.com/35-upload-files/
+    # https://www.simplifiedpython.net/django-file-upload-tutorial/
+    # http://mattoc.com/django-handle-form-validation-with-combined-post-and-files-data.html
+    # https://www.codingforentrepreneurs.com/projects/try-django-19/file-uploads-filefield-imagefield/?play=true
+    # https://www.youtube.com/watch?v=v5FWAxi5QqQ
     if request.method == 'POST' and request.FILES['file']:
         form = PeckForm(request.POST, request.FILES)
         # if form.is_valid():
@@ -745,34 +756,40 @@ def sobe_arq(request):
         # myfile = str(settings.MEDIA_ROOT) + '/' + str(request.FILES['file'])
         myfile = str(settings.BASE_DIR) + '/peck_files/' + str(request.FILES['file'])
         res = parsepk(myfile)
+        # print "err> " + str(res[15])
 
-        # b) Cuidando do arquivamento de um PECK que ja foi armazenado
-        if res[15] != "":
-            try:
-                newpeck = Peck.objects.create(model_id=Modelo.objects.get(modelo=res[0]), machine_id=Machine.objects.get(serial=res[2]), firmware=res[1], pSerial=res[2], pModelo=res[0], createDate=res[3], ink=res[4], bat=res[14], feed=res[7], scan=res[8], pump=res[9], limp=res[11], clean=res[10], wipe=res[12], liq=res[13], filepath=myfile );
-                newpeck.save()
-                d_pecks(request, newpeck.id, newpeck)
-                # Salvando dados do arquivo
-                #newdoc = Updoc(docfile = request.FILES['file'],peckid=novo )
-                #newdoc.save()
-            except:
-                err = []
-                err = {"mensagem" : "ERRO 001: VIEW: sobe_arq > Este arquivo PECK ja foi armazenado no banco de dados."}
-                context = {'err': err}
-                template = 'peck/d_pecks.html'
-                return render(request, template, context, content_type="text/html")
-        else:
-            err = res[15]
-            context = {'err': err}
+        # ================================================
+        # if res[15] == "":
+        try:
+            newpeck = Peck(model_id=Modelo.objects.get(modelo=res[0]), machine_id=Machine.objects.get(serial=res[2]), firmware=res[1], pSerial=res[2], pModelo=res[0], createDate=res[3], ink=res[4], bat=res[14], feed=res[7], scan=res[8], pump=res[9], limp=res[11], clean=res[10], wipe=res[12], liq=res[13], filepath=myfile );
+            # Salvando dados do arquivo
+            newpeck.save()
+            print newpeck
+            # Definindo dados para RENDER
+            context = {'detalhe_peck': newpeck}
             template = 'peck/d_pecks.html'
             return render(request, template, context, content_type="text/html")
 
-    else:
-            form = PeckForm()
-            if (request.path_info == "/peck/importall/"):
-                print (request.path_info)
-            else:
-                d_pecks(request, newpeck.id, newpeck)
+        except:
+            # Definindo dados para RENDER
+            err = []
+            err = {"mensagem" : "ERRO 001: VIEW: sobe_arq > Este arquivo PECK ja foi armazenado no banco de dados. Ou nao foi possivel a criacao do Objeto PECK."}
+            context = {'err': err}
+            template = 'peck/d_pecks.html'
+            return render(request, template, context, content_type="text/html")
+    #     else:
+    #         err = res[15]
+    #         print "inside> " + err
+    #         context = {'err': err}
+    #         template = 'peck/d_pecks.html'
+    #         return render(request, template, context, content_type="text/html")
+    #
+    # else:
+    #         form = PeckForm()
+    #         if (request.path_info == "/peck/importall/"):
+    #             print (request.path_info)
+            # else:
+                # d_pecks(request, newpeck.id, newpeck)
 
 
     # print (request.path_info)

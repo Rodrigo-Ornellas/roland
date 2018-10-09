@@ -11,22 +11,21 @@
                         <th>Modelo</th>
                         <th>Data</th>
                         <th>Firmware</th>
-                        <th>Peck Original</th>
+                        <!-- <th>Peck Original</th> -->
                 </tr>
-            {% for repo in lista_pecks.pecs %}
+
+            {% for repo in lista_pecks %}
                 <tr>
                         <td>{{ repo.id }}</td>
                         <!-- <td><a href="../detalhe/{{ repo.pk }}/">{{ repo.serial }}</a></td> -->
-                        <td><a href="{% url 'detailspeck' repo.pk %}">{{ repo.serial }}</a></td>
-                        <td>{{ repo.modelo }}</td>
-                        <td>{{ repo.data|date:'d-m-Y' }}</td>
-                        <td>{{ repo.firm }}</td>
-                        {% for key, value in lista_pecks.arqs.items %}
-                            {% if key == repo.serial %}
-                            <!-- <td><a href="../../../peck/{{ value }}/">{{ value }}</a></td> -->
-                            <td><a href="{% url 'listapeck' value %}/">{{ value }}</a></td>
-                            {% endif %}
-                        {% endfor %}
+                        <!-- <td><a href="{% url 'peck:detailspeck' repo.pk %}">{{ repo.pSerial }}</a></td> -->
+                        <!-- <td><a href="{% url 'detailspeck' repo.pk %}">{{ repo.pSerial }}</a></td> -->
+
+                        <!-- <td><a href="{% url 'peck:detailspeck' repo.pk %}">{{ repo.pSerial }}</a></td> -->
+                        <td>{{ repo.pModelo }}</td>
+                        <td>{{ repo.createDate|date:'d-m-Y' }}</td>
+                        <td>{{ repo.firmware }}</td>
+                        <!-- <td><a href="{% url 'peck:listapeck' repo.filepath %}/">{{ repo.filepath }}</a></td> -->
                 </tr>
             {% empty %}
                 <tr>

@@ -51,43 +51,45 @@ urlpatterns = [
 
     # 12)
     # url(r'^peck/detalhe/(?P<peck_id>\d+)/$', views.d_pecks),
+    # url(r'^peck/detalhe/(?P<peck_id>\d+)/$', views.d_pecks),
     # path('<int:question_id>/results/', views.results, name='results'),
     # path('detalhe/<int:peck_id>/', views.d_pecks, name='detailspeck'),
-    url(r'^peck/detalhe/(?P<peck_id>\d+)/$', views.d_pecks, name='detailspeck'),
+    # url(r'^peck/details/(?P<peck_id>\d+)/$', views.d_pecks, name="detailspeck"),
+    url(r'^peck/details/(\d+)', views.d_pecks, name="detailspeck"),
 
     # 11)
     # path('report/(<str:sall>/', views.report, name='report'),
     # url(r'^peck/report/(?P<sall>\w+)/$', views.report),
     # url(r'^peck/report/(?P<sall>\d+)/$', views.report),
-    url(r'^peck/report/(?P<sall>\d+)/$', views.report, name='report'),
+    url(r'^peck/report/(?P<sall>\d+)/$', views.report, name="report"),
 
     # 10) Method to UPLOAD files
     # url(r'^peck/arq/$', views.sobe_arq,),
     # path('arq/', views.sobe_arq, name='uploadfile'),
-    url(r'^peck/arq/$', views.sobe_arq, name='uploadfile'),
+    url(r'^peck/arq/$', views.sobe_arq, name="uploadfile"),
 
     # 9) List of UPLOADED documents
     # url(r'^peck/docs/$', views.l_docs),
     # path('docs/', views.l_docs, name='listadocs'),
-    url(r'^peck/docs/$', views.l_docs, name='listadocs'),
+    url(r'^peck/docs/$', views.l_docs, name="listadocs"),
 
     # 8) List of Machine SERIAL numbers
     #url(r'^peck/maqs/$', views.l_maqs),
 
     # 7) List of Machine Models
-	url(r'^peck/modelos/$', views.l_mod, name='vermodelos'),
+	url(r'^peck/modelos/$', views.l_mod, name="vermodelos"),
     # path('modelos/', views.l_mod, name='vermodelos'),
 
     # 6) List of Clients
-    url(r'^peck/listaclis/$', views.l_clis, name='listaclis'),
+    url(r'^peck/listaclis/$', views.l_clis, name="listaclis"),
     # path('listaclis/', views.l_clis, name='listaclis'),
 
     # 5) VerText is a method to see the original PECK file
-    url(r'^peck/uploaded/(?P<filename>\w+)/$$', views.vertxt, name='vertxt'),
+    url(r'^peck/uploaded/(?P<filename>\w+)/$$', views.vertxt, name="vertxt"),
     # path('uploaded/<path:filename>/', views.vertxt, name='vertxt'),
 
     # 4) Download method
-    url(r'^peck/baixar/$', views.baixar, name='baixar'),
+    url(r'^peck/baixar/$', views.baixar, name="baixar"),
     # path('baixar/', views.baixar, name='baixar'),
 
     # 3) Search method

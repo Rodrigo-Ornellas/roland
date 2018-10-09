@@ -1,35 +1,35 @@
 {% extends 'peck/base.html' %}
 
-{% load static %}
-
 {% block corpo %}
     <div id="frame_top">
         <h2>Detalhes do Peck Selecionado  </h2>
-        {% if detalhe_peck.doc != None %}
+        <!-- <h2>{% detalhe_peck.mac.filepath %}</h2> -->
+        {% if detalhe_peck.pec.filepath != None %}
         <!-- <a href="../../../peck/{{ detalhe_peck.doc }}/">abrir arquivo PECK</a> -->
-        <a href="{% url 'peck:detailspeck' detalhe_peck.doc %}">abrir arquivo PECK</a>
+        <!-- <a href="{% url 'detailspeck' detalhe_peck.mac.filepath %}">abrir arquivo PECK</a> -->
+            <!-- <a href="{% url 'peck:detailspeck' detalhe_peck.pec.filepath %}">abrir arquivo PECK</a> -->
         {% endif %}
         {% if detalhe_peck %}
             <table>
                 <tr>
                         <th>Cliente</th>
-                        <td>{{ detalhe_peck.mac.client }}</td>
+                        <td>{{ detalhe_peck.pec.client_id }}</td>
                 </tr>
                 <tr>
                         <th>Serial</th>
-                        <td>{{ detalhe_peck.pec.serial }}</td>
+                        <td>{{ detalhe_peck.pec.pSerial }}</td>
                 </tr>
                 <tr>
                         <th>Modelo</th>
-                        <td>{{ detalhe_peck.pec.modelo }}</td>
+                        <td>{{ detalhe_peck.pec.pModelo }}</td>
                 </tr>
                 <tr>
                         <th>Firmware</th>
-                        <td>{{ detalhe_peck.pec.firm }}</td>
+                        <td>{{ detalhe_peck.pec.firmware }}</td>
                 </tr>
                 <tr>
                         <th>Data</th>
-                        <td>{{ detalhe_peck.pec.data|date:'d-m-Y' }}</td>
+                        <td>{{ detalhe_peck.pec.createData|date:'d-m-Y' }}</td>
                 </tr>
                 <tr>
                         <th>Ink Type</th>
@@ -57,7 +57,7 @@
                 </tr>
                 <tr>
                         <th>Horas desde a Ultima Limpeza</th>
-                        <td>{{ detalhe_peck.pec.ultima }} horas</td>
+                        <td>{{ detalhe_peck.pec.clean }} horas</td>
                 </tr>
                 <tr>
                         <th>Contagem de WIPES</th>

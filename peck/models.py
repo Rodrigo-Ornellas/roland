@@ -48,7 +48,7 @@ class Modelo(models.Model):
 
 class Machine(models.Model):
     client_id = models.ForeignKey('Client', on_delete=models.CASCADE, default=None)
-    model_id = models.OneToOneField('Modelo', on_delete=models.CASCADE, default=None)
+    model_id = models.ForeignKey('Modelo', on_delete=models.CASCADE, default=None)
     serial = models.CharField(u'Numero de Serie', db_index=True, max_length=8)
     typtinta = models.CharField(max_length=24, choices=TTINTA_CHOICES)
     install = models.DateField(default=timezone.now) #u'Data da Instalacao'
