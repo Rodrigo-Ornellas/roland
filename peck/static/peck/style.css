@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Rajdhani:300,400,500,600,700');
 
+:root {
+    --offwhite-color: rgb(243, 243, 243);
+}
+
 body{
     background-color: white;
     font-family: "Rajdhani", "Arial", "Calibri", sans-serif;
@@ -7,10 +11,40 @@ body{
     margin: 0;
 }
 
+table{
+  overflow-x: auto;
+}
+
+th, td{
+  padding: .3rem 1.2rem;
+}
+
+.btn, .fileContainer:hover{
+  background-color: grey;
+  padding: .4rem .7rem;
+  color: white;
+  border-radius: 5px;
+}
+
+.btn{
+  margin-left: 20rem;
+
+}
+
+/* https://coderwall.com/p/uer3ow/total-input-type-file-style-control-with-pure-css */
+/* #inputfile {
+	width: 0.1px;
+	height: 0.1px;
+	opacity: 0;
+	overflow: hidden;
+	position: absolute;
+	z-index: -1;
+} */
+
 .wrapper{
     margin: auto;
 
-    background-color: #f5eef8;
+    background-color: var(--offwhite-color);
     padding-left: 1%;
 
     min-height: 500px;
@@ -40,18 +74,19 @@ nav ul{
     list-style-type: none;
     padding: 0;
     margin-top: 0;
+    margin-bottom: 0;
 
 }
 
-nav ul li
+nav ul a
 {
     text-align: center;
 
     background-color: firebrick;
     width: 100%;
 
-    padding-top: 5px;
-    padding-bottom: 5px;
+    /* padding-top: 5px;
+    padding-bottom: 5px; */
     padding-left: 0;
 
     /* border-top: 1px solid white; */
@@ -65,12 +100,13 @@ nav a:link, nav a:visited
     text-decoration: none;
 }
 
-nav ul li:hover
+nav ul a:hover
 {
-    background-color: #fef9e7;
+    /* background-color: #fef9e7; */
+    background-color: var(--offwhite-color);
 }
 
-nav ul li:hover a
+nav ul a:hover li
 {
     color: black;
 }
@@ -124,8 +160,8 @@ footer{
 
 h2{
     color: firebrick;
-    margin-top: 1%;
-    margin-bottom: 1%;
+    margin-top: .5rem;
+    margin-bottom: 1.5rem;
     font-size: 1.3em;
 }
 
@@ -427,13 +463,14 @@ http://javascript-array.com/scripts/simple_drop_down_menu/
         display: flex;
     }
 
-    nav ul li
+    nav ul a
     {
         /* display: inline-block; */
         /* width: 100%; */
-        padding-left: .5rem;
-        padding-right: .5rem;
-        margin-left: .2rem;
+        padding-left: 1.1rem;
+        padding-right: 1.1rem;
+        margin-left: .4rem;
+        line-height: 3;
     }
 
     .meio

@@ -3,7 +3,7 @@
 {% block corpo %}
 
     <div id="frame_top">
-        <h2>List of Peck Reports</h2>
+        <h2>Lista de Peck Reports</h2>
         <table>
                 <tr>
                         <th>ID</th>
@@ -11,19 +11,25 @@
                         <th>Modelo</th>
                         <th>Data</th>
                         <th>Firmware</th>
+                        <!-- <th>Peck Original</th> -->
                 </tr>
 
             {% for repo in lista_pecks %}
                 <tr>
                         <td>{{ repo.id }}</td>
-                        <td>{{ repo.pSerial }}</td>
+                        <!-- <td><a href="../detalhe/{{ repo.pk }}/">{{ repo.serial }}</a></td> -->
+                        <!-- <td><a href="{% url 'peck:detailspeck' repo.pk %}">{{ repo.pSerial }}</a></td> -->
+                        <!-- <td><a href="{% url 'detailspeck' repo.pk %}">{{ repo.pSerial }}</a></td> -->
+
+                        <!-- <td><a href="{% url 'peck:detailspeck' repo.pk %}">{{ repo.pSerial }}</a></td> -->
                         <td>{{ repo.pModelo }}</td>
                         <td>{{ repo.createDate|date:'d-m-Y' }}</td>
                         <td>{{ repo.firmware }}</td>
+                        <!-- <td><a href="{% url 'peck:listapeck' repo.filepath %}/">{{ repo.filepath }}</a></td> -->
                 </tr>
             {% empty %}
                 <tr>
-                        <td> Empty Database!!</td>
+                        <td> Base de dados VAZIA!!</td>
                         <td></td>
                         <td></td>
                         <td></td>

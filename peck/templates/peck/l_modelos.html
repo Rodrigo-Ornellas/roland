@@ -2,22 +2,24 @@
 
 {% block corpo %}
 <div id="frame_top">
-    <h2>Lista de Modelos</h2>
+    <h2>List of Models & Life of Components</h2>
     <table>
             <tr>
-                    <th>Modelo</th>
-                    <th>Qte Cabeças</th>
-                    <th>Vida Motor Scan</th>
-                    <th>Vida Bomba</th>
-                    <th>Vida Felt</th>
-                    <th>Vida Tubulação</th>
-                    <th>Vida Wiper</th>
-                    <th>Vida Lampada UV</th>
+                    <th>ID</th>
+                    <th>Model</th>
+                    <th>Qty Heads</th>
+                    <th>Scan Motor</th>
+                    <th>Pump</th>
+                    <th>Felt</th>
+                    <th>Tubing</th>
+                    <th>Wiper</th>
+                    <th>UV Lamp</th>
             </tr>
         {% for repo in lista_modelos %}
             <tr>
-                    <td>{{ repo.modelo }}</td>
-                    <td>{{ repo.qtecab }}</td>
+                    <td>{{ repo.pk }}</td>
+                    <td>{{ repo.model }}</td>
+                    <td>{{ repo.heads }}</td>
                     <td>{{ repo.scan }}</td>
                     <td>{{ repo.pump }}</td>
                     <td>{{ repo.felt }}</td>
@@ -27,7 +29,7 @@
             </tr>
         {% empty %}
             <tr>
-                    <td> Base de dados VAZIA!!</td>
+                    <td> Database Empty!!</td>
             </tr>
         {% endfor %}
     </table>

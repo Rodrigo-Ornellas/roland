@@ -2,110 +2,64 @@
 
 {% block corpo %}
     <div id="frame_top">
-        <h2>Detalhes do Peck Selecionado  </h2>
-        <!-- <h2>{% detalhe_peck.mac.filepath %}</h2> -->
-        {% if detalhe_peck.pec.filepath != None %}
-        <!-- <a href="../../../peck/{{ detalhe_peck.doc }}/">abrir arquivo PECK</a> -->
-        <!-- <a href="{% url 'detailspeck' detalhe_peck.mac.filepath %}">abrir arquivo PECK</a> -->
-            <!-- <a href="{% url 'peck:detailspeck' detalhe_peck.pec.filepath %}">abrir arquivo PECK</a> -->
-        {% endif %}
-        {% if detalhe_peck %}
+        <h2>Peck Details</h2>
             <table>
                 <tr>
-                        <th>Cliente</th>
-                        <td>{{ detalhe_peck.pec.client_id }}</td>
+                        <th>Client</th>
+                        <td>{{ tohtml.c.company }}</td>
                 </tr>
                 <tr>
                         <th>Serial</th>
-                        <td>{{ detalhe_peck.pec.pSerial }}</td>
+                        <td>{{ tohtml.pek.pSerial }}</td>
                 </tr>
                 <tr>
-                        <th>Modelo</th>
-                        <td>{{ detalhe_peck.pec.pModelo }}</td>
+                        <th>Model</th>
+                        <td>{{ tohtml.pek.pModelo }}</td>
                 </tr>
                 <tr>
                         <th>Firmware</th>
-                        <td>{{ detalhe_peck.pec.firmware }}</td>
+                        <td>{{ tohtml.pek.firmware }}</td>
                 </tr>
                 <tr>
-                        <th>Data</th>
-                        <td>{{ detalhe_peck.pec.createData|date:'d-m-Y' }}</td>
+                        <th>Date</th>
+                        <td>{{ tohtml.pek.createData|date:'d-m-Y' }}</td>
                 </tr>
                 <tr>
                         <th>Ink Type</th>
-                        <td>{{ detalhe_peck.pec.ink }}</td>
+                        <td>{{ tohtml.pek.ink }}</td>
                 </tr>
                 <tr>
-                        <th>Carga da Bateria</th>
-                        <td>{{ detalhe_peck.pec.bat }}</td>
+                        <th>Batery Status</th>
+                        <td>{{ tohtml.pek.bat }}</td>
                 </tr>
                 <tr>
                         <th>Motor Feed</th>
-                        <td>{{ detalhe_peck.pec.feed }} horas</td>
+                        <td>{{ tohtml.pek.feed }} hours</td>
                 </tr>
                 <tr>
                         <th>Motor Scan</th>
-                        <td>{{ detalhe_peck.pec.scan }} horas</td>
+                        <td>{{ tohtml.pek.scan }} hours</td>
                 </tr>
                 <tr>
-                        <th>Bomba/Pump</th>
-                        <td>{{ detalhe_peck.pec.pump }} vezes</td>
+                        <th>Pump</th>
+                        <td>{{ tohtml.pek.pump }} times</td>
                 </tr>
                 <tr>
-                        <th>Limpezas de Cabeça</th>
-                        <td>{{ detalhe_peck.pec.limp }} horas</td>
+                        <th>Head Cleaning</th>
+                        <td>{{ tohtml.pek.limp }} hours</td>
                 </tr>
                 <tr>
-                        <th>Horas desde a Ultima Limpeza</th>
-                        <td>{{ detalhe_peck.pec.clean }} horas</td>
+                        <th>Since last cleaning</th>
+                        <td>{{ tohtml.pek.clean }} hours</td>
                 </tr>
                 <tr>
-                        <th>Contagem de WIPES</th>
-                        <td>{{ detalhe_peck.pec.wipe }} vezes</td>
+                        <th>Wipe Count</th>
+                        <td>{{ tohtml.pek.wipe }} times</td>
                 </tr>
                 <tr>
-                        <th>Volume de Liquido na Garrafa</th>
-                        <td>{{ detalhe_peck.pec.liq }} ml</td>
+                        <th>Bottle Liquid</th>
+                        <td>{{ tohtml.pek.liq }} ml</td>
                 </tr>
             </table>
-        {% else %}
-            <br/>
-            <p>{{ err.mensagem }}</p>
-        {% endif %}
     </div>
 {% endblock %}
-
-<!--
-                <tr>
-                        <th>Cliente</th>
-                        <th>Serial</th>
-                        <th>Modelo</th>
-                        <th>Firmware</th>
-                        <th>Data</th>
-                        <th>Ink Type</th>
-                        <th>Carga da Bateria</th>
-                        <th>Motor Feed</th>
-                        <th>Motor Scan</th>
-                        <th>Bomba/Pump</th>
-                        <th>Limpezas de Cabeça</th>
-                        <th>Horas desde a Ultima Limpeza</th>
-                        <th>Contagem de WIPES</th>
-                        <th>Volume de Liquido na Garrafa</th>
-                </tr>
-                <tr>
-                        <td>{{ detalhe_peck.mac.client }}</td>
-                        <td>{{ detalhe_peck.pec.serial }}</td>
-                        <td>{{ detalhe_peck.pec.modelo }}</td>
-                        <td>{{ detalhe_peck.pec.firm }}</td>
-                        <td>{{ detalhe_peck.pec.data|date:'d-m-Y' }}</td>
-                        <td>{{ detalhe_peck.pec.ink }}</td>
-                        <td>{{ detalhe_peck.pec.bat }}</td>
-                        <td>{{ detalhe_peck.pec.feed }}</td>
-                        <td>{{ detalhe_peck.pec.scan }}</td>
-                        <td>{{ detalhe_peck.pec.pump }}</td>
-                        <td>{{ detalhe_peck.pec.limp }}</td>
-                        <td>{{ detalhe_peck.pec.ultima }}</td>
-                        <td>{{ detalhe_peck.pec.wipe }}</td>
-                        <td>{{ detalhe_peck.pec.liq }}</td>
-                </tr>
--->

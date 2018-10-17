@@ -7,6 +7,7 @@
 
         {% load static %}
             <link rel="stylesheet" type="text/css" href="{% static 'peck/style.css' %}" />
+            <script src="https://d3js.org/d3.v5.min.js"></script>
 </head>
 
     <body>
@@ -14,11 +15,11 @@
             <nav>
               <h1>Roland DB</h1>
                 <ul>
-                    <li><a href="{% url 'peck:vhome' %}">Home</a></li>
-                    <li><a href="{% url 'peck:listapeck' %}">Pecks</a></li>
-                    <li><a href="{% url 'peck:listaclis' %}">Maquinas</a></li>
-                    <li><a href="{% url 'peck:vermodelos' %}">Modelos</a></li>
-                    <li><a href="{% url 'peck:baixar' %}">Baixar</a></li>
+                    <a href="{% url 'peck:vhome' %}"><li>Home</li></a>
+                    <a href="{% url 'peck:listapeck' %}"><li>Pecks</li></a>
+                    <a href="{% url 'peck:listmachine' %}"><li>Printers</li></a>
+                    <a href="{% url 'peck:vermodelos' %}"><li>Models</li></a>
+                    <a href="{% url 'peck:listaclis' %}"><li>Clients</li></a>
                 </ul>
             </nav>
             <main>
@@ -29,7 +30,7 @@
             </main>
 
             <footer class="clearfix">
-                <p>designed by:<strong> Rodrigo Ornellas - Copyright 2017</strong></p>
+                <p>designed by:<strong> Rod Ornellas - Copyright 2018</strong></p>
                 <!-- <p>Visite nosso site <a href="http://www.amplytech.com.br">www.amplytech.com.br</a></p> -->
             </footer> <!--  fecha 'footer' -->
         </div>  <!-- ID=ALL -->

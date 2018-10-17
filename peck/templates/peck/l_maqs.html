@@ -3,26 +3,27 @@
 {% block corpo %}
 
     <div id="frame_top">
-        <h2>Lista de Maquinas e Clientes</h2>
-        <p><a href="{% url 'home' %}"> volta pra home</a></p>
+        <h2>List of Printers</h2>
+
         <table>
                 <tr>
-                        <th>Numero</th>
-                        <th>Cliente</th>
+                        <th>Machine ID</th>
+                        <th>Client</th>
                         <th>Serial</th>
-                        <th>ID da Maquina</th>
                 </tr>
-            {% for m in maq %}
+            {% for m in listao.maq %}
                 <tr>
                         <td>{{ m.pk }}</td>
-                        <td>{{ m.client }}</td>
+                        {% for v in listao.cli %}
+                            {% if v == m.client_id %}
+                            <td>{{ v.company }}</td>
+                            {% endif %}
+                        {% endfor %}
                         <td>{{ m.serial }}</td>
-                        <td>{{ m.machine }}</td>
                 </tr>
             {% empty %}
                 <tr>
-                        <td> Base de dados VAZIA!!</td>
-                        <td></td>
+                        <td> Empty Database!!</td>
                         <td></td>
                         <td></td>
                 </tr>

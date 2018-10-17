@@ -4,6 +4,7 @@
 from django.db import models
 import datetime
 from django.utils import timezone
+from django.conf import settings
 
 TTINTA_CHOICES = (
     ('0', 'Solvente'),
@@ -21,19 +22,19 @@ INKVENDOR_CHOICES = (
 
 class Client(models.Model):
     company = models.CharField(u'Company', max_length=32)
-    address = models.CharField(u'Address', max_length=32)
-    city = models.CharField(u'City', max_length=32)
-    complement = models.CharField(u'Complement', max_length=32)
-    phone = models.CharField(u'Phone', max_length=32)
-    contact = models.CharField(u'Contact', max_length=32)
-    email = models.EmailField(u'E-mail', max_length=128)
-    comments = models.CharField(u'Comments', max_length=32)
+    address = models.CharField(u'Address', max_length=32, blank=True)
+    city = models.CharField(u'City', max_length=32, blank=True)
+    complement = models.CharField(u'Complement', max_length=32, blank=True)
+    phone = models.CharField(u'Phone', max_length=32, blank=True)
+    contact = models.CharField(u'Contact', max_length=32, blank=True)
+    email = models.EmailField(u'E-mail', max_length=128, blank=True)
+    comments = models.CharField(u'Comments', max_length=32, blank=True)
 
     def __str__(self):
         return self.company
 
 class Modelo(models.Model):
-    modelo = models.CharField(u'Model', db_index=True, max_length=8)
+    model = models.CharField(u'Model', db_index=True, max_length=8)
     heads = models.PositiveIntegerField(u'Heads')
     scan = models.PositiveIntegerField(u'Scan Life')
     pump = models.PositiveIntegerField(u'Pump Life')
@@ -43,16 +44,16 @@ class Modelo(models.Model):
     uvlamp = models.PositiveIntegerField(u'UVLamp Life') # null=True, blank=True)
 
     def __str__(self):
-        return self.modelo
+        return self.model
 
 
 class Machine(models.Model):
-    client_id = models.ForeignKey('Client', on_delete=models.CASCADE, default=None)
-    model_id = models.ForeignKey('Modelo', on_delete=models.CASCADE, default=None)
+    client = models.ForeignKey('Client', on_delete=models.CASCADE,default=None)
+    model = models.ForeignKey('Modelo', on_delete=models.CASCADE,default=None)
     serial = models.CharField(u'Numero de Serie', db_index=True, max_length=8)
-    typtinta = models.CharField(max_length=24, choices=TTINTA_CHOICES)
+    typtinta = models.CharField(max_length=24, choices=TTINTA_CHOICES, blank=True)
     install = models.DateField(default=timezone.now) #u'Data da Instalacao'
-    comments = models.CharField(max_length=120)
+    comments = models.CharField(max_length=120, blank=True)
 
     def __str__(self):
         return self.serial
@@ -61,9 +62,8 @@ class Machine(models.Model):
 # https://docs.djangoproject.com/en/2.0/ref/models/fields/#django.db.models.ForeignKey.on_delete
 # https://www.valentinog.com/blog/django-missing-argument-on-delete/
 class Peck(models.Model):
-    id = models.AutoField(primary_key=True)
-    model_id = models.ForeignKey(u'Modelo', on_delete=models.CASCADE, default=None)
-    machine_id = models.ForeignKey(u'Machine', on_delete=models.CASCADE, default=None)
+    model = models.ForeignKey(u'Modelo', on_delete=models.CASCADE, default=None)
+    machine = models.ForeignKey(u'Machine', on_delete=models.CASCADE, default=None)
     #   ink_vendor = models.ForeignKey(u'InkVendor', on_delete=models.CASCADE, default=None)
     firmware = models.DecimalField(u'Versao do Firmware', decimal_places=2, max_digits=5)
     pSerial = models.CharField(u'Numero de Serie', default='AABBCCE', db_index=True, max_length=8)
@@ -79,13 +79,13 @@ class Peck(models.Model):
     wipe = models.PositiveIntegerField(u'Wiping Count', default=1)
     liq = models.PositiveIntegerField(u'Liquido na Garrafa', default=1)
     filepath = models.FileField(upload_to='uploaded/', default='dummy-file')
-    upldate = models.DateField(default=timezone.now)
+    # upldate = models.DateField(default=timezone.now)
     # upldate = models.DateField(default=datetime.date.today())  #auto_now_add=True,
     # comments = models.CharField(max_length=120, null=True)
     # https://matthiasomisore.com/web-programming/django-error-you-are-trying-to-add-a-non-nullable-field-to-submission-without-a-default/
 
     def __str__(self):
-        return str(str(self.id) + ' - ' + self.pModelo + ' - ' + self.pSerial)
+        return str(self.pModelo + ' - ' + self.pSerial)
 
     # def uploaded(self):
     #     return datetime.datetime.now() <= self.upldate

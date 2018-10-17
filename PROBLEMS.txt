@@ -1,0 +1,10 @@
+Problems
+1. Upload without any file selected
+2. Uploading PECK files of existing machines - PECK model needs to be reviewed
+3. upload is not saving the file
+https://gearheart.io/blog/how-to-upload-files-with-django/
+4. graphs on the home screen
+https://www.youtube.com/watch?v=B4Vmm3yZPgc
+https://www.programcreek.com/python/example/59542/django.http.JsonResponse
+https://stackoverflow.com/questions/34366960/how-to-consume-json-response-in-python
+https://stackoverflow.com/questions/2428092/creating-a-json-response-using-django-and-python

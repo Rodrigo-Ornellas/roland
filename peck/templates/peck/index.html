@@ -3,14 +3,24 @@
 {% block corpo %}
 <div id="home">
     <div class="meio">
-            <h2>PECK file upload</h2>
+      <h2>PECK file upload</h2>
 
             <form method="POST" action="{% url 'peck:uploadfile' %}" enctype="multipart/form-data">
                 {% csrf_token %}
                 {{ form.as_p }}
-                <input type="file" name="file" id="file" />
+                <!-- <label class="fileContainer">
+                  Click here to select a file!
+                    <input type="file" name="file" id="inputfile" />
+                </label> -->
+                <input type="file" name="file" id="inputfile" />
+                <br>
+                <br>
                 <input type="submit" value="Upload" class="btn"/>
             </form>
+
+          {% if err %}
+          <p>{{ err }}</p>
+          {% endif %}
     </div>
 
     <div class="meio">
@@ -25,12 +35,14 @@
                 <table>
                         <tr>
                                 <th>Client</th>
+                                <th>Company</th>
                                 <th>Serial</th>
                                 <th>Id</th>
                         </tr>
                     {% for maq in busca %}
                         <tr>
-                                <td>{{ maq.client }}</td>
+                                <td>{{ maq.contact }}</td>
+                                <td>{{ maq.company }}</td>
                                 <!-- <td><a href="../../../peck/report/{{ maq.serial }}/"/>{{ maq.serial }}</a></td> -->
                                 <td><a href="{% url 'peck:report' maq.serial %}"/>{{ maq.serial }}</a></td>
                                 <td>{{ maq.machine_id }}</td>
@@ -39,5 +51,22 @@
                 </table>
         {% endif %}
     </div>
+    <div id="getgraph">
+
+    </div>
 </div>
+<script type="text/javascript">
+  var endpoint = 'peck/api/getgraph'
+  $.ajax({
+    method: "GET",
+    url: endpoint,
+    sucess: function(data) {
+      console.log(data)
+    },
+    error:  function(eror_data){
+      console.log("error")
+      console.log(error_data)
+    }
+  })
+</script>
 {% endblock %}

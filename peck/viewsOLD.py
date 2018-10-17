@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-from django.http import HttpResponse, HttpResponseRedirect, HttpResponsePermanentRedirect, HttpRequest, Http404, JsonResponse
+from django.http import HttpResponse, HttpResponseRedirect, HttpResponsePermanentRedirect, HttpRequest, Http404
 from django.shortcuts import render, get_object_or_404, render_to_response, redirect
 from django.template import RequestContext
 from django.conf import settings
@@ -11,10 +11,8 @@ from django.views.generic import FormView, DetailView, ListView
 from django.core.files.storage import FileSystemStorage
 from django.core.urlresolvers import reverse
 
-from django.core.exceptions import ObjectDoesNotExist
 # from django.urls import path, register_converter, reverse, re_path
 # from django.core.context_processors import csrf
-import json
 
 from .models import Peck, Machine, Modelo, Client, InkVendor, TTINTA_CHOICES
 from .forms import PeckForm
@@ -198,27 +196,19 @@ def vertxt(request, peckfile):
 #==================================================================
 # 6) List of clients
 def l_clis(request):
+    allmod = Modelo.objects.all()
+    allmaq = Machine.objects.all()
+    allcli = Client.objects.all()
+    ink = TTINTA_CHOICES
     listao = {}
-    listao ['maq'] = Machine.objects.all()
-    listao ['mod'] = Modelo.objects.all()
-    listao ['cli'] = Client.objects.all()
-    listao ['ink'] = TTINTA_CHOICES
+    listao ['maq'] = allmaq
+    listao ['mod'] = allmod
+    listao ['cli'] = allcli
+    listao ['ink'] = ink
 
     context = {'listao': listao}
     template = 'peck/l_clientes.html'
     return render(request, template, context, content_type="text/html")
-
-def l_machine(request):
-    listao = {}
-    listao ['maq'] = Machine.objects.all()
-    listao ['mod'] = Modelo.objects.all()
-    listao ['cli'] = Client.objects.all()
-    listao ['ink'] = TTINTA_CHOICES
-
-    context = {'listao': listao}
-    template = 'peck/l_maqs.html'
-    return render(request, template, context, content_type="text/html")
-
 
 #==================================================================
 # 7) List of Modelos
@@ -522,14 +512,14 @@ def report(request, sall):
 def parsepk(filepath):
 
     # Open uploaded file
-    fname = open(filepath, 'r')
+    fname = open(filepath)
 
     # cabeca = {'VS-640':'1','XJ-740':'6','RS-640':'4','SP-540i':'2','RE-640':'1', 'LEJ-640':'6', 'XC-540':'6', 'VS-540':'1', 'LEF-12':'3','VP-300i':'4',}
 
     # Init control VARIABLES
     sep1 = ":"
     rank = list()
-    # rank.append(None)
+    rank.append(None)
     lin = 0
     hcount = 0
     heads = 0
@@ -602,7 +592,7 @@ def parsepk(filepath):
             tst = tst[1].strip()
             rank.append(tst)
             try:
-                h = Modelo.objects.get(model=modelo)
+                h = Modelo.objects.get(modelo=modelo)
                 heads = int(h.heads)
                 conta = conta + 1
                 hcount = hcount + 1
@@ -730,141 +720,136 @@ def parsepk(filepath):
 
 
 def sobe_arq(request):
+	# calls the METHOD parsepk
+    # template_name = 'peck/index.html'
+    # form_class = PeckForm
+    #
+    # def form_valid(self, form):
+    #     myfile =
 
-    # variables
+    # Variables
+    # ========================================================================
     form = ""
+    save_path = ""
     myfile = ""
-    mod = ""
     res = []
     err = []
     context = []
     template = ""
-    tohtml = {}
 
-    # (B-5)
+    # http://stackoverflow.com/questions/5871730/need-a-minimal-django-file-upload-example
+    # https://boostlog.io/@nixus89896/upload-files-in-django-5b27594344deba00540468bf
+    # https://www.codepool.biz/django-upload-file.html
+    # https://godjango.com/35-upload-files/
+    # https://www.simplifiedpython.net/django-file-upload-tutorial/
+    # http://mattoc.com/django-handle-form-validation-with-combined-post-and-files-data.html
+    # https://www.codingforentrepreneurs.com/projects/try-django-19/file-uploads-filefield-imagefield/?play=true
+    # https://www.youtube.com/watch?v=v5FWAxi5QqQ
     if request.method == 'POST' and request.FILES['file']:
         form = PeckForm(request.POST, request.FILES)
+        # if form.is_valid():
+        #     form.save()
+        # myfile = os.path.join(settings.BASE_DIR, '/peck_files/', request.FILES['file'])
+        # myfile = str(settings.MEDIA_ROOT) + '/' + str(request.FILES['file'])
         myfile = str(settings.BASE_DIR) + '/peck_files/' + str(request.FILES['file'])
         res = parsepk(myfile)
-        print ("test>001")
+        print ("res0> " + str(res[0]))
+        print ("res2> " + str(res[2]))
 
-        # check if machine serial exists
-        #     if yes get machine_id
-        #     if no create machine
-        #         check if client exits
-        #             if yes get client_id
-        #             if no create client
-        #                   provide client name only
-
-        #  Test if MACHINE serial number is already in the DB
-
-        # (A-9)
+        # ================================================
+        # if res[15] == "":
         try:
-            # if positive, get machine db id
-            machine = Machine.objects.get(serial=res[2])
-            print type(machine)
-            print ("test>002")
+            newpeck = Peck(
+                model_id=Modelo.objects.get(modelo=res[0]), machine_id=Machine.objects.get(serial=res[2]), firmware=res[1],
+                pSerial=res[2],
+                pModelo=res[0],
+                createDate=res[3],
+                ink=res[4],
+                bat=res[14],
+                feed=res[7],
+                scan=res[8],
+                pump=res[9],
+                limp=res[11],
+                clean=res[10],
+                wipe=res[12],
+                liq=res[13],
+                filepath=myfile );
+            # Salvando dados do arquivo
+            newpeck.save()
+            print newpeck
+            # Definindo dados para RENDER
+            context = {'detalhe_peck': newpeck}
+            template = 'peck/d_pecks.html'
+            return render(request, template, context, content_type="text/html")
 
-        # (A-9)
-        except ObjectDoesNotExist:
-            print ("ERRO 101: VIEW: sobe_arq > Machine does not exist. Attempting to create a new Machine Object")
-
-            # (C-13)
-            try:
-                # GET client name from FILE NAME
-                client_name = str(request.FILES['file']).split('.')[0]
-                print ("test>003")
-
-            # (C-13)
-            except:
-                print ("ERRO 102: VIEW: sobe_arq > Unable to get CLIENT NAME from file name.")
-            # (C-13)
-            else:
-                # if negative CREATE client object
-                # (D-17)
-                try:
-                    print str(client_name)
-                    if (Client.objects.get(company=client_name)):
-                        cli = Client.objects.get(company=client_name)
-                        print ("test>004a")
-                # (D-17)
-                except:
-                    # DoesNotExist
-                    print ("ERRO 103: VIEW: sobe_arq > Unable to FIND the CLIENT.")
-                    cli = Client(company=client_name)
-                    cli.save()
-                    print cli
-                # (D-17)
-                finally:
-                    try:
-                        mod = Modelo.objects.get(model=res[0])
-                        print ("test>005")
-                    except:
-                        print ("ERRO 104: VIEW: sobe_arq > Unable to get MODEL from Database.")
-                    else:
-                        try:
-                            machine = Machine(client=cli, model=mod, serial=res[2])
-                            machine.save()
-                            print ("test>009")
-                        except:
-                            print ("ERRO 107: VIEW: sobe_arq > Unable to create new MACHINE object.")
-
-        # (A-9)
-        finally:
-            mod = Modelo.objects.get(model=res[0])
-            print (mod)
-            print (machine)
-            try:
-                print ("test>006")
-                newpeck = Peck(
-                    model=mod,
-                    machine=machine,
-                    firmware=res[1],
-                    pSerial=res[2],
-                    pModelo=res[0],
-                    createDate=res[3],
-                    ink=res[4],
-                    bat=res[14],
-                    feed=res[7],
-                    scan=res[8],
-                    pump=res[9],
-                    limp=res[11],
-                    clean=res[10],
-                    wipe=res[12],
-                    liq=res[13],
-                    filepath=myfile )
-                # Salvando dados do arquivo
-                # print cli.company
-                newpeck.save()
-                tohtml['pek'] = newpeck
-                tohtml['c'] = cli
-
-            except:
-                print ("test>007")
-                err = {"message" : "ERRO 105: VIEW: sobe_arq > Este arquivo PECK ja foi armazenado no banco de dados. Ou nao foi possivel a criacao do Objeto PECK."}
-                context = {'err': err}
-                template = 'peck/d_pecks.html'
-                return render(request, template, context, content_type="text/html")
-
-            else:
-                # Definindo dados para RENDER
-                print ("test>008")
-                context = {'tohtml': tohtml }
-                template = 'peck/d_pecks.html'
-                return render(request, template, context, content_type="text/html")
-
-    # (B-5)
+        except:
+            # Definindo dados para RENDER
+            err = []
+            err = {"mensagem" : "ERRO 001a: VIEW: sobe_arq > Este arquivo PECK ja foi armazenado no banco de dados. Ou nao foi possivel a criacao do Objeto PECK."}
+            context = {'err': err}
+            template = 'peck/d_pecks.html'
+            return render(request, template, context, content_type="text/html")
+    #     else:
+    #         err = res[15]
+    #         print "inside> " + err
+    #         context = {'err': err}
+    #         template = 'peck/d_pecks.html'
+    #         return render(request, template, context, content_type="text/html")
+    #
+    # else:
+    #         form = PeckForm()
+    #         if (request.path_info == "/peck/importall/"):
+    #             print (request.path_info)
+            # else:
+                # d_pecks(request, newpeck.id, newpeck)
     else:
-        print ("test>009")
-        err = {"message" : "ERRO 106: VIEW: sobe_arq > No file path was provided. Or no file selected."}
+        err = {"mensagem" : "ERRO 001b: VIEW: sobe_arq > No file path was provided. Or no file selected."}
         context = {'err': err}
         template = 'peck/index.html'
         return render(request, template, context, content_type="text/html")
 
 
-def getgraph(request, *args, **kwargs):
-    data = {
-        "sales": 100,
-        "cust": 100,
-    }
-    return JsonResponse(data)
+    # print (request.path_info)
+    # return resposta
+
+# =======================================================================================
+
+#class editmaq(request):
+#    if request.POST:
+#        form = MaquinaForm(request.POST)
+#        if form.is_valid():
+#            form.save()
+#            return HttpResponseRedirect('../peck/listaclis/')
+#
+#    else:
+#        form = MaquinaForm()
+#
+#    args = {}
+#    args.update(csrf(request))
+#    args['form'] = form
+#    template = 'peck/editarmaq.html'
+#    #return render_to_response(template, args)
+#    return render(request, template, args, content_type="text/html")
+
+
+
+#def editar(request, pk):
+#    pub = get_object_or_404(Publicacao, pk=pk)
+#    CreditoInlineFormSet = inlineformset_factory(Publicacao, Credito)
+#    if request.method == 'POST':
+#        formulario = PublicacaoModelForm(request.POST, instance=pub)
+#        formset = CreditoInlineFormSet(request.POST, instance=pub)
+#        if formulario.is_valid() and formset.is_valid():
+#            formulario.save()
+##            formset = CreditoInlineFormSet(request.POST, instance=pub)
+#            formset.save()
+#            titulo = formulario.cleaned_data['titulo'] #como consequencia de usar o metodo is_valid é a populacao do objecto cleaned_data
+#            return HttpResponseRedirect(reverse('busca')+'?q='+urlquote(titulo))
+#    else:
+#        formulario = PublicacaoModelForm(instance=pub)
+#        formset = CreditoInlineFormSet(instance=pub)
+#    return render(request, 'catalogo/catalogar.html',
+#                {'formulario':formulario, 'formset':formset})
+
+# def contamodelos(request):
+#     pass
