@@ -1,9 +1,9 @@
 {% extends 'peck/base.html' %}
-
+{% load static %}
 {% block corpo %}
 <div id="home">
-    <div class="meio">
-      <h2>PECK file upload</h2>
+    <div class="cardd">
+      <h2><i class="fas fa-bath"></i> PECK file upload</h2>
 
             <form method="POST" action="{% url 'peck:uploadfile' %}" enctype="multipart/form-data">
                 {% csrf_token %}
@@ -23,9 +23,9 @@
           {% endif %}
     </div>
 
-    <div class="meio">
+    <div class="cardd">
         {% if not busca %}
-                <h2>Search for CLIENTs or SERIAL Number</h2>
+                <h2><i class="fas fa-search"></i> Search for CLIENTs or SERIAL Number</h2>
                 <form method="get" action="{% url 'peck:search' %}">
                     Client(s): <input type="text" name="q" >
                     <input type="submit" value="buscar" >
@@ -51,6 +51,17 @@
                 </table>
         {% endif %}
     </div>
+
+    <div class="cardd" id="about">
+        <h2><i class="fas fa-at"></i> About</h2>
+        <img src="{% static './peck/img/roland5.png' %}" alt="roland logo">
+        <p>This is a tool to help Roland clients to have a quick view of their printer's status based on the peck file the printer produces.</p>
+    </div>
+    <div class="cardd" id="disclaimer">
+        <h2><i class="fab fa-black-tie"></i> Disclaimer</h2>
+        <p>This is an experimental webtool. It has been developed based on the software developer's personal experience which has no professional or commercial relationship with Roland DGA Corporation. <br> <br>For official Roland documentation and information please contact Roland DGA Corporation official website at: <a href="https://www.rolanddga.com/  ">https://www.rolanddga.com/</a>.</p>
+    </div>
+
     <div id="getgraph">
 
     </div>

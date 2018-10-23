@@ -6,8 +6,12 @@
             <title>Roland DB</title>
 
         {% load static %}
-            <link rel="stylesheet" type="text/css" href="{% static 'peck/style.css' %}" />
             <script src="https://d3js.org/d3.v5.min.js"></script>
+            <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"> -->
+            <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
+            <link rel="stylesheet" type="text/css" href="{% static 'peck/style.css' %}" />
+
+            </script>
 </head>
 
     <body>
@@ -17,22 +21,20 @@
                 <ul>
                     <a href="{% url 'peck:vhome' %}"><li>Home</li></a>
                     <a href="{% url 'peck:listapeck' %}"><li>Pecks</li></a>
-                    <a href="{% url 'peck:listmachine' %}"><li>Printers</li></a>
+                    <!-- <a href="{% url 'peck:listmachine' %}"><li>Printers</li></a> -->
                     <a href="{% url 'peck:vermodelos' %}"><li>Models</li></a>
                     <a href="{% url 'peck:listaclis' %}"><li>Clients</li></a>
                 </ul>
             </nav>
             <main>
-
                 {% block corpo %}
                                 <!--  template - lista.html -->
                 {% endblock corpo %}
             </main>
 
-            <footer class="clearfix">
-                <p>designed by:<strong> Rod Ornellas - Copyright 2018</strong></p>
-                <!-- <p>Visite nosso site <a href="http://www.amplytech.com.br">www.amplytech.com.br</a></p> -->
-            </footer> <!--  fecha 'footer' -->
-        </div>  <!-- ID=ALL -->
+            <footer>
+                <p>Rod Ornellas &copy; 2018</p>
+            </footer>
+        </div>
     </body>
 </html>

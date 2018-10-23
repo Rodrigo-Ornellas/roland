@@ -2,6 +2,12 @@
 
 :root {
     --offwhite-color: rgb(243, 243, 243);
+    --notwhite-color: rgb(249, 251, 252);
+    --beije-color: rgb(167, 170, 156);
+    --myellow-color: rgb(245,191,80);
+    --mypink-color: rgb(192,77,69);
+    --mydark-color: rgb(51,63,114);
+
 }
 
 body{
@@ -9,6 +15,12 @@ body{
     font-family: "Rajdhani", "Arial", "Calibri", sans-serif;
     font-size: 1rem;
     margin: 0;
+}
+
+img{
+  width: 100%;
+  height: auto;
+  margin-right: 1rem;
 }
 
 table{
@@ -20,39 +32,24 @@ th, td{
 }
 
 .btn, .fileContainer:hover{
-  background-color: grey;
+  /* background-color: var(--mypink-color); */
+  background-color: firebrick;
   padding: .4rem .7rem;
   color: white;
   border-radius: 5px;
 }
 
-.btn{
-  margin-left: 20rem;
-
-}
-
-/* https://coderwall.com/p/uer3ow/total-input-type-file-style-control-with-pure-css */
-/* #inputfile {
-	width: 0.1px;
-	height: 0.1px;
-	opacity: 0;
-	overflow: hidden;
-	position: absolute;
-	z-index: -1;
-} */
-
 .wrapper{
     margin: auto;
-
     background-color: var(--offwhite-color);
-    padding-left: 1%;
-
-    min-height: 500px;
-
 }
 
+
+/* ================================================ */
+/* Navigation Bar */
+
 nav{
-    background-color: grey;
+    background-color: var(--mydark-color);
 
     display: flex;
     flex-flow: row nowrap;
@@ -60,14 +57,14 @@ nav{
     align-items: center;
 }
 
-nav h1
-{
+nav h1{
     color: white;
     text-align: left;
     font-size: 1.6rem;
     margin: 0;
     margin-left: 1rem;
 
+    line-height: 2.5;
 }
 
 nav ul{
@@ -75,88 +72,82 @@ nav ul{
     padding: 0;
     margin-top: 0;
     margin-bottom: 0;
-
 }
 
-nav ul a
-{
+nav ul a{
     text-align: center;
 
-    background-color: firebrick;
-    width: 100%;
+    background-color: var(--mypink-color);
+    width: 60px;
 
-    /* padding-top: 5px;
-    padding-bottom: 5px; */
     padding-left: 0;
-
-    /* border-top: 1px solid white; */
     font-weight: 700;
+    border-radius: 5px;
 }
 
 
-nav a:link, nav a:visited
-{
+nav a:link, nav a:visited{
     color: white;
     text-decoration: none;
 }
 
-nav ul a:hover
-{
+nav ul a:hover{
     /* background-color: #fef9e7; */
     background-color: var(--offwhite-color);
 }
 
-nav ul a:hover li
-{
+nav ul a:hover li{
     color: black;
 }
 
+/* ================================================ */
+/* Main and Footer */
 
-
-/*h1 a
-{
-    float: right;
-    width: 100px;
-    color: white;
-    font-weight: bolder;
-    text-decoration: none;
-    border-left: 1px solid white;
-    padding-top: 5px;
-    padding-bottom: 5px;
-    display: block;
-    text-align: center;
-    font-size: 0.5em;
-}*/
-
-
-main
-{
+main{
     width: 100%;
     margin-top:0;
     padding-bottom:15px;
-    /*font-size: 0.8em;*/
-    /*display: table;*/
-    /* background-color: yellow;
-    border: 3px solid yellow; */
-    /*float: right;*/
-    /*clear: both;*/
 
     min-height: 500px;
 }
 
 footer{
+    box-sizing: border-box;
     border-top: 1px solid grey;
     background-color:  grey;
     width: 100%;
-    height: 50px;
+    /* height: 50px; */
+    line-height: 4;
 
     font-size: 0.8em;
-    padding-left: 1.3%;
+    padding-left: 1rem;
     color: white;
     font-weight: 500;
 }
 
+footer p{
+  margin: 0;
+}
+
+
 /*=============  base.html CSS (up) ==================*/
+
+#home{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+}
+
+#about{
+  /* box-sizing: border-box; */
+  display: flex;
+  flex-flow: row wrap;
+}
+
+/* #about img{
+  flex: 0 0 30%;
+  border: 1px solid black;
+} */
 
 h2{
     color: firebrick;
@@ -165,108 +156,91 @@ h2{
     font-size: 1.3em;
 }
 
-#home{
-    display: flex;
-    flex-flow: row nowrap;
-    justify-content: space-between;
-}
-
-.meio
+.cardd
 {
-    margin-top: 2%;
-    margin-right: 2%;
-    height: 10rem;
+    flex: 1 0 40%;
+    margin: 0 0 1.5rem 0;
 
+    /* height: 10rem; */
     padding: 1rem;
-    width: 100%;
 
+    /* width: 100%; */
     border: 1px solid black;
+    border-radius: 5px;
 }
 
-.top
-{
-    width: 100%;
-    /*float: left;*/
-    /*overflow: hidden; */
-    /*border: 3px solid yellow; */
+.cardd:nth-child(even){
+    margin: 0 0 1.5rem 1.5rem;
 }
+
+#disclaimer{
+  background-color: var(--mypink-color);
+  color: var(--offwhite-color);
+}
+
+#disclaimer a, #disclaimer h2{
+  color: var(--offwhite-color);
+}
+
+/* .top{
+    width: 100%;
+} */
 
 /*=============  index.html CSS (up) ==================*/
 
-h3
-{
+h3{
     margin-top: 0px;
     margin-bottom: 0px;
     color: darkgray;
 }
 
-table
-{
-    /*
-     table-layout: auto;
-    border-radius: 10px;
-    border: 1px solid gray;
-    width: 100%; */
-    /*border-collapse:separate;
-    border-spacing:15px; */
+table{
     word-wrap:break-word;
     display: inline-block;
     vertical-align: text-top;
     text-align: left;
 }
 
-th
-{
+th{
     text-align: left;
     font-size: 1.1em;
 }
 
-#hoje
-{
+#hoje{
     color: red;
 }
 
-li
-{
+li{
     font-size: 1.0em;
 }
 
 
-#top_left
-{
+#top_left{
     width: 55%;
     float: left;
     overflow: hidden;
 }
 
-#top_right
-{
+#top_right{
     width: 20%;
     float: right;
     overflow: hidden;
 }
 
-#mid_left
-{
+#mid_left{
     width: 49%;
     float: left;
     overflow: hidden;
 }
 
-#mid_right
-{
+#mid_right{
     width: 49%;
     float: right;
     overflow: auto;
 }
 
 
-
-/* SUB-menu JAVASCRIPT
-http://javascript-array.com/scripts/simple_drop_down_menu/
-*/
-#m01 div
-{
+#m01 div{
     position: absolute;
     visibility: hidden;
     margin: 0;
@@ -275,8 +249,7 @@ http://javascript-array.com/scripts/simple_drop_down_menu/
     border: 1px solid #5970B2;
 }
 
-#m01 div a
-{
+#m01 div a{
     position: relative;
     display: block;
     margin: 0;
@@ -290,8 +263,7 @@ http://javascript-array.com/scripts/simple_drop_down_menu/
     font: 11px arial;
 }
 
-#m01 div a:hover
-{
+#m01 div a:hover{
     background: #49A3FF;
     color: #FFF;
 }
@@ -300,12 +272,8 @@ http://javascript-array.com/scripts/simple_drop_down_menu/
 /* MODELO 1 > 3 COLUNAS (direita, meio e esquerda)
  http://matthewjamestaylor.com/blog/equal-height-columns-4-column.htm
  */
-#esq
-{
+#esq{
     width: 30%;
-    /*background-color: yellow; /* #E2E1E9 */
-    /* top: 193px;
-    left: 0; */
     padding-top: 0;
     padding-right: 25px;
     padding-bottom: 0;
@@ -315,17 +283,10 @@ http://javascript-array.com/scripts/simple_drop_down_menu/
     float: left;
     position: relative;
     overflow: hidden;
-
-    /*border: 3px solid black;*/
 }
 
-#dir
-{
+#dir{
     width: 34%;
-    /*background-color: blue; /* #E2E1E9 */
-    /*position: absolute;
-    /* top: 193px;
-    left: 652px; */
     padding-top: 0;
     padding-bottom: 0;
     color: #000;
@@ -334,34 +295,15 @@ http://javascript-array.com/scripts/simple_drop_down_menu/
     float: right;
     position: relative;
     overflow: hidden;
-
-    /*border: 3px solid green;*/
 }
 
-
-
-#frame_top
-{
-    /* Conteudo DINAMICO da Aplicação
-    */
-
-    /* position: float;
-    top: 193px;
-    left: 0px;
-    width: 900px;
-
-    padding-top: 0px;
-    margin-right: auto;
-    margin-left: auto;
-
-    text-decoration: none; */
+#frame_top{
     margin-top: 0px;
 }
 
 
 /* MODELO 4 > 2 colunas > esq + dir_resto */
-#dir_resto
-{
+#dir_resto{
     width: 60%;
     background-color: #E2E1E9;
     padding-top: 0;
@@ -373,13 +315,10 @@ http://javascript-array.com/scripts/simple_drop_down_menu/
     float: left;
     position: relative;
     overflow: hidden;
-
-    /*border:1px solid blue;*/
 }
 
 /* MODELO 5 > 2 colunas > esq_grande + dir */
-#esq_grande
-{
+#esq_grande{
     width: 60%;
     padding-top: 0;
     padding-right: 25px;
@@ -394,7 +333,6 @@ http://javascript-array.com/scripts/simple_drop_down_menu/
 /* MODELO 5 > 2 colunas > esq2 + dir2 */
 
 #esq2 {
-
     width: 45%;
     padding-top: 0;
     padding-right: 25px;
@@ -405,16 +343,10 @@ http://javascript-array.com/scripts/simple_drop_down_menu/
     float: left;
     position: relative;
     overflow: hidden;
-
-    /*border: 3px solid yellow;*/
 }
 
 #dir2 {
     width: 50%;
-    /*background-color: blue; /* #E2E1E9 */
-    /*position: absolute;
-    /* top: 193px;
-    left: 652px; */
     padding-top: 0;
     padding-bottom: 0;
     color: #000;
@@ -423,14 +355,11 @@ http://javascript-array.com/scripts/simple_drop_down_menu/
     float: left;
     position: relative;
     overflow: hidden;
-
-    /*border: 3px solid green; */
 }
 
 /* MODELO 6 > lista de DIVs - uma embaixo da outra */
 
 #lista1 {
-
     width: 100%;
 
     padding-top: 0px;
@@ -447,41 +376,27 @@ http://javascript-array.com/scripts/simple_drop_down_menu/
 
 @media screen and (min-width: 500px)
 {
-    .wrapper
-    {
-        width: 900px;
+    .wrapper{
+        width: 1000px;
     }
 
-    nav, footer
-    {
-        margin-left: -1.3%;
+    main{
+      padding: 1.5rem;
+
+      box-sizing: border-box;
+
     }
 
-    nav ul
-    {
+    nav ul{
         text-align: right;
         display: flex;
     }
 
-    nav ul a
-    {
-        /* display: inline-block; */
-        /* width: 100%; */
-        padding-left: 1.1rem;
-        padding-right: 1.1rem;
-        margin-left: .4rem;
-        line-height: 3;
+    nav ul a{
+        padding: 0 1.1rem 0 ;
+        margin-right: .4rem;
+        line-height: 2.5;
     }
-
-    .meio
-    {
-        width: 48%;
-    }
-
-/*    footer
-    {
-        width: 101.2%;
-    }*/
 
 }
 
