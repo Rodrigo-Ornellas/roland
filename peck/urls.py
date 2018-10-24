@@ -28,9 +28,8 @@ from peck.views import getgraph
 
 app_name = 'peck'
 urlpatterns = [
-    url(r'^peck/listafirm/<str:ser>', views.lista_firm, name="lista_firm"),
     url(r'^peck/listapeck/$', views.l_pecks, name="listapeck"),
-    url(r'^peck/details/(\d+)', views.d_pecks, name="detailspeck"),
+    url(r'^peck/details/(\d+)', views.detailPeck, name="detailPeck"),
     url(r'^peck/report/(?P<sall>\d+)/$', views.report, name="report"),
     url(r'^peck/arq/$', views.sobe_arq, name="uploadfile"),
     url(r'^peck/docs/$', views.l_docs, name="listadocs"),
@@ -39,9 +38,9 @@ urlpatterns = [
     url(r'^peck/listmachine/$', views.l_machine, name="listmachine"),
     url(r'^peck/uploaded/(?P<filename>\w+)/$$', views.vertxt, name="vertxt"),
     url(r'^peck/baixar/$', views.baixar, name="baixar"),
-    url(r'^peck/search/$', views.search_cli, name='search'),
+    url(r'^peck/search/$', views.search_cli, name='search_cli'),
     url(r'^peck/$', views.index, name='vhome'),
-    url(r'^peck/api/getgraph/$', views.getgraph, name='apig1')
+    url(r'^api/getgraph/$', views.getgraph, name='getgraph')
    	]
 
 if settings.DEBUG:

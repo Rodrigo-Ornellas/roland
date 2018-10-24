@@ -8,3 +8,7 @@ https://www.youtube.com/watch?v=B4Vmm3yZPgc
 https://www.programcreek.com/python/example/59542/django.http.JsonResponse
 https://stackoverflow.com/questions/34366960/how-to-consume-json-response-in-python
 https://stackoverflow.com/questions/2428092/creating-a-json-response-using-django-and-python
+
+
+Bootstrap
+            <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"> -->

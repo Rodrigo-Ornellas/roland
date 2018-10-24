@@ -2,6 +2,12 @@
 {% load static %}
 {% block corpo %}
 <div id="home">
+
+    <div class="cardd">
+      <h2><i class="fas fa-trophy"></i> TOP Printer Models</h2>
+      <canvas id="get-graph"></canvas>
+    </div>
+
     <div class="cardd">
       <h2><i class="fas fa-bath"></i> PECK file upload</h2>
 
@@ -23,10 +29,10 @@
           {% endif %}
     </div>
 
-    <div class="cardd">
-        {% if not busca %}
+    <!-- <div class="cardd">
+        {% if not query %}
                 <h2><i class="fas fa-search"></i> Search for CLIENTs or SERIAL Number</h2>
-                <form method="get" action="{% url 'peck:search' %}">
+                <form method="get" action="{% url 'peck:search_cli' %}">
                     Client(s): <input type="text" name="q" >
                     <input type="submit" value="buscar" >
                 </form>
@@ -36,21 +42,19 @@
                         <tr>
                                 <th>Client</th>
                                 <th>Company</th>
-                                <th>Serial</th>
-                                <th>Id</th>
                         </tr>
-                    {% for maq in busca %}
+                    {% for maq in db %}
                         <tr>
                                 <td>{{ maq.contact }}</td>
                                 <td>{{ maq.company }}</td>
-                                <!-- <td><a href="../../../peck/report/{{ maq.serial }}/"/>{{ maq.serial }}</a></td> -->
+                                <td><a href="../../../peck/report/{{ maq.serial }}/"/>{{ maq.serial }}</a></td>
                                 <td><a href="{% url 'peck:report' maq.serial %}"/>{{ maq.serial }}</a></td>
                                 <td>{{ maq.machine_id }}</td>
                         </tr>
                     {% endfor %}
                 </table>
         {% endif %}
-    </div>
+    </div> -->
 
     <div class="cardd" id="about">
         <h2><i class="fas fa-at"></i> About</h2>
@@ -59,25 +63,77 @@
     </div>
     <div class="cardd" id="disclaimer">
         <h2><i class="fab fa-black-tie"></i> Disclaimer</h2>
-        <p>This is an experimental webtool. It has been developed based on the software developer's personal experience which has no professional or commercial relationship with Roland DGA Corporation. <br> <br>For official Roland documentation and information please contact Roland DGA Corporation official website at: <a href="https://www.rolanddga.com/  ">https://www.rolanddga.com/</a>.</p>
+        <p>This is an experimental webtool. It has been developed based on the software developer's personal experience which has no professional or commercial relationship with Roland DGA Corporation. <br> <br>For official Roland documentation and information please contact Roland DGA Corporation. <br> <br>Official website at: <a href="https://www.rolanddga.com/  ">https://www.rolanddga.com/</a>.</p>
     </div>
 
-    <div id="getgraph">
-
-    </div>
 </div>
+
 <script type="text/javascript">
-  var endpoint = 'peck/api/getgraph'
+  var endpoint = '/api/getgraph';
+  var dd = [];
+  var lbs = ''
+
   $.ajax({
     method: "GET",
     url: endpoint,
-    sucess: function(data) {
-      console.log(data)
+    success: function(info){
+      var lbls = [];
+      var dt = [];
+
+      for (var key in info) {
+          lbls.push(key);
+          dt.push(info[key]);
+          console.log(key + " = " + info[key]);
+      }
+
+      // RANDOMIZE COLOR based on the number of ITEMS
+      // var num_colors = dt.length;
+      // for(i = 0; i < 360; i += 360 / num_colors) {
+      //     // HSLColour c;
+      //     var c = new HSLColour;
+      //     c.hue = i;
+      //     c.saturation = 90 + randf() * 10;
+      //     c.lightness = 50 + randf() * 10;
+      //
+      //     addColor(c);
+      // }
+      // console.log(c);
+
+      var optionsPie = {
+              legend: {
+                  display: true,
+                  labels: {
+                      fontColor: 'rgb(255, 99, 132)'
+                  },
+                  position: 'right'
+              }
+            }
+      var context = document.getElementById('get-graph');
+      var chart = new Chart(context, {
+        type: 'pie',
+        data: {
+            labels: lbls,
+            datasets: [{
+                backgroundColor: [
+                  'rgb(249, 251, 252)',
+                  'rgb(167, 170, 156)',
+                  'rgb(245,191,80)',
+                  'rgb(192,77,69)',
+                  'rgb(51,63,114)',
+                  'rgb(69,177,210)',
+              ],
+                borderColor: 'rgb(255, 255, 255)',
+                data: dt,
+            }]
+        },
+        // options: optionsPie
+      });
     },
-    error:  function(eror_data){
+    error: function(error_data){
       console.log("error")
       console.log(error_data)
     }
-  })
+  });
+
 </script>
 {% endblock %}

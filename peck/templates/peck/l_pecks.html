@@ -15,10 +15,11 @@
 
             {% for repo in lista_pecks %}
                 <tr>
+
                         <td>{{ repo.id }}</td>
                         <td>{{ repo.pSerial }}</td>
                         <td>{{ repo.pModelo }}</td>
-                        <td>{{ repo.createDate|date:'d-m-Y' }}</td>
+                        <td><a href="{% url 'peck:detailPeck' repo.id %}">{{ repo.createDate|date:'d-m-Y' }}</a></td>
                         <td>{{ repo.firmware }}</td>
                 </tr>
             {% empty %}

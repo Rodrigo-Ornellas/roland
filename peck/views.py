@@ -245,7 +245,7 @@ def l_docs(request):
 
 #==================================================================
 # 12) Detalhes do peck report selecionado
-def d_pecks(request, peck_id):
+def detailPeck(request, peck_id):
     # d_pecks(request, newdoc.id, newdoc)
     # Pegando os valores no banco de dados
     peck = Peck.objects.get(pk=int(peck_id))
@@ -253,13 +253,14 @@ def d_pecks(request, peck_id):
 
     # Como enviar dois objetos para a pagina HTML (template)
     # http://www.tangowithdjango.com/book/chapters/models_templates.html
-    detalhe_peck = {}
-    detalhe_peck ['pec'] = peck
-    detalhe_peck ['mac'] = maq
+    tohtml = {}
+    tohtml ['pek'] = Peck.objects.get(pk=int(peck_id))
+    tohtml ['mac'] = Machine.objects.get(serial=peck.pSerial)
+    tohtml ['c'] = Client.objects.get(pk=maq.client.pk)
     # detalhe_peck ['doc'] = doc
 
     # Envio dos dados para a pagina HTML
-    context = {'detalhe_peck': detalhe_peck}
+    context = {'tohtml': tohtml}
     template = 'peck/d_pecks.html'
     return render(request, template, context, content_type="text/html")
 
@@ -269,26 +270,12 @@ def d_pecks(request, peck_id):
 def l_pecks(request):
     arqs = {}
     lista_pecks = {}
-    # pecs = Peck.objects.all()
     lista_pecks = Peck.objects.all()
-    # for x in pecs:
-        # arqs[x.serial] = Peck.objects.get(pk=int(x.pk)).docfile
 
-    # lista_pecks['pecs'] = pecs
-    # lista_pecks['arqs'] = arqs
     context = {'lista_pecks': lista_pecks}
     template = 'peck/l_pecks.html'
     return render(request, template, context, content_type="text/html")
 
-
-#==================================================================
-# 15) List of Firmware in the Database
-def lista_firm(request, ser):
-    listafirmw = Peck.objects.filter(serial=str(ser)).order_by('-data')[:5]
-    # seria lega se fosse possivel entregar apenas as datas em que o firmware foi atualizado
-    context = {'listafirmw': listafirmw}
-    template = 'peck/l_pecks.html'
-    return render(request, template, context, content_type="text/html")
 
 # ============================================================================================
 # 11a) Method CALLED by Report METHOD
@@ -863,8 +850,26 @@ def sobe_arq(request):
 
 
 def getgraph(request, *args, **kwargs):
+    labels = ["January", "February", "March", "April", "May", "June", "July"];
+    p = Peck.objects.all()
+
+    graph = {}
+    setPeck = set()
+    for peck in p:
+        setPeck.add(peck.pModelo)
+
+    for model in setPeck:
+        graph[model] = Peck.objects.filter(pModelo=model).count()
+
+    print (str(graph))
+
+    # err = {"message" : "Graph executed."}
+    # context = {'graph': graph}
+    # template = 'peck/index.html'
+    # return render(request, template, context, content_type="text/html")
+
     data = {
-        "sales": 100,
-        "cust": 100,
+        "labels": setPeck,
+        "quantity": len(setPeck),
     }
-    return JsonResponse(data)
+    return JsonResponse(graph)
