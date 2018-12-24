@@ -231,7 +231,7 @@ def l_mod(request):
 #==================================================================
 # 9) List of Documents
 def l_docs(request):
-    documents = PeckMachine.objects.all()
+    documents = Peck.objects.all()
     template = 'peck/l_docs.html'
     context = {'documents': documents}
     return render(request, template, context, content_type="text/html")
@@ -261,7 +261,7 @@ def detailPeck(request, peck_id):
 
     # Envio dos dados para a pagina HTML
     context = {'tohtml': tohtml}
-    template = 'peck/d_pecks.html'
+    template = 'peck/d_peck.html'
     return render(request, template, context, content_type="text/html")
 
 

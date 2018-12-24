@@ -391,6 +391,22 @@ li{
     overflow: hidden;
 }
 
+/* new PECK DETAIL report */
+
+#test_top h2{
+  padding-left: 1.2rem;
+}
+
+#test_top img{
+  margin-top: 1rem;
+  width: 50px;
+  padding-left: 1.2rem;
+}
+
+#test_top h3{
+  padding-left: 1.2rem;
+}
+
 @media screen and (min-width: 500px)
 {
     .wrapper{
@@ -412,6 +428,22 @@ li{
         margin-right: .4rem;
         line-height: 2.5;
     }
+
+    #peck-det{
+      display: flex;
+      flex-flow: row wrap;
+    }
+
+    #test_top{
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      grid-gap: 1rem;
+    }
+
+    #test_top h2{
+      grid-area: 1/1/3/3;
+    }
+
 
 }
 

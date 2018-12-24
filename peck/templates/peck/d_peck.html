@@ -1,0 +1,77 @@
+{% extends 'peck/base.html' %}
+{% load static %}
+
+{% block corpo %}
+    <div id="test_top">
+        <h2>Peck Details</h2>
+        <table>
+            <tr>
+                    <th>Client</th>
+                    <td>{{ tohtml.c.company }}</td>
+            </tr>
+            <tr>
+                    <th>Serial</th>
+                    <td>{{ tohtml.pek.pSerial }}</td>
+            </tr>
+            <tr>
+                    <th>Model</th>
+                    <td>{{ tohtml.pek.pModelo }}</td>
+            </tr>
+            <tr>
+                    <th>Firmware</th>
+                    <td>{{ tohtml.pek.firmware }}</td>
+            </tr>
+            <tr>
+                    <th>Date</th>
+                    <td>{{ tohtml.pek.createData|date:'d-m-Y' }}</td>
+            </tr>
+      </table>
+      <table>
+            <tr>
+                    <th>Ink Type</th>
+                    <td>{{ tohtml.pek.ink }}</td>
+            </tr>
+            <tr>
+                    <th>Bottle Liquid</th>
+                    <td>{{ tohtml.pek.liq }} ml</td>
+            </tr>
+            <tr>
+                    <th>Motor Feed</th>
+                    <td>{{ tohtml.pek.feed }} hours</td>
+            </tr>
+            <tr>
+                    <th>Motor Scan</th>
+                    <td>{{ tohtml.pek.scan }} hours</td>
+            </tr>
+      </table>
+      <table>
+            <tr>
+                    <th>Pump</th>
+                    <td>{{ tohtml.pek.pump }} times</td>
+            </tr>
+            <tr>
+                    <th>Head Cleaning</th>
+                    <td>{{ tohtml.pek.limp }} hours</td>
+            </tr>
+            <tr>
+                    <th>Since last cleaning</th>
+                    <td>{{ tohtml.pek.clean }} hours</td>
+            </tr>
+            <tr>
+                    <th>Wipe Count</th>
+                    <td>{{ tohtml.pek.wipe }} times</td>
+            </tr>
+      </table>
+      <div>
+            <h3>Battery Charge</h3>
+              {% if tohtml.pek.bat == "Charged" or tohtml.pek.bat == "CHARGED" %}
+                  <img src="{% static 'peck/img/bat_verde.png' %}" alt="{{ tohtml.pek.bat }}"/>
+              {% elif tohtml.pek.bat == "Empty" %}
+                  <img src="{% static 'peck/img/bat_nobat.png' %}" alt="{{ tohtml.pek.bat }}"/>
+              {% else %}
+                  <img src="{% static 'peck/img/bat_vermelho.png' %}" alt="{{ tohtml.pek.bat }}"/>
+              {% endif %}
+      </div>
+
+    </div>
+{% endblock %}

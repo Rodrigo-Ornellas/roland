@@ -3,18 +3,20 @@
 {% block corpo %}
 {% load staticfiles %}
 <div id="frame_top">
-        <h2>Lista de Arquivos IMPORTADOS</h2> 
+        <h2>List of Uploaded Files</h2>
     <table>
         <tr>
             <!-- <th>Upload Date</th> -->
             <th>ID</th>
-            <th>Caminho do Arquivo</th>
+            <th>Model</th>
+            <th>File path</th>
         </tr>
     {% if documents %}
         {% for doc in documents %}
         <tr>
             <td>{{ doc.id }}</td>
-            <td><a href="{% url 'listadocs' doc.docfile %}">{{ doc.docfile }}</a></td>
+            <td>{{ doc.model }}</td>
+            <td><a href="{% url 'peck:vertxt' doc.filepath %}">{{ doc.filepath }}</a></td>
         </tr>
         {% endfor %}
     {% else %}
