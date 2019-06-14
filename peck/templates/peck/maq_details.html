@@ -1,0 +1,41 @@
+{% extends 'peck/base.html' %}
+
+{% block corpo %}
+<div id="frame_top">
+    <div class="cliDet">
+        <h2>Machine Details</h2>
+        <div class="machDet">            
+            <div><span>Client:</span> {{ peks.cli.machine.client.company }}</div>
+            <div><span>Serial:</span> {{ peks.cli.pSerial }}</div>
+            <div><span>Model:</span> {{ peks.cli.model }}</div>
+            <div><span>Ink Type:</span> {{ peks.cli.ink }}</div>
+        </div>
+    </div>
+    <h2>Peck List</h2>
+    <table>
+            <tr>
+                    <th>#</th>
+                    <th>Peck Date</th>
+                    <th>Firmware</th>                    
+                    <th>Wipe Count</th>
+                    <th>Head Cleaning</th>
+            </tr>
+        {% for item in peks.arr %}
+            <tr>
+                    <td>{{ item.pk }}</td>
+                    <td>{{ item.createDate }}</td>
+                    <td>{{ item.firmware }}</td>
+                    <td>{{ item.wipe }}</td>
+                    <td>{{ item.clean }}</td>
+            </tr>
+        {% empty %}
+            <tr>
+                    <td> Empty Database!
+                    <td></td>
+                    <td></td>
+                    <td></td>
+            </tr>
+        {% endfor %}
+    </table>
+</div>
+{% endblock %}

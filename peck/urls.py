@@ -28,19 +28,21 @@ from peck.views import getgraph
 
 app_name = 'peck'
 urlpatterns = [
-    url(r'^peck/listapeck/$', views.l_pecks, name="listapeck"),
-    url(r'^peck/details/(\d+)', views.detailPeck, name="detailPeck"),
-    url(r'^peck/report/(?P<sall>\d+)/$', views.report, name="report"),
-    url(r'^peck/arq/$', views.sobe_arq, name="uploadfile"),
-    url(r'^peck/docs/$', views.l_docs, name="listadocs"),
-	url(r'^peck/modelos/$', views.l_mod, name="vermodelos"),
-    url(r'^peck/listaclis/$', views.l_clis, name="listaclis"),
-    url(r'^peck/listmachine/$', views.l_machine, name="listmachine"),
-    url(r'^peck/uploaded/(?P<filename>\w+)/$$', views.vertxt, name="vertxt"),
-    url(r'^peck/baixar/$', views.baixar, name="baixar"),
-    url(r'^peck/search/$', views.search_cli, name='search_cli'),
-    url(r'^peck/$', views.index, name='vhome'),
-    url(r'^api/getgraph/$', views.getgraph, name='getgraph')
+    url(r'listapeck/$', views.l_pecks, name="peck-listpecks"),
+    url(r'details/(?P<peck_id>\d+)', views.detailPeck, name="peck-details"),
+    # url(r'details/(\d+)', views.detailPeck, name="peck-details"),        
+    url(r'report/(?P<sall>\d+)/$', views.report, name="peck-report"),
+    url(r'arq/$', views.sobe_arq, name="peck-uploadfile"),
+    url(r'docs/$', views.l_docs, name="peck-listdocs"),
+	url(r'modelos/$', views.l_mod, name="peck-listmodels"),
+    url(r'listaclis/$', views.l_clis, name="peck-listclients"),
+    url(r'listmachine/$', views.l_machine, name="peck-listmachine"),
+    url(r'machinedetails/(?P<maq_serial>\w+)/$', views.machine_details, name="peck-machinedet"),
+    url(r'uploaded/(?P<filename>\w+)/$$', views.vertxt, name="peck-vertxt"),
+    url(r'baixar/$', views.baixar, name="peck-download"),
+    url(r'search/$', views.search_cli, name='peck-searchcli'),
+    url(r'$', views.index, name='peck-home'),
+    url(r'^api/getgraph/$', views.getgraph, name='peck-getgraph')
    	]
 
 if settings.DEBUG:

@@ -1,3 +1,4 @@
+{% load static %}
 <!DOCTYPE html>
 <html>
 <head>
@@ -5,13 +6,21 @@
             <meta name="viewport" content="width=device-width, initial-scale=1.0">
             <title>Roland DB</title>
 
-        {% load static %}
+            <!-- FONT AWESOME -->
+            <script src="https://kit.fontawesome.com/781005eadb.js"></script>
 
-            <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
+            <!-- APPLICATION CSS -->
             <link rel="stylesheet" type="text/css" href="{% static 'peck/style.css' %}" />
-            <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.1.4/Chart.bundle.min.js"></script>
+
+            <!-- CHART JS Graphs -->
+            <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.8.0/Chart.bundle.min.js"></script>
+            
+
+            <!-- jQuery -->
             <script
             src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+
+
             <script src="https://cdnjs.cloudflare.com/ajax/libs/color-js/1.0.1/color.js"></script>
 
 </head>
@@ -21,22 +30,20 @@
             <nav>
               <h1>Roland DB</h1>
                 <ul>
-                    <a href="{% url 'peck:vhome' %}"><li>Home</li></a>
-                    <a href="{% url 'peck:listapeck' %}"><li>Pecks</li></a>
-                    <!-- <a href="{% url 'peck:listmachine' %}"><li>Printers</li></a> -->
-                    <a href="{% url 'peck:vermodelos' %}"><li>Models</li></a>
-                    <a href="{% url 'peck:listaclis' %}"><li>Clients</li></a>
-                    <!-- <a href="{% url 'peck:listadocs' %}"><li>Uploaded</li></a> -->
+                    <a href="{% url 'peck:peck-home' %}"><li>Home</li></a>
+                    <a href="{% url 'peck:peck-listpecks' %}"><li>Pecks</li></a>
+                    <!-- <a href="{% url 'peck:peck-listmachine' %}"><li>Printers</li></a> -->
+                    <a href="{% url 'peck:peck-listmodels' %}"><li>Models</li></a>
+                    <a href="{% url 'peck:peck-listclients' %}"><li>Clients</li></a>
+                    <!-- <a href="{% url 'peck:peck-listdocs' %}"><li>Uploaded</li></a> -->
                 </ul>
             </nav>
             <main>
-                {% block corpo %}
-                                <!--  template - lista.html -->
-                {% endblock corpo %}
+                {% block corpo %} {% endblock corpo %}
             </main>
 
             <footer>
-                <p>Rod Ornellas &copy; 2018</p>
+                <p>Rod Ornellas &copy; 2019</p>
             </footer>
         </div>
     </body>

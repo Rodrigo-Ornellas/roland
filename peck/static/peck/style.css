@@ -202,6 +202,24 @@ h2{
 /* .top{
     width: 100%;
 } */
+/*=============  maq_details.html  ==================*/
+
+.machDet{
+  display: flex;
+  flex-flow: row wrap;
+  margin-bottom: 2rem;
+}
+
+.machDet div span{
+  font-weight: bold;
+}
+
+.machDet div{
+  flex: 1 0 50%;
+  margin-bottom: 1rem;
+}
+
+
 
 /*=============  index.html CSS (up) ==================*/
 

@@ -79,8 +79,8 @@ class Peck(models.Model):
     wipe = models.PositiveIntegerField(u'Wiping Count', default=1)
     liq = models.PositiveIntegerField(u'Liquido na Garrafa', default=1)
     filepath = models.FileField(upload_to='uploaded/', default='dummy-file')
-    # upldate = models.DateField(default=timezone.now)
-    # upldate = models.DateField(default=datetime.date.today())  #auto_now_add=True,
+    upldate = models.DateField(default=timezone.now)
+    # upldate = models.DateField(default=datetime.date.today  #auto_now_add=True,
     # comments = models.CharField(max_length=120, null=True)
     # https://matthiasomisore.com/web-programming/django-error-you-are-trying-to-add-a-non-nullable-field-to-submission-without-a-default/
 

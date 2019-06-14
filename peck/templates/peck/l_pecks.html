@@ -9,8 +9,9 @@
                         <th>ID</th>
                         <th>Serial</th>
                         <th>Modelo</th>
-                        <th>Data</th>
+                        <th>Report Date</th>
                         <th>Firmware</th>
+                        <th>Upload Date</th>
                 </tr>
 
             {% for repo in lista_pecks %}
@@ -19,8 +20,9 @@
                         <td>{{ repo.id }}</td>
                         <td>{{ repo.pSerial }}</td>
                         <td>{{ repo.pModelo }}</td>
-                        <td><a href="{% url 'peck:detailPeck' repo.id %}">{{ repo.createDate|date:'d-m-Y' }}</a></td>
+                        <td><a href="{% url 'peck:peck-details' repo.id %}">{{ repo.createDate|date:'d-m-Y' }}</a></td>
                         <td>{{ repo.firmware }}</td>
+                        <td>{{ repo.upldate }}</td>
                 </tr>
             {% empty %}
                 <tr>

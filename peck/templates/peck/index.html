@@ -11,7 +11,7 @@
     <div class="cardd">
       <h2><i class="fas fa-bath"></i> PECK file upload</h2>
 
-            <form method="POST" action="{% url 'peck:uploadfile' %}" enctype="multipart/form-data">
+            <form method="POST" action="{% url 'peck:peck-uploadfile' %}" enctype="multipart/form-data">
                 {% csrf_token %}
                 {{ form.as_p }}
                 <!-- <label class="fileContainer">
@@ -32,7 +32,7 @@
     <!-- <div class="cardd">
         {% if not query %}
                 <h2><i class="fas fa-search"></i> Search for CLIENTs or SERIAL Number</h2>
-                <form method="get" action="{% url 'peck:search_cli' %}">
+                <form method="get" action="{% url 'peck:peck-searchcli' %}">
                     Client(s): <input type="text" name="q" >
                     <input type="submit" value="buscar" >
                 </form>
@@ -63,7 +63,7 @@
     </div>
     <div class="cardd" id="disclaimer">
         <h2><i class="fab fa-black-tie"></i> Disclaimer</h2>
-        <p>This is an experimental webtool. It has been developed based on the software developer's personal experience which has no professional or commercial relationship with Roland DGA Corporation. <br> <br>For official Roland documentation and information please contact Roland DGA Corporation. <br> <br>Official website at: <a href="https://www.rolanddga.com/  ">https://www.rolanddga.com/</a>.</p>
+        <p>This is an experimental webtool. It has been developed based on the software developer's personal experience which has no professional or commercial relationship with Roland DGA Corporation. <br> <br>For official Roland documentation and information please contact Roland DGA Corporation.</p>
     </div>
 
 </div>

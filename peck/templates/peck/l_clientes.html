@@ -10,15 +10,11 @@
                     <th>Serial</th>
 
             </tr>
-        {% for item in listao.cli %}
+        {% for item in listao.pek %}
             <tr>
-                    <td>{{ item.pk }}</td>
-                    <td>{{ item.company }}</td>
-                    {% for m in listao.maq %}
-                        {% if item.pk == m.client_id %}
-                        <td>{{ m.serial }}</td>
-                        {% endif %}
-                    {% endfor %}
+                    <td>{{ item.machine.client.pk }}</td>
+                    <td>{{ item.machine.client.company }}</td>
+                    <td><a href="{% url 'peck:peck-machinedet' maq_serial=item.pSerial %}">{{ item.pSerial }}</a></td>
             </tr>
         {% empty %}
             <tr>

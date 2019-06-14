@@ -199,6 +199,7 @@ def vertxt(request, peckfile):
 # 6) List of clients
 def l_clis(request):
     listao = {}
+    listao ['pek'] = Peck.objects.all()
     listao ['maq'] = Machine.objects.all()
     listao ['mod'] = Modelo.objects.all()
     listao ['cli'] = Client.objects.all()
@@ -208,8 +209,11 @@ def l_clis(request):
     template = 'peck/l_clientes.html'
     return render(request, template, context, content_type="text/html")
 
+#==================================================================
+# 7) List of Machines
 def l_machine(request):
     listao = {}
+    listao ['pek'] = Peck.objects.all()
     listao ['maq'] = Machine.objects.all()
     listao ['mod'] = Modelo.objects.all()
     listao ['cli'] = Client.objects.all()
@@ -219,9 +223,26 @@ def l_machine(request):
     template = 'peck/l_maqs.html'
     return render(request, template, context, content_type="text/html")
 
+#def l_maqs(request):
+#    maq = Machine.objects.all()
+#    template = 'peck/l_maqs.html'
+#    context = {'maq': maq}
+#    return render(request, template, context)    
 
 #==================================================================
-# 7) List of Modelos
+# 7b) Machines Details
+def machine_details(request, maq_serial):
+    peks = {}
+    peks ['arr'] = Peck.objects.filter(pSerial=maq_serial)
+    peks ['cli'] = Peck.objects.filter(pSerial=maq_serial).first()
+
+    context = {'peks': peks}
+    template = 'peck/maq_details.html'
+    return render(request, template, context, content_type="text/html")
+
+
+#==================================================================
+# 8) List of Modelos
 def l_mod(request):
     lista_modelos = Modelo.objects.all()
     context = {'lista_modelos': lista_modelos}
@@ -237,17 +258,15 @@ def l_docs(request):
     return render(request, template, context, content_type="text/html")
 
 #==================================================================
-#def l_maqs(request):
-#    maq = Machine.objects.all()
-#    template = 'peck/l_maqs.html'
-#    context = {'maq': maq}
-#    return render(request, template, context)
-
-#==================================================================
 # 12) Detalhes do peck report selecionado
 def detailPeck(request, peck_id):
     # d_pecks(request, newdoc.id, newdoc)
     # Pegando os valores no banco de dados
+    # print('peck_id' + str(peck_id))
+    # p = Peck.objects.all()
+    # for i in p:
+    #     print (i.pk)
+
     peck = Peck.objects.get(pk=int(peck_id))
     maq = Machine.objects.get(serial=peck.pSerial)
 
@@ -460,7 +479,7 @@ def report(request, sall):
 
     # 3) Verifica se modelo da maquina existe na base de dados
     try:
-        d_mod = Modelos.objects.get(modelo=d_peck[0].modelo)
+        d_mod = Modelo.objects.get(modelo=d_peck.first().modelo)
         #print (str(d_mod))
     except:
         err = []
@@ -493,7 +512,7 @@ def report(request, sall):
     # 3) Como enviar dois objetos para a pagina HTML (template)
     # http://www.tangowithdjango.com/book/chapters/models_templates.html
     # Amarrar os calculos a variavel DETALHE_PECK
-    detalhe_peck ['pec1'] = d_peck[0]
+    detalhe_peck ['pec1'] = d_peck.first()
     detalhe_peck ['mac'] = d_maq
     detalhe_peck ['mod'] = d_mod
 
@@ -820,8 +839,8 @@ def sobe_arq(request):
                     wipe=res[12],
                     liq=res[13],
                     filepath=myfile )
-                # Salvando dados do arquivo
-                # print cli.company
+
+                # Salvando dados na base de dados            
                 newpeck.save()
                 tohtml['pek'] = newpeck
                 tohtml['c'] = cli
