@@ -9,7 +9,7 @@ from django.views.generic.edit import UpdateView
 from django.views import generic
 from django.views.generic import FormView, DetailView, ListView
 from django.core.files.storage import FileSystemStorage
-from django.core.urlresolvers import reverse
+# from django.core.urlresolvers import reverse
 
 from django.core.exceptions import ObjectDoesNotExist
 # from django.urls import path, register_converter, reverse, re_path
@@ -768,7 +768,7 @@ def sobe_arq(request):
         try:
             # if positive, get machine db id
             machine = Machine.objects.get(serial=res[2])
-            print type(machine)
+            print (type(machine))
             print ("test>002")
 
         # (A-9)
@@ -789,7 +789,7 @@ def sobe_arq(request):
                 # if negative CREATE client object
                 # (D-17)
                 try:
-                    print str(client_name)
+                    print (str(client_name))
                     if (Client.objects.get(company=client_name)):
                         cli = Client.objects.get(company=client_name)
                         print ("test>004a")
@@ -799,7 +799,7 @@ def sobe_arq(request):
                     print ("ERRO 103: VIEW: sobe_arq > Unable to FIND the CLIENT.")
                     cli = Client(company=client_name)
                     cli.save()
-                    print cli
+                    print (cli)
                 # (D-17)
                 finally:
                     try:

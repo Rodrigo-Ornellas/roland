@@ -30,15 +30,34 @@
             <nav>
               <h1>Roland DB</h1>
                 <ul>
+                    <a href="{% url 'admin:index' %}"><li>Admin</li></a>
+                    <a href="{% url 'register' %}"><li>Register</li></a>
                     <a href="{% url 'peck:peck-home' %}"><li>Home</li></a>
                     <a href="{% url 'peck:peck-listpecks' %}"><li>Pecks</li></a>
                     <!-- <a href="{% url 'peck:peck-listmachine' %}"><li>Printers</li></a> -->
                     <a href="{% url 'peck:peck-listmodels' %}"><li>Models</li></a>
                     <a href="{% url 'peck:peck-listclients' %}"><li>Clients</li></a>
-                    <!-- <a href="{% url 'peck:peck-listdocs' %}"><li>Uploaded</li></a> -->
+                    <!-- <a href="{% url 'register' %}"><li>Login</li></a> -->
                 </ul>
             </nav>
             <main>
+                <!-- {% if messages %}
+                    {% for msg in messages %}
+                        <div class="alert alert-{{message.tags}}">
+                            {{ msg }}
+                        </div>
+                    {% endfor %}    
+                {% endif %} -->
+
+                {% for msg in messages %}
+                <div class="alert {{ message.tags }} alert-dismissible" role="alert">
+                    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                    </button>
+                    {{ msg }}
+                </div>
+                {% endfor %}
+
                 {% block corpo %} {% endblock corpo %}
             </main>
 
