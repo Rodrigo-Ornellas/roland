@@ -226,7 +226,7 @@ def l_machine(request):
 #    maq = Machine.objects.all()
 #    template = 'peck/l_maqs.html'
 #    context = {'maq': maq}
-#    return render(request, template, context)    
+#    return render(request, template, context)
 
 #==================================================================
 # 7b) Machines Details
@@ -839,7 +839,7 @@ def sobe_arq(request):
                     liq=res[13],
                     filepath=myfile )
 
-                # Salvando dados na base de dados            
+                # Salvando dados na base de dados
                 newpeck.save()
                 tohtml['pek'] = newpeck
                 tohtml['c'] = cli

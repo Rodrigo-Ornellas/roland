@@ -22,22 +22,24 @@
             <nav>
               <h1>Roland DB</h1>
                 <ul>
+                    <a href="{% url 'admin:index' %}"><li>Admin</li></a>
+                    <a href="{% url 'register' %}"><li>Register</li></a>
                     <a href="{% url 'peck:peck-home' %}"><li>Home</li></a>
                     <a href="{% url 'peck:peck-listpecks' %}"><li>Pecks</li></a>
                     <a href="{% url 'peck:peck-listmachine' %}"><li>Printers</li></a>
                     <a href="{% url 'peck:peck-listmodels' %}"><li>Models</li></a>
                     <a href="{% url 'peck:peck-listclients' %}"><li>Clients</li></a>
-                    <a href="{% url 'peck:peck-listdocs' %}"><li>Uploaded</li></a>
+                    <!-- <a href="{% url 'register' %}"><li>Login</li></a> -->
                 </ul>
             </nav>
             <main>
-                {% if messages %}
+                <!-- {% if messages %}
                     {% for msg in messages %}
                         <div class="alert alert-{{message.tags}}">
                             {{ msg }}
                         </div>
-                    {% endfor %}    
-                {% endif %}
+                    {% endfor %}
+                {% endif %} -->
                 {% block corpo %} {% endblock corpo %}
             </main>
 
@@ -47,10 +49,10 @@
         </div>
 
         <!-- FONT AWESOME -->
-        <script src="https://kit.fontawesome.com/781005eadb.js"></script>            
-        
+        <script src="https://kit.fontawesome.com/781005eadb.js"></script>
+
         <!-- Color scheme degrees taken from the colorjack.com colorpicker
         HSL support kindly provided by Tim Baumann - http://github.com/timjb -->
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/color-js/1.0.1/color.js"></script>        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/color-js/1.0.1/color.js"></script>
     </body>
 </html>
