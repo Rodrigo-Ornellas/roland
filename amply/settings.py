@@ -31,6 +31,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    'users.apps.UsersConfig',
     'peck.apps.PeckConfig',
     'django.contrib.admin',
     'django.contrib.auth',

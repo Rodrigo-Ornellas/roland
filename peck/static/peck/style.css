@@ -88,10 +88,16 @@ nav ul a{
 }
 
 
-nav a:link, nav a:visited{
+nav a:link, 
+nav a:visited{
     color: white;
     text-decoration: none;
 }
+
+nav ul a:active{
+  background-color: var(--offwhite-color);
+  color: var(--mypink-color);
+} 
 
 nav ul a:hover{
     /* background-color: #fef9e7; */
@@ -218,8 +224,6 @@ h2{
   flex: 1 0 50%;
   margin-bottom: 1rem;
 }
-
-
 
 /*=============  index.html CSS (up) ==================*/
 
@@ -428,7 +432,8 @@ li{
 @media screen and (min-width: 500px)
 {
     .wrapper{
-        width: 1000px;
+        width: 1100px;
+        height: 100%;
     }
 
     main{

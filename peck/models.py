@@ -85,7 +85,7 @@ class Peck(models.Model):
     # https://matthiasomisore.com/web-programming/django-error-you-are-trying-to-add-a-non-nullable-field-to-submission-without-a-default/
 
     def __str__(self):
-        return str(self.pModelo + ' - ' + self.pSerial)
+        return str(self.pModelo + ' - ' + self.pSerial )
 
     # def uploaded(self):
     #     return datetime.datetime.now() <= self.upldate

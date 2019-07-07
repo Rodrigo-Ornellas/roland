@@ -2,26 +2,18 @@
 <!DOCTYPE html>
 <html>
 <head>
-            <meta charset="utf-8"/>
-            <meta name="viewport" content="width=device-width, initial-scale=1.0">
-            <title>Roland DB</title>
+        <meta charset="utf-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Roland DB</title>
 
-            <!-- FONT AWESOME -->
-            <script src="https://kit.fontawesome.com/781005eadb.js"></script>
+        <!-- APPLICATION CSS -->
+        <link rel="stylesheet" type="text/css" href="{% static 'peck/style.css' %}" />
 
-            <!-- APPLICATION CSS -->
-            <link rel="stylesheet" type="text/css" href="{% static 'peck/style.css' %}" />
+        <!-- CHART JS Graphs -->
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.8.0/Chart.bundle.min.js"></script>
 
-            <!-- CHART JS Graphs -->
-            <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.8.0/Chart.bundle.min.js"></script>
-            
-
-            <!-- jQuery -->
-            <script
-            src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
-
-
-            <script src="https://cdnjs.cloudflare.com/ajax/libs/color-js/1.0.1/color.js"></script>
+        <!-- jQuery -->
+        <script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
 
 </head>
 
@@ -32,13 +24,20 @@
                 <ul>
                     <a href="{% url 'peck:peck-home' %}"><li>Home</li></a>
                     <a href="{% url 'peck:peck-listpecks' %}"><li>Pecks</li></a>
-                    <!-- <a href="{% url 'peck:peck-listmachine' %}"><li>Printers</li></a> -->
+                    <a href="{% url 'peck:peck-listmachine' %}"><li>Printers</li></a>
                     <a href="{% url 'peck:peck-listmodels' %}"><li>Models</li></a>
                     <a href="{% url 'peck:peck-listclients' %}"><li>Clients</li></a>
-                    <!-- <a href="{% url 'peck:peck-listdocs' %}"><li>Uploaded</li></a> -->
+                    <a href="{% url 'peck:peck-listdocs' %}"><li>Uploaded</li></a>
                 </ul>
             </nav>
             <main>
+                {% if messages %}
+                    {% for msg in messages %}
+                        <div class="alert alert-{{message.tags}}">
+                            {{ msg }}
+                        </div>
+                    {% endfor %}    
+                {% endif %}
                 {% block corpo %} {% endblock corpo %}
             </main>
 
@@ -46,5 +45,12 @@
                 <p>Rod Ornellas &copy; 2019</p>
             </footer>
         </div>
+
+        <!-- FONT AWESOME -->
+        <script src="https://kit.fontawesome.com/781005eadb.js"></script>            
+        
+        <!-- Color scheme degrees taken from the colorjack.com colorpicker
+        HSL support kindly provided by Tim Baumann - http://github.com/timjb -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/color-js/1.0.1/color.js"></script>        
     </body>
 </html>
